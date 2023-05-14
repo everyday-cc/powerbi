@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-11-15-power-bi-november-2021-feature-summary.md",
+      "title": "Power BI November 2021 Feature Summary",
+      "excerpt": "Welcome to the November 2021 update. The team has been hard at work delivering mighty features before the year ends and we are thrilled to release new format pane preview feature, page and bookmark navigators, new text box formatting options, pie, and donut chart rotation. There is more to explore, please",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-11-15-power-bi-november-2021-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-november-2021-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-november-2021-feature-summary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-15T06:35:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-11-15-introducing-the-new-format-pane-preview.md",
       "title": "Introducing the New Format Pane (Preview)",
       "excerpt": "We’ve heard your feedback and would like to introduce you to the redesigned format pane! In this blog post you’ll find the biggest changes we’ve made to improve the usability and consistency across visuals and non-visual elements.",
@@ -1205,57 +1256,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-09-28T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-power-bi-report-server-september-2021-feature-summary.md",
-      "title": "Power BI Report Server September 2021 Feature Summary",
-      "excerpt": "We’re excited to bring you a new version of Power BI Report Server this Fall! With the September 2021 update, we have a variety of new enhancements, including line charts improvements, new formatting options for buttons, small multiples new feature, and new Model View. ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-09-27-power-bi-report-server-september-2021-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-september-2021-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-september-2021-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T09:18:57-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
