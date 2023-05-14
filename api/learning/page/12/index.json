@@ -717,8 +717,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 6005,
-            "average": 4.714738
+            "count": 6006,
+            "average": 4.714785
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -884,8 +884,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 585,
-            "average": 4.8
+            "count": 586,
+            "average": 4.800341
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1111,8 +1111,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 6005,
-        "average": 4.714738
+        "count": 6006,
+        "average": 4.714785
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1279,8 +1279,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
       "length": "PT29M",
       "ratings": {
-        "count": 585,
-        "average": 4.8
+        "count": 586,
+        "average": 4.800341
       },
       "provider": {
         "name": "Microsoft Learn",
