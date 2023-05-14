@@ -1427,8 +1427,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2703,
-            "average": 4.72623
+            "count": 2704,
+            "average": 4.726331
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1654,7 +1654,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-intro-social.png",
@@ -2809,8 +2809,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-organize-fields/",
           "length": "PT52M",
           "ratings": {
-            "count": 76,
-            "average": 4.513158
+            "count": 77,
+            "average": 4.5194807
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3993,8 +3993,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 8845,
-        "average": 4.7110233
+        "count": 8847,
+        "average": 4.7110887
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4078,8 +4078,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 4209,
-        "average": 4.6680923
+        "count": 4210,
+        "average": 4.668171
       },
       "provider": {
         "name": "Microsoft Learn",
