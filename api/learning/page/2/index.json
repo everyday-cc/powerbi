@@ -346,8 +346,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 19181,
-            "average": 4.7567387
+            "count": 19182,
+            "average": 4.756751
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -471,8 +471,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 19181,
-            "average": 4.7567387
+            "count": 19182,
+            "average": 4.756751
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -596,8 +596,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4219,
-            "average": 4.668642
+            "count": 4220,
+            "average": 4.6684833
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -614,7 +614,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 139,
+          "heat": 59,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/visuals-power-bi-social.png",
@@ -680,8 +680,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3149,
-            "average": 4.6798983
+            "count": 3150,
+            "average": 4.68
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -722,8 +722,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3425,
-            "average": 4.72292
+            "count": 3426,
+            "average": 4.7230005
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -824,8 +824,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 19181,
-        "average": 4.7567387
+        "count": 19182,
+        "average": 4.756751
       },
       "provider": {
         "name": "Microsoft Learn",
