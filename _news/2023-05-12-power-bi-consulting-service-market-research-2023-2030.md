@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/power-bi-consulting-serv
 webUrl: "https://www.marketwatch.com/press-release/power-bi-consulting-service-market-research-2023-2030-2023-05-11"
 type: article
 quality: 77
-heat: 79
+heat: 80
 published: true
 
 provider:
