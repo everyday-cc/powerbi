@@ -64,7 +64,7 @@
         ]
       },
       "publishedDateTime": "2023-05-09T03:00:19-07:00",
-      "heat": 101,
+      "heat": 96,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/dUoiyTMZYaE/maxresdefault.jpg",
@@ -1607,8 +1607,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2522,
-            "average": 4.734338
+            "count": 2523,
+            "average": 4.734443
           },
           "provider": {
             "name": "Microsoft Learn",
