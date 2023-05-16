@@ -4,7 +4,7 @@ excerpt: "Implement advanced data visualization techniques by using Power BI"
 type: collection
 price: Free
 length: PT2H53M
-heat: 57
+heat: 52
 
 provider:
   name: Microsoft Learn
