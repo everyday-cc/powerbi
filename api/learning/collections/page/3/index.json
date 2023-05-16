@@ -284,8 +284,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 667,
-            "average": 4.8335834
+            "count": 668,
+            "average": 4.8338323
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -994,8 +994,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 330,
-            "average": 4.6757574
+            "count": 331,
+            "average": 4.6767373
           },
           "provider": {
             "name": "Microsoft Learn",

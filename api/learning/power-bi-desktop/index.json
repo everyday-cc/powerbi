@@ -17,7 +17,7 @@
         "domain": "radacad.com"
       },
       "publishedDateTime": "2023-05-10T15:12:54-07:00",
-      "heat": 137,
+      "heat": 140,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/SKzPtk__XSU/maxresdefault.jpg",
@@ -120,8 +120,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 34653,
-        "average": 4.727008
+        "count": 34654,
+        "average": 4.726987
       },
       "provider": {
         "name": "Microsoft Learn",
