@@ -1625,8 +1625,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1050,
-            "average": 4.78
+            "count": 1051,
+            "average": 4.7802095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1835,8 +1835,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1050,
-            "average": 4.78
+            "count": 1051,
+            "average": 4.7802095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2063,7 +2063,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 68,
+          "heat": 67,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/design-a-data-model-in-power-bi-social.png",
@@ -2087,8 +2087,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 8867,
-            "average": 4.7116275
+            "count": 8868,
+            "average": 4.71166
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2835,8 +2835,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 7306,
-        "average": 4.7567754
+        "count": 7312,
+        "average": 4.7569747
       },
       "provider": {
         "name": "Microsoft Learn",
