@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Common Data Service for Analytics (CDS-A) and Power BI - an Introduction"
 
-secured: "Adyy1S4AL3OcJ7A0X+GHj7dUHHPnJzVQfJvlu6Wfvhe2G5cKHSc+MH8NC7jfThL1EvGcX3r6DLZMMiX+WrVyo7zzGvzU/q4sy21S0j416s1yehPXyQBKUUCs8M/TTFY1WHGWyDOIg1ccggTkOU9h58U0Yycb3fdMibjCLWLhld6fLiJenFE8/KFjjD6aRQxLtkYHy5jOcHbSW+4suu2454mbE+Jkb1H2JG4gRuv/Jt+mCL66jj5/5c5mEemH+zIcDbI34RTqAUrVTvTLB4H3BK3+Fcg9K9vDc6LV14LTV6+u9uS8RjU1KL2qYk4WtDW9EgGgcwBT7clotMYepZoN5aVF//E6lwPn4PMk/Q/kHGKD7b402AoizC7bNsxIGeYEBIZ977B99sutAsBzNnfYzlvxIKJW1r+xbXwPw/0QJ/s=;AFUf30HOcSfCOMKMORPSfw=="
+secured: "Y5YpG9YIKjr4+60Qu0NEhh6PcKoZqM7UAKLrXhVIt3XQ0FqF8pMl1SQjESWH2BCiscXSapL9GzKjaj5ay+qZneKG3a9dqhQeVQTcXnr/l9Z9p1oPm4+bV+Tf7OT64Evb/3nZhodW/PdxA/WCUvfh1htzhhgNQcYllaK3YLyIn87QkKjGmUao6ITa8mpmvp1491brArRmDPS7DykQVB+n5NniiOLvBk0kAh94xa09pHHsaWF8ja/Lr4qAb302EjwqU0/AhiEYaJpOPfccBEehmlkl3+r+6XMTRNYy1wnXOKqwZP9DNq8Rhmt0xaboWp1o37sUUr53eCjmAeb0I6Nabduspx9+tX8sx3oFIHozj6s71ykvjqG7vvnoAOewnrG70Ad4I1kFkSbCau6tdgoqFv0esuc/PTCO++LsyetwUP0=;ffDES4Tr6VsScKcaIzXe5Q=="
 ---
 
