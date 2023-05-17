@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/microsoft-digital-event-m
 webUrl: "https://powerbi.microsoft.com/en-us/blog/microsoft-digital-event-may-24-25/"
 type: article
 quality: 72
-heat: 72
+heat: 74
 published: true
 
 provider:
