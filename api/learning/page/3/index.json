@@ -156,8 +156,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 11912,
-        "average": 4.6813297
+        "count": 11913,
+        "average": 4.6813564
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -772,8 +772,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4248,
-            "average": 4.66855
+            "count": 4249,
+            "average": 4.6686277
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -790,7 +790,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 59,
+          "heat": 139,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/visuals-power-bi-social.png",
@@ -814,8 +814,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6480,
-            "average": 4.6996913
+            "count": 6481,
+            "average": 4.6997375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -898,8 +898,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3447,
-            "average": 4.7232375
+            "count": 3448,
+            "average": 4.723318
           },
           "provider": {
             "name": "Microsoft Learn",
