@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 10968,
-            "average": 4.744438
+            "count": 10969,
+            "average": 4.7444615
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -52,7 +52,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 68,
+          "heat": 67,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/design-a-data-model-in-power-bi-social.png",
@@ -119,8 +119,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10058,
-            "average": 4.761583
+            "count": 10059,
+            "average": 4.7616067
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2875,8 +2875,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4241,
-            "average": 4.668474
+            "count": 4242,
+            "average": 4.668317
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2917,8 +2917,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6474,
-            "average": 4.6995673
+            "count": 6477,
+            "average": 4.699552
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4868,8 +4868,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11901,
-            "average": 4.6811194
+            "count": 11905,
+            "average": 4.6812263
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4902,8 +4902,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11258,
-            "average": 4.7068753
+            "count": 11259,
+            "average": 4.706901
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5069,8 +5069,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2344,
-            "average": 4.706058
+            "count": 2345,
+            "average": 4.7061834
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5194,8 +5194,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 779,
-            "average": 4.7612324
+            "count": 780,
+            "average": 4.7615385
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5236,8 +5236,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 672,
-            "average": 4.834821
+            "count": 673,
+            "average": 4.835067
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5278,8 +5278,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 595,
-            "average": 4.8
+            "count": 599,
+            "average": 4.799666
           },
           "provider": {
             "name": "Microsoft Learn",

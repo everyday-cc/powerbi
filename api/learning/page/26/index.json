@@ -297,8 +297,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1868,
-        "average": 4.7205567
+        "count": 1869,
+        "average": 4.7207065
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -426,8 +426,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
       "length": "PT29M",
       "ratings": {
-        "count": 595,
-        "average": 4.8
+        "count": 599,
+        "average": 4.799666
       },
       "provider": {
         "name": "Microsoft Learn",

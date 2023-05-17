@@ -532,8 +532,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 332,
-            "average": 4.677711
+            "count": 333,
+            "average": 4.6786785
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -574,8 +574,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 10968,
-            "average": 4.744438
+            "count": 10969,
+            "average": 4.7444615
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -592,7 +592,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 68,
+          "heat": 67,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/design-a-data-model-in-power-bi-social.png",
@@ -1665,8 +1665,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 11901,
-        "average": 4.6811194
+        "count": 11905,
+        "average": 4.6812263
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1699,8 +1699,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 4241,
-        "average": 4.668474
+        "count": 4242,
+        "average": 4.668317
       },
       "provider": {
         "name": "Microsoft Learn",
