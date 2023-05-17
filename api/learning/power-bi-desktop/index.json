@@ -159,8 +159,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 34674,
-        "average": 4.726971
+        "count": 34675,
+        "average": 4.7269793
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -177,7 +177,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 68,
+      "heat": 67,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/get-data-power-bi-desktop-social.png",
