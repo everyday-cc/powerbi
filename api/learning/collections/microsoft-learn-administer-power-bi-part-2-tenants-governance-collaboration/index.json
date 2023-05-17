@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
       "length": "PT19M",
       "ratings": {
-        "count": 139,
-        "average": 4.877698
+        "count": 140,
+        "average": 4.8785715
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 130,
+      "heat": 50,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-infrastructure-social.png",
