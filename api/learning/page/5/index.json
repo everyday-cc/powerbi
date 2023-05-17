@@ -592,7 +592,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 67,
+          "heat": 68,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/design-a-data-model-in-power-bi-social.png",
@@ -1665,8 +1665,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 11899,
-        "average": 4.6810656
+        "count": 11900,
+        "average": 4.6810923
       },
       "provider": {
         "name": "Microsoft Learn",
