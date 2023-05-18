@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M53S
 publishedDateTime: 2018-04-25T15:52:10Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0m-PCX1uCG4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Power BI Reports and Buttons (new with Power BI Desktop - April 2018)"
 
-secured: "Llt1tgYvl0kRHjiN+enpS7LSlycXtBRNwAF0TGCUHol/fQS7B2mxs4AgZxEFaVnQKLlUAT7oPphLsGtegFAgr74y0SpPVfQr6J23y2HvuSb/XmPqCqRC03Oo5PROSFne8EsOpO5StIwpWR7scaSVz5RtpP/JOueS3Jk1662SLO+3xjLChsLgRI4syatZczxr1O8oeuNUOE+d8DRm4Pnc9T1btvrTRdPevn+yoHsvpH+YGKUmN2aXSlpjAuDS0WYl3X45c5Ho0nCfG2kNyzX9xdTJ5NpIaJh54n8Vl3xAPHffvplzCX1H2ciM6rqs8VqTn10JVgy78eHTYM8m3R1StbO9VZT1MnuuuaqANSmcq6XexJS9k1oySvF61YZtcEAylIKQWTdty9hZNgnBmDwDMV6aP4HN2ScYvqvmdk/B3Ktz4SJ6JaC4VaTdilXLQPKg;z1Lw/PTy2C3g/+4ml094WA=="
+secured: "9l4gM0ZYA7hF/4UxSs7tYcLSYjehCpOHejc7OaP5R5M6xDDO2PJx5mJeZTGE1n8lIY4Sq5X0PvT1NgcJ2oQ3Fo6nOObcZ0dw4g2sifM4Q3iVqG0aVLw6Q5Gtgwsf+BnHlZU8daUVEgHVPs28UxSq9/S/zMeil+CVMcePLAv/cRzfNc/Zt+0hGakyWBrlayeReyJntW2B+vugQOl8XrkxxCmpjLchKEJQQOWNDV+kMQYMSo4F3g/8LvkdBbEkz5stGTdPSLDo8I9Rj/NPc5DRz+1DVljyqvBAq8LM2RrxC1OtKWj1BRj6NGKM1uGg94GIdYPs0sVT3RgT5usu+JGgAMGw900rmL6a7fyt6ZePC9WkX+PxQaVkXabn6VMbDBTqrPcn88TgGFxVBei3SvMbTW7U42il2G5Fqr3IniwmBazhDZkMki9CKspxcBZZh9Wh;8NsfgZ5TvooLzOt0Jiv1sA=="
 ---
 
