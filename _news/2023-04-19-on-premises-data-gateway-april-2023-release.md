@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-
 webUrl: "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-april-2023-release/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:

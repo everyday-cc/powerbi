@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/create-power-bi-reports-i
 webUrl: "https://powerbi.microsoft.com/en-us/blog/create-power-bi-reports-in-jupyter-notebooks/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
