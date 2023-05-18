@@ -2153,8 +2153,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 255,
-            "average": 4.682353
+            "count": 256,
+            "average": 4.6796875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2884,7 +2884,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/enforce-power-bi-model-security-social.png",

@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 12034,
-        "average": 4.7685723
+        "count": 12038,
+        "average": 4.768649
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 34706,
-        "average": 4.7270503
+        "count": 34709,
+        "average": 4.7270737
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -916,8 +916,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6483,
-            "average": 4.699676
+            "count": 6484,
+            "average": 4.6997223
           },
           "provider": {
             "name": "Microsoft Learn",
