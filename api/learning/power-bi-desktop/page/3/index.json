@@ -185,8 +185,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1872,
-        "average": 4.7206197
+        "count": 1874,
+        "average": 4.7209177
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -228,8 +228,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/",
       "length": "PT40M",
       "ratings": {
-        "count": 240,
-        "average": 4.7
+        "count": 241,
+        "average": 4.701245
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -272,8 +272,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 659,
-        "average": 4.7025795
+        "count": 660,
+        "average": 4.70303
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -316,8 +316,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
       "length": "PT37M",
       "ratings": {
-        "count": 625,
-        "average": 4.6576
+        "count": 626,
+        "average": 4.658147
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -360,8 +360,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-solve-problems/",
       "length": "PT35M",
       "ratings": {
-        "count": 378,
-        "average": 4.719577
+        "count": 379,
+        "average": 4.717678
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -404,8 +404,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1457,
-        "average": 4.744681
+        "count": 1458,
+        "average": 4.744856
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -448,8 +448,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-interactive-experiences/",
       "length": "PT56M",
       "ratings": {
-        "count": 272,
-        "average": 4.665441
+        "count": 273,
+        "average": 4.6666665
       },
       "provider": {
         "name": "Microsoft Learn",
