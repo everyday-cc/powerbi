@@ -563,8 +563,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11269,
-            "average": 4.7070727
+            "count": 11270,
+            "average": 4.7070985
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -605,8 +605,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2073,
-            "average": 4.7467437
+            "count": 2074,
+            "average": 4.7468657
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -665,8 +665,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 2073,
-        "average": 4.7467437
+        "count": 2074,
+        "average": 4.7468657
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -707,8 +707,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 2738,
-        "average": 4.725347
+        "count": 2740,
+        "average": 4.7255473
       },
       "provider": {
         "name": "Microsoft Learn",
