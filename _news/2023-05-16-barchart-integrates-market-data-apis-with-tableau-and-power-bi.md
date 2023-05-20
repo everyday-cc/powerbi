@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/barchart-integrate
 webUrl: "https://markets.businessinsider.com/news/stocks/barchart-integrates-market-data-apis-with-tableau-and-power-bi-1032331788"
 type: article
 quality: 77
-heat: 77
+heat: 79
 published: true
 
 provider:
