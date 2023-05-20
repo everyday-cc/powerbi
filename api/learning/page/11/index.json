@@ -705,8 +705,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 11270,
-        "average": 4.7070985
+        "count": 11271,
+        "average": 4.7071247
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -789,8 +789,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 2745,
-        "average": 4.7679415
+        "count": 2746,
+        "average": 4.7680264
       },
       "provider": {
         "name": "Microsoft Learn",
