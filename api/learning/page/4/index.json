@@ -3764,7 +3764,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -4451,8 +4451,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
       "length": "PT15M",
       "ratings": {
-        "count": 3475,
-        "average": 4.7251797
+        "count": 3476,
+        "average": 4.725259
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4493,8 +4493,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 4286,
-        "average": 4.668922
+        "count": 4287,
+        "average": 4.668999
       },
       "provider": {
         "name": "Microsoft Learn",

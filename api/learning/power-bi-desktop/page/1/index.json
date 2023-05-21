@@ -17,7 +17,7 @@
         "domain": "radacad.com"
       },
       "publishedDateTime": "2023-05-10T15:12:54-07:00",
-      "heat": 86,
+      "heat": 83,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/SKzPtk__XSU/maxresdefault.jpg",
@@ -42,8 +42,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 34795,
-        "average": 4.727346
+        "count": 34797,
+        "average": 4.7273617
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -195,8 +195,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1876,
-            "average": 4.7212152
+            "count": 1877,
+            "average": 4.719233
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -238,8 +238,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1575,
-            "average": 4.7295237
+            "count": 1576,
+            "average": 4.7271576
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -695,8 +695,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1876,
-        "average": 4.7212152
+        "count": 1877,
+        "average": 4.719233
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -938,8 +938,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 1575,
-        "average": 4.7295237
+        "count": 1576,
+        "average": 4.7271576
       },
       "provider": {
         "name": "Microsoft Learn",
