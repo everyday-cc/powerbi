@@ -60,7 +60,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 72,
+      "heat": 71,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/get-data-power-bi-desktop-social.png",
@@ -1230,8 +1230,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-solve-problems/",
       "length": "PT35M",
       "ratings": {
-        "count": 381,
-        "average": 4.71916
+        "count": 382,
+        "average": 4.7198954
       },
       "provider": {
         "name": "Microsoft Learn",
