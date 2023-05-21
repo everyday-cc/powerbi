@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT19M47S
 publishedDateTime: 2022-05-19T11:06:35Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5vLBnrPyPgc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "n1jeEonbg5C0Txw9hFh9feSqbvvveBblr/W+91dgfWne2IE/LYra8ZETXqbvlffb9ejDp9Bi2oB68FqyVSe+vA8TXM+I1iDMZDSf/NMeNiNpA//1dkZ5ljTnav6mV63I+xmcZveWkK82mhbN1ru85WBtC0to6Gm37rGBlG8iSHP80Iow+c76CHhBrvpwi3t8LJBzhtOy68h1Ry6Cjki+9TsrRlUa6JLIZqnqrbDhjlhBN9mf07uID2jmFbT0/qqnpHeHrzypUkCJPTPOpTO6ZpTdFK8QzH5RAMVXpiA5YSbDYj4KnOKYjwizcpU2QMDQbFUZ7T6wOBsmE/6bFwpBKH+abOiiu+A4R4RLEb2KpqJhoa8W5RZc9AU41XkRFqjxyyFXXXocLIUOzXZA/obmHiVBgYfY+tc6qDGTrdTbKJw=;qkcDdlOIaWSniN+jPTzQ5Q=="
+secured: "BaZygArxtY/ntuli//kuSXOAhm9+yC2NuZOMH4G1SLp58E8iAvBrIZ93wBAliNHLYbJtJurCU9zlH/sqy6ci2j2BIrNtAW/nf6mwdVlihhi2RFwz1wGnjT0hKoYUQ0OJNh6S86WwmYlGCwxfJr7lHg1HxZOvU92P2f4IAdSxRMA3edlPrkwVIHINIYixufWAvKeLBkfhJYlPNRQOd8Mpu+HREyb6i2kRsPi8KsZRQb3E1YqGeANFLXa9g/2uzvtoeSL1IXCITY+vWJ7RhGWM5O3igK4QJXIOhc28maMZIZv6b6c0PlRjJOZE7tx/Gzvs/FhP6r9jKLFiP2wpBPXlMWZEHDOB9IaFxyBRzlGiA0nyxkxQ18YIXFxtHcd6wxzmtmxiaKq5FVRj8NDnajzur6389eU1KA9DS2eoE8AjYMY=;mIwNHFyysbI7M47WwlR0Xg=="
 ---
 

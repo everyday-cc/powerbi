@@ -4,7 +4,7 @@ excerpt: "In part 2 of the data profiling series, we are going to talk about MEA
 originalUrl: https://youtube.com/watch?v=3i-VvzI6v0c
 type: video
 price: Free
-length: PT26M11S
+length: PT19M
 publishedDateTime: 2018-09-07T13:29:13Z
 heat: 50
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "hgyEn3k/9VR7gluRbJ4CfmWYsOZevX9X7DrJJSow5ZepooAfCwgRL55OUyfUiEIVZyt2CwCyw4PYyzWZxF+9XV9DSeTUCLITmz1PSrCMLMxGIscC/5U2yp3kF+2OKpkNACV+1g4EDCl9fA/HPAbEE9CDUKwGTq2+J8byvLwEB/7BKW0PzOlMEFzv41ER4izF9Y1q8YzKB2URBkAKz0ukmZqItrdvXSHOaslMiImFAEPkpUAsypd5vy0Bzru7yr5bC3ru5s16taMTF1tM+46zDwLP2WURTW/QAoXC/wCb4mfgqsC/OMgE4dKUoAimOI1pYYTOIQ25bgYppvKgIQu/PZibI2a/MFleVTmnobNGXGdbyeJWY0j2lhAbY/YK2AwGXgiaxT46HU5+PxhnZEOAc3wsST29pwnTE7+ApBc035Q=;G/UI+UA+GCjS7/1QDs58cg=="
+secured: "auueDXNUT8B53ocoHi4HD+d28FB2laZUZfHGha7iWNFjw1QAx+WON/YOxAwsqfkGTun4gd+lKp/rFVBXG+43FNkpV29lD+mbq4hfZERdOyUU9c401E7NHHM/4jGySLP26enWaW9g4MPAzaaTYr6urT4JstoTd7E90JJYa1JwSrW24/7lzI+Dyxc6+4bbKj+KCvzbi3kjdiBAhwnUyeufmRjGEldBaTheAcyH1tho+jWjJTpSfHVwGjMc9CxJmoXD8EPzYA/YaO5zCiwQPdcoI9LAAUsNKi+01lEIV8E2at2XHd4fCyZfWELqcifxr7J9VRsPi796ueDc+CrnmB2/FbE92roQ2llIV/yIBQFRJMENyHdRFjjuiwmD7vgb+ANGM0/AS5okpNER5qiFNdUwOW9FTlrZShPUzQddd8yhgmU=;BuTzpIljEyGAJPX98M4Bqg=="
 ---
 

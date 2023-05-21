@@ -4,7 +4,7 @@ excerpt: "In today's video I will explain  how to calculate quartiles in power b
 originalUrl: https://youtube.com/watch?v=5AxtNdJ5wqk
 type: video
 price: Free
-length: PT12M21S
+length: PT11M13S
 publishedDateTime: 2019-07-05T12:38:58Z
 heat: 50
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "LQjrleYRU1TrCPwjNpkjydfaEK3NsfUIbogG+LVXjvIlP+MzhDxz71vBs2IVdONV9NBxM7JWrv9Z2AHiNF5T2oiMYSCQxxhw6Cz/t1BPk8MQUvvAFMBC1ftYBqq8L8QDpb6tBT7lEHP1J5JrVmvf+8r+oHarnoqmlWKsuGz2+nEiro/FigsXv0wIlnl7TenCDMwbDEIomEyD6ZfTY63Olx2SWskEF90Po5/eQJX58GvXMgFIj3BJEZPBwePkooigPI6LM8PdLDuHcuXJyzvV4MN7sdLGxg5DOHXeurOHykC0BMzK6qtN383jaZWLJphBOUddlfGHWt+bXjk+UTHoi69FSKi34TJOwfUmLsw7Hny1qymNvUeBcYA0pxZ0uFmQJiUb6rApZiQ1PCBEPIW+VIyBew4oeNmmaaYZqq8S4H8=;lUiuDPZM6RV0xOEVnjzYgQ=="
+secured: "bMZqZ7wddJCHrgFrHDZQYkD2L+7tpFHjAntG5maFwzCVt6Y3k+dUjgG53KtRtzeT+XufLUtwnQeycw8tL6F+XwyTLfidgpZQKodXuKXW2495ZOc0WgPC3Vu7l8jsByWYHJ0iksg2G8g1+KD10WWFFurP75CIuyfcxqktaZZTEGGAXg357CW5P3u03g7ZmLhlZPNUNOmUc6I2jypheEfStSF7fdZe4MgHavJTvaCJ9CVOaOHuaCVWuULi/MYs0I/CixEQppKMneU+VAAnaEto9hVQvStiJzPs4KAL/DjcZgLizhQjrJ2slAf8VW/ZkI2lja87m8J7yRvZ8asy3dEF2NWM3NqTNPCFrerRj1ZRuRyhSlMSFi+3c81Ikt+3GfT1gIH0tSxtMRzZNd6ivO/pG2ZoWihw8gVQkD4r7FOaL00=;7dwhgE7rrCmU3OrJHHZemw=="
 ---
 

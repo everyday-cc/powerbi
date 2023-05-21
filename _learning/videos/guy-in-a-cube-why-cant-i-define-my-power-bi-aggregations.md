@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3M13S
 publishedDateTime: 2020-03-17T15:00:22Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V9aG-6wr1xQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Why can't I define my Power BI Aggregations???"
 
-secured: "VtCgqsPI9M6nQOjgPZZqvL9NaBBbBi6msPuYaH1hY7ZRTEV6o2QjgLeI9pd+Tjj/RuE6CwF4kPzy8LAAvVqf24qpKprdU4OtQv4CsUAs0AgMlg/3Sl8/mAazPOA74pgQoIMyj8T/m6xZAtA46EU/Jjlllm0VcauZ+b2Fddlp9QC+TDy9x6m/LnWYWcnY1gBQCOTiiVb9wzsVsdSwtmVFj6NV1kI6GpOpKxYIc0oHXR1BR/+Gcc1j2rCiCIvu4vmRi0eXSK4vXfzxRS6+bd027FFBAzJaYI9QuKpp6XbYa1N5aUE3dBIn6Rj9sr1z5Q5T56xBhpXHoXrZ6xitVqoejc0eu2HXaWLBDmOUDouHKxg0pHK4dmGc+Rpu3LfxzCtAHKe35q2gLBLUkp5ITUEpHQob5Jh6nJGwp8zjaV2c4GE=;x7o6nO6cZXEk0y3SwbysNQ=="
+secured: "A32+kJMHdEGcVyHFDZTdmMaAGXjzuDSYKtxoeFd7iNEg6mT77CAJwLh59Gz/hq47YK7VLAcD9ehEwIr4IQzs/xQ7skar3/FEwQUYBx5QAVmWJq5UOIR3FtrZFVsQEE/v7vQRJKNrPGNkiQ5QdhvkVJxmar0asGShYklXr5PvSLQ3tN+jwyyAkNb/t79rN21OEejJ5e93UhDgNUH4MyYsIX/Q+hXvMMYnQHLW4CH5WyPHHpXaFJ54gSep0JqXbTRV2STDx5cJQhTClShUtlINDbaIhB7XK2vWUhbefrTEwoPdG6g2wUNoBPl8JiJRuroC63/Ws/Z3WXQrW3CW6B56C2u5iRpB2t8Wtl04yGtJelXPIAqe0uyMY9bUzG3GONmt4Q6S1HY1nKH+LGyxtcX7jygG4ohZJWpL6XAS/8SNa1w=;pV3Jg7gmqT7NHaqNKk7wPA=="
 ---
 
