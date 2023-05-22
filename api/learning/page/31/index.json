@@ -171,8 +171,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 73,
-        "average": 4.780822
+        "count": 74,
+        "average": 4.783784
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -426,8 +426,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
       "length": "PT29M",
       "ratings": {
-        "count": 318,
-        "average": 4.710692
+        "count": 319,
+        "average": 4.711599
       },
       "provider": {
         "name": "Microsoft Learn",
