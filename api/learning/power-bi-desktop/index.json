@@ -17,7 +17,7 @@
         "domain": "radacad.com"
       },
       "publishedDateTime": "2023-05-10T15:12:54-07:00",
-      "heat": 85,
+      "heat": 87,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/SKzPtk__XSU/maxresdefault.jpg",
@@ -42,8 +42,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 34841,
-        "average": 4.727419
+        "count": 34844,
+        "average": 4.7274137
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -303,8 +303,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3954,
-            "average": 4.748862
+            "count": 3956,
+            "average": 4.748989
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1117,8 +1117,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 3954,
-        "average": 4.748862
+        "count": 3956,
+        "average": 4.748989
       },
       "provider": {
         "name": "Microsoft Learn",
