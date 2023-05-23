@@ -137,8 +137,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 150,
-        "average": 4.8
+        "count": 151,
+        "average": 4.7880793
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -553,8 +553,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 2376,
-        "average": 4.7041245
+        "count": 2378,
+        "average": 4.7043734
       },
       "provider": {
         "name": "Microsoft Learn",
