@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-03-04-cognos-vs-power-bi-2022-software-comparison.md",
+      "title": "Cognos vs. Power BI: 2022 Software Comparison",
+      "excerpt": "Cognos and Power BI are both top data analytics and business intelligence platforms. We compare features to help you choose which is best for your business. IBM Cognos Analytics and Microsoft ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-04-cognos-vs-power-bi-2022-software-comparison/index.json",
+      "webUrl": "https://www.eweek.com/cloud/cognos-vs-power-bi/",
+      "originalUrl": "https://www.eweek.com/cloud/cognos-vs-power-bi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/Poly.headset-1.jpg",
+          "width": 698,
+          "height": 521,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-03T14:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-this-microsoft-excel-and-power-bi-certification-bundle-is-on-sale-for-under-30.md",
       "title": "This Microsoft Excel and Power BI certification bundle is on sale for under £30",
       "excerpt": "TL;DR: The 2022 Ultimate Microsoft Excel and Power BI Certification Bundle is on sale for £26.13, saving you 98% on list price. We’re dealing with more data than ever before in 2021 — and ...",
@@ -1194,57 +1245,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-unleash-your-inner-data-scientist-by-learning-excel-and-power-bi.md",
-      "title": "Unleash Your Inner Data Scientist by Learning Excel and Power BI",
-      "excerpt": "Data rules everything in business these days. From keeping spreadsheets of client information to harvesting mass amounts of website visitor data to determine customer insights, the way you use data can make a big difference in your company's bottom line.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-01-14-unleash-your-inner-data-scientist-by-learning-excel-and-power-bi/index.json",
-      "webUrl": "https://www.entrepreneur.com/article/412151",
-      "originalUrl": "https://www.entrepreneur.com/article/412151",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1641596116-EntMSExcel.jpeg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

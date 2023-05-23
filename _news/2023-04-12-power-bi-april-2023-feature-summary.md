@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-april-2023-featu
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-april-2023-feature-summary/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

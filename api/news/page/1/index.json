@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-22-admin-monitoring-for-tenant-admins.md",
+      "title": "Admin Monitoring for Tenant Admins",
+      "excerpt": "Power BI’s mission is to empower every individual, team, and organization to make confident decisions with data. With the increased focus on governance, compliance, and policy, customers need greater visibility into workflows and related activities. Tenant Administrators need out-of-box datasets and",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-05-22-admin-monitoring-for-tenant-admins/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-new-admin-monitoring-workspace-for-tenant-admins-public-preview/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-new-admin-monitoring-workspace-for-tenant-admins-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-22T08:00:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-barchart-integrates-market-data-apis-with-tableau-and-power-bi.md",
       "title": "Barchart Integrates Market Data APIs with Tableau and Power BI",
       "excerpt": "With our BI connectivity, we're empowering Enterprise data clients to cut through the noise and focus on driving business growth,\" said Barchart CEO Mark Haraburda . \"We continue to add features to our Enterprise data plans,",
@@ -678,7 +729,7 @@
       "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-april-2023-feature-summary/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1207,57 +1258,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-03-16T01:00:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-power-bi-march-2023-feature-summary.md",
-      "title": "Power BI March 2023 Feature Summary",
-      "excerpt": "lorem ipsem",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-03-16-power-bi-march-2023-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-march-2023-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-march-2023-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-16T00:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-04-25-analyze-in-excel-workbooks-are-now-saved-to-onedrive-for-business.md",
+      "title": "Analyze in Excel Workbooks are now saved to OneDrive for Business",
+      "excerpt": "When users click Analyze in Excel in the Power BI service, the generated Excel workbook is automatically saved to OneDrive for Business and the workbook can be directly opened in a web browser using Excel for the web.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-04-25-analyze-in-excel-workbooks-are-now-saved-to-onedrive-for-business/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/analyze-in-excel-workbooks-are-now-saved-to-onedrive-for-business/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/analyze-in-excel-workbooks-are-now-saved-to-onedrive-for-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-04-23-visualize-portfolio-performance-and-risk-with-microsoft-power-bi.md",
       "title": "Visualize portfolio performance and risk with Microsoft Power BI",
       "excerpt": "You can seamlessly create portfolio report dashboards in Microsoft Power BI that can be shared with your team or clients. Underpinning this new reporting flexibility is Bloomberg Query Language ...",
@@ -1202,57 +1253,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-cognos-vs-power-bi-2022-software-comparison.md",
-      "title": "Cognos vs. Power BI: 2022 Software Comparison",
-      "excerpt": "Cognos and Power BI are both top data analytics and business intelligence platforms. We compare features to help you choose which is best for your business. IBM Cognos Analytics and Microsoft ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-04-cognos-vs-power-bi-2022-software-comparison/index.json",
-      "webUrl": "https://www.eweek.com/cloud/cognos-vs-power-bi/",
-      "originalUrl": "https://www.eweek.com/cloud/cognos-vs-power-bi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/Poly.headset-1.jpg",
-          "width": 698,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T14:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/eweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
