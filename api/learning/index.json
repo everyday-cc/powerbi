@@ -224,44 +224,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-show-numbers-in-thousands-or-millions-in-same-column-with-the-new-dynamic-formatting-in-power-bi.md",
-      "title": "Show numbers in Thousands or Millions in same column with the new Dynamic formatting in Power BI",
-      "excerpt": "If you want to be able to conditional format a number in Power BI as k for thousands and M for millions in the same column, the new Dynamic Formatting can do that for you.  Check this video to learn how. Download the sample file at the download center , number 079.  Join this channel membership to get",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-show-numbers-in-thousands-or-millions-in-same-column-with-the-new-dynamic-formatting-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-show-numbers-in-thousands-or-millions-in-same-column-with-the-new-dynamic-formatting-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=ROyVkQ9vTjc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ROyVkQ9vTjc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M58S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-04-17T03:43:45-07:00",
-      "heat": 145,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ROyVkQ9vTjc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-all-vs-allselected-in-power-bi-and-dax.md",
       "title": "ALL vs ALLSelected in Power BI and DAX",
       "excerpt": "These two functions in DAX are often used instead of each other; ALL and ALLSELECTED. Their behavior can be similar in some contexts, but it can also be different in other contexts. In this article and video, I'll explain the difference between these two functions and when to use each in DAX for Power",
@@ -290,82 +252,6 @@
       "topics": [
         "Power BI",
         "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-understanding-group-by-columns-in-power-bi.md",
-      "title": "Understanding Group By Columns in Power BI",
-      "excerpt": "How Power BI uses the Group By Columns attribute of a column and how you can leverage it in specific scenarios.\r \r Article and download: https://sql.bi/790034?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-understanding-group-by-columns-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-understanding-group-by-columns-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=xtb5i4sUOTk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xtb5i4sUOTk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M32S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-03-14T04:00:19-07:00",
-      "heat": 141,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xtb5i4sUOTk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-dataset-permissions-required-for-app-report-in-power-bi-what-am-i-missing-re-upload.md",
-      "title": "Dataset permissions required for App report in Power BI? What am I missing??? (Re-Upload)",
-      "excerpt": "Struggling with Power BI App permissions when using shared datasets? Adam looks at how this works. Even for PRO users!!!  Composit model permission blog (Older information): https://powerbi.microsoft.com/en-us/blog/update-to-required-permissions-when-using-composite-models-on-a-power-bi-dataset/  📢",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-dataset-permissions-required-for-app-report-in-power-bi-what-am-i-missing-re-upload/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-dataset-permissions-required-for-app-report-in-power-bi-what-am-i-missing-re-upload/",
-      "originalUrl": "https://youtube.com/watch?v=k-4Oud9jkuw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/k-4Oud9jkuw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M16S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-03-09T08:00:26-08:00",
-      "heat": 135,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/k-4Oud9jkuw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     },
     {
@@ -405,6 +291,113 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-how-to-easily-compare-server-timings-using-dax-studio-for-your-power-bi-dataset.md",
+      "title": "How to easily compare Server Timings using DAX Studio for your Power BI dataset",
+      "excerpt": "Want to compare changes in your Power BI dataset? Making some amazing DAX optimizations? You should look at server timings in DAX Studio. Patrick shows you how to compare timings easily!  DAX Studio https://daxstudio.org  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-how-to-easily-compare-server-timings-using-dax-studio-for-your-power-bi-dataset/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-how-to-easily-compare-server-timings-using-dax-studio-for-your-power-bi-dataset/",
+      "originalUrl": "https://youtube.com/watch?v=7riWWVMMegE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7riWWVMMegE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M39S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-04-12T08:00:09-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7riWWVMMegE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-start-learning-t-sql-for-azure-database-and-azure-synapse.md",
+      "title": "Start Learning T-SQL for Azure Database and Azure Synapse",
+      "excerpt": "Starting your journey to learn SQL? Adam gives you some resources to quickly ramp up with T-SQL for Azure SQL Database and Azure Synapse Analytics!  SQL Standard https://en.wikipedia.org/wiki/SQL#Standardization_history/  Procedure Extensions - Different SQL bases out there https://en.wikipedia.org/wiki/SQL#Procedural_extensions",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-start-learning-t-sql-for-azure-database-and-azure-synapse/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-start-learning-t-sql-for-azure-database-and-azure-synapse/",
+      "originalUrl": "https://youtube.com/watch?v=9SprbLQpW8I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9SprbLQpW8I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M37S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-03-07T08:00:05-08:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9SprbLQpW8I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/power-bi-tips-error-importing-theme-file-quick-tip.md",
+      "title": "Error Importing Theme File - Quick Tip",
+      "excerpt": "Power BI desktop released a new version in February of 2023, this feature breaks any custom properties observed when uploading a theme file into Power BI desktop.  This video show you how to use the PowerBI.tips theme generator to generate files without any errors.   Use the Theme generator https://themes.powerbi.tips",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-error-importing-theme-file-quick-tip/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-error-importing-theme-file-quick-tip/",
+      "originalUrl": "https://youtube.com/watch?v=lkHxdO3YL-A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lkHxdO3YL-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M6S",
+      "provider": {
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "publishedDateTime": "2023-02-25T14:58:34-08:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lkHxdO3YL-A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -506,8 +499,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 63138,
-            "average": 4.7961135
+            "count": 63151,
+            "average": 4.796092
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -548,8 +541,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 89395,
-            "average": 4.7778845
+            "count": 89406,
+            "average": 4.7778783
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -608,8 +601,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 89395,
-        "average": 4.7778845
+        "count": 89406,
+        "average": 4.7778783
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -994,8 +987,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 63138,
-        "average": 4.7961135
+        "count": 63151,
+        "average": 4.796092
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1135,8 +1128,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 20290,
-            "average": 4.752045
+            "count": 20295,
+            "average": 4.752057
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1177,8 +1170,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12001,
-            "average": 4.6821933
+            "count": 12002,
+            "average": 4.6822195
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1211,8 +1204,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 89395,
-            "average": 4.7778845
+            "count": 89406,
+            "average": 4.7778783
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1271,8 +1264,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 20290,
-        "average": 4.752045
+        "count": 20295,
+        "average": 4.752057
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1412,8 +1405,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 89395,
-            "average": 4.7778845
+            "count": 89406,
+            "average": 4.7778783
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1454,8 +1447,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 34847,
-            "average": 4.72738
+            "count": 34851,
+            "average": 4.727382
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1497,8 +1490,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16191,
-            "average": 4.7225003
+            "count": 16193,
+            "average": 4.7225347
           },
           "provider": {
             "name": "Microsoft Learn",
