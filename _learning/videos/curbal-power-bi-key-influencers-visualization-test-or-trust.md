@@ -4,7 +4,7 @@ excerpt: "Power Bi Key influencers visualization | TEST OR TRUST?  Do you know h
 originalUrl: https://youtube.com/watch?v=DSkuGoEFqAM
 type: video
 price: Free
-length: PT11M43S
+length: PT10M51S
 publishedDateTime: 2020-03-04T11:02:16Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "70I0TOyqHWM0CCS9kahZrrd/byI3kR/D+QStj3meFpNvylaW1JHyncA5iCOXrynSPI6l6hjGq7A6bXOoQSybh+467cVlF0RFkkK4oUYSICPgfkVMBgav1iRJRo33k5To4SihSi7gP6aPtkIoxyAV3zfv9AFC/nKK5Skft6g2OYPzu+z90Cgoz+Cs8xxPBqYL9FkoQfljrRwOrvZt25kmZyvT5MY2Rrk58zgKXtDl+jRvG8OayhpTYCsqNo/adDMhb6nKGqTz0V44DBJe2xwd1UOmXpoPzMRaml0MoojX/dwbcri9GE/Z6+hWfZ87qXk5QSaggiNQropGZjaQHNd8jOK/eVD5E0y/pT1zl0kQeLf75JxR/ZZpboV5jesSk2Cb4LnrncU9f8YuwcVL/zAaDmrmqjVMaMVaXooXiZezVSc=;YUZ68jpZ+k2BEHiGmMrhEQ=="
+secured: "0kQxHT0jQ7D0CRzaCTHOS+/s60mLLhq0u5fUOw3XpfEapCRHwr40x/Ju1JXQmudofy/hI3+7sI9nD5hmxTKzULeoyJ4OpF+b6M+Qv2X1k0asHvYpYu+PWVUjBWP2mcHcRSq3K3hl5nFP2SG89Qfq6I6JMUkFJKZwkVxZWW05bPyvXgGoMqX7246sAWBIRD8crtp1Z27qzOXrdiFVA/S7dU5Als1CaVtLv6oaV1PPsuMJ989R3gGsaajCptcJIY7lcvTqA7khi8nIGENlRINjjjJy647T+JMB9aMRYpR8ujOGvxZ49Kfx+pet8HNzbM/vgY7qYfpPspUxTk4a77fFRfvWCscZ6d6iudc2us3/uvdWiKX3nmU72nYpODpmi7k69+pUsU0DzC+0F/QPR4vINRdghTvt6qLYEjACFsWnMEo=;Ma0JRRP68PpYvGdFbZWTWA=="
 ---
 

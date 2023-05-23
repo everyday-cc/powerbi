@@ -4,7 +4,7 @@ excerpt: "Do you know what the EU Datathon 2020 is? Would you like to participat
 originalUrl: https://youtube.com/watch?v=FbcQ_Yst_jI
 type: video
 price: Free
-length: PT10M5S
+length: PT7M39S
 publishedDateTime: 2020-04-09T13:30:33Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "4reXTuTETvkYpPySck6cR9wjbCZTSgdUdlqtSggR2z+lGk03SewYnm4Dv8b6mBmWgPG8H/s8z9gFn8Vrc5OoVo+21mSVP3KOXwAqTSWzA/z9rJ7f6mrQ0F40Z9YzlZ3PYh2QcSXX9dKABRhKIY6dhmF2s/OrukBfJB0Pm+vUcjtjs45j3qlCqx8dRHpeHWDhvA9V1uc9mabLZ1OHGmQCR/RIZ9T5Ts7x+06lDx3Mhrkdq0ShCrncCUWrIX7C4hu7RmHoEmBjBcj8FjnxN2AgU4pIsidVf/Psu8ogzrjjvWz4vc9zHZ+cHyC7JoizGaivnlCFsWVNa2mmcBQsP710pNKQZY211N8bomAtp6SB+dzXMYorcWXkdqaapWByKVr20zAr85LKPoBwSUr5mdCVp+G7804Ho61MxywX26wxGJg=;TXZad+VlPxB1VPZzg1jbsA=="
+secured: "vRA8bVLI8qtFV95TFbJkgupIadV6iwEKe66xx0zDkf7tEJZDMGmwnMvIT+jGwMlZw0havEEhZNHjOMpv9CxrgaZWS6m2WYUNk2kZzQw/aQBIy2MwkZaEZ1YcUS8uR8O3jh9PxWhVItInXKiFnBLrQ7rMQjZ6VzPvQXQ2YpA0PBDWi1wZah6eqgmhuPyW7+uAgTpZBzA6psi0Q3oUErm9Gt/2sYOQXtY427ydngWrdB/N/X67GdDHLQp8OW+d1KEQN5vAo5xwV9f8A1HrwJeytYiMBQjFY9FPMiDmUk2YzHCC/kkTKaoiPUFh0U4UhBbEnvqUxggRV6fC1mffqMtQamq2nv1aDgm/9qxH8mOskMUCI8lJgjN5xyg9fjPKnnKVeINoShPdPCe0uESHhY3tYnrG5oEvKAvA/3auTvlpkhU=;XSDtEl+cKgWeTc78LiTbGg=="
 ---
 
