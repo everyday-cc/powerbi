@@ -331,14 +331,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-setup-a-reverse-hybrid-table-without-using-tabular-editor-for-power-bi.md",
-      "title": "Setup a Reverse Hybrid Table without using Tabular Editor for Power BI!",
-      "excerpt": "Hybrid Tables can be very useful for mixing archived data with current data. Pat Mahoney joins Patrick to show how to configure a Hybrid Table within a Power BI dataset without using Tabular Editor. Just some straight \"M\"agic.  Hybrid Table Documentation: https://learn.microsoft.com/power-bi/connect-data/service-dataset-modes-understand#hybrid-tables",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-setup-a-reverse-hybrid-table-without-using-tabular-editor-for-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-setup-a-reverse-hybrid-table-without-using-tabular-editor-for-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=Hpx52kOodPc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Hpx52kOodPc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M53S",
+      "path": "_learning/videos/guy-in-a-cube-3-tips-for-the-new-on-object-editing-of-a-power-bi-visual.md",
+      "title": "3 tips for the new On-Object editing of a Power BI visual",
+      "excerpt": "Have you started using the new on-object editing for Power BI visuals? Adam found some hidden gems that you may not be aware of when using it! You need to be aware of these!  Use on-object interaction with visuals in your report (preview) https://learn.microsoft.com/power-bi/create-reports/power-bi-on-object-interaction",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-3-tips-for-the-new-on-object-editing-of-a-power-bi-visual/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-3-tips-for-the-new-on-object-editing-of-a-power-bi-visual/",
+      "originalUrl": "https://youtube.com/watch?v=xL6DvHYjBVs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xL6DvHYjBVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M38S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -351,11 +351,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-04-05T08:00:09-07:00",
-      "heat": 131,
+      "publishedDateTime": "2023-04-19T08:00:44-07:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Hpx52kOodPc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/xL6DvHYjBVs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -369,14 +369,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-how-do-thin-reports-work-with-power-bi-deployment-pipelines.md",
-      "title": "How do THIN reports work with Power BI Deployment Pipelines?",
-      "excerpt": "Using Power BI Deployment Pipelines and curious what happens when the report and dataset are in different workspaces? How does it work when you promote to another pipeline? Kevin Arnold shows us!  Kevin Arnold: https://twitter.com/kevarnold https://www.linkedin.com/in/kevarnold/  📢 Become a member:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-how-do-thin-reports-work-with-power-bi-deployment-pipelines/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-how-do-thin-reports-work-with-power-bi-deployment-pipelines/",
-      "originalUrl": "https://youtube.com/watch?v=zJopprZC-bE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zJopprZC-bE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M5S",
+      "path": "_learning/videos/guy-in-a-cube-convert-csv-to-parquet-using-pyspark-in-azure-synapse-analytics.md",
+      "title": "Convert CSV to Parquet using pySpark in Azure Synapse Analytics",
+      "excerpt": "You've got a bunch of CSV files and you've heard of Parquet. How do you convert them for Azure Synapse Analytics? Patrick shows you how using pySpark.  pyspark DataFrame https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/dataframe.html  pyspark.sql.DataFrameReader.load https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/api/pyspark.sql.DataFrameReader.load.html",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-convert-csv-to-parquet-using-pyspark-in-azure-synapse-analytics/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-convert-csv-to-parquet-using-pyspark-in-azure-synapse-analytics/",
+      "originalUrl": "https://youtube.com/watch?v=k280CpPKJgc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/k280CpPKJgc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M52S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -389,11 +389,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-03-16T08:00:49-07:00",
-      "heat": 130,
+      "publishedDateTime": "2023-04-04T08:00:29-07:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/zJopprZC-bE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/k280CpPKJgc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -475,8 +475,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 63078,
-            "average": 4.7960305
+            "count": 63088,
+            "average": 4.7960467
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -517,8 +517,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 89325,
-            "average": 4.7778673
+            "count": 89333,
+            "average": 4.777865
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -577,8 +577,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 89325,
-        "average": 4.7778673
+        "count": 89333,
+        "average": 4.777865
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -963,8 +963,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 63078,
-        "average": 4.7960305
+        "count": 63088,
+        "average": 4.7960467
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1028,8 +1028,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 20256,
-            "average": 4.75237
+            "count": 20260,
+            "average": 4.75232
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1070,8 +1070,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11988,
-            "average": 4.6820154
+            "count": 11990,
+            "average": 4.6820683
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1104,8 +1104,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 89325,
-            "average": 4.7778673
+            "count": 89333,
+            "average": 4.777865
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1164,8 +1164,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 20256,
-        "average": 4.75237
+        "count": 20260,
+        "average": 4.75232
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1344,8 +1344,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 89325,
-            "average": 4.7778673
+            "count": 89333,
+            "average": 4.777865
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1386,8 +1386,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 34835,
-            "average": 4.7273717
+            "count": 34836,
+            "average": 4.72738
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1429,8 +1429,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16184,
-            "average": 4.72238
+            "count": 16186,
+            "average": 4.7224145
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1471,8 +1471,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 7420,
-            "average": 4.763612
+            "count": 7421,
+            "average": 4.7636437
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1531,8 +1531,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 28992,
-        "average": 4.7203364
+        "count": 28993,
+        "average": 4.7203465
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -148,8 +148,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 19415,
-            "average": 4.7566314
+            "count": 19418,
+            "average": 4.7566175
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -190,8 +190,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 12209,
-            "average": 4.768941
+            "count": 12211,
+            "average": 4.7689786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -273,8 +273,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 19415,
-            "average": 4.7566314
+            "count": 19418,
+            "average": 4.7566175
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -315,8 +315,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 12209,
-            "average": 4.768941
+            "count": 12211,
+            "average": 4.7689786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -375,8 +375,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 12209,
-        "average": 4.768941
+        "count": 12211,
+        "average": 4.7689786
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -494,8 +494,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 19415,
-        "average": 4.7566314
+        "count": 19418,
+        "average": 4.7566175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -575,8 +575,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 34835,
-        "average": 4.7273717
+        "count": 34836,
+        "average": 4.72738
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -973,6 +973,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-explore-fundamentals-of-data-visualization.md",
+      "title": "Explore fundamentals of data visualization",
+      "excerpt": "Learn the fundamental principles of analytical data modeling and data visualization, using Microsoft Power BI as a platform to explore these principles in action.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-fundamentals-of-data-visualization/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 7398,
+        "average": 4.7572317
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/5-explore-fundamentals-of-data-visualization-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-dax-fridays-209-open-orders-in-dax-events-in-progress-time-intelligence.md",
       "title": "DAX Fridays #209: Open orders in DAX | Events in progress & Time intelligence",
       "excerpt": "In today's video, we are going to go through how to think about Time Intelligence calculations with a specific case: Calculating the number of open orders using DAX.  I read a million years ago a blog post from Gerhard where he explained how to do it and even though we are not going to use the same DAX",
@@ -1288,8 +1330,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 11988,
-        "average": 4.6820154
+        "count": 11990,
+        "average": 4.6820683
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1520,7 +1562,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/choose-power-bi-model-framework-social.png",
@@ -1544,8 +1586,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 11059,
-            "average": 4.743829
+            "count": 11060,
+            "average": 4.7438517
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1863,8 +1905,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 11059,
-        "average": 4.743829
+        "count": 11060,
+        "average": 4.7438517
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1961,36 +2003,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/CIIzUvoUMOc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-datamart-vs-dataflow-vs-dataset.md",
-      "title": "Power BI Datamart vs Dataflow vs Dataset",
-      "excerpt": "Datamart, Dataflow, and Dataset are all Power BI components dealing with the data. I have presented about these a lot, and one of the questions I get is: What is the difference between Dataflow, Dataset, and Datamart? So I thought to explain it in a video and help everyone in that understanding. In this",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-datamart-vs-dataflow-vs-dataset/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-datamart-vs-dataflow-vs-dataset/",
-      "originalUrl": "https://youtube.com/watch?v=Biz-s-YoKRc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Biz-s-YoKRc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M50S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2022-08-09T18:39:34-07:00",
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Biz-s-YoKRc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
