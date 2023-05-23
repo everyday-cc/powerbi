@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-03-07-dataset-backup-and-restore-performance-just-got-a-lot-better.md",
+      "title": "Dataset backup and restore performance just got a lot better",
+      "excerpt": "Today, we’re happy to announce significant performance improvements to backup and restore operations for datasets in Power BI. Our benchmark tests with 1GB, 5GB, and 10GB datasets show backups can now be completed up to 22 times faster than before, and the time required for restore operations can also",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-07-dataset-backup-and-restore-performance-just-got-a-lot-better/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/dataset-backup-and-restore-performance-just-got-a-lot-better/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/dataset-backup-and-restore-performance-just-got-a-lot-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-07T05:01:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-03-04-cognos-vs-power-bi-2022-software-comparison.md",
       "title": "Cognos vs. Power BI: 2022 Software Comparison",
       "excerpt": "Cognos and Power BI are both top data analytics and business intelligence platforms. We compare features to help you choose which is best for your business. IBM Cognos Analytics and Microsoft ...",
@@ -1187,57 +1238,6 @@
       "ampWebUrl": "https://www.techrepublic.com/google-amp/article/crunch-data-better-than-ever-with-excel-and-power-bi/",
       "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/crunch-data-better-than-ever-with-excel-and-power-bi/",
       "publishedDateTime": "2022-01-19T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-microsoft-power-bi-data-analytics-goes-mainstream.md",
-      "title": "Microsoft Power BI: Data analytics goes mainstream",
-      "excerpt": "Read more about it here. Power BI takes over where the earlier Excel add-on left off, and does so with some style, enabling Microsoft to join the leaders in this increasingly competitive market.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-01-15-microsoft-power-bi-data-analytics-goes-mainstream/index.json",
-      "webUrl": "https://www.techrepublic.com/article/microsoft-power-bi-data-analytics-goes-mainstream/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-power-bi-data-analytics-goes-mainstream/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2016/06/13/bde7e1a2-6fd9-4bd5-8a8f-7f8f537c7024/resize/400x/cbe7b302fbdf1a9bc69ce28a46de0bbf/power-bi-main.jpg",
-          "width": 400,
-          "height": 265,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-power-bi-data-analytics-goes-mainstream/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-power-bi-data-analytics-goes-mainstream/",
-      "publishedDateTime": "2022-01-14T12:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRepublic",
