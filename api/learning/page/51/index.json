@@ -681,8 +681,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-lakehouses/",
       "length": "PT46M",
       "ratings": {
-        "count": 19,
-        "average": 4.7894735
+        "count": 20,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -808,8 +808,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
       "length": "PT22M",
       "ratings": {
-        "count": 44,
-        "average": 4.9545455
+        "count": 50,
+        "average": 4.94
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -892,8 +892,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
       "length": "PT34M",
       "ratings": {
-        "count": 474,
-        "average": 4.7383966
+        "count": 475,
+        "average": 4.7389474
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -976,8 +976,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-interactive-experiences/",
       "length": "PT56M",
       "ratings": {
-        "count": 275,
-        "average": 4.6690907
+        "count": 276,
+        "average": 4.67029
       },
       "provider": {
         "name": "Microsoft Learn",
