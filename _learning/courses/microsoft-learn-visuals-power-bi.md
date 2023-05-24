@@ -7,7 +7,7 @@ price: Free
 length: PT1H13M
 ratings:
   count: 4325
-  average: 4.668902
+  average: 4.669133
 heat: 66
 
 provider:

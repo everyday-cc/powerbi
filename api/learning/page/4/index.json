@@ -333,7 +333,7 @@
           "length": "PT1H13M",
           "ratings": {
             "count": 4325,
-            "average": 4.668902
+            "average": 4.669133
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -416,8 +416,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3215,
-            "average": 4.682115
+            "count": 3216,
+            "average": 4.682214
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -890,8 +890,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 16214,
-        "average": 4.7225237
+        "count": 16216,
+        "average": 4.722558
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1652,8 +1652,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 7424,
-        "average": 4.757543
+        "count": 7427,
+        "average": 4.7575064
       },
       "provider": {
         "name": "Microsoft Learn",
