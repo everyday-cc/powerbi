@@ -326,8 +326,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3489,
-            "average": 4.724563
+            "count": 3491,
+            "average": 4.7244344
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -660,8 +660,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 151,
-            "average": 4.7880793
+            "count": 152,
+            "average": 4.7894735
           },
           "provider": {
             "name": "Microsoft Learn",
