@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 3958,
-        "average": 4.748863
+        "count": 3959,
+        "average": 4.7489266
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -114,7 +114,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 64,
+      "heat": 61,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/design-a-data-model-in-power-bi-social.png",
@@ -156,7 +156,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 53,
+      "heat": 50,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/add-measures-power-bi-desktop-social.png",

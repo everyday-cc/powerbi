@@ -263,8 +263,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 152,
-        "average": 4.7894735
+        "count": 153,
+        "average": 4.7908497
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -380,6 +380,49 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-dax-power-bi-add-measures.md",
+      "title": "Add measures to Power BI Desktop models",
+      "excerpt": "In this module, you'll learn how to work with implicit and explicit measures. You'll start by creating simple measures, which summarize a single column or table. Then, you'll create more complex measures based on other measures in the model. Additionally, you'll learn about the similarities of, and differences between, a calculated column and a measure.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-add-measures/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
+      "length": "PT13M",
+      "ratings": {
+        "count": 1581,
+        "average": 4.727388
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/add-measures-power-bi-desktop-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
       ]
     },
     {
@@ -763,8 +806,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-kusto-fabric/",
       "length": "PT53M",
       "ratings": {
-        "count": 1,
-        "average": 5.0
+        "count": 2,
+        "average": 3.5
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -925,48 +968,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-manage-datasets-power-bi.md",
-      "title": "Manage datasets in Power BI ",
-      "excerpt": "With Microsoft Power BI, you can build multiple reports from a single dataset, meaning that if you change the dataset, all reports will be updated with that change. Additionally, you can clean and prep data once rather than repeatedly for each report.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-manage-datasets-power-bi/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
-      "length": "PT32M",
-      "ratings": {
-        "count": 2379,
-        "average": 4.7040772
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/manage-datasets-in-power-bi-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-mapping-learning-to-power-bi.md",
       "title": "Prepare to teach the module: Map learning to Power BI",
       "excerpt": "Prepare to teach the module: Map learning to Power BI",
@@ -1009,6 +1010,91 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-modern-analytics-interactive-experiences.md",
+      "title": "Design interactive data experiences with Power BI Desktop",
+      "excerpt": "Power BI enables report authors to produce interactive reports using visuals, slicers, bookmarks, and more.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-interactive-experiences/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-interactive-experiences/",
+      "length": "PT56M",
+      "ratings": {
+        "count": 275,
+        "average": 4.6690907
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/modern-analytics-interactive-experiences-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-modern-analytics-publish-share.md",
+      "title": "Secure, publish, and share data in Power BI",
+      "excerpt": "This module reviews securing, sharing, and publishing Microsoft Power BI reports as part of Power BI service.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-publish-share/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-publish-share/",
+      "length": "PT49M",
+      "ratings": {
+        "count": 217,
+        "average": 4.705069
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/modern-analytics-publish-share-social.png",
+          "width": 1282,
+          "height": 642,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-modern-analytics-teams.md",
       "title": "Integrate Power BI in Microsoft Teams and SharePoint",
       "excerpt": "This module goes into the different ways users can incorporate Power BI reports or visuals into Microsoft Teams and SharePoint to collaborate with others. This functionality allows users to pair analytics with collaboration tools they are already familiar with.",
@@ -1040,48 +1126,6 @@
           "url": "https://learn.microsoft.com/training/achievements/modern-analytics-teams-social.png",
           "width": 1282,
           "height": 642,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-admin-automate.md",
-      "title": "Automate Power BI administration",
-      "excerpt": "Common manual tasks can be automated with Microsoft Power BI Cmdlets for Windows PowerShell and PowerShell core.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-automate/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-automate/",
-      "length": "PT12M",
-      "ratings": {
-        "count": 121,
-        "average": 4.644628
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-automate-social.png",
-          "width": 641,
-          "height": 321,
           "isCached": true
         }
       ],
@@ -1206,48 +1250,6 @@
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-governance-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-admin-infrastructure.md",
-      "title": "Establish a data access infrastructure in Power BI",
-      "excerpt": "Learn how to establish a data access infrastructure for accessing all your data within Power BI.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-infrastructure/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 165,
-        "average": 4.6545453
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-infrastructure-social.png",
           "width": 641,
           "height": 321,
           "isCached": true

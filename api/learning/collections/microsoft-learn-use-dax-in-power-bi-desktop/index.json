@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 3958,
-        "average": 4.748863
+        "count": 3959,
+        "average": 4.7489266
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -159,7 +159,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 53,
+      "heat": 50,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/add-measures-power-bi-desktop-social.png",
@@ -184,8 +184,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 664,
-        "average": 4.7033134
+        "count": 665,
+        "average": 4.6992483
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -290,7 +290,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 52,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/use-dax-time-intelligence-functions-power-bi-desktop-social.png",
@@ -378,7 +378,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 52,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-solve-problems-social.png",
