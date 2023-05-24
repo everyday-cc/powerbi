@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-03-11-power-bi-developer-and-implementation-consultant-east-rand-r650k-per-annum-at-e-merge-it-recruitment.md",
+      "title": "Power BI Developer and Implementation Consultant – East Rand – R650k per annum at e-Merge IT Recruitment",
+      "excerpt": "They are currently looking for a Power BI Developer and Implementation Consultant to join their incredible team. The experienced Power BI Development Consultant will be required to come on board and play a key role in turning data into knowledge for their ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-11-power-bi-developer-and-implementation-consultant-east-rand-r650k-per-annum-at-e-merge-it-recruitment/index.json",
+      "webUrl": "https://it-online.co.za/2022/03/10/power-bi-developer-and-implementation-consultant-east-rand-r650k-per-annum-at-e-merge-it-recruitment-2/",
+      "originalUrl": "https://it-online.co.za/2022/03/10/power-bi-developer-and-implementation-consultant-east-rand-r650k-per-annum-at-e-merge-it-recruitment-2/",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6BpiFBCCS5A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-10T13:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT-Online",
+        "domain": "it-online.co.za",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2022-03-10-looker-vs-power-bi-2022-software-comparison.md",
       "title": "Looker vs. Power BI: 2022 Software Comparison",
       "excerpt": "But which is best in terms of function and features for your business? Looker by Google and Microsoft Power BI are both business intelligence (BI) and data analytics platforms with a strong following.",
@@ -1209,58 +1252,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-deployment-pipelines-azure-devops-extension-multiple-pipelines-working-together-dataflows-ga.md",
-      "title": "Deployment pipelines- Azure DevOps extension, multiple pipelines working together, Dataflows GA",
-      "excerpt": "This month we have released highly-anticipated features for deployment pipelines:\r\n&#8211; Azure DevOps extension- automate your deployments and pipeline creation using Tasks in your Azure pipeline.\r\n&#8211; Multiple pipelines working together- sync the connections between items managed in different",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-01-19-deployment-pipelines-azure-devops-extension-multiple-pipelines-working-together-dataflows-ga/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/deployment-pipelines-azure-devops-extension-multiple-pipelines-working-together-dataflows-ga/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/deployment-pipelines-azure-devops-extension-multiple-pipelines-working-together-dataflows-ga/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T05:30:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Dataflows"
       ]
     }
   ],
