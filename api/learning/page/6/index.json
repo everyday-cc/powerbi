@@ -437,8 +437,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 351,
-            "average": 4.6695156
+            "count": 352,
+            "average": 4.6704545
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -479,8 +479,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 11097,
-            "average": 4.7438045
+            "count": 11099,
+            "average": 4.7438507
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1668,8 +1668,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10172,
-        "average": 4.7609124
+        "count": 10173,
+        "average": 4.760936
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1710,8 +1710,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 7452,
-        "average": 4.7638216
+        "count": 7453,
+        "average": 4.7638535
       },
       "provider": {
         "name": "Microsoft Learn",

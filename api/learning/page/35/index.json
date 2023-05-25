@@ -628,8 +628,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3495,
-            "average": 4.7247496
+            "count": 3497,
+            "average": 4.724907
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -711,8 +711,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 351,
-            "average": 4.6695156
+            "count": 352,
+            "average": 4.6704545
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1017,8 +1017,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
       "length": "PT46M",
       "ratings": {
-        "count": 351,
-        "average": 4.6695156
+        "count": 352,
+        "average": 4.6704545
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1102,8 +1102,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1882,
-        "average": 4.7178535
+        "count": 1883,
+        "average": 4.7180033
       },
       "provider": {
         "name": "Microsoft Learn",
