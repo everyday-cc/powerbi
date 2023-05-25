@@ -23,6 +23,11 @@ items:
   - courses/microsoft-learn-design-model-power-bi
   - courses/microsoft-learn-dax-power-bi-add-measures
   - courses/microsoft-learn-dax-power-bi-add-calculated-tables
+  - courses/microsoft-learn-dax-power-bi-write-formulas
+  - courses/microsoft-learn-dax-power-bi-time-intelligence
+  - courses/microsoft-learn-dax-power-bi-solve-problems
+  - courses/microsoft-learn-optimize-model-power-bi
+  - courses/microsoft-learn-enforce-power-bi-model-security
 
 topics:
   - Power BI
