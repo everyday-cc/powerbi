@@ -441,8 +441,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 11086,
-            "average": 4.7436404
+            "count": 11089,
+            "average": 4.74371
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -483,8 +483,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1582,
-            "average": 4.7269278
+            "count": 1583,
+            "average": 4.7271004
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1630,8 +1630,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10160,
-        "average": 4.7612205
+        "count": 10164,
+        "average": 4.761019
       },
       "provider": {
         "name": "Microsoft Learn",

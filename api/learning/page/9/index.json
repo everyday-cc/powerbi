@@ -3059,8 +3059,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
           "length": "PT22M",
           "ratings": {
-            "count": 52,
-            "average": 4.9423075
+            "count": 55,
+            "average": 4.9454546
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3579,7 +3579,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-calculations-social.png",
