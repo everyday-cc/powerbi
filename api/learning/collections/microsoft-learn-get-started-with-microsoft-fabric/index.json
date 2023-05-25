@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
       "length": "PT22M",
       "ratings": {
-        "count": 66,
-        "average": 4.939394
+        "count": 67,
+        "average": 4.9402986
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-lakehouses/",
       "length": "PT46M",
       "ratings": {
-        "count": 26,
-        "average": 4.8076925
+        "count": 29,
+        "average": 4.7586207
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -306,8 +306,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-kusto-fabric/",
       "length": "PT53M",
       "ratings": {
-        "count": 2,
-        "average": 3.5
+        "count": 3,
+        "average": 4.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -348,7 +348,7 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-data-science-fabric/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 4,
+        "count": 5,
         "average": 5.0
       },
       "provider": {
@@ -390,7 +390,7 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/administer-fabric/",
       "length": "PT30M",
       "ratings": {
-        "count": 4,
+        "count": 6,
         "average": 5.0
       },
       "provider": {
