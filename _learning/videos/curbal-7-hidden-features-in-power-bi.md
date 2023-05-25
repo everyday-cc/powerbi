@@ -4,7 +4,7 @@ excerpt: "In todays video I will show you 7 hidden features in power bi! Chris b
 originalUrl: https://youtube.com/watch?v=N8ue470stKs
 type: video
 price: Free
-length: PT5M44S
+length: PT5M43S
 publishedDateTime: 2020-04-06T11:29:36Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "r+ybLTf2Rw0rhPLUha4AnemwEYDtjFkqMg6NyIHFk7hgtYytwSIweOTGHX5fRl8FZ8YU3EDlB4bT+i4xnELnAzqhDPTCvTfALAi0+VlcoAPuwGB2wSUJnd5usvXPSDoprc1qnf2/GBntEmC6t5pe8TNXTYLoizAyR/I/TKaZ4nWydGOdvQSkrK325M6yNrvfYIKDGdSkW9xNmHVzDuF4b6k+Mt8cwAwglUI2OKUkHIgY97R4Ibucw6rcUyvCOyRKQxsxdy4xat4dbD7jAES8e2PYC1d/SQwSdJZtFv3ecB68zHk6M3YzU5ko7aejVvLQ3naEN1Vl27GzLZdCdQVJ5FiSVdjms+VJCXhNHw8AnUu7/Wt2eQK4K/AtpFdNvYSYo9sXTGv8DpMAv43eQlp0dJMZ285/DCWVZ4e4aKryT6A=;f4TZJm3+gURdf5TWcFITLA=="
+secured: "j5LtEj3MZaIG4maUWy6BDvaYT6GZdhSzP/oKN3GrG9mtnmIlnkJAGHpM31han1qxD3/DBxwxEdL/4sctwX+zN6ONaJlwokyPT1JRwj9qd3G4ByiQUGjZk14S3TSFXL3ZxVmIgm18MFFj3C7BrbMfFTqOdtY1oS1793sX3CYUFsN9vTw6edyyVCKRBaV0VVbcue+TwPXeDATd1PVImkeWPgLCV5QOK6MuWAwEvUTJCsFNyG1oS4gGbMrS1oEOy3+qMGuGpOE4/R5OW+kk2kNrvTQoO62CI3cDIiRbfNM8i3zqhLFclUwZ9erLnXlZiSC/CcvgwDev6miyuMoC3l+SEn9XC1Y4/lflqN9a1+TnzQsjULEQHEOXxohRnoXMhhIbYX35TD+KbtS5tsqxcpMGg8F/zRlv0Bq0K7YYem90Cxo=;raZV/bbgAYYVlN/saZ2MwQ=="
 ---
 
