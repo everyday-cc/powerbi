@@ -4,9 +4,9 @@ excerpt: "In todays video I will show you two cases on how to fill down when row
 originalUrl: https://youtube.com/watch?v=TPeJdobqS9k
 type: video
 price: Free
-length: PT4M25S
+length: PT4M24S
 publishedDateTime: 2020-06-01T10:53:32Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TPeJdobqS9k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "5zuh1EndGqyOIwvf+9XmN/2JhZQdsPvF9kqVK3Qtz8D5kDN99CCt2jyItc6piwWwuiptJ20G+a6mZWuKxMY0ZyK+ipI184Z9DCtGqNVvjO6IjMIwuVd0ttZfUpzLBNZd6pHtpVou4/xaiB95Yg51/2JimRW6TO799Kw7lL7W92+uKXlX4FKdL5GWJCIRkzkVuBPP7NPe9oVjd98jOWECk3CrnFm7NReXKrC0PwZC7qfs4eW2qA6Gx87Bch7sVO0hPsMUHRQZZsC43svdJnMxPEl1a6tZspUNTCliEfy5kXrx+aVVYD0r+/kYEbYzemiyFRioAY6Nxk1vz48oBE0OInKQRQdMRQEsIlz6Q88c+AZEFDulQFRF5wvRgVHiYiV3nAa4LsFfAr3LSFjnyD6TchoFxMKlWMctfq7GZkVDN2I=;aq8NBi4Bfw/qDg0nqP1KoQ=="
+secured: "Sf76WFM/ZfX3QqdRNCIj481HCM3KHy5KgnGCjUM8QBa7oP1tNKYR4gBfXyeTEb9rx74ITkxHWVW4+Xt32z6jbgyOCtZBTu2F2cIF55oAdOlAw/wXRw2WtYyiPApkt+VhTn6/Vmgh+2GiEvRWrKu6ABcU0As92FU/16I+EAed3qR32IdtFWXReC0tfx6dUQzvZzjX1uay/LFzODSDknct3smQZK05qGDZBa/Fl4SCCC9/sVpAgAn5VWBnhgSeCdYqNdoyjQY131i8oyIp7TMXKIf33NAi+MlAtpF4t9+IWI5LMxOanUdbMpUJt0miIavSyUd548AbcDYM2vlBpMGcWy+bwHNhxD++aPmMocxo0TvCRb9xG0X64sjfvDknnj0SwpcTvzg1gKfHwWE7ZUP7pOwxD3Gb5c98I0XbXgItDvw=;h8P/310OZcYBoJy8LabLRg=="
 ---
 
