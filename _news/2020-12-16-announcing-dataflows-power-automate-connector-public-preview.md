@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-dataflows-powe
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-dataflows-power-automate-connector-public-preview/"
 type: article
 quality: 191
-heat: 191
+heat: 192
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/68YvRs49VZM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
@@ -31,6 +31,6 @@ images:
     height: 630
     isCached: true
 
-secured: "aaRBEdNKmf3GGtt1p2yZTmcnhrNN6tvDzZgGreDW6ayn74akIQOIjsX7lQy6SgSNk7WcXDM2rKlVCvwY1aagemk+I4WGqElTwaqF1HGdrmD75d/Sw0Qj5Wc+booKmxOKUXcOrfTWEOQb7WZ2J1hBLH+LIWKfMZhNPsp4aqNktq0/mHT/mvGcoC0XcdlCyIgGxG3Rq9dsihDjPWdL6k6AnAu8HEHtHFvJzPon3+L3dA0hT9iQO6b+lyFVtky1ST79wq+VLK6mPZbTXgOYG1gruJtpQewqPgzzSQ/FwkE+IUzpGz0VlURCsAfzI0pUzYl9NvPURnz6DaaPFmYLghGtO62FBZk/jc0lNz4UfAuJtgcMB1Yns3RmoDoZNalGbvJlvP4JG83QjauXHjJRS/19WarGvM+VbB7HjDpwnC6Q8KvWU590tFeVscBfi/KCUGAM3i56Pqi7vbStiuxmY0yoTw==;XaKPGG62reiqLykQ+dO8EA=="
+secured: "4ZvXtYXY1TpWFOf/BaP19iU6rpoWVeNkNxKtLkJxGaJRhhKOMYsc1t8G7oeaktYbuvwu3f3ILc8eei3t4ZEcZguEQL2ljenn3DFm6LJgYKig+4Z8s1+fQ4n0xigw1PqufuJGvSHJmbxjJdXGaxH51NnJXtnk0OP8g+uC8Zy07ZKPVO5tMKh7aYwtsdmRg+KGjVU05UxSjtINrBsigMoJpBVEKrr8k+QoSa5pBeY9p7ZeS1/PV7/SKzE8o431v3JumOeTBQZZAq3v6RpN8H33Fb+rgqV2q8BD/hot6GY5oEpD2p0zFQCxzF+WpqnxHrcH1N/llCWRnSH4bXULbPbVlhu/6mkcfnmFxCZ/3DS8L599iJ1W2+jo8svhpEQasqfm28o+QGyEX7eIRWjI5mamzrKadKHTrnNJzum3IEO9bqY3LWVdkrhhbq5+YDq5sd4lkP6F7ZN0Y8Ok9fzLJeW5kg==;BK7eyoo8du6nZOrQiVsrAA=="
 ---
 
