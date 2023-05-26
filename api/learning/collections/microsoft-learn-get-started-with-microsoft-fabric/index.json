@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
       "length": "PT22M",
       "ratings": {
-        "count": 92,
-        "average": 4.902174
+        "count": 95,
+        "average": 4.894737
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -221,7 +221,7 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-dataflow-gen-2-fabric/",
       "length": "PT48M",
       "ratings": {
-        "count": 4,
+        "count": 5,
         "average": 5.0
       },
       "provider": {

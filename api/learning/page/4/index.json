@@ -382,8 +382,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 11108,
-        "average": 4.743698
+        "count": 11110,
+        "average": 4.7437444
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1206,8 +1206,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 354,
-            "average": 4.6723166
+            "count": 355,
+            "average": 4.673239
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1224,7 +1224,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 54,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/choose-power-bi-model-framework-social.png",
@@ -1248,8 +1248,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 11108,
-            "average": 4.743698
+            "count": 11110,
+            "average": 4.7437444
           },
           "provider": {
             "name": "Microsoft Learn",
