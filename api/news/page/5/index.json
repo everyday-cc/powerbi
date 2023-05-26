@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-23-power-bi-vs-sisense-data-analytics-software-comparison-2022.md",
+      "title": "Power BI vs. Sisense: Data Analytics Software Comparison 2022",
+      "excerpt": "PowerBI and Sisense are both leaders in the data analytics and BI sector. But which data platform is best for your business in terms of features, pricing, and use case? Sisense and Microsoft Power ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-23-power-bi-vs-sisense-data-analytics-software-comparison-2022/index.json",
+      "webUrl": "https://www.eweek.com/enterprise-apps/power-bi-vs-sisense/",
+      "originalUrl": "https://www.eweek.com/enterprise-apps/power-bi-vs-sisense/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/Fortinet-christina-wocintechchat-com-R_W_9D-53lw-unsplash-1-1.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-22T17:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-08-22-updates-to-microsoft-purview-data-loss-prevention-policies-in-power-bi.md",
       "title": "Updates to Microsoft Purview data loss prevention policies in Power BI",
       "excerpt": "Data loss prevention (DLP) policies help you govern the sensitive information managed in your Power BI tenant and comply with governmental or industry regulations, such as GDPR (the European Union’s General Data Protection Regulation). Earlier this year, we announced the release of DLP policies for Power",
@@ -1194,57 +1245,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-06-30T01:55:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-create-a-power-bi-datamart-in-minutes.md",
-      "title": "Create a Power BI datamart in minutes",
-      "excerpt": "Get started with Power BI datamarts- Create a Power BI datamart in minutes!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-06-23-create-a-power-bi-datamart-in-minutes/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/create-a-power-bi-datamart-in-minutes/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/create-a-power-bi-datamart-in-minutes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T05:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-11-29-create-connected-pivottables-in-excel-for-the-web.md",
+      "title": "Create Connected PivotTables in Excel for the web",
+      "excerpt": "You can now create reports connected to Power BI datasets from a blank workbook in Excel for the web.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-11-29-create-connected-pivottables-in-excel-for-the-web/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/create-connected-pivottables-in-excel-for-the-web/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/create-connected-pivottables-in-excel-for-the-web/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-29T03:42:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-11-27-how-to-download-and-use-power-bi-desktop.md",
       "title": "How to download and use Power BI Desktop?",
       "excerpt": "In this guide, we are going to discuss how you can download and use Power BI Desktop. Power BI is a popular business analytics service by Microsoft. It offers different versions of the software ...",
@@ -1212,57 +1263,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-topic-power-bi-premium.md",
-      "title": "Topic: power bi premium",
-      "excerpt": "Microsoft is expanding its business analytics and intelligence portfolio with the announcement of Power BI Premium. Power BI Premium is an extension of the company’s Power BI solution that ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-10-13-topic-power-bi-premium/index.json",
-      "webUrl": "https://sdtimes.com/tag/power-bi-premium/",
-      "originalUrl": "https://sdtimes.com/tag/power-bi-premium/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2017/06/DCIgBdWXgAACnA6.jpg",
-          "width": 1000,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],
