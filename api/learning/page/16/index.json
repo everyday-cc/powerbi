@@ -818,8 +818,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 2768,
-        "average": 4.7239885
+        "count": 2769,
+        "average": 4.724088
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -860,8 +860,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-delta-lake-tables-fabric/",
       "length": "PT1H3M",
       "ratings": {
-        "count": 11,
-        "average": 4.7272725
+        "count": 12,
+        "average": 4.75
       },
       "provider": {
         "name": "Microsoft Learn",

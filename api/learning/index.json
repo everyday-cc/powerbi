@@ -422,8 +422,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 63494,
-            "average": 4.7961698
+            "count": 63500,
+            "average": 4.796173
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -464,8 +464,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 89853,
-            "average": 4.778004
+            "count": 89865,
+            "average": 4.7779894
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -524,8 +524,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 89853,
-        "average": 4.778004
+        "count": 89865,
+        "average": 4.7779894
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -559,44 +559,6 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-optimizing-switch-on-slicer-selection-with-group-by-columns.md",
-      "title": "Optimizing SWITCH on slicer selection with Group By Columns",
-      "excerpt": "Optimize the query performance of a SWITCH function in DAX that reads a slicer selection: the Group By Columns property can solve a practical problem.\r \r Article and download: https://sql.bi/792990?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-optimizing-switch-on-slicer-selection-with-group-by-columns/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-optimizing-switch-on-slicer-selection-with-group-by-columns/",
-      "originalUrl": "https://youtube.com/watch?v=RCEoAvru8rY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RCEoAvru8rY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M1S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-04-11T03:00:15-07:00",
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RCEoAvru8rY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-data-analytics-microsoft.md",
       "title": "Discover data analysis",
       "excerpt": "Would you like to explore the journey of a data analyst and learn how a data analyst tells a story with data? In this module, you will explore the different roles in data and learn the different tasks of a data analyst.",
@@ -604,8 +566,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 63494,
-        "average": 4.7961698
+        "count": 63500,
+        "average": 4.796173
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -639,82 +601,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-how-do-thin-reports-work-with-power-bi-deployment-pipelines.md",
-      "title": "How do THIN reports work with Power BI Deployment Pipelines?",
-      "excerpt": "Using Power BI Deployment Pipelines and curious what happens when the report and dataset are in different workspaces? How does it work when you promote to another pipeline? Kevin Arnold shows us!  Kevin Arnold: https://twitter.com/kevarnold https://www.linkedin.com/in/kevarnold/  📢 Become a member:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-how-do-thin-reports-work-with-power-bi-deployment-pipelines/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-how-do-thin-reports-work-with-power-bi-deployment-pipelines/",
-      "originalUrl": "https://youtube.com/watch?v=zJopprZC-bE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zJopprZC-bE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M5S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-03-16T08:00:49-07:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zJopprZC-bE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse.md",
-      "title": "Art of the Possible with Power Platform and Azure Synapse",
-      "excerpt": "What happens when you combine Power BI, Power Apps and Azure Synapse Analytics? MAGIC! Join Gaston Cruz as he shows a way to bring the Power Platform together with Azure Synapse!  Gaston Cruz https://twitter.com/GastonFCruz https://www.linkedin.com/in/gastoncruz/  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse/",
-      "originalUrl": "https://youtube.com/watch?v=9wLFlaaPJgk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9wLFlaaPJgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M42S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-03-15T08:00:06-07:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9wLFlaaPJgk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-want-a-beautiful-power-bi-report-start-here.md",
       "title": "Want a BEAUTIFUL Power BI Report? Start here!",
       "excerpt": "If you are like us, creating beautiful Power BI reports doesn't come easy. Mara Pereira joins us to show us where to start to get amazing and beautiful Power BI reports even with no designer background.  Dribbble https://dribbble.com/  Freepik https://www.freepik.com/  Figma https://www.figma.com/  Adobe",
@@ -740,6 +626,124 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/pKkav_W-jiQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-power-bi-embedded-permissions-content.md",
+      "title": "Set up permissions to embed Power BI content",
+      "excerpt": "Learn which settings and permissions to use for internal and external users of your app with embedded Power BI content.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-permissions-content/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-permissions-content/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 62,
+        "average": 4.854839
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-permissions-content-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-valuta-kurser-till-power-bi-fran-riksbanken-rest-api-currency-rates-from-swedish-central-bank-api.md",
+      "title": "Valuta kurser till Power BI från riksbanken REST API | Currency rates from Swedish central bank API",
+      "excerpt": "In this video (in swedish) I am going to show you how to get currency rates from Swedish central bank API  Test rest api: https://developer.api-test.riksbank.se/ SeriesId; https://www.riksbank.se/sv/statistik/sok-rantor--valutakurser/oppet-api/serier-for-webbservices/  Join this channel membership to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-valuta-kurser-till-power-bi-fran-riksbanken-rest-api-currency-rates-from-swedish-central-bank-api/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-valuta-kurser-till-power-bi-fran-riksbanken-rest-api-currency-rates-from-swedish-central-bank-api/",
+      "originalUrl": "https://youtube.com/watch?v=QBVzixsT9p4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QBVzixsT9p4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M47S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-04-04T04:44:44-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QBVzixsT9p4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-minimize-diagnostics-steps-by-just-using-the-vpax-file.md",
+      "title": "Minimize diagnostics steps by just using the VPAX file!",
+      "excerpt": "Getting a VPAX and BIM or PBIT file is key to helping optimize your Power BI dataset. We look at them all the time. Patrick shows how you can simplify this by just using the VPAX file!  DAX Studio: https://daxstudio.org  Tabular Editor: https://tabulareditor.com/  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-minimize-diagnostics-steps-by-just-using-the-vpax-file/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-minimize-diagnostics-steps-by-just-using-the-vpax-file/",
+      "originalUrl": "https://youtube.com/watch?v=owSaH3DlRrw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/owSaH3DlRrw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M49S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-04-13T08:00:36-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/owSaH3DlRrw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1163,8 +1167,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 20555,
-            "average": 4.752761
+            "count": 20565,
+            "average": 4.752784
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1205,8 +1209,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12072,
-            "average": 4.681577
+            "count": 12073,
+            "average": 4.6816034
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1239,8 +1243,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 89853,
-            "average": 4.778004
+            "count": 89865,
+            "average": 4.7779894
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1299,8 +1303,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 20555,
-        "average": 4.752761
+        "count": 20565,
+        "average": 4.752784
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1403,8 +1407,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 89853,
-            "average": 4.778004
+            "count": 89865,
+            "average": 4.7779894
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1445,8 +1449,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 34962,
-            "average": 4.7273326
+            "count": 34963,
+            "average": 4.7273116
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1530,8 +1534,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 7463,
-            "average": 4.7641697
+            "count": 7464,
+            "average": 4.7642016
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1629,8 +1633,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 29206,
-        "average": 4.7204685
+        "count": 29208,
+        "average": 4.7204876
       },
       "provider": {
         "name": "Microsoft Learn",
