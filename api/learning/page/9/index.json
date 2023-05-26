@@ -721,7 +721,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -1926,8 +1926,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 8971,
-        "average": 4.711515
+        "count": 8972,
+        "average": 4.711547
       },
       "provider": {
         "name": "Microsoft Learn",
