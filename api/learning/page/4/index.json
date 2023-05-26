@@ -382,8 +382,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 11112,
-        "average": 4.7437906
+        "count": 11113,
+        "average": 4.7438135
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1207,7 +1207,7 @@
           "length": "PT46M",
           "ratings": {
             "count": 355,
-            "average": 4.673239
+            "average": 4.678873
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1248,8 +1248,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 11112,
-            "average": 4.7437906
+            "count": 11113,
+            "average": 4.7438135
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1544,8 +1544,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-lakehouses/",
       "length": "PT46M",
       "ratings": {
-        "count": 35,
-        "average": 4.8
+        "count": 36,
+        "average": 4.8055553
       },
       "provider": {
         "name": "Microsoft Learn",
