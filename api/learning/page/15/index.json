@@ -233,8 +233,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 6106,
-            "average": 4.799214
+            "count": 6107,
+            "average": 4.799247
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -377,8 +377,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
       "length": "PT15M",
       "ratings": {
-        "count": 3501,
-        "average": 4.72465
+        "count": 3504,
+        "average": 4.7240295
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -419,8 +419,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 3969,
-        "average": 4.7490554
+        "count": 3970,
+        "average": 4.7488666
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -504,8 +504,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-apache-spark-work-files-lakehouse/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 12,
-        "average": 4.75
+        "count": 13,
+        "average": 4.769231
       },
       "provider": {
         "name": "Microsoft Learn",
