@@ -188,8 +188,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2768,
-            "average": 4.7662573
+            "count": 2770,
+            "average": 4.766065
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -374,8 +374,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 2768,
-        "average": 4.7662573
+        "count": 2770,
+        "average": 4.766065
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -543,7 +543,7 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-apache-spark-work-files-lakehouse/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 10,
+        "count": 11,
         "average": 5.0
       },
       "provider": {
