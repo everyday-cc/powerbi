@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT8M17S
 publishedDateTime: 2020-09-10T15:00:18Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jNQUUGmJ7hs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "YedF7NoVRoW7YU/snVh85oC//Sg0b1zY+Mnke2jDC8i/UqZacDG483kqJc2kafRETNb7Xvzqz8uXpkPSgZK293FkZ2XvZqM7mVPenaxatrAOlZh5CWtbvRvqOGuKcJMKJa+VWsds15OzUVKmH3IfVG3rRKlFLRKY8ljhBc1x3wGZcwtsH+4DXs1cVPyy9krQh58GFbuYtrKZRLzNugwwghq6ZTTQdsY3R5L1l9lnVh0u2Sn1K8b5DwaMFZGRTXuFpQQLbuAhYGJan8du8ORGB80mXYkg2olL78Ibetb5IMYKZjhHoa48q3LDYALLOmcfGoTViPUCe+j3H9MqUjAhfX4lEEsv2X+X54pcAL40FB6NqcNYF5DGGK5ASTjDX1lDA0RlzUgK/7liiH26tzsvxA2Re29PNbW3caO/gH+Kdtw=;FxEJlfpCikX+mVZEIQ6Ipg=="
+secured: "sPlAacvNUD7cU0bJgiR5dAoEOuIY64GDAon8R55KH2I9YbvGbq8Enzff/Lw2rddDk38VTfCeL/GeNsod/kfHFAuaUUl500xAxXchpd9Uxr5+Xfp75XJ2lPaZ9gsv8F7KP+zns60Vms2zwIQONtG8yx4vf/ka6YIwo+RWRUYXNcJV77wLKoWYSuIB+Z7KDA+rcUep+LbcPgjpa6KU25wPRgGHsQmXAvm/g1w6Et7Xmgx6PEaq4Br7S4TzjhgbBHbbkHGNdK+FHkayqB8hSg/cXB5q36rV/XkO6GarEihA2VnlvUNh8DDw+aCMVHsNYNRG+ghMsPIW1EZwQ3EbO4kijyj4WDxpGoliuh+ICL/7PbFtZMPfdkXUfKrxr9LxpL4sS1RjT8kTzEqtDWg8GqkOqUf64B2M8dtj02/D2jmAuyM=;537RaurKoxQN1/6QdB+glA=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "In this video, I am going to show you a trick on how to create power b
 originalUrl: https://youtube.com/watch?v=VDTSZJRw6r0
 type: video
 price: Free
-length: PT11M19S
+length: PT10M57S
 publishedDateTime: 2019-03-28T12:38:45Z
 heat: 50
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "0NEsyWgDCP/U25lxUF9HVJR5Nu/LrFPCOgwcDNy1MqykIKRUPJwuvspxbRSModYny6WuNJ7ZvJUJH8WVp4KrbEuMzd2izOCTSzOnvCOf4j4IcE9arJMjbqhamHmCNWxoGQt+8Iffx1rjGiyNPLpHX0TrRdqgJo9gEEOIQIo/JL607FR3o9zO0NmdDm4Ve2UjQ3d7nxLJ/rngcrGe3JqfxtPejOKb3KzbIsudXXhuBYaQaPqE7fgt2U1dmo1VNg7K2mBbhouOKxhQzgfkBFn8XZpKfDkQFo4Iz1/EI8wWDeuBYtxsvESqvzFOBTgY2AAw5HlWQbErE8NYOCPI3ZYbQ8ocTc9Rf7wwChchbpSAsENoQ6wVJC//cmYNnTGS3rVYNXrfEvngvvC13YJmN/28w20diHHgl3R+/Z9gYxHCOE0=;/UeCyuoqS2mxuXbH12Rg7A=="
+secured: "S2rtR9tGxoZZyC+QX34sJebrvdaNFaNwlKb8ZHWM0WMcwIBl0U65WyXbNBBa41To4PT/XgZ/Y6XSPSnbllNJj2qLvLMN9nZ4FSC+ZEEJIP1CgebhXTM6msPLCSVQQovk5ewpVhClUYPxBzkbiWixz/fYw2lrXyWX0upkGo8Lww2JHg+jkJIThcpPi3Qmgk89kz/VHWXvqrY7XG0ZrLI2y8USJJa1FywF1eEBXHelweO4anpaOyzH91lYT/TUMyfduxGmLNu8zyBLO4AlZe5oR4U4ctil1cBCTOc55qdrMYrrInCAMtLOtawuKG3OLW7fkBDb122Rl6LqVPEHBuST9BzmHzdU7AeL3iOW5hzdLXZDRyJYbbj5sKg6hxrsQUHimH26557z0790/PpgJyi7Jkj/namhQRFTa34kenprl04=;7Lv1snMuQkDtgtyLf8kA3A=="
 ---
 

@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M37S
 publishedDateTime: 2017-07-11T20:02:37Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uOthalI_J64\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "IfHv1Eiq74D55/Fgjx3CjJfGeg09HeksqCNHVLb50dVQHOfqD6LMv+UpBk8m9FDOIOloFx/UIO/ovu0hTjvxYMA5ljnjehHet9abZ1V9UdCJoPdgmxuPwIu5IN7oaKMW0b+K3Zwkki574Txi+zwKjQ9XvYEkPnBcmf10CNjPCw8ZvLZQ3SLG7AhPTB5H4Jml1ouDjp4/Q6QTkm4r0HrmRezvc6iMSWbTOQmRscVsLjb108FNglcbt47Tho1anaWeIU9Iz7/HCmt9N6x7Z7lBBuvftbs8gtxuWg/twTNpxH/7yujxtrqwveZ48ClMXLhpTZYHRHQztHat4yANxYNF3ln9TXaR855mRl6YqV72ctHSbUnyu2mMLbG9pxwcmqTWEeBZb4yCJf/ZI/ErgPVIqtdD0VXnnVbYGFlltuerrvg=;1XAGuLOO3qcrOkg1IPUeNw=="
+secured: "Te+tJ4lUYlMaS9wYzXwR/GISmp/tK03lm48T/rXWWPrYGnalJPUYgdKnG6TwQJqcF7EIvI4GGTd0EEbRvuBW4SdWkovSyMiND9nuqYxoSyKcOR/VyyfAtARW21ALzlyl1i/xFFRwjf9OQ2MBIQPUaj0hdpClyrwuUdCQ95CU8JzlkmNqa3g//QPNEn6OKCWe3ZuiXJvT273m7jcMMAnIn8qluD3QvRiHKK3TrLAmbGa8qPcV313+NmNuE2dcyS6bsVH4F4CprjKqug7YbHiuP37RYSFAH9txaUHdteXZTYLViTOMHxaNczNdkTdXjeE3HOE6OyKfAs6X2TtLh91M+UbQcaSN2XdA3TDxX6oGv7Le1Af/spErvN5QEukzjJSjRo5SrUIJUTUWtXftdNOQH9Wq+yfMQofZkk6Hp8wE0z8=;88YbD9igVZiHe6wpqxnO8A=="
 ---
 

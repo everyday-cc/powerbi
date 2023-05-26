@@ -118,8 +118,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 620,
-            "average": 4.8048387
+            "count": 622,
+            "average": 4.802251
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -368,8 +368,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 457,
-            "average": 4.691466
+            "count": 458,
+            "average": 4.689956
           },
           "provider": {
             "name": "Microsoft Learn",
