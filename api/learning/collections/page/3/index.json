@@ -831,7 +831,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 131,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
@@ -1189,8 +1189,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-scalability-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 116,
-            "average": 4.784483
+            "count": 117,
+            "average": 4.786325
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1231,8 +1231,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 153,
-            "average": 4.7908497
+            "count": 154,
+            "average": 4.7922077
           },
           "provider": {
             "name": "Microsoft Learn",
