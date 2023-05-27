@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 29221,
-        "average": 4.7205434
+        "count": 29222,
+        "average": 4.720553
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -228,8 +228,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 19546,
-            "average": 4.7566767
+            "count": 19551,
+            "average": 4.7566366
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -353,8 +353,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 19546,
-            "average": 4.7566767
+            "count": 19551,
+            "average": 4.7566366
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -566,8 +566,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 34967,
-        "average": 4.727286
+        "count": 34968,
+        "average": 4.7272935
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -609,8 +609,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
       "length": "PT22M",
       "ratings": {
-        "count": 121,
-        "average": 4.8842974
+        "count": 123,
+        "average": 4.886179
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -750,8 +750,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 19546,
-        "average": 4.7566767
+        "count": 19551,
+        "average": 4.7566366
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1188,8 +1188,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
           "length": "PT22M",
           "ratings": {
-            "count": 121,
-            "average": 4.8842974
+            "count": 123,
+            "average": 4.886179
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1272,8 +1272,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-apache-spark-work-files-lakehouse/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 15,
-            "average": 4.8
+            "count": 16,
+            "average": 4.8125
           },
           "provider": {
             "name": "Microsoft Learn",

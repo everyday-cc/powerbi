@@ -689,7 +689,7 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/administer-fabric/",
       "length": "PT30M",
       "ratings": {
-        "count": 9,
+        "count": 11,
         "average": 5.0
       },
       "provider": {
@@ -773,8 +773,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
       "length": "PT46M",
       "ratings": {
-        "count": 355,
-        "average": 4.678873
+        "count": 356,
+        "average": 4.679775
       },
       "provider": {
         "name": "Microsoft Learn",
