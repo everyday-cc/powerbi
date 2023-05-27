@@ -292,8 +292,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1885,
-        "average": 4.7183022
+        "count": 1886,
+        "average": 4.718452
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -632,8 +632,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
       "length": "PT29M",
       "ratings": {
-        "count": 328,
-        "average": 4.710366
+        "count": 330,
+        "average": 4.712121
       },
       "provider": {
         "name": "Microsoft Learn",
