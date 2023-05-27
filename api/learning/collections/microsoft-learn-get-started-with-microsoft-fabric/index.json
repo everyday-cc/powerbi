@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
       "length": "PT22M",
       "ratings": {
-        "count": 128,
-        "average": 4.890625
+        "count": 132,
+        "average": 4.8863635
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-lakehouses/",
       "length": "PT46M",
       "ratings": {
-        "count": 49,
-        "average": 4.836735
+        "count": 51,
+        "average": 4.8039217
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -95,8 +95,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-apache-spark-work-files-lakehouse/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 20,
-        "average": 4.85
+        "count": 21,
+        "average": 4.857143
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -390,8 +390,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/administer-fabric/",
       "length": "PT30M",
       "ratings": {
-        "count": 12,
-        "average": 4.9166665
+        "count": 13,
+        "average": 4.923077
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -350,8 +350,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/administer-fabric/",
       "length": "PT30M",
       "ratings": {
-        "count": 12,
-        "average": 4.9166665
+        "count": 13,
+        "average": 4.923077
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -476,8 +476,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
       "length": "PT37M",
       "ratings": {
-        "count": 1080,
-        "average": 4.7777777
+        "count": 1081,
+        "average": 4.777983
       },
       "provider": {
         "name": "Microsoft Learn",
