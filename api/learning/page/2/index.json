@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 29227,
-        "average": 4.7205667
+        "count": 29231,
+        "average": 4.720605
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -190,8 +190,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 19554,
-            "average": 4.756674
+            "count": 19556,
+            "average": 4.7566986
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -232,8 +232,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 12358,
-            "average": 4.768328
+            "count": 12359,
+            "average": 4.768347
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -315,8 +315,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 19554,
-            "average": 4.756674
+            "count": 19556,
+            "average": 4.7566986
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -357,8 +357,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 12358,
-            "average": 4.768328
+            "count": 12359,
+            "average": 4.768347
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -417,8 +417,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 12358,
-        "average": 4.768328
+        "count": 12359,
+        "average": 4.768347
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -750,8 +750,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 19554,
-        "average": 4.756674
+        "count": 19556,
+        "average": 4.7566986
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1230,8 +1230,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-lakehouses/",
           "length": "PT46M",
           "ratings": {
-            "count": 44,
-            "average": 4.818182
+            "count": 45,
+            "average": 4.822222
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1272,8 +1272,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-apache-spark-work-files-lakehouse/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 18,
-            "average": 4.8333335
+            "count": 19,
+            "average": 4.8421054
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1314,8 +1314,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-delta-lake-tables-fabric/",
           "length": "PT1H3M",
           "ratings": {
-            "count": 15,
-            "average": 4.8
+            "count": 17,
+            "average": 4.7647057
           },
           "provider": {
             "name": "Microsoft Learn",

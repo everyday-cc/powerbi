@@ -449,8 +449,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 7466,
-        "average": 4.7577014
+        "count": 7467,
+        "average": 4.757734
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1156,8 +1156,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-lakehouses/",
       "length": "PT46M",
       "ratings": {
-        "count": 44,
-        "average": 4.818182
+        "count": 45,
+        "average": 4.822222
       },
       "provider": {
         "name": "Microsoft Learn",
