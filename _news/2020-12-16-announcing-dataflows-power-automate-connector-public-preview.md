@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-dataflows-powe
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-dataflows-power-automate-connector-public-preview/"
 type: article
 quality: 191
-heat: 192
+heat: 191
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/68YvRs49VZM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
