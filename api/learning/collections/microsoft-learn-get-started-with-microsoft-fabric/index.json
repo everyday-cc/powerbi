@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
       "length": "PT22M",
       "ratings": {
-        "count": 148,
-        "average": 4.8986487
+        "count": 149,
+        "average": 4.8993287
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-lakehouses/",
       "length": "PT46M",
       "ratings": {
-        "count": 63,
-        "average": 4.84127
+        "count": 65,
+        "average": 4.8461537
       },
       "provider": {
         "name": "Microsoft Learn",
