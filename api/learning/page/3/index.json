@@ -767,8 +767,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 11134,
-            "average": 4.7441173
+            "count": 11136,
+            "average": 4.744163
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1321,8 +1321,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 12091,
-        "average": 4.681664
+        "count": 12092,
+        "average": 4.68169
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2997,7 +2997,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/automate-data-cleaning-power-query-social.png",
@@ -3207,7 +3207,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/automate-data-cleaning-power-query-social.png",

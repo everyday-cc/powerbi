@@ -880,7 +880,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 55,
+          "heat": 135,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-paginated-reports-power-bi-social.png",
@@ -1509,7 +1509,7 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-dataflow-gen-2-fabric/",
       "length": "PT48M",
       "ratings": {
-        "count": 9,
+        "count": 10,
         "average": 5.0
       },
       "provider": {
