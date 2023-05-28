@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-may-2023-feature
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-may-2023-feature-summary/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
