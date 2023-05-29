@@ -262,8 +262,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 6577,
-        "average": 4.701688
+        "count": 6580,
+        "average": 4.7018237
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -473,8 +473,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 4362,
-        "average": 4.668501
+        "count": 4364,
+        "average": 4.6686525
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -515,8 +515,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-delta-lake-tables-fabric/",
       "length": "PT1H3M",
       "ratings": {
-        "count": 27,
-        "average": 4.7777777
+        "count": 30,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",

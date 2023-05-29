@@ -1074,8 +1074,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 7487,
-        "average": 4.7579803
+        "count": 7488,
+        "average": 4.758013
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1323,8 +1323,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7137,
-            "average": 4.726916
+            "count": 7141,
+            "average": 4.727069
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1365,8 +1365,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 6167,
-            "average": 4.73569
+            "count": 6169,
+            "average": 4.7357755
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1467,8 +1467,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-lakehouses/",
       "length": "PT46M",
       "ratings": {
-        "count": 70,
-        "average": 4.857143
+        "count": 73,
+        "average": 4.849315
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1509,8 +1509,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 7137,
-        "average": 4.726916
+        "count": 7141,
+        "average": 4.727069
       },
       "provider": {
         "name": "Microsoft Learn",
