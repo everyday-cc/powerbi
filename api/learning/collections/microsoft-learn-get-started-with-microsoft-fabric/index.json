@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
       "length": "PT22M",
       "ratings": {
-        "count": 161,
-        "average": 4.900621
+        "count": 166,
+        "average": 4.8855424
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 76,
+      "heat": 68,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
@@ -71,7 +71,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 62,
+      "heat": 59,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
@@ -95,8 +95,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-apache-spark-work-files-lakehouse/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 29,
-        "average": 4.8965516
+        "count": 30,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -113,7 +113,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 57,
+      "heat": 55,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
@@ -155,7 +155,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 56,
+      "heat": 54,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
@@ -239,7 +239,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 53,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
@@ -282,7 +282,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 54,
+      "heat": 51,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
@@ -324,7 +324,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 53,
+      "heat": 51,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
@@ -366,7 +366,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 51,
+      "heat": 52,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
@@ -390,8 +390,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/administer-fabric/",
       "length": "PT30M",
       "ratings": {
-        "count": 21,
-        "average": 4.952381
+        "count": 22,
+        "average": 4.9545455
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -408,7 +408,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 53,
+      "heat": 56,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",

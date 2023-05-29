@@ -4,7 +4,7 @@ excerpt: "Get started and explore the capabilities of Microsoft Fabric."
 type: collection
 price: Free
 length: PT9H15M
-heat: 74
+heat: 70
 
 provider:
   name: Microsoft Learn
