@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 6164,
-        "average": 4.7357235
+        "count": 6166,
+        "average": 4.735647
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-apache-spark-work-files-lakehouse/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 30,
-        "average": 4.8
+        "count": 31,
+        "average": 4.806452
       },
       "provider": {
         "name": "Microsoft Learn",

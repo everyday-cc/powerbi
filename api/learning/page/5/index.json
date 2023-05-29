@@ -387,7 +387,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -1283,8 +1283,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 11140,
-        "average": 4.744255
+        "count": 11143,
+        "average": 4.7443237
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1325,8 +1325,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 7483,
-        "average": 4.757851
+        "count": 7485,
+        "average": 4.757916
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1367,8 +1367,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 7133,
-        "average": 4.726903
+        "count": 7135,
+        "average": 4.7269797
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1658,8 +1658,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12099,
-            "average": 4.6817093
+            "count": 12100,
+            "average": 4.6817355
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1734,8 +1734,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2120,
-            "average": 4.7462263
+            "count": 2121,
+            "average": 4.7458744
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1836,8 +1836,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-lakehouses/",
       "length": "PT46M",
       "ratings": {
-        "count": 68,
-        "average": 4.852941
+        "count": 70,
+        "average": 4.857143
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1878,8 +1878,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 2120,
-        "average": 4.7462263
+        "count": 2121,
+        "average": 4.7458744
       },
       "provider": {
         "name": "Microsoft Learn",
