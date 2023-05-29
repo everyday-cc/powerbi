@@ -2405,8 +2405,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7130,
-            "average": 4.7273493
+            "count": 7133,
+            "average": 4.726903
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3468,7 +3468,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -5007,8 +5007,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 628,
-            "average": 4.799363
+            "count": 629,
+            "average": 4.7980924
           },
           "provider": {
             "name": "Microsoft Learn",
