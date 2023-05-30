@@ -92,8 +92,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 6174,
-        "average": 4.7359896
+        "count": 6175,
+        "average": 4.7360325
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -134,8 +134,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 16272,
-        "average": 4.7226524
+        "count": 16275,
+        "average": 4.722642
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -176,8 +176,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-apache-spark-work-files-lakehouse/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 42,
-        "average": 4.8095236
+        "count": 43,
+        "average": 4.8139534
       },
       "provider": {
         "name": "Microsoft Learn",

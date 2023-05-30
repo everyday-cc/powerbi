@@ -2353,7 +2353,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-content-social.png",
@@ -3892,8 +3892,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 7500,
-        "average": 4.7582664
+        "count": 7502,
+        "average": 4.7583313
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -624,8 +624,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6593,
-            "average": 4.701198
+            "count": 6595,
+            "average": 4.7012887
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -684,8 +684,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 6132,
-        "average": 4.7160797
+        "count": 6135,
+        "average": 4.7162185
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -768,8 +768,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 6593,
-        "average": 4.701198
+        "count": 6595,
+        "average": 4.7012887
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -895,8 +895,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 6125,
-        "average": 4.798857
+        "count": 6126,
+        "average": 4.79889
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -979,8 +979,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-delta-lake-tables-fabric/",
       "length": "PT1H3M",
       "ratings": {
-        "count": 33,
-        "average": 4.818182
+        "count": 36,
+        "average": 4.8333335
       },
       "provider": {
         "name": "Microsoft Learn",
