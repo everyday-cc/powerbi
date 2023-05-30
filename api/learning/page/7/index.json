@@ -728,8 +728,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7144,
-            "average": 4.7270436
+            "count": 7145,
+            "average": 4.727082
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -872,8 +872,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-lakehouses/",
       "length": "PT46M",
       "ratings": {
-        "count": 79,
-        "average": 4.8607593
+        "count": 81,
+        "average": 4.8641977
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -914,8 +914,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 7144,
-        "average": 4.7270436
+        "count": 7145,
+        "average": 4.727082
       },
       "provider": {
         "name": "Microsoft Learn",

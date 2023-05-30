@@ -752,8 +752,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/administer-fabric/",
       "length": "PT30M",
       "ratings": {
-        "count": 27,
-        "average": 4.962963
+        "count": 29,
+        "average": 4.965517
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -794,8 +794,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 9003,
-        "average": 4.710874
+        "count": 9004,
+        "average": 4.710906
       },
       "provider": {
         "name": "Microsoft Learn",
