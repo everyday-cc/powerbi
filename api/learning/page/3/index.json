@@ -49,8 +49,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 19599,
-        "average": 4.7567735
+        "count": 19602,
+        "average": 4.7568107
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -443,8 +443,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6583,
-            "average": 4.7019596
+            "count": 6584,
+            "average": 4.702005
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1407,8 +1407,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-power-bi-model-relationships/",
           "length": "PT1H30M",
           "ratings": {
-            "count": 132,
-            "average": 4.787879
+            "count": 133,
+            "average": 4.7894735
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1535,8 +1535,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
           "length": "PT1H21M",
           "ratings": {
-            "count": 119,
-            "average": 4.747899
+            "count": 120,
+            "average": 4.75
           },
           "provider": {
             "name": "Microsoft Learn",
