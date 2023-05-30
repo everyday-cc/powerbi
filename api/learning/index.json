@@ -63,7 +63,7 @@
         ]
       },
       "publishedDateTime": "2023-05-25T07:00:05-07:00",
-      "heat": 234,
+      "heat": 233,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/6QusOchmSXQ/maxresdefault.jpg",
@@ -298,44 +298,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-chatgpt-blew-my-mind-with-this-power-bi-scenario.md",
-      "title": "ChatGPT blew my mind with this Power BI scenario",
-      "excerpt": "Our minds were blown by this ChatGPT example for Power BI from our friends Stephanie Bruno and Shannon Lindsay! Use ChatGPT to help get you pointed in the right direction and with a faster solution.  Power BI datasets CI/CD (the easy-ish way) https://data-witches.com/2023/03/31/power-bi-datasets-ci-cd-the-easy-ish-way/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-chatgpt-blew-my-mind-with-this-power-bi-scenario/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-chatgpt-blew-my-mind-with-this-power-bi-scenario/",
-      "originalUrl": "https://youtube.com/watch?v=K6DpOJM6b7E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K6DpOJM6b7E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M52S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-04-20T08:00:19-07:00",
-      "heat": 153,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/K6DpOJM6b7E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-microsoft-fabric-launch-digital-event-day-1.md",
       "title": "Microsoft Fabric Launch Digital Event (Day 1)",
       "excerpt": "Learn more about the exciting news about the launch of Microsoft Fabric in this two-day digital event. From Power BI, to Synapse, and Data Factory, you will be able to learn what’s available to you in this new offering.  Blog: https://aka.ms/build-with-analytics  #MicrosoftFabric",
@@ -357,7 +319,7 @@
         ]
       },
       "publishedDateTime": "2023-05-22T17:23:39-07:00",
-      "heat": 143,
+      "heat": 146,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/5jlP0wdEsls/maxresdefault.jpg",
@@ -473,31 +435,31 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-visually-see-where-you-broke-the-fold-in-power-query.md",
-      "title": "Visually see where you BROKE the fold in Power Query",
-      "excerpt": "Rule #1 - DON'T BREAK THE FOLD! There is an amazing feature that lets you see where this fold was broken, and I'm guessing you didn't even know it was there!  Adam shows you where to go.  Query plan for Power Query (Preview) https://learn.microsoft.com/power-query/query-plan  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-visually-see-where-you-broke-the-fold-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-visually-see-where-you-broke-the-fold-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=twgsMDuwOuo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/twgsMDuwOuo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M36S",
+      "path": "_learning/videos/curbal-dax-fridays-220-selectedmeasure-function.md",
+      "title": "DAX Fridays #220: SELECTEDMEASURE function",
+      "excerpt": "Now that calculation groups are making its way into Power BI desktop, it is time to cover SELECTEDMEASURE  Blog post here: https://curbal.com/blog/glossary/selectedmeasure  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-220-selectedmeasure-function/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-220-selectedmeasure-function/",
+      "originalUrl": "https://youtube.com/watch?v=_F4MwolGrmg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_F4MwolGrmg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M34S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Curbal",
+        "domain": "curbal.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2023-03-23T08:00:39-07:00",
+      "publishedDateTime": "2023-04-27T03:47:58-07:00",
       "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/twgsMDuwOuo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/_F4MwolGrmg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -508,19 +470,19 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "Power Query"
+        "DAX"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-embedded-content.md",
-      "title": "Embed Power BI content",
-      "excerpt": "Learn about embedding Power BI content.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-content/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-content/",
-      "length": "PT31M",
+      "path": "_learning/courses/microsoft-learn-power-bi-embedded-intro.md",
+      "title": "Introduction to Power BI embedded analytics",
+      "excerpt": "Learn how developers can programmatically embed analytics in their apps, and about no-code embedding options for simpler requirements.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-intro/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-intro/",
+      "length": "PT34M",
       "ratings": {
-        "count": 46,
-        "average": 4.804348
+        "count": 158,
+        "average": 4.886076
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -540,14 +502,44 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-content-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-intro-social.png",
           "width": 1280,
-          "height": 641,
+          "height": 640,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-apply-all-and-remove-all-button-in-power-bi.md",
+      "title": "Apply All and Remove All Button in Power BI",
+      "excerpt": "This video covers how we can add Apply All and Clear All buttons in Power BI report. This new feature is a game changer if you want improve your Power BI report performance. So, Let's get started!  Chapters: 00:00 Start 01:00 Different Ways to Apply All and Clear All 02:24 Perform Testing  #PowerBI #PowerBIDesktop",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-apply-all-and-remove-all-button-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-apply-all-and-remove-all-button-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=4fFrnCm5aPQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4fFrnCm5aPQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M2S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2023-03-28T03:56:02-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4fFrnCm5aPQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -622,8 +614,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 63759,
-            "average": 4.7961698
+            "count": 63769,
+            "average": 4.796155
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -664,8 +656,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 90252,
-            "average": 4.7780547
+            "count": 90267,
+            "average": 4.7780695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -724,8 +716,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 90252,
-        "average": 4.7780547
+        "count": 90267,
+        "average": 4.7780695
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1225,8 +1217,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 63759,
-        "average": 4.7961698
+        "count": 63769,
+        "average": 4.796155
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1260,44 +1252,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-dont-miss-out-of-microsoft-build-powerbi.md",
-      "title": "Don’t miss out of Microsoft Build! #powerbi",
-      "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-dont-miss-out-of-microsoft-build-powerbi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-dont-miss-out-of-microsoft-build-powerbi/",
-      "originalUrl": "https://youtube.com/watch?v=TprbclJaSJU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TprbclJaSJU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT53S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-05-22T14:21:58-07:00",
-      "heat": 96,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TprbclJaSJU/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBQKEUwDw==&rs=AOn4CLDwPhQE5ZAAtmTbgSCd6r-KmrkbAw",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-build-a-slicer-panel-in-power-bi-and-take-it-to-the-next-level.md",
       "title": "Build a Slicer Panel in Power BI and take it to the next level",
       "excerpt": "Adam looks at how you can build a slicer panel, in Power BI, and take it to the next level. Using a combination of features in Power BI Desktop, you can make a great user experience.  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube",
@@ -1323,6 +1277,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/xy9nmSQeUWg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-enabling-drillthrough-with-power-bi-on-object-editing.md",
+      "title": "Enabling Drillthrough with Power BI On-Object Editing",
+      "excerpt": "Using the new On-Object editing in Power BI Desktop? Have you figured out how to enable drillthrough yet? Adam has and is here to show you the clicks!  Power BI April 2023 Feature Summary https://powerbi.microsoft.com/blog/power-bi-april-2023-feature-summary/  On-object Interaction https://learn.microsoft.com/power-bi/create-reports/power-bi-on-object-interaction",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-enabling-drillthrough-with-power-bi-on-object-editing/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-enabling-drillthrough-with-power-bi-on-object-editing/",
+      "originalUrl": "https://youtube.com/watch?v=eYxRHJ0hB_E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eYxRHJ0hB_E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M34S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-05-17T08:00:34-07:00",
+      "heat": 90,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eYxRHJ0hB_E/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

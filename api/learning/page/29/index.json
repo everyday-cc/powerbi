@@ -112,8 +112,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12122,
-            "average": 4.681983
+            "count": 12123,
+            "average": 4.682009
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -459,8 +459,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 2783,
-        "average": 4.7657204
+        "count": 2784,
+        "average": 4.765805
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -501,8 +501,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
       "length": "PT15M",
       "ratings": {
-        "count": 3515,
-        "average": 4.7234707
+        "count": 3516,
+        "average": 4.7235494
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -543,8 +543,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1892,
-        "average": 4.7172303
+        "count": 1894,
+        "average": 4.717529
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -705,7 +705,7 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-data-warehouse/",
       "length": "PT1H6M",
       "ratings": {
-        "count": 17,
+        "count": 18,
         "average": 5.0
       },
       "provider": {
@@ -957,8 +957,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
       "length": "PT41M",
       "ratings": {
-        "count": 1269,
-        "average": 4.77305
+        "count": 1270,
+        "average": 4.773228
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -999,8 +999,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
       "length": "PT21M",
       "ratings": {
-        "count": 1614,
-        "average": 4.78005
+        "count": 1615,
+        "average": 4.7801857
       },
       "provider": {
         "name": "Microsoft Learn",

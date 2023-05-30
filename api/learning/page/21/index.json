@@ -786,8 +786,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3515,
-            "average": 4.7234707
+            "count": 3516,
+            "average": 4.7235494
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1036,8 +1036,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2783,
-            "average": 4.7657204
+            "count": 2784,
+            "average": 4.765805
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1434,8 +1434,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-data-factory-pipelines-fabric/",
       "length": "PT1H22M",
       "ratings": {
-        "count": 22,
-        "average": 4.909091
+        "count": 23,
+        "average": 4.9130435
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -4,44 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-enabling-drillthrough-with-power-bi-on-object-editing.md",
-      "title": "Enabling Drillthrough with Power BI On-Object Editing",
-      "excerpt": "Using the new On-Object editing in Power BI Desktop? Have you figured out how to enable drillthrough yet? Adam has and is here to show you the clicks!  Power BI April 2023 Feature Summary https://powerbi.microsoft.com/blog/power-bi-april-2023-feature-summary/  On-object Interaction https://learn.microsoft.com/power-bi/create-reports/power-bi-on-object-interaction",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-enabling-drillthrough-with-power-bi-on-object-editing/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-enabling-drillthrough-with-power-bi-on-object-editing/",
-      "originalUrl": "https://youtube.com/watch?v=eYxRHJ0hB_E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eYxRHJ0hB_E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M34S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-05-17T08:00:34-07:00",
-      "heat": 90,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eYxRHJ0hB_E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-get-started-with-power-bi.md",
       "title": "Get started with Power BI",
       "excerpt": "Get started with Power BI",
@@ -72,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 20761,
-            "average": 4.7532873
+            "count": 20777,
+            "average": 4.753333
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -114,8 +76,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12122,
-            "average": 4.681983
+            "count": 12123,
+            "average": 4.682009
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -148,8 +110,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 90252,
-            "average": 4.7780547
+            "count": 90267,
+            "average": 4.7780695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -208,8 +170,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 20761,
-        "average": 4.7532873
+        "count": 20777,
+        "average": 4.753333
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -268,6 +230,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/WsbIXJDhC_o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-dont-miss-out-of-microsoft-build-powerbi.md",
+      "title": "Don’t miss out of Microsoft Build! #powerbi",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-dont-miss-out-of-microsoft-build-powerbi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-dont-miss-out-of-microsoft-build-powerbi/",
+      "originalUrl": "https://youtube.com/watch?v=TprbclJaSJU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TprbclJaSJU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT53S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-05-22T14:21:58-07:00",
+      "heat": 86,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TprbclJaSJU/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBQKEUwDw==&rs=AOn4CLDwPhQE5ZAAtmTbgSCd6r-KmrkbAw",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -411,8 +411,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 90252,
-            "average": 4.7780547
+            "count": 90267,
+            "average": 4.7780695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -453,8 +453,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 35050,
-            "average": 4.727047
+            "count": 35054,
+            "average": 4.727021
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -598,8 +598,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 29380,
-        "average": 4.7205243
+        "count": 29385,
+        "average": 4.7205715
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1284,6 +1284,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-chatgpt-blew-my-mind-with-this-power-bi-scenario.md",
+      "title": "ChatGPT blew my mind with this Power BI scenario",
+      "excerpt": "Our minds were blown by this ChatGPT example for Power BI from our friends Stephanie Bruno and Shannon Lindsay! Use ChatGPT to help get you pointed in the right direction and with a faster solution.  Power BI datasets CI/CD (the easy-ish way) https://data-witches.com/2023/03/31/power-bi-datasets-ci-cd-the-easy-ish-way/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-chatgpt-blew-my-mind-with-this-power-bi-scenario/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-chatgpt-blew-my-mind-with-this-power-bi-scenario/",
+      "originalUrl": "https://youtube.com/watch?v=K6DpOJM6b7E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K6DpOJM6b7E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M52S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-04-20T08:00:19-07:00",
+      "heat": 73,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/K6DpOJM6b7E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-handling-multiple-fact-tables-in-power-bi.md",
       "title": "Handling MULTIPLE fact tables in Power BI",
       "excerpt": "You've got multiple fact tables in your Power BI dataset. And, dimension tables for each. Struggling to slice and dice across both? Patrick shows you how to deal with this mess.  Understand star schema and the importance for Power BI https://docs.microsoft.com/power-bi/guidance/star-schema  📢 Become",
@@ -1535,8 +1573,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
           "length": "PT22M",
           "ratings": {
-            "count": 213,
-            "average": 4.887324
+            "count": 215,
+            "average": 4.888372
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1577,8 +1615,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-lakehouses/",
           "length": "PT46M",
           "ratings": {
-            "count": 88,
-            "average": 4.8636365
+            "count": 89,
+            "average": 4.8651686
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1711,49 +1749,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-get-data-power-bi.md",
-      "title": "Get data with Power BI Desktop",
-      "excerpt": "How can you find, collect, and clean data from different sources? Power BI is a tool for making sense of your data. You will learn tricks to make data-gathering easier.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data-power-bi/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
-      "length": "PT1H15M",
-      "ratings": {
-        "count": 35050,
-        "average": 4.727047
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 70,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/get-data-power-bi-desktop-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],

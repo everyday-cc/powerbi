@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2783,
-            "average": 4.7657204
+            "count": 2784,
+            "average": 4.765805
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -201,8 +201,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12122,
-            "average": 4.681983
+            "count": 12123,
+            "average": 4.682009
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -735,8 +735,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visualize-real-time-data-azure-stream-analytics-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 151,
-            "average": 4.807947
+            "count": 152,
+            "average": 4.8092103
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -903,8 +903,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 166,
-            "average": 4.6566267
+            "count": 167,
+            "average": 4.658683
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1153,8 +1153,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 358,
-            "average": 4.6815643
+            "count": 359,
+            "average": 4.6824512
           },
           "provider": {
             "name": "Microsoft Learn",
