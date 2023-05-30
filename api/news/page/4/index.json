@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-28-improvements-to-chart-sharing-and-copy-as-image-are-coming-soon.md",
+      "title": "Improvements to chart sharing and copy as image are coming soon",
+      "excerpt": "We&#8217;re excited to help more users quickly communicate insights by helping users share links to charts and updating how users copy images of visuals. This can empower more people to use data in their decision making using the communication tool of their choice. Read all the details in this blog.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-10-28-improvements-to-chart-sharing-and-copy-as-image-are-coming-soon/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/improvements-to-chart-sharing-and-copy-as-image-are-coming-soon/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/improvements-to-chart-sharing-and-copy-as-image-are-coming-soon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-28T08:25:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-power-bi-ideas-site-improvement-updates.md",
       "title": "Power BI Ideas site improvement updates",
       "excerpt": "In the July blog post about the Ideas site, we published our plan to improve the Ideas website. Today we would like to share some of the progress as well as a roadmap for Ideas.",
@@ -1204,57 +1255,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-08-24T02:00:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-join-us-power-bi-dev-camp-thursday-25-august-2022-at-1100-am-pdt-1200-pm-noon-pdt.md",
-      "title": "Join Us! Power BI Dev Camp: Thursday 25, August 2022 at 11:00 AM PDT – 12:00 PM noon PDT",
-      "excerpt": "This month&#8217;s Power BI Dev Camp session provides a quick primer on modern React-JS development and demonstrates how to create an SPA application with React-JS which calls the Power BI REST API and implements User-Owns-Data embedding.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-23-join-us-power-bi-dev-camp-thursday-25-august-2022-at-1100-am-pdt-1200-pm-noon-pdt/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-25-august-2022-at-1100-am-pdt-1200-pm-noon-pdt/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-25-august-2022-at-1100-am-pdt-1200-pm-noon-pdt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T03:00:56-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
