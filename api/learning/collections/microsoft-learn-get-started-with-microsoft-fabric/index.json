@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
       "length": "PT22M",
       "ratings": {
-        "count": 190,
-        "average": 4.8789473
+        "count": 191,
+        "average": 4.879581
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -221,7 +221,7 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-dataflow-gen-2-fabric/",
       "length": "PT48M",
       "ratings": {
-        "count": 15,
+        "count": 16,
         "average": 5.0
       },
       "provider": {
@@ -348,7 +348,7 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-data-science-fabric/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 11,
+        "count": 12,
         "average": 5.0
       },
       "provider": {
@@ -390,8 +390,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/administer-fabric/",
       "length": "PT30M",
       "ratings": {
-        "count": 25,
-        "average": 4.96
+        "count": 27,
+        "average": 4.962963
       },
       "provider": {
         "name": "Microsoft Learn",
