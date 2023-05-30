@@ -1553,8 +1553,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 685,
-            "average": 4.769343
+            "count": 686,
+            "average": 4.769679
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1628,8 +1628,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2789,
-            "average": 4.7231984
+            "count": 2790,
+            "average": 4.7232976
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1837,8 +1837,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1084,
-            "average": 4.778598
+            "count": 1085,
+            "average": 4.778802
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2047,8 +2047,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1084,
-            "average": 4.778598
+            "count": 1085,
+            "average": 4.778802
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2427,8 +2427,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 12116,
-        "average": 4.6818256
+        "count": 12118,
+        "average": 4.681878
       },
       "provider": {
         "name": "Microsoft Learn",
