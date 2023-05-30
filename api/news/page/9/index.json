@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-01-31-microsoft-power-bi-a-cheat-sheet.md",
+      "title": "Microsoft Power BI: A cheat sheet",
+      "excerpt": "Microsoft Power BI: A cheat sheet Your email has been sent This cheat sheet explains everything you need to know about Power BI, Microsoft's data visualization toolset. The big data revolution ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-01-31-microsoft-power-bi-a-cheat-sheet/index.json",
+      "webUrl": "https://www.techrepublic.com/article/microsoft-power-bi-a-smart-persons-guide/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-power-bi-a-smart-persons-guide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2016/11/apowerbi.png?x75348",
+          "width": 1155,
+          "height": 739,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/microsoft-power-bi-a-smart-persons-guide/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/microsoft-power-bi-a-smart-persons-guide/amp/",
+      "publishedDateTime": "2022-01-31T01:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-01-28-reminder-webview2-will-be-required-for-the-next-power-bi-desktop-release.md",
       "title": "Reminder: WebView2 will be required for the next Power BI Desktop release",
       "excerpt": "Starting with the next Power BI Desktop release, WebView2 will be required. If you have not switched over yet, please take action now to avoid interruptions.",
@@ -1195,57 +1246,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-12-01T22:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-on-premises-data-gateway-november-2021-update-is-now-available.md",
-      "title": "On-premises data gateway November 2021 update is now available",
-      "excerpt": "On-premises data gateway (standard and personal mode) release for November 2021 ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-12-01-on-premises-data-gateway-november-2021-update-is-now-available/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-november-2021-update-is-now-available/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-november-2021-update-is-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T05:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

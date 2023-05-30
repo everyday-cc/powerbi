@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-03-25-power-bi-vs-tableau-business-intelligence-tools-comparison.md",
+      "title": "Power BI vs. Tableau: Business intelligence tools comparison",
+      "excerpt": "an uppercase character (A through Z) or a lowercase (a through z) character (no spaces). Power BI vs. Tableau: Business intelligence tools comparison Your email has been sent Power BI and Tableau ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-25-power-bi-vs-tableau-business-intelligence-tools-comparison/index.json",
+      "webUrl": "https://www.techrepublic.com/article/power-bi-vs-tableau/",
+      "originalUrl": "https://www.techrepublic.com/article/power-bi-vs-tableau/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2020/11/istock-1168019993.jpg?x79677",
+          "width": 1254,
+          "height": 837,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/power-bi-vs-tableau/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/power-bi-vs-tableau/amp/",
+      "publishedDateTime": "2022-03-24T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-03-20-announcing-general-availability-of-service-principal-profiles-in-power-bi-embedded.md",
       "title": "Announcing general availability of service principal profiles in Power BI Embedded",
       "excerpt": "I&#8217;m happy to announce a new method that allows a much larger number of customer tenants per one service principal by introducing a service principal “child” named service principal profile. Each service principal profile can administer a customer tenant, and the number of profiles per service principal",
@@ -1178,57 +1229,6 @@
       "ampWebUrl": "https://www.techrepublic.com/article/how-to-share-your-power-bi-dashboards-and-reports/amp/",
       "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/how-to-share-your-power-bi-dashboards-and-reports/amp/",
       "publishedDateTime": "2022-01-31T01:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-microsoft-power-bi-a-cheat-sheet.md",
-      "title": "Microsoft Power BI: A cheat sheet",
-      "excerpt": "Microsoft Power BI: A cheat sheet Your email has been sent This cheat sheet explains everything you need to know about Power BI, Microsoft's data visualization toolset. The big data revolution ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-01-31-microsoft-power-bi-a-cheat-sheet/index.json",
-      "webUrl": "https://www.techrepublic.com/article/microsoft-power-bi-a-smart-persons-guide/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-power-bi-a-smart-persons-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2016/11/apowerbi.png?x75348",
-          "width": 1155,
-          "height": 739,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/microsoft-power-bi-a-smart-persons-guide/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/microsoft-power-bi-a-smart-persons-guide/amp/",
-      "publishedDateTime": "2022-01-31T01:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRepublic",
