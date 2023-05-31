@@ -458,8 +458,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 12145,
-        "average": 4.682091
+        "count": 12148,
+        "average": 4.68217
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -744,8 +744,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-lakehouses/",
       "length": "PT46M",
       "ratings": {
-        "count": 112,
-        "average": 4.875
+        "count": 113,
+        "average": 4.8761063
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -959,8 +959,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 361,
-            "average": 4.6842103
+            "count": 362,
+            "average": 4.685083
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1001,8 +1001,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 11170,
-            "average": 4.744315
+            "count": 11173,
+            "average": 4.744384
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1043,8 +1043,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1593,
-            "average": 4.7281857
+            "count": 1594,
+            "average": 4.7283564
           },
           "provider": {
             "name": "Microsoft Learn",
