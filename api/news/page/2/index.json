@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-10-now-on-deployment-pipelines-view-items-code-changes-before-deploying-it.md",
+      "title": "Now on Deployment Pipelines: View item᾿s code changes before deploying it",
+      "excerpt": "The new feature of Deployment pipelines, Change review, completes the missing piece of the Compare action, by allowing you to review the schema of a changed item while its changed lines are highlighted. Check it out! ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-04-10-now-on-deployment-pipelines-view-items-code-changes-before-deploying-it/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/now-on-deployment-pipelines-view-items-code-changes-before-deploying-it/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/now-on-deployment-pipelines-view-items-code-changes-before-deploying-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-10T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-pin-workspaces.md",
       "title": "Pin workspaces",
       "excerpt": "You can pin your workspaces on top of the list. And unpin them anytime as needed. This functionality enables you to easily navigate to the workspaces that are most relevant to you without searching through the workspace list.",
@@ -1204,57 +1255,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-01-31T09:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-power-bi-report-server-january-2023-feature-summary.md",
-      "title": "Power BI Report Server January 2023 Feature Summary",
-      "excerpt": "Welcome to the January 2023 Power BI Report Server release! This release has fun and exciting updates to features like the Report Server web portal, Modeling, and Reporting. Please read on for all the details.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-01-25-power-bi-report-server-january-2023-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-january-2023-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-january-2023-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-25T05:10:35-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
