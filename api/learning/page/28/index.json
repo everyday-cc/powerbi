@@ -848,7 +848,7 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-data-science-fabric/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 14,
+        "count": 15,
         "average": 5.0
       },
       "provider": {
@@ -890,8 +890,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-kusto-fabric/",
       "length": "PT53M",
       "ratings": {
-        "count": 15,
-        "average": 4.8
+        "count": 16,
+        "average": 4.8125
       },
       "provider": {
         "name": "Microsoft Learn",

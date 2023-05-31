@@ -420,8 +420,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 12138,
-        "average": 4.6820726
+        "count": 12140,
+        "average": 4.6820426
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -706,8 +706,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-lakehouses/",
       "length": "PT46M",
       "ratings": {
-        "count": 100,
-        "average": 4.88
+        "count": 104,
+        "average": 4.8846154
       },
       "provider": {
         "name": "Microsoft Learn",

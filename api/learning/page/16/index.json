@@ -274,8 +274,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 6128,
-            "average": 4.7986293
+            "count": 6129,
+            "average": 4.798662
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -334,8 +334,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/administer-fabric/",
       "length": "PT30M",
       "ratings": {
-        "count": 30,
-        "average": 4.9666667
+        "count": 32,
+        "average": 4.96875
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -504,7 +504,7 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-dataflow-gen-2-fabric/",
       "length": "PT48M",
       "ratings": {
-        "count": 21,
+        "count": 22,
         "average": 5.0
       },
       "provider": {
@@ -547,8 +547,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 6128,
-        "average": 4.7986293
+        "count": 6129,
+        "average": 4.798662
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -118,8 +118,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3518,
-            "average": 4.7237067
+            "count": 3519,
+            "average": 4.7237854
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -660,8 +660,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 225,
-            "average": 4.751111
+            "count": 226,
+            "average": 4.7522125
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -869,8 +869,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 262,
-            "average": 4.683206
+            "count": 263,
+            "average": 4.6844106
           },
           "provider": {
             "name": "Microsoft Learn",
