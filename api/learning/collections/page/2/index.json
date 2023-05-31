@@ -619,7 +619,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-power-bi-model-relationships-social.png",
@@ -705,7 +705,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-calculation-groups-social.png",
@@ -729,8 +729,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
           "length": "PT1H21M",
           "ratings": {
-            "count": 122,
-            "average": 4.7540984
+            "count": 124,
+            "average": 4.75
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -747,7 +747,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 54,
+          "heat": 53,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/enforce-power-bi-model-security-social.png",
@@ -4717,8 +4717,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 6143,
-            "average": 4.7162623
+            "count": 6144,
+            "average": 4.7163086
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4800,8 +4800,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7153,
-            "average": 4.7271075
+            "count": 7155,
+            "average": 4.727184
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4842,8 +4842,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 6177,
-            "average": 4.736118
+            "count": 6178,
+            "average": 4.7361608
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4925,8 +4925,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12140,
-            "average": 4.6820426
+            "count": 12142,
+            "average": 4.682013
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5126,8 +5126,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2399,
-            "average": 4.7036266
+            "count": 2400,
+            "average": 4.70375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5144,7 +5144,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 53,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/manage-datasets-in-power-bi-social.png",
@@ -5168,8 +5168,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 6129,
-            "average": 4.798662
+            "count": 6130,
+            "average": 4.798695
           },
           "provider": {
             "name": "Microsoft Learn",

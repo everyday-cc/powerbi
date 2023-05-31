@@ -420,8 +420,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 12140,
-        "average": 4.6820426
+        "count": 12142,
+        "average": 4.682013
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -706,8 +706,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-lakehouses/",
       "length": "PT46M",
       "ratings": {
-        "count": 104,
-        "average": 4.8846154
+        "count": 106,
+        "average": 4.8867927
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -921,8 +921,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 359,
-            "average": 4.6824512
+            "count": 360,
+            "average": 4.6833334
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -939,7 +939,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 52,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/choose-power-bi-model-framework-social.png",
