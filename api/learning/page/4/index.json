@@ -744,8 +744,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-lakehouses/",
       "length": "PT46M",
       "ratings": {
-        "count": 114,
-        "average": 4.877193
+        "count": 116,
+        "average": 4.87931
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -916,8 +916,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3993,
-            "average": 4.747558
+            "count": 3994,
+            "average": 4.7476215
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1001,8 +1001,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 11175,
-            "average": 4.74434
+            "count": 11176,
+            "average": 4.7442737
           },
           "provider": {
             "name": "Microsoft Learn",
