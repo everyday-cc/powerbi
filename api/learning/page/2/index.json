@@ -72,8 +72,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 90316,
-            "average": 4.7781124
+            "count": 90322,
+            "average": 4.778127
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -114,8 +114,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 35061,
-            "average": 4.7270756
+            "count": 35062,
+            "average": 4.7270837
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -199,8 +199,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 7495,
-            "average": 4.763976
+            "count": 7496,
+            "average": 4.7640076
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -320,8 +320,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 20807,
-            "average": 4.7534003
+            "count": 20812,
+            "average": 4.7533154
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -362,8 +362,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12135,
-            "average": 4.6820765
+            "count": 12136,
+            "average": 4.6820207
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -396,8 +396,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 90316,
-            "average": 4.7781124
+            "count": 90322,
+            "average": 4.778127
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -456,8 +456,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 20807,
-        "average": 4.7534003
+        "count": 20812,
+        "average": 4.7533154
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -826,8 +826,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
       "length": "PT22M",
       "ratings": {
-        "count": 229,
-        "average": 4.8908296
+        "count": 231,
+        "average": 4.8917747
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -868,8 +868,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 29404,
-        "average": 4.7205143
+        "count": 29408,
+        "average": 4.7205524
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1194,8 +1194,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
           "length": "PT22M",
           "ratings": {
-            "count": 229,
-            "average": 4.8908296
+            "count": 231,
+            "average": 4.8917747
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1236,8 +1236,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-lakehouses/",
           "length": "PT46M",
           "ratings": {
-            "count": 99,
-            "average": 4.878788
+            "count": 100,
+            "average": 4.88
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1278,8 +1278,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-apache-spark-work-files-lakehouse/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 44,
-            "average": 4.818182
+            "count": 45,
+            "average": 4.822222
           },
           "provider": {
             "name": "Microsoft Learn",
