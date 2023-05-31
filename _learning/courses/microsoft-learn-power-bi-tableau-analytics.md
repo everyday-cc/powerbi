@@ -8,7 +8,7 @@ length: PT36M
 ratings:
   count: 78
   average: 4.6410255
-heat: 130
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 641
     isCached: true
 
-secured: "Lqc+W7UgxgWYMYeZBX1ZPW5WBs0ClyHHUcHUcIKWqJo0ZiJqi+OIkp2IjNt/z65MXuCezD2FAapfktr4FBYghfQVRhi3b2LFusnoV8AgzgbdIxbquRDJ4dtA+TSfSNhQrGzNUyztf608flUbzhW73Zrq+HVYnKkMJTXyQXz6FlJz6kNoT8hE4zFIEt2OkZ2Pjm6GL9tLhM4+B9U34MQbxexB/j4Id6nwCo79k0pPXFrITbY9Y/jQdkRl4Cw3wykamQ08TILDIk7/E+a7s1bv5kcNEFWM/MWF3Fps5lV5F7JKB6FL3Sqmg+36eh+pYpHTAFHlTYVXrLMlL7CAKrQck/kPt5iUEUCEYlmncKwEvliHtMe4n9EGeJJ7+2aCx9tF+a5YbtpLjn8YtFB8J6oVpsRXCzYxxVdYhtWxAu88XkY=;B4jl1tPgYeJK2B5Y1DAggw=="
+secured: "yqL8Wzz06BjehDtwZBM1mV2lJ3sxBGviAkAqhnq0iHoUuYLM7zSXh7DoOeg8X7JdVRE+gc7pO6Ti6MLrTkJOM2nEIFqvuoe7b7BioBJZwOxEafSqYQABy/NykrSJ/Fcnffdso3kSobOZye3NTKIifJO+tmQe0UCsgHEqTkwhAG5zAfhhYlTytT7RS3RU002nYVMObJLqXaS0xS+mPkIYuL7+JLBWnORwNgCZ+gWI20VGX0yKdjKjHbCYGQl7OfUIXXLDLox88C0o/dEjUF5+hGF3HZQO/J1qRs4VGSUn8KWqIWi/EW2ptS1ImKocM3Wzt3xN4QGtrWtOm3Eu7qgowycbM4G13U4ZTPitdx/7tCphVQ+GwkEowtF4S7iwYt1JMymdgUP78pUehMPu5ZkIXr9bw96YV3AbiziG7vsGWE8=;pHJNJX5okIZLXcz4Pi15eg=="
 ---
 
