@@ -510,7 +510,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 51,
+          "heat": 131,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -812,8 +812,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 11165,
-            "average": 4.7442007
+            "count": 11168,
+            "average": 4.7442694
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -854,8 +854,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 9012,
-            "average": 4.711052
+            "count": 9013,
+            "average": 4.711084
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4090,8 +4090,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-data-connectivity/",
           "length": "PT50M",
           "ratings": {
-            "count": 136,
-            "average": 4.6764708
+            "count": 137,
+            "average": 4.678832
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4675,8 +4675,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3306,
-            "average": 4.7189956
+            "count": 3307,
+            "average": 4.719081
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4717,8 +4717,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 6144,
-            "average": 4.7163086
+            "count": 6145,
+            "average": 4.716355
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4800,8 +4800,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7155,
-            "average": 4.727184
+            "count": 7156,
+            "average": 4.7270823
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4925,8 +4925,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12142,
-            "average": 4.682013
+            "count": 12143,
+            "average": 4.6820393
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4959,8 +4959,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11320,
-            "average": 4.7066255
+            "count": 11321,
+            "average": 4.706651
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5084,8 +5084,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2788,
-            "average": 4.7661405
+            "count": 2789,
+            "average": 4.7662244
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5126,8 +5126,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2400,
-            "average": 4.70375
+            "count": 2401,
+            "average": 4.703873
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5144,7 +5144,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 52,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/manage-datasets-in-power-bi-social.png",
