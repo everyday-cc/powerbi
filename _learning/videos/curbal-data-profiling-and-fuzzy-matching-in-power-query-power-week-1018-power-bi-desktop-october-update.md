@@ -4,7 +4,7 @@ excerpt: "In the new Power BI Desktop update from October 2018, the power bi tea
 originalUrl: https://youtube.com/watch?v=rYidpz545bU
 type: video
 price: Free
-length: PT11M57S
+length: PT11M31S
 publishedDateTime: 2018-10-02T22:02:21Z
 heat: 50
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "jqhWjHOYK7//kngU1U+DYz/NmAVcl5pXxomobnN/twDgNWRN+VLGqvCN7It96rGaOAzf15BX6hWPvQR9G/AfHcK5+wa+grqi20UG6s+jQ14ysfOipQEB9SDoN4uVxQb2bgE2h7Cfwa9TT+Km+7oU/URxiphryAbskqwJyvK9M01/jpEJUv+IofFT+AwqjODa+/dNAt9vEu67FNNUFEYBY9828hmqDzrW7Ri8snNgDlyOhmNCgTf8pgZ2td3E3lOMqsAJG47YS6Ku1V5+lJYLPooJFunkObZRsdDTZ3u3gnMYC6BW5lipFtO7GK5TRjLvgmwSpNf6OHl1xHDVQGnH6PjJHBuyIVyNiPtuRVQpa+F+PQM2AbvgQMqEIMn8InhKN+SywBeZJ+ODM5ObLB+ix4X/x8Jy4eCyZHWaV76u+e0=;NZw/41FpqbO0bhNQWbPEcw=="
+secured: "5SCNomZhEQOA/kdIa51GoUKKTJD3c3lSOnB7Jdf7fAguH+Q6BpaOFsxQRmLr7+H2W102nBJoIiEZ3D6zP5O9bjP9DDTUqizW+XBnHOdN5zUDQwc8JDBlHSevp2N2JtB8rc4VyO6F0rwc5bi6rrlPvOpkOMmpwcn0TPTkqK044oWzBwE6mE4kbwaO2F3BnLEdO9GNkmroxZ2NwvsM5AhUHs9MWGKzC1GpmrEhwxloxqFrkkImWQ+wxXh1mvVbmA2QSwwlbqBtH0VRCiPFtyNRVz5OzhNVkoHVCKgnx8MqyEGrLPZ2jl+8MO5CjiLkd5Op3/ooq4gL5cjLvDCagQ1nCPF+rBkdL/WT8xyDjXz542kcfaWfNi3E8MpMyVCiUOsGWZJyA5rupQDKQeGrC7meJuk2G9RwJj9nwBg72S9yPY0=;SUwVtqNAkDwD85PPEjRoDg=="
 ---
 

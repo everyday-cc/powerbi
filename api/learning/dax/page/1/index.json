@@ -144,6 +144,45 @@
       ]
     },
     {
+      "path": "_learning/videos/sqlbi-measures-vs-calculated-columns-in-dax-and-power-bi.md",
+      "title": "Measures vs. calculated columns in DAX and Power BI",
+      "excerpt": "What are the differences between measures and calculated columns in DAX and Power BI? All the answers in this short video. Do you want to know more? Start with Introducing to DAX free course: https://www.sqlbi.com/p/introducing-dax-video-course/ Go deeper with Mastering DAX: https://www.sqlbi.com/p/mastering-dax-video-course/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-measures-vs-calculated-columns-in-dax-and-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-measures-vs-calculated-columns-in-dax-and-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=ePPi1LLX0sA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ePPi1LLX0sA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-09-03T03:00:12-07:00",
+      "heat": 81,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ePPi1LLX0sA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-date-table-create-using-dax.md",
       "title": "Power BI date table: create using DAX",
       "excerpt": "In this video, Adam looks at how to create a Power BI date table using DAX. The end result uses a combination of the GENERATE(), ROW() and CALENDARAUTO() DAX functions to create a calculated table resulting in a Power BI date table.  Using GENERATE and ROW instead of ADDCOLUMNS in DAX https://www.sqlbi.com/articles/using-generate-and-row-instead-of-addcolumns-in-dax/",
@@ -183,14 +222,14 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-measures-vs-calculated-columns-in-dax-and-power-bi.md",
-      "title": "Measures vs. calculated columns in DAX and Power BI",
-      "excerpt": "What are the differences between measures and calculated columns in DAX and Power BI? All the answers in this short video. Do you want to know more? Start with Introducing to DAX free course: https://www.sqlbi.com/p/introducing-dax-video-course/ Go deeper with Mastering DAX: https://www.sqlbi.com/p/mastering-dax-video-course/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-measures-vs-calculated-columns-in-dax-and-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-measures-vs-calculated-columns-in-dax-and-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=ePPi1LLX0sA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ePPi1LLX0sA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M",
+      "path": "_learning/videos/sqlbi-using-the-selectedvalue-function-in-dax.md",
+      "title": "Using the SELECTEDVALUE function in DAX",
+      "excerpt": "Learn how the SELECTEDVALUE DAX function simplifies the syntax required in many scenarios where you need to read a single value selected in the filter context.  Article and download: https://sql.bi/53917?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-using-the-selectedvalue-function-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-using-the-selectedvalue-function-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=Zhp1fAfN8Hw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zhp1fAfN8Hw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M27S",
       "provider": {
         "name": "SQLBI",
         "domain": "sqlbi.com",
@@ -203,11 +242,50 @@
           }
         ]
       },
-      "publishedDateTime": "2020-09-03T03:00:12-07:00",
-      "heat": 72,
+      "publishedDateTime": "2020-12-10T03:00:17-08:00",
+      "heat": 74,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ePPi1LLX0sA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Zhp1fAfN8Hw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-creating-a-simple-date-table-in-power-bi.md",
+      "title": "Creating a simple date table in Power BI",
+      "excerpt": "This video shows how to build a basic date table using a calculated table and DAX. Article and download: https://sql.bi/137725",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-creating-a-simple-date-table-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-creating-a-simple-date-table-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=-li7sxUxEqA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-li7sxUxEqA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M50S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-06-30T03:00:10-07:00",
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-li7sxUxEqA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -261,14 +339,11 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-using-the-selectedvalue-function-in-dax.md",
-      "title": "Using the SELECTEDVALUE function in DAX",
-      "excerpt": "Learn how the SELECTEDVALUE DAX function simplifies the syntax required in many scenarios where you need to read a single value selected in the filter context.  Article and download: https://sql.bi/53917?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-using-the-selectedvalue-function-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-using-the-selectedvalue-function-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=Zhp1fAfN8Hw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zhp1fAfN8Hw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M27S",
+      "path": "_learning/collections/sqlbi-dax-101-by-sqlbi.md",
+      "title": "DAX 101 by SQLBI",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/sqlbi-dax-101-by-sqlbi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/sqlbi-dax-101-by-sqlbi/",
       "provider": {
         "name": "SQLBI",
         "domain": "sqlbi.com",
@@ -281,11 +356,207 @@
           }
         ]
       },
-      "publishedDateTime": "2020-12-10T03:00:17-08:00",
-      "heat": 67,
+      "topItems": [
+        {
+          "path": "_learning/videos/sqlbi-introducing-dax-101-videos.md",
+          "title": "Introducing DAX 101 videos",
+          "excerpt": "Introductive concepts and tasks to write DAX. Short and straight to the point!",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-introducing-dax-101-videos/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-introducing-dax-101-videos/",
+          "originalUrl": "https://youtube.com/watch?v=VU4uCDQolSE",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VU4uCDQolSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT35S",
+          "provider": {
+            "name": "SQLBI",
+            "domain": "sqlbi.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-01-30T23:16:16-08:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/VU4uCDQolSE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ]
+        },
+        {
+          "path": "_learning/videos/sqlbi-previous-year-up-to-a-certain-date.md",
+          "title": "Previous year up to a certain date",
+          "excerpt": "This video describes how to compute previous year values up to a certain date in DAX and Power BI. This technique is useful in case the data is presenting incomplete months or years. Article and download: https://sql.bi/352723?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-previous-year-up-to-a-certain-date/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-previous-year-up-to-a-certain-date/",
+          "originalUrl": "https://youtube.com/watch?v=bAOs5LTP0I0",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bAOs5LTP0I0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT5M48S",
+          "provider": {
+            "name": "SQLBI",
+            "domain": "sqlbi.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-12-18T03:00:19-08:00",
+          "heat": 59,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/bAOs5LTP0I0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ]
+        },
+        {
+          "path": "_learning/videos/sqlbi-evaluation-of-variables-in-dax.md",
+          "title": "Evaluation of variables in DAX",
+          "excerpt": "Variables in DAX are constants, and this could be very confusing! Watch this video to understand how the evaluation of variables works in DAX. How to learn DAX: https://www.sqlbi.com/guides/dax/ The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-evaluation-of-variables-in-dax/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-evaluation-of-variables-in-dax/",
+          "originalUrl": "https://youtube.com/watch?v=71ERlpfhmwU",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/71ERlpfhmwU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M26S",
+          "provider": {
+            "name": "SQLBI",
+            "domain": "sqlbi.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-10-20T03:00:24-07:00",
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/71ERlpfhmwU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ]
+        },
+        {
+          "path": "_learning/videos/sqlbi-year-to-date-filtering-weekdays-in-dax.md",
+          "title": "Year-to-date filtering weekdays in DAX",
+          "excerpt": "Time intelligence functions oftentimes hide an automatic ALL statement meant to make time intelligence calculations easier. This video describes this behavior and what to do in case it ends up breaking your calculation. Article and download: https://sql.bi/123591",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-year-to-date-filtering-weekdays-in-dax/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-year-to-date-filtering-weekdays-in-dax/",
+          "originalUrl": "https://youtube.com/watch?v=JS-K2faCiCc",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JS-K2faCiCc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT5M10S",
+          "provider": {
+            "name": "SQLBI",
+            "domain": "sqlbi.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-09-08T03:00:15-07:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/JS-K2faCiCc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ]
+        }
+      ],
+      "size": 21,
+      "heat": 66,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Zhp1fAfN8Hw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/VU4uCDQolSE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-computing-totals-by-summing-visible-values-in-dax.md",
+      "title": "Computing totals by summing visible values in DAX",
+      "excerpt": "This video shows how to compute a measure that sums the values produced row by row in the visual into the visual total, instead of recomputing the total value in the filter context of the total. Article and download: https://sql.bi/89870",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-computing-totals-by-summing-visible-values-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-computing-totals-by-summing-visible-values-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=YtIdcCYnZ9w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YtIdcCYnZ9w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M15S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-08-25T05:00:15-07:00",
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YtIdcCYnZ9w/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -595,7 +866,7 @@
             ]
           },
           "publishedDateTime": "2020-09-10T03:00:19-07:00",
-          "heat": 53,
+          "heat": 56,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Tk-7gBt9CDE/maxresdefault.jpg",
@@ -634,7 +905,7 @@
             ]
           },
           "publishedDateTime": "2020-09-17T03:00:23-07:00",
-          "heat": 52,
+          "heat": 53,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/cgIi3iFKOvE/maxresdefault.jpg",
@@ -712,7 +983,7 @@
             ]
           },
           "publishedDateTime": "2020-10-01T03:00:43-07:00",
-          "heat": 52,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/EawkPc_iLs4/maxresdefault.jpg",
@@ -731,7 +1002,7 @@
         }
       ],
       "size": 10,
-      "heat": 63,
+      "heat": 64,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Tk-7gBt9CDE/maxresdefault.jpg",
@@ -748,128 +1019,73 @@
       ]
     },
     {
-      "path": "_learning/collections/sqlbi-dax-101-by-sqlbi.md",
-      "title": "DAX 101 by SQLBI",
-      "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/sqlbi-dax-101-by-sqlbi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/sqlbi-dax-101-by-sqlbi/",
+      "path": "_learning/videos/curbal-dax-fridays-118-get-selected-or-multiple-values-from-slicers-using-dax.md",
+      "title": "DAX Fridays! #118: Get selected or multiple values from slicers using DAX",
+      "excerpt": "In today's #daxfridays video I will show you how to get selected or multiple values from a slicer.  To do that, we will use the following functiions: 1. SELECTEDVALUE: https://curbal.com/blog/glossary/selectedvalue-dax 2. ALLSELECTED: https://curbal.com/blog/glossary/allselected-dax 3. IN: https://curbal.com/blog/glossary/in-dax",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-118-get-selected-or-multiple-values-from-slicers-using-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-118-get-selected-or-multiple-values-from-slicers-using-dax/",
+      "originalUrl": "https://youtube.com/watch?v=_k_Qxb6pyCc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_k_Qxb6pyCc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M8S",
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
+        "name": "Curbal",
+        "domain": "curbal.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
+      "publishedDateTime": "2019-03-07T00:50:21-08:00",
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_k_Qxb6pyCc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/collections/enterprise-dna-ultimate-beginners-guide-to-dax-2020.md",
+      "title": "Ultimate Beginners Guide to DAX 2020",
+      "excerpt": "Follow along to the beginners guide DAX tutorials by using the demo data available for download. Enjoy!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/enterprise-dna-ultimate-beginners-guide-to-dax-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/enterprise-dna-ultimate-beginners-guide-to-dax-2020/",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
       "topItems": [
         {
-          "path": "_learning/videos/sqlbi-introducing-dax-101-videos.md",
-          "title": "Introducing DAX 101 videos",
-          "excerpt": "Introductive concepts and tasks to write DAX. Short and straight to the point!",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-introducing-dax-101-videos/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-introducing-dax-101-videos/",
-          "originalUrl": "https://youtube.com/watch?v=VU4uCDQolSE",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VU4uCDQolSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT35S",
+          "path": "_learning/videos/enterprise-dna-ultimate-beginners-guide-to-dax-2021-course-intro.md",
+          "title": "Ultimate Beginners Guide To DAX 2021 - Course Intro",
+          "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-ultimate-beginners-guide-to-dax-2021-course-intro/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-ultimate-beginners-guide-to-dax-2021-course-intro/",
+          "originalUrl": "https://youtube.com/watch?v=ILVRJQ22cjs",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ILVRJQ22cjs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M48S",
           "provider": {
-            "name": "SQLBI",
-            "domain": "sqlbi.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
+            "name": "Enterprise DNA",
+            "domain": "enterprisedna.co"
           },
-          "publishedDateTime": "2021-01-30T23:16:16-08:00",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/VU4uCDQolSE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        },
-        {
-          "path": "_learning/videos/sqlbi-previous-year-up-to-a-certain-date.md",
-          "title": "Previous year up to a certain date",
-          "excerpt": "This video describes how to compute previous year values up to a certain date in DAX and Power BI. This technique is useful in case the data is presenting incomplete months or years. Article and download: https://sql.bi/352723?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-previous-year-up-to-a-certain-date/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-previous-year-up-to-a-certain-date/",
-          "originalUrl": "https://youtube.com/watch?v=bAOs5LTP0I0",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bAOs5LTP0I0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT5M48S",
-          "provider": {
-            "name": "SQLBI",
-            "domain": "sqlbi.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-12-18T03:00:19-08:00",
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/bAOs5LTP0I0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        },
-        {
-          "path": "_learning/videos/sqlbi-evaluation-of-variables-in-dax.md",
-          "title": "Evaluation of variables in DAX",
-          "excerpt": "Variables in DAX are constants, and this could be very confusing! Watch this video to understand how the evaluation of variables works in DAX. How to learn DAX: https://www.sqlbi.com/guides/dax/ The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-evaluation-of-variables-in-dax/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-evaluation-of-variables-in-dax/",
-          "originalUrl": "https://youtube.com/watch?v=71ERlpfhmwU",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/71ERlpfhmwU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M26S",
-          "provider": {
-            "name": "SQLBI",
-            "domain": "sqlbi.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-10-20T03:00:24-07:00",
+          "publishedDateTime": "2020-05-05T20:00:14-07:00",
           "heat": 53,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/71ERlpfhmwU/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/ILVRJQ22cjs/maxresdefault.jpg",
               "width": 1280,
               "height": 720,
               "isCached": true
@@ -884,31 +1100,85 @@
           ]
         },
         {
-          "path": "_learning/videos/sqlbi-year-to-date-filtering-weekdays-in-dax.md",
-          "title": "Year-to-date filtering weekdays in DAX",
-          "excerpt": "Time intelligence functions oftentimes hide an automatic ALL statement meant to make time intelligence calculations easier. This video describes this behavior and what to do in case it ends up breaking your calculation. Article and download: https://sql.bi/123591",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-year-to-date-filtering-weekdays-in-dax/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-year-to-date-filtering-weekdays-in-dax/",
-          "originalUrl": "https://youtube.com/watch?v=JS-K2faCiCc",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JS-K2faCiCc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT5M10S",
+          "path": "_learning/videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginners-guide-to-dax-2020.md",
+          "title": "What Is DAX? & Why Do You Need To Learn It - (1.2)  Ultimate Beginners Guide to DAX 2020",
+          "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginners-guide-to-dax-2020/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginners-guide-to-dax-2020/",
+          "originalUrl": "https://youtube.com/watch?v=KORVXOs44Mg",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KORVXOs44Mg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT5M42S",
           "provider": {
-            "name": "SQLBI",
-            "domain": "sqlbi.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
+            "name": "Enterprise DNA",
+            "domain": "enterprisedna.co"
           },
-          "publishedDateTime": "2020-09-08T03:00:15-07:00",
+          "publishedDateTime": "2020-05-01T01:51:47-07:00",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/KORVXOs44Mg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ]
+        },
+        {
+          "path": "_learning/videos/enterprise-dna-a-review-of-the-data-scenario-13-ultimate-beginner-guide-to-dax-2020.md",
+          "title": "A Review Of The Data Scenario - (1.3) Ultimate Beginner Guide to DAX 2020",
+          "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-a-review-of-the-data-scenario-13-ultimate-beginner-guide-to-dax-2020/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-a-review-of-the-data-scenario-13-ultimate-beginner-guide-to-dax-2020/",
+          "originalUrl": "https://youtube.com/watch?v=eoHSi2kQNCA",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" src=\"https://www.youtube.com/embed/eoHSi2kQNCA\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M4S",
+          "provider": {
+            "name": "Enterprise DNA",
+            "domain": "enterprisedna.co"
+          },
+          "publishedDateTime": "2020-05-01T01:57:50-07:00",
           "heat": 51,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/JS-K2faCiCc/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/eoHSi2kQNCA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ]
+        },
+        {
+          "path": "_learning/videos/enterprise-dna-setting-up-your-power-bi-model-14-ultimate-beginner-guide-to-dax-2020.md",
+          "title": "Setting Up Your Power BI Model - (1.4) Ultimate Beginner Guide to DAX 2020",
+          "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-setting-up-your-power-bi-model-14-ultimate-beginner-guide-to-dax-2020/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-setting-up-your-power-bi-model-14-ultimate-beginner-guide-to-dax-2020/",
+          "originalUrl": "https://youtube.com/watch?v=vEB0aS8n9I8",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vEB0aS8n9I8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT4M52S",
+          "provider": {
+            "name": "Enterprise DNA",
+            "domain": "enterprisedna.co"
+          },
+          "publishedDateTime": "2020-05-01T02:09:58-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/vEB0aS8n9I8/maxresdefault.jpg",
               "width": 1280,
               "height": 720,
               "isCached": true
@@ -923,11 +1193,11 @@
           ]
         }
       ],
-      "size": 21,
-      "heat": 63,
+      "size": 40,
+      "heat": 62,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/VU4uCDQolSE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ILVRJQ22cjs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -941,33 +1211,25 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-creating-a-simple-date-table-in-power-bi.md",
-      "title": "Creating a simple date table in Power BI",
-      "excerpt": "This video shows how to build a basic date table using a calculated table and DAX. Article and download: https://sql.bi/137725",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-creating-a-simple-date-table-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-creating-a-simple-date-table-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=-li7sxUxEqA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-li7sxUxEqA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M50S",
+      "path": "_learning/videos/radacad-month-over-month-calculation-in-power-bi-using-dax.md",
+      "title": "Month over Month Calculation in Power BI using DAX",
+      "excerpt": "When working with dates, one of the common types of analysis is period vs period, such as Year over year, and Month over month. In this article and video, I'll explain how you can use DAX to write calculations for month-over-month simply in any Power BI report. download the Power BI file and find the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-month-over-month-calculation-in-power-bi-using-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-month-over-month-calculation-in-power-bi-using-dax/",
+      "originalUrl": "https://youtube.com/watch?v=-GYw8x7hJao",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-GYw8x7hJao\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M9S",
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "RADACAD",
+        "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-06-30T03:00:10-07:00",
-      "heat": 63,
+      "publishedDateTime": "2021-05-31T15:49:21-07:00",
+      "heat": 62,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-li7sxUxEqA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/-GYw8x7hJao/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -1005,6 +1267,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/HxZLkmpY6BA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-introducing-window-functions-in-dax.md",
+      "title": "Introducing window functions in DAX",
+      "excerpt": "This video introduces the syntax and functionalities of the new DAX window functions: INDEX, OFFSET, and WINDOW.\r Article and download: https://sql.bi/784024?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-introducing-window-functions-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-introducing-window-functions-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=bxSWQNSQ8rQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bxSWQNSQ8rQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M58S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-01-31T03:00:16-08:00",
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bxSWQNSQ8rQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1074,7 +1375,7 @@
             "domain": "absentdata.com"
           },
           "publishedDateTime": "2020-07-25T19:59:10-07:00",
-          "heat": 52,
+          "heat": 53,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/80i8rLQtO3o/hqdefault.jpg",
@@ -1212,7 +1513,7 @@
             ]
           },
           "publishedDateTime": "2019-06-07T05:29:16-07:00",
-          "heat": 52,
+          "heat": 53,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/DwuAypulTLA/maxresdefault.jpg",
@@ -1405,7 +1706,7 @@
             ]
           },
           "publishedDateTime": "2016-06-21T12:47:15-07:00",
-          "heat": 53,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/pabn7kLxN6c/maxresdefault.jpg",
@@ -1483,7 +1784,7 @@
             ]
           },
           "publishedDateTime": "2016-09-13T13:34:01-07:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/vcYz0XPklXg/maxresdefault.jpg",
@@ -1558,36 +1859,36 @@
       ]
     },
     {
-      "path": "_learning/collections/enterprise-dna-ultimate-beginners-guide-to-dax-2020.md",
-      "title": "Ultimate Beginners Guide to DAX 2020",
-      "excerpt": "Follow along to the beginners guide DAX tutorials by using the demo data available for download. Enjoy!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/enterprise-dna-ultimate-beginners-guide-to-dax-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/enterprise-dna-ultimate-beginners-guide-to-dax-2020/",
+      "path": "_learning/collections/power-bi-tips-dax-studio-tutorials.md",
+      "title": "DAX Studio Tutorials",
+      "excerpt": "DAX Studio is the tool for data model tuning.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/power-bi-tips-dax-studio-tutorials/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/power-bi-tips-dax-studio-tutorials/",
       "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
       },
       "topItems": [
         {
-          "path": "_learning/videos/enterprise-dna-ultimate-beginners-guide-to-dax-2021-course-intro.md",
-          "title": "Ultimate Beginners Guide To DAX 2021 - Course Intro",
-          "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-ultimate-beginners-guide-to-dax-2021-course-intro/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-ultimate-beginners-guide-to-dax-2021-course-intro/",
-          "originalUrl": "https://youtube.com/watch?v=ILVRJQ22cjs",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ILVRJQ22cjs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M48S",
+          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-introduction-to-dax-studio-by-darren-gosbell.md",
+          "title": "PowerBI.Tips - Tutorial - Introduction to DAX Studio - By Darren Gosbell",
+          "excerpt": "DAX Studio is the tool for data model tuning.  Darren Gosbell the creator of DAX Studio will be giving a live demo of his tool.    In this webinar we will be reviewing the following topics:  - What is DAX Studio?  - Why should I use DAX Studio?  - Getting started and connecting DAX Studio to various",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-introduction-to-dax-studio-by-darren-gosbell/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-introduction-to-dax-studio-by-darren-gosbell/",
+          "originalUrl": "https://youtube.com/watch?v=jpZnCHRauPU",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jpZnCHRauPU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H14S",
           "provider": {
-            "name": "Enterprise DNA",
-            "domain": "enterprisedna.co"
+            "name": "Power BI Tips",
+            "domain": "powerbi.tips"
           },
-          "publishedDateTime": "2020-05-05T20:00:14-07:00",
+          "publishedDateTime": "2020-04-24T10:20:00-07:00",
           "heat": 52,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/ILVRJQ22cjs/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
+              "url": "https://i.ytimg.com/vi/jpZnCHRauPU/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
               "isCached": true
             }
           ],
@@ -1600,25 +1901,25 @@
           ]
         },
         {
-          "path": "_learning/videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginners-guide-to-dax-2020.md",
-          "title": "What Is DAX? & Why Do You Need To Learn It - (1.2)  Ultimate Beginners Guide to DAX 2020",
-          "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginners-guide-to-dax-2020/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginners-guide-to-dax-2020/",
-          "originalUrl": "https://youtube.com/watch?v=KORVXOs44Mg",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KORVXOs44Mg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT5M42S",
+          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-model-performance-tuning-in-dax-studio-by-marco-russo.md",
+          "title": "PowerBI.Tips - Tutorial - Model Performance Tuning in DAX Studio - By Marco Russo",
+          "excerpt": "DAX Studio is the tool for data model tuning.  Marco Russo contributor to DAX Studio will be giving us a deep dive and demo around using DAX Studio for Model Performance Tuning.   You will not want to miss this event as Marco is a wealth of knowledge for all things Data Modeling!  Watch the Full Tutorial",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-model-performance-tuning-in-dax-studio-by-marco-russo/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-model-performance-tuning-in-dax-studio-by-marco-russo/",
+          "originalUrl": "https://youtube.com/watch?v=ERGpV4yt30w",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ERGpV4yt30w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H9M2S",
           "provider": {
-            "name": "Enterprise DNA",
-            "domain": "enterprisedna.co"
+            "name": "Power BI Tips",
+            "domain": "powerbi.tips"
           },
-          "publishedDateTime": "2020-05-01T01:51:47-07:00",
+          "publishedDateTime": "2020-04-24T11:32:43-07:00",
           "heat": 51,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/KORVXOs44Mg/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
+              "url": "https://i.ytimg.com/vi/ERGpV4yt30w/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
               "isCached": true
             }
           ],
@@ -1631,25 +1932,25 @@
           ]
         },
         {
-          "path": "_learning/videos/enterprise-dna-a-review-of-the-data-scenario-13-ultimate-beginner-guide-to-dax-2020.md",
-          "title": "A Review Of The Data Scenario - (1.3) Ultimate Beginner Guide to DAX 2020",
-          "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-a-review-of-the-data-scenario-13-ultimate-beginner-guide-to-dax-2020/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-a-review-of-the-data-scenario-13-ultimate-beginner-guide-to-dax-2020/",
-          "originalUrl": "https://youtube.com/watch?v=eoHSi2kQNCA",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" src=\"https://www.youtube.com/embed/eoHSi2kQNCA\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M4S",
+          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-full-features-review-by-darren-gosbell.md",
+          "title": "PowerBI.Tips - Tutorial - DAX Studio Full Features Review - By Darren Gosbell",
+          "excerpt": "DAX Studio is the tool for data model tuning.  Darren Gosbell the creator of DAX Studio will be giving a live demo of his tool.    In this live webinar Darren will be giving a full overview of all the features of DAX Studio.  - https://daxstudio.org/documentation/features/  Watch the Full Tutorial Series:",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-full-features-review-by-darren-gosbell/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-full-features-review-by-darren-gosbell/",
+          "originalUrl": "https://youtube.com/watch?v=SoqF-c4KtHQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SoqF-c4KtHQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H23M11S",
           "provider": {
-            "name": "Enterprise DNA",
-            "domain": "enterprisedna.co"
+            "name": "Power BI Tips",
+            "domain": "powerbi.tips"
           },
-          "publishedDateTime": "2020-05-01T01:57:50-07:00",
+          "publishedDateTime": "2020-04-24T13:46:32-07:00",
           "heat": 50,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/eoHSi2kQNCA/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
+              "url": "https://i.ytimg.com/vi/SoqF-c4KtHQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
               "isCached": true
             }
           ],
@@ -1662,25 +1963,25 @@
           ]
         },
         {
-          "path": "_learning/videos/enterprise-dna-setting-up-your-power-bi-model-14-ultimate-beginner-guide-to-dax-2020.md",
-          "title": "Setting Up Your Power BI Model - (1.4) Ultimate Beginner Guide to DAX 2020",
-          "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-setting-up-your-power-bi-model-14-ultimate-beginner-guide-to-dax-2020/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-setting-up-your-power-bi-model-14-ultimate-beginner-guide-to-dax-2020/",
-          "originalUrl": "https://youtube.com/watch?v=vEB0aS8n9I8",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vEB0aS8n9I8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT4M52S",
+          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-query-performance-tuning-by-marco-russo.md",
+          "title": "PowerBI.Tips - Tutorial - DAX Studio Query Performance Tuning - By Marco Russo",
+          "excerpt": "DAX Studio is the tool for data model tuning.  Marco Russo contributor to DAX Studio will be giving us a deep dive and demo around using DAX Studio for Query Performance Tuning.  You will not want to miss this event as Marco is a wealth of knowledge for all things Data Modeling!  Watch the Full Tutorial",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-query-performance-tuning-by-marco-russo/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-query-performance-tuning-by-marco-russo/",
+          "originalUrl": "https://youtube.com/watch?v=d6ppyWQU-f0",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d6ppyWQU-f0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H59S",
           "provider": {
-            "name": "Enterprise DNA",
-            "domain": "enterprisedna.co"
+            "name": "Power BI Tips",
+            "domain": "powerbi.tips"
           },
-          "publishedDateTime": "2020-05-01T02:09:58-07:00",
+          "publishedDateTime": "2020-04-24T15:44:45-07:00",
           "heat": 50,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/vEB0aS8n9I8/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
+              "url": "https://i.ytimg.com/vi/d6ppyWQU-f0/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
               "isCached": true
             }
           ],
@@ -1693,13 +1994,13 @@
           ]
         }
       ],
-      "size": 40,
+      "size": 5,
       "heat": 61,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ILVRJQ22cjs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/jpZnCHRauPU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -1790,7 +2091,7 @@
             ]
           },
           "publishedDateTime": "2020-04-30T09:01:04-07:00",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/kAniA_N7sB8/maxresdefault.jpg",
@@ -1982,45 +2283,6 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-understanding-context-transition.md",
-      "title": "Understanding context transition",
-      "excerpt": "Context transition is one of the most obscure topics for DAX newbies. Learn how it works, its effects, and how to leverage it rather than be scared of it.\r Article and download: https://sql.bi/751407?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-understanding-context-transition/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-understanding-context-transition/",
-      "originalUrl": "https://youtube.com/watch?v=lMuDz6ViU1w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lMuDz6ViU1w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M25S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-05-10T03:00:26-07:00",
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lMuDz6ViU1w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/collections/dhruvin-shah-wednesday-with-dax-in-power-bi.md",
       "title": "Wednesday with DAX in Power BI",
       "excerpt": "Welcome to my new Power BI DAX Series. Every Wednesday, we will talk about different DAX functions.",
@@ -2138,7 +2400,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2020-10-26T20:53:28-07:00",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/qZYyGG2L8gI/maxresdefault.jpg",
@@ -2174,153 +2436,39 @@
       ]
     },
     {
-      "path": "_learning/collections/power-bi-tips-dax-studio-tutorials.md",
-      "title": "DAX Studio Tutorials",
-      "excerpt": "DAX Studio is the tool for data model tuning.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/power-bi-tips-dax-studio-tutorials/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/power-bi-tips-dax-studio-tutorials/",
+      "path": "_learning/videos/curbal-dax-fridays-213-year-to-date-same-period-previous-years-in-one-measure.md",
+      "title": "DAX Fridays! #213 : Year-to-date Same period previous years IN ONE MEASURE!",
+      "excerpt": "In todays video I will show you how to calculate year to date for the same period previous years, all in one measure!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-213-year-to-date-same-period-previous-years-in-one-measure/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-213-year-to-date-same-period-previous-years-in-one-measure/",
+      "originalUrl": "https://youtube.com/watch?v=T4i1ebJMhUk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/T4i1ebJMhUk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M24S",
       "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "topItems": [
-        {
-          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-introduction-to-dax-studio-by-darren-gosbell.md",
-          "title": "PowerBI.Tips - Tutorial - Introduction to DAX Studio - By Darren Gosbell",
-          "excerpt": "DAX Studio is the tool for data model tuning.  Darren Gosbell the creator of DAX Studio will be giving a live demo of his tool.    In this webinar we will be reviewing the following topics:  - What is DAX Studio?  - Why should I use DAX Studio?  - Getting started and connecting DAX Studio to various",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-introduction-to-dax-studio-by-darren-gosbell/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-introduction-to-dax-studio-by-darren-gosbell/",
-          "originalUrl": "https://youtube.com/watch?v=jpZnCHRauPU",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jpZnCHRauPU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1H14S",
-          "provider": {
-            "name": "Power BI Tips",
-            "domain": "powerbi.tips"
-          },
-          "publishedDateTime": "2020-04-24T10:20:00-07:00",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/jpZnCHRauPU/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        },
-        {
-          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-model-performance-tuning-in-dax-studio-by-marco-russo.md",
-          "title": "PowerBI.Tips - Tutorial - Model Performance Tuning in DAX Studio - By Marco Russo",
-          "excerpt": "DAX Studio is the tool for data model tuning.  Marco Russo contributor to DAX Studio will be giving us a deep dive and demo around using DAX Studio for Model Performance Tuning.   You will not want to miss this event as Marco is a wealth of knowledge for all things Data Modeling!  Watch the Full Tutorial",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-model-performance-tuning-in-dax-studio-by-marco-russo/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-model-performance-tuning-in-dax-studio-by-marco-russo/",
-          "originalUrl": "https://youtube.com/watch?v=ERGpV4yt30w",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ERGpV4yt30w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1H9M2S",
-          "provider": {
-            "name": "Power BI Tips",
-            "domain": "powerbi.tips"
-          },
-          "publishedDateTime": "2020-04-24T11:32:43-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/ERGpV4yt30w/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        },
-        {
-          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-full-features-review-by-darren-gosbell.md",
-          "title": "PowerBI.Tips - Tutorial - DAX Studio Full Features Review - By Darren Gosbell",
-          "excerpt": "DAX Studio is the tool for data model tuning.  Darren Gosbell the creator of DAX Studio will be giving a live demo of his tool.    In this live webinar Darren will be giving a full overview of all the features of DAX Studio.  - https://daxstudio.org/documentation/features/  Watch the Full Tutorial Series:",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-full-features-review-by-darren-gosbell/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-full-features-review-by-darren-gosbell/",
-          "originalUrl": "https://youtube.com/watch?v=SoqF-c4KtHQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SoqF-c4KtHQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1H23M11S",
-          "provider": {
-            "name": "Power BI Tips",
-            "domain": "powerbi.tips"
-          },
-          "publishedDateTime": "2020-04-24T13:46:32-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/SoqF-c4KtHQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        },
-        {
-          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-query-performance-tuning-by-marco-russo.md",
-          "title": "PowerBI.Tips - Tutorial - DAX Studio Query Performance Tuning - By Marco Russo",
-          "excerpt": "DAX Studio is the tool for data model tuning.  Marco Russo contributor to DAX Studio will be giving us a deep dive and demo around using DAX Studio for Query Performance Tuning.  You will not want to miss this event as Marco is a wealth of knowledge for all things Data Modeling!  Watch the Full Tutorial",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-query-performance-tuning-by-marco-russo/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-query-performance-tuning-by-marco-russo/",
-          "originalUrl": "https://youtube.com/watch?v=d6ppyWQU-f0",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d6ppyWQU-f0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1H59S",
-          "provider": {
-            "name": "Power BI Tips",
-            "domain": "powerbi.tips"
-          },
-          "publishedDateTime": "2020-04-24T15:44:45-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/d6ppyWQU-f0/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        }
-      ],
-      "size": 5,
+      "publishedDateTime": "2021-11-01T02:51:37-07:00",
       "heat": 60,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/jpZnCHRauPU/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/T4i1ebJMhUk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "collection",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "Power BI",
         "DAX"
@@ -2358,162 +2506,6 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-computing-totals-by-summing-visible-values-in-dax.md",
-      "title": "Computing totals by summing visible values in DAX",
-      "excerpt": "This video shows how to compute a measure that sums the values produced row by row in the visual into the visual total, instead of recomputing the total value in the filter context of the total. Article and download: https://sql.bi/89870",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-computing-totals-by-summing-visible-values-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-computing-totals-by-summing-visible-values-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=YtIdcCYnZ9w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YtIdcCYnZ9w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M15S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-08-25T05:00:15-07:00",
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YtIdcCYnZ9w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-filter-context-in-dax.md",
-      "title": "Filter Context in DAX",
-      "excerpt": "Understanding the difference between a row context and a filter context is the first and most important concept to learn to use DAX correctly. This video introduces the filter context.\r Article and download: https://sql.bi/747800?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-filter-context-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-filter-context-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=lX2ztEh3tuA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lX2ztEh3tuA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M3S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-04-12T03:01:41-07:00",
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lX2ztEh3tuA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-118-get-selected-or-multiple-values-from-slicers-using-dax.md",
-      "title": "DAX Fridays! #118: Get selected or multiple values from slicers using DAX",
-      "excerpt": "In today's #daxfridays video I will show you how to get selected or multiple values from a slicer.  To do that, we will use the following functiions: 1. SELECTEDVALUE: https://curbal.com/blog/glossary/selectedvalue-dax 2. ALLSELECTED: https://curbal.com/blog/glossary/allselected-dax 3. IN: https://curbal.com/blog/glossary/in-dax",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-118-get-selected-or-multiple-values-from-slicers-using-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-118-get-selected-or-multiple-values-from-slicers-using-dax/",
-      "originalUrl": "https://youtube.com/watch?v=_k_Qxb6pyCc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_k_Qxb6pyCc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M8S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-03-07T00:50:21-08:00",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_k_Qxb6pyCc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-211-using-inactive-relationships-in-slicers-userelationship.md",
-      "title": "DAX Fridays #211: Using inactive relationships in slicers | USERELATIONSHIP",
-      "excerpt": "In today's video we will tak about inactive relationshipls, when and how to create them and how you can use them in slicers.  00:00 Intro 00:20 Present the use case 01:50 Show issues without inactive relationships 03:00 When and how to use inactive relationships 04:20 Use userelationship to activate",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-211-using-inactive-relationships-in-slicers-userelationship/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-211-using-inactive-relationships-in-slicers-userelationship/",
-      "originalUrl": "https://youtube.com/watch?v=X9rkpt7-LNQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X9rkpt7-LNQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M36S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-05-12T05:16:54-07:00",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/X9rkpt7-LNQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/sqlbi-comparing-with-previous-selected-time-period-in-dax.md",
       "title": "Comparing with previous selected time period in DAX",
       "excerpt": "This video describes how you can create a comparison with the previous time period in a visualization, regardless of whether the time periods are consecutive or not: https://sql.bi/526183/?aff=yt (Optimizing duplicated DAX expressions using variables)  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt",
@@ -2535,7 +2527,7 @@
         ]
       },
       "publishedDateTime": "2021-01-21T03:22:59-08:00",
-      "heat": 59,
+      "heat": 60,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/JBN-x2duxSU/maxresdefault.jpg",

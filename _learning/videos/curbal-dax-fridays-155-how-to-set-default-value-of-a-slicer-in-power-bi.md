@@ -4,9 +4,9 @@ excerpt: "In today's video, I will show you how to set the default value of a sl
 originalUrl: https://youtube.com/watch?v=rvsx0lc6i7A
 type: video
 price: Free
-length: PT4M57S
+length: PT4M56S
 publishedDateTime: 2020-07-02T12:27:42Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rvsx0lc6i7A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "jwkv/nyas/Usr8KUqNG2bcAGbvGpMJ2Tze75MnElWQY+gN6f2gfMxRRx6RO3HXb8Prw/0DC30IEg2iIPf8wS2bAq41yKCyOecpIPElNvvYWZWx9cA0exyQnXU9Og6f91/KVwka3MGHIexKasZquIrH2zYuPfKRFsuJBO6Ov0iTw5qFzeNduAjewzIaxMkZsFDFGS3O7+iNR0bCjw74iggZR51R5DOE4LqwMKQMmF2tD1bsRoRtF8jFBGv7EwIHLTp5hcfbZ3RkQKT234tLnRW9y8UeC9aZ4utOVjtmkOPrsm4ht2YXtHoiqKzPJy8HBPocJ1sDuf8kB7Lq5/RnCW1oMqx5Lp3OflxPXeS+nwHAbBwvu4U2JZHi9C6gh4Y1u9yMckbZNYs7YHMBDpYiDfx9QduDrIFZOQj3v5fiOZszQ=;1EWA4PeH58lrywLQoCRY4g=="
+secured: "Qw+5SNtag+nQAmAba+Cg2R8tU2rRD7a7Zzx3JyYY1vqvqIDjtimDJ5WlmWfaYMQ8jo+2z3lO4PIBA3cBVawnz2W30fncKHMegMDmggVNdWKKnb+WO5D1JfwU9HXa+KQCbmc2od9oxNo5KRdppCtOCRBoE0h+WvVCEWHbdLhUfz/pMP+kXBO5640Uyx62+IKEi/nLuhCV81fjoEb5iHpxC13N1QPeDOEmaa74aZACwW5CGCLZJBuc58veF5FTiaP1YsQDHg+OVvCX9hBA9dUAHW4ZKX/VFBDDG8Ra4+P3mV/3GPDQMOgycg8S0KwaflZKqR/D6zCTOL80t9jlwP0x74VhKuLHt5T2au+R+FemzMf9LQssmd+BnrzVby1E5Pj0RUT2UOs4kmr1gPIM2/wi8rhVNndpl4PHdh5XgVcEhqg=;iZJrh0MDY8yB/PCwNciEEw=="
 ---
 

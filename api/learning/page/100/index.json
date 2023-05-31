@@ -4,14 +4,136 @@
   "page": 100,
   "value": [
     {
-      "path": "_learning/videos/sqlbi-blank-row-and-limited-relationships.md",
-      "title": "Blank row and limited relationships",
-      "excerpt": "DAX creates a blank row to guarantee that results are accurate even if a regular relationship is invalid. The blank row is not created for limited relationships. This video shows the effect of not having a blank row in your tables.\r Article and download: https://sql.bi/785676?aff=yt\r \r How to learn DAX:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-blank-row-and-limited-relationships/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-blank-row-and-limited-relationships/",
-      "originalUrl": "https://youtube.com/watch?v=eosB-n7m2x8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eosB-n7m2x8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M",
+      "path": "_learning/videos/radacad-what-should-be-your-salary-in-2020-if-you-work-with-power-bi.md",
+      "title": "What should be your Salary in 2020 if you work with Power BI",
+      "excerpt": "The Power BI 2020 Salary survey was popular enough to get some interesting results. In this post, I am sharing the result of that survey (which is filled by the public) as a Power BI report. The report gives you an overall idea of how much the minimum, maximum, and average salary should be based on geo-location",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-should-be-your-salary-in-2020-if-you-work-with-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-should-be-your-salary-in-2020-if-you-work-with-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=B_Bq2SjNkSE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B_Bq2SjNkSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M20S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-01-01T20:48:38-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B_Bq2SjNkSE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-what-should-be-your-salary-in-2021-if-you-work-with-power-bi.md",
+      "title": "What should be your Salary in 2021 if you work with Power BI",
+      "excerpt": "The Power BI 2021 Salary survey was popular enough to get some interesting results. In this post, I am sharing the result of that survey (which is filled by the public) as a Power BI report. The report gives you an overall idea of how much the minimum, maximum, and average salary should be based on geo-location",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-should-be-your-salary-in-2021-if-you-work-with-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-should-be-your-salary-in-2021-if-you-work-with-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=xQ_rZxAROjk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xQ_rZxAROjk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M53S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-01-11T10:15:26-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xQ_rZxAROjk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-working-with-records-lists-and-values-in-power-bi-dataflows.md",
+      "title": "Working with Records, Lists, and Values in Power BI Dataflows",
+      "excerpt": "If you have been using dataflows, and you have the return value of a query as something which is not in the form of a table, such as a record, list, or value. then you have seen that the dataflow automatically converts them all to tables. There is an explanation about it, and a method around it. In this",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-working-with-records-lists-and-values-in-power-bi-dataflows/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-working-with-records-lists-and-values-in-power-bi-dataflows/",
+      "originalUrl": "https://youtube.com/watch?v=M7dkx6uW4u4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M7dkx6uW4u4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M56S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-05-26T23:20:38-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/M7dkx6uW4u4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Dataflows"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-writing-calculations-on-a-real-time-streaming-power-bi-dataset-using-dax-measures.md",
+      "title": "Writing calculations on a real time streaming Power BI dataset using DAX measures",
+      "excerpt": "In the previous article and video, I explained a method that you can use to have real-time calculations in a Power BI streaming dataset. The calculations done that way are limited though because it is using the Q&A feature of Power BI. If you are after a complex calculation then DAX can definitely help.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-writing-calculations-on-a-real-time-streaming-power-bi-dataset-using-dax-measures/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-writing-calculations-on-a-real-time-streaming-power-bi-dataset-using-dax-measures/",
+      "originalUrl": "https://youtube.com/watch?v=wZFOanDjTB4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wZFOanDjTB4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M13S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-01-14T13:27:08-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wZFOanDjTB4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-analyzing-performance-analyzer-trace-in-dax-studio.md",
+      "title": "Analyzing Performance Analyzer trace in DAX Studio",
+      "excerpt": "Learn how to import Performance Analyzer trace information in DAX Studio and find more insights about report performance. How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-analyzing-performance-analyzer-trace-in-dax-studio/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-analyzing-performance-analyzer-trace-in-dax-studio/",
+      "originalUrl": "https://youtube.com/watch?v=rMqZmrOqAAo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rMqZmrOqAAo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M11S",
       "provider": {
         "name": "SQLBI",
         "domain": "sqlbi.com",
@@ -24,11 +146,128 @@
           }
         ]
       },
-      "publishedDateTime": "2023-02-14T04:01:06-08:00",
+      "publishedDateTime": "2020-07-02T03:00:12-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/eosB-n7m2x8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/rMqZmrOqAAo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-analyzing-the-parallelism-of-storage-engine-operations-in-dax-studio.md",
+      "title": "Analyzing the parallelism of storage engine operations in DAX Studio",
+      "excerpt": "DAX Studio 2.17 introduced improved server timings features to analyze the parallelism of storage engine operations.\r Article and download: https://sql.bi/733037?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-analyzing-the-parallelism-of-storage-engine-operations-in-dax-studio/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-analyzing-the-parallelism-of-storage-engine-operations-in-dax-studio/",
+      "originalUrl": "https://youtube.com/watch?v=Lijqx2mIXlw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Lijqx2mIXlw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M31S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-11-23T03:01:10-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Lijqx2mIXlw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-analyzing-the-performance-of-distinctcount-in-dax.md",
+      "title": "Analyzing the performance of DISTINCTCOUNT in DAX",
+      "excerpt": "Analyze the performance of a DAX measure based on a DISTINCTCOUNT calculation and evaluate possible optimizations. Article and download: https://sql.bi/432941/?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-analyzing-the-performance-of-distinctcount-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-analyzing-the-performance-of-distinctcount-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=7SwD6953G6s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7SwD6953G6s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M24S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-03-04T03:00:23-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7SwD6953G6s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-applying-color-banding-by-document-number-in-power-bi.md",
+      "title": "Applying color banding by document number in Power BI",
+      "excerpt": "This video describes how to use conditional formatting with a DAX expression to color the rows of a table in Power BI based on the order number instead of using the alternate rows color formatting option. Article and download: https://sql.bi/661744?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-applying-color-banding-by-document-number-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-applying-color-banding-by-document-number-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=TwUKVrY8KE0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TwUKVrY8KE0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M12S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-28T04:33:03-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TwUKVrY8KE0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -193,45 +432,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-creating-a-calculated-table-with-dax-studio.md",
-      "title": "Creating a calculated table with DAX Studio",
-      "excerpt": "Use DAX Studio to write and test the expression for a calculated table in Power BI. How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-creating-a-calculated-table-with-dax-studio/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-creating-a-calculated-table-with-dax-studio/",
-      "originalUrl": "https://youtube.com/watch?v=yZnl2P9ik9g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yZnl2P9ik9g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M9S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-22T13:16:23-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yZnl2P9ik9g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     },
     {
@@ -505,14 +705,14 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-how-to-return-blank-instead-of-zero.md",
-      "title": "How to return BLANK instead of zero",
-      "excerpt": "How to return BLANK instead of zero in a DAX measure: Using this technique, you can remove rows in a Power BI matrix visual where the result of a measure is zero.\r Article and download: https://sql.bi/745368?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-how-to-return-blank-instead-of-zero/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-how-to-return-blank-instead-of-zero/",
-      "originalUrl": "https://youtube.com/watch?v=awFZlSgZn90",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/awFZlSgZn90\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M30S",
+      "path": "_learning/videos/sqlbi-hiding-measures-by-using-object-level-security-in-power-bi.md",
+      "title": "Hiding measures by using object level security in Power BI",
+      "excerpt": "This article describes how to hide measures from a group of users by leveraging object-level security in Power BI and Analysis Services.\r Article and download: https://sql.bi/757626?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-hiding-measures-by-using-object-level-security-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-hiding-measures-by-using-object-level-security-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=9kEIT5BPtjw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9kEIT5BPtjw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M33S",
       "provider": {
         "name": "SQLBI",
         "domain": "sqlbi.com",
@@ -525,11 +725,11 @@
           }
         ]
       },
-      "publishedDateTime": "2022-03-15T04:02:25-07:00",
+      "publishedDateTime": "2022-07-05T03:00:22-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/awFZlSgZn90/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/9kEIT5BPtjw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -776,82 +976,6 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-introducing-lookupvalue.md",
-      "title": "Introducing LOOKUPVALUE",
-      "excerpt": "This video shows how to use LOOKUPVALUE, which is a handy function for any developer to have in their toolbelt. Article and download: https://sql.bi/670595?aff=yt Additional resources: Expanded tables (article): https://sql.bi/65647?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-introducing-lookupvalue/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-introducing-lookupvalue/",
-      "originalUrl": "https://youtube.com/watch?v=pmZ-gumL7H0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pmZ-gumL7H0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-07-06T12:30:11-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pmZ-gumL7H0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-kpi-in-tabular-models-for-power-bi-and-excel.md",
-      "title": "KPI in Tabular models for Power BI and Excel",
-      "excerpt": "Learn the KPI settings needed to get the best result using Power BI and Excel as clients. Article and download: https://sql.bi/681318?aff=yt Introduction to KPI in Power BI Desktop models:  - video: https://youtu.be/xxh60Sx83zw - article: https://sql.bi/673658?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-kpi-in-tabular-models-for-power-bi-and-excel/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-kpi-in-tabular-models-for-power-bi-and-excel/",
-      "originalUrl": "https://youtube.com/watch?v=Ux-dGDvH0fE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ux-dGDvH0fE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M58S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-26T12:30:17-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ux-dGDvH0fE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/sqlbi-letter-case-sensitivity-in-dax-power-bi-and-analysis-services.md",
       "title": "Letter case sensitivity in DAX, Power BI and Analysis Services",
       "excerpt": "Power BI and Analysis Services are case-insensitive by default. Lowercase letters are identical to uppercase letters. This is mostly a good choice, but it also comes with unexpected consequences. In this video, we run through a set of queries to understand what to be aware of when working with a mixture",
@@ -969,14 +1093,14 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-optimizing-card-visuals-in-slow-power-bi-reports.md",
-      "title": "Optimizing card visuals in slow Power BI reports",
-      "excerpt": "Optimize a slow Power BI report with a large number of card visuals, obtaining the same graphical layout with a smaller number of visuals.\r \r Article and download: https://sql.bi/fast-reports-with-cards/?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-optimizing-card-visuals-in-slow-power-bi-reports/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-optimizing-card-visuals-in-slow-power-bi-reports/",
-      "originalUrl": "https://youtube.com/watch?v=wNNemTpA9Vo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wNNemTpA9Vo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M36S",
+      "path": "_learning/videos/sqlbi-optimizing-conditions-involving-blank-values-in-dax.md",
+      "title": "Optimizing conditions involving blank values in DAX",
+      "excerpt": "Learn how blank values in a DAX conditional expression can affect its query plan and how to apply possible optimizations to improve performance in these cases.\r Article and download: https://sql.bi/483918?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-optimizing-conditions-involving-blank-values-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-optimizing-conditions-involving-blank-values-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=Kb-AqMQzLAk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Kb-AqMQzLAk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M52S",
       "provider": {
         "name": "SQLBI",
         "domain": "sqlbi.com",
@@ -989,49 +1113,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-03-23T04:01:13-07:00",
+      "publishedDateTime": "2021-07-06T03:00:49-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/wNNemTpA9Vo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-optimizing-dax-with-cardinality-estimation-computing-working-days.md",
-      "title": "Optimizing DAX with cardinality estimation computing working days",
-      "excerpt": "Learn how to estimate the cardinality of iterators computing the number of working days between two dates. Article and download: https://sql.bi/699689/?aff=yt  This is an important skill when optimizing DAX code.   How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-optimizing-dax-with-cardinality-estimation-computing-working-days/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-optimizing-dax-with-cardinality-estimation-computing-working-days/",
-      "originalUrl": "https://youtube.com/watch?v=zMKgjiqjATg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zMKgjiqjATg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M5S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-02-18T03:00:26-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zMKgjiqjATg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Kb-AqMQzLAk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1043,122 +1129,6 @@
       "topics": [
         "Power BI",
         "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-optimizing-duplicated-dax-expressions-using-variables.md",
-      "title": "Optimizing duplicated DAX expressions using variables",
-      "excerpt": "This video describes how to use variables to optimize the performance of DAX expressions containing multiple instances of the same measure or the same sub-expression. There are two related articles and downloads: https://sql.bi/62887/?aff=yt (Optimizing duplicated DAX expressions using variables) https://sql.bi/67786/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-optimizing-duplicated-dax-expressions-using-variables/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-optimizing-duplicated-dax-expressions-using-variables/",
-      "originalUrl": "https://youtube.com/watch?v=dtFq-TvGL1M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dtFq-TvGL1M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M48S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-07T03:00:13-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dtFq-TvGL1M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-optimizing-fusion-optimization-for-dax-measures.md",
-      "title": "Optimizing fusion optimization for DAX measures",
-      "excerpt": "How to implement a DAX measure to run faster than what you get from the built-in horizontal fusion optimization.\r \r Article and download: https://sql.bi/792359?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-optimizing-fusion-optimization-for-dax-measures/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-optimizing-fusion-optimization-for-dax-measures/",
-      "originalUrl": "https://youtube.com/watch?v=-8j4iYIYXSk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-8j4iYIYXSk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M12S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-03-28T03:00:15-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-8j4iYIYXSk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-power-bi-api-service-principal-account.md",
-      "title": "Power BI API Service Principal Account",
-      "excerpt": "Only for developers: how to create a service principal account to be used with the Power BI API. Special guest: Paolo Pialorsi https://piasys.com/techbites Article and download: https://sql.bi/679872?aff=yt  00:00 Presentation 01:00 Description of the demo: an application pushes data in real-time onto",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-power-bi-api-service-principal-account/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-power-bi-api-service-principal-account/",
-      "originalUrl": "https://youtube.com/watch?v=wMdpLApYnCU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wMdpLApYnCU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M54S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-04T22:00:17-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wMdpLApYnCU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],

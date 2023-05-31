@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
       "length": "PT22M",
       "ratings": {
-        "count": 227,
-        "average": 4.889868
+        "count": 229,
+        "average": 4.8908296
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 68,
+      "heat": 83,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-lakehouses/",
       "length": "PT46M",
       "ratings": {
-        "count": 94,
-        "average": 4.87234
+        "count": 99,
+        "average": 4.878788
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 59,
+      "heat": 68,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
@@ -113,7 +113,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 55,
+      "heat": 58,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
@@ -155,7 +155,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 54,
+      "heat": 56,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
@@ -197,7 +197,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 52,
+      "heat": 56,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
@@ -239,7 +239,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 53,
+      "heat": 55,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
@@ -282,7 +282,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 51,
+      "heat": 54,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
@@ -324,7 +324,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 51,
+      "heat": 52,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
@@ -408,7 +408,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 56,
+      "heat": 55,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",

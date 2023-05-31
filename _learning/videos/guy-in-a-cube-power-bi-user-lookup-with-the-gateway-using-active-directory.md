@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M22S
 publishedDateTime: 2020-04-26T22:33:51Z
-heat: 50
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NG05PG9aiRw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI User lookup with the gateway using Active Directory"
 
-secured: "Lq6o7ncP59+/u/5wJ7aFb6+dODIPcMrxm1HdNLG0M4RQNwXKjLakKoS2Ill9t3h/X04WVrPy54p66VkPEiWxlzbZBBZg7QMQlQx0gRR7p8Rm9xt38VJe5qQ5zB8cJOnsRnV3pRiy7yxt4hINYrDLcsQQtxOrtqq1tL8TAQq2ntVMDgwZ9UlTp5SuxOtenG2FkHJanK/jhV6Rvfbe1y6KfQJyjZlDPz7YBUDHlhet7D9mzg5Z+2Jr3hwAk2VIYFkrAc9X6CT/vlp58DaeMAUTvV9n0RNBZ+mxGL32B9bJLvECBS6sgQv2ohi9hkdsnAi4x6TgDBibc1TueyjPnJzirEknybooFwnJv3Sw8JifvnCfob2qkGLtIV50AW+E7ZjXYBmmCdlLsi+B7HbpUcEbQisJH89uSbIIxu4mW3VjFBM=;ci6PrhObec1ldyAIU8MIQQ=="
+secured: "YrdkgCNdKmiU4RsDvIZvFXz/iyFT1IkBOv9ecI+omKnRjJnorwvEMSM2nSgkrne/PCsZKGxCVh27yU7ob4wlhQgo7svW3tQAO8HKBNWdPjEX6XK/8FN02rlaPaqXpQBAlLl6FIP9N/mWk2+YDD+uixAcFIo3JYOH1ZEdkbFhB0B6uBFlPR0+c36I9vC24vWdSnP43i2p9DQxTQHaUDj/oUgdzihwVn2O8O+jaEFf604K8r3bBPMZ2oR73FXesJyTaoQ/QBe0Euu0WlsvKjBdSto0lTjNcmQa8MYTieofB/ISxKcAo3SwwHYMNq54mOPhsQYBdZnBTASnyCV5lsiclXfsl0nw3oygbNUSJlE7IpRl+1u0eHCXwEkrZI8P5/+o9U0fVdzpB7i12Vp7VsuySYUBEwEmMvJok0Urafxd0zg=;ZInxvL0s7bmlsHrdWPh3wQ=="
 ---
 

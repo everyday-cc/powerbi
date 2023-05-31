@@ -4,7 +4,7 @@ excerpt: "Have you heard the news? Microsoft has announced that they will extend
 originalUrl: https://youtube.com/watch?v=tyUXi2bzlzw
 type: video
 price: Free
-length: PT3M51S
+length: PT1M51S
 publishedDateTime: 2020-03-30T11:05:59Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "iE7PT16pobrtOic3/xn40in+T/xwWlHFytuCbDyWzknMIRXOk625+4vrkB2GVgalH+Chu9bAEmL4gzDMt99IuH4E5lKFqMcEIb9EOe6US8VLG4ZQg8Y1WKRLXPxRHeVvUY/7bO/GAOStUuy7vn76zH9e6CKWeNxkwFbz/vyUJrUwG9XRSolHozqt1Lc0ZMNTgVQu96jzCdH/zPQfxKn4yLsMuSC+zk1TbeXOc88Qm2XTaNad2fowwJI6Y4a/t/KumzEZ8tAFqSMBJRcY/ModK5Y9Q0Qeef1QsPqkDgeaQnQfDFn5GJL31GaqX9juw/4BrgD1Hn/kln5TBU9ETix0J4un/g2ovgMhCe/8NAZEkeG+uoM3dpx65uKb/9xaVMaTNE5lY5qITFXX81Gyvg3N0plNJa6/3n5JqRqPbPJ0PSY=;+cyPU7z4Il98BWfKGkY+vw=="
+secured: "Od63vgBpzYHiYdZOby1CjBRLUUpeejeI3hh4xdMY2uE6PHqao1F9+izuWBOoHe4a4ZgLFzn2hpe3HVtS3UC1CrF0JPhlSa9QLYTHqGFkwh3BRxK7xfV2vgkOmQiJuUMIRQQWvSwvusvvuT5VzSBftpfS2lWOBioN32bIYuHGTJLXirBvvAO6yKGeayhJ552t/MUOZSDeudSWz4pJzhMg5m8xRaVXa1fGJR0osLwf2GjFkILjh+crP4/7ZQ+BPmOfXitR1htYqRXerddu7mG7kjy7wI8KWS/deD0igTruT1NGLG2Rz5ntwJ6gEIZxsiT6o+FUOxz13wlUNXSz19QhHeKnJkv1P6csB9oMP9wZHd0vOgBjC1a5UptoPtQbivbanwh9kwZHgX1kIWD1Xn+41k5xIgbZp3jIw5cw72O0bn4=;9577AQCx9ebJOuj0wthJHA=="
 ---
 
