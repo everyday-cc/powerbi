@@ -218,8 +218,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
       "length": "PT18M",
       "ratings": {
-        "count": 828,
-        "average": 4.7608695
+        "count": 830,
+        "average": 4.760241
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -344,8 +344,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 2404,
-        "average": 4.703411
+        "count": 2405,
+        "average": 4.703534
       },
       "provider": {
         "name": "Microsoft Learn",
