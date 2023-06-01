@@ -387,8 +387,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 12159,
-        "average": 4.6817994
+        "count": 12162,
+        "average": 4.6817136
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -757,8 +757,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-lakehouses/",
       "length": "PT46M",
       "ratings": {
-        "count": 121,
-        "average": 4.842975
+        "count": 122,
+        "average": 4.844262
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1160,8 +1160,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 11184,
-            "average": 4.7441883
+            "count": 11185,
+            "average": 4.744211
           },
           "provider": {
             "name": "Microsoft Learn",
