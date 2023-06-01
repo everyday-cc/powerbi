@@ -187,8 +187,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 335,
-            "average": 4.716418
+            "count": 336,
+            "average": 4.717262
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -395,8 +395,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 408,
-            "average": 4.757353
+            "count": 409,
+            "average": 4.7555013
           },
           "provider": {
             "name": "Microsoft Learn",

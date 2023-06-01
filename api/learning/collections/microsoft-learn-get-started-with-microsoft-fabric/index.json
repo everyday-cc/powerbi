@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
       "length": "PT22M",
       "ratings": {
-        "count": 288,
-        "average": 4.9027777
+        "count": 292,
+        "average": 4.900685
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -179,8 +179,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-data-factory-pipelines-fabric/",
       "length": "PT1H22M",
       "ratings": {
-        "count": 29,
-        "average": 4.9310346
+        "count": 30,
+        "average": 4.9333334
       },
       "provider": {
         "name": "Microsoft Learn",
