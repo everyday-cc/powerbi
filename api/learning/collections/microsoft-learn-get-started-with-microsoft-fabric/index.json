@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
       "length": "PT22M",
       "ratings": {
-        "count": 270,
-        "average": 4.8962965
+        "count": 272,
+        "average": 4.897059
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -264,7 +264,7 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-data-warehouse/",
       "length": "PT1H6M",
       "ratings": {
-        "count": 20,
+        "count": 21,
         "average": 5.0
       },
       "provider": {
