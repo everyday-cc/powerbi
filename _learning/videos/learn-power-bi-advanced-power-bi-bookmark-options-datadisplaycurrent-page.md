@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M44S
 publishedDateTime: 2019-09-30T16:00:08Z
-heat: 51
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PHS6OCSnE_g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "0qYZqT7nJkRkLus0LqoU55/WMjwOLNjkDS8Q08Qnhy8mcMjWd/z1/Adm/yzx5U5DJSgM34r3ilQeDe4j2TbNVYaNHCyEiiMYNz1cX/qQgizbJCdvLkoD4As1esdubGPYKJVcB8G5O2uuZBDCAOtddgcztQu49SwzweHBCVjfCj89chfCCy18i9xxa5WZ/iTNyAABvwI5uyL/5FkZvyn8uCs+JvjuJrBl9TEDF+2NduqMzPcy+K1lBoKz0wXcqzHl1G5FbOdo7uakjihgmkfYlelix9b38z8Bi/XF/NwF+kidMU8c/HzjX9sZnUXInomR1UVnFGZYiTtBF/vTdK7bVAXkqw6Ue7LE21cUrvNzXC/IEMGIbcEAoI03MKMGRR7xz7LGGEeZqYcdPIJDgn0DfGdPxAiyZrVQZ+yFoUGvlV4=;p3wWwbQ0R0++6pUtKNqIyw=="
+secured: "HVACa+eMVwy9L3cjxDo9VFQWWvd1ZGvfZJEs8NcmLNssRN4P7xxfp3Ygu34wgfbv/XFdXgDIcbNKeadNUW9sisw6L6No59pjS4+KOOjOnUr17yKAeU67C5ec63JzfWBODMMF4MDKXas5rRTBnudh9cnrRwmXPSIDahtSb7a8bJxs9x9JlG+gb8R3oK14652m1qspx7PMGP+i7AbxIkHLRBOAuKGunFnhRSpC9T1GZR6t1OqSKFDblYV7vjnlPFh9/MRcrOyp4i25yTUSI863J0lgswQCdoj6S59vs63SGqr6h+xY5VzRH6T6gwU7XAue1dMhnKt4MSe/0/6XaHi2teIRJVo6sFFtgPVL0t+bD9ERnU2shgt8kxRjXZBBhc7N0PV56EuvNQyvFH2r+QKcQA7jeamA0duoFT7JCAe/ANg=;nsK9yMC9dfFhIPW/Ri5cUw=="
 ---
 
