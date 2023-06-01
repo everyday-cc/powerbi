@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
       "length": "PT22M",
       "ratings": {
-        "count": 280,
-        "average": 4.9
+        "count": 283,
+        "average": 4.90106
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-lakehouses/",
       "length": "PT46M",
       "ratings": {
-        "count": 119,
-        "average": 4.8739495
+        "count": 121,
+        "average": 4.842975
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -282,7 +282,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 54,
+      "heat": 134,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
