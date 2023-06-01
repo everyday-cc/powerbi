@@ -54,8 +54,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
       "length": "PT46M",
       "ratings": {
-        "count": 362,
-        "average": 4.685083
+        "count": 363,
+        "average": 4.6831956
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -416,7 +416,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 53,
+      "heat": 133,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/enforce-power-bi-model-security-social.png",
