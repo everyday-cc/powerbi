@@ -949,7 +949,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
@@ -1158,8 +1158,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1480,
-            "average": 4.745946
+            "count": 1481,
+            "average": 4.7454424
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1327,8 +1327,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7178,
-            "average": 4.726665
+            "count": 7180,
+            "average": 4.726741
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1369,8 +1369,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 6186,
-            "average": 4.73537
+            "count": 6188,
+            "average": 4.7354555
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2074,8 +2074,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 7178,
-        "average": 4.726665
+        "count": 7180,
+        "average": 4.726741
       },
       "provider": {
         "name": "Microsoft Learn",
