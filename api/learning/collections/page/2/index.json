@@ -4482,8 +4482,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4408,
-            "average": 4.6692376
+            "count": 4409,
+            "average": 4.669313
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4524,8 +4524,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6612,
-            "average": 4.7017546
+            "count": 6614,
+            "average": 4.7018447
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4918,7 +4918,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 149,
+          "heat": 69,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -4934,8 +4934,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11331,
-            "average": 4.7067337
+            "count": 11332,
+            "average": 4.7067595
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5244,7 +5244,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 134,
+          "heat": 54,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/understand-advanced-data-visualization-concepts-social.png",
