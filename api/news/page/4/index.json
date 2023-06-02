@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-10-new-cache-refreshes-settings-available-in-power-bi-premium.md",
+      "title": "New cache refreshes settings available in Power BI Premium",
+      "excerpt": "ClientCacheRefreshPolicy is now a configurable property for your Power BI Premium workspaces. Admins can override scheduled cache refresh settings for an entire workspace, improving the performance of their semantic models.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-11-10-new-cache-refreshes-settings-available-in-power-bi-premium/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/new-cache-refreshes-settings-available-in-power-bi-premium/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/new-cache-refreshes-settings-available-in-power-bi-premium/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-10-29-how-to-work-with-a-numeric-range-slicer-in-microsoft-power-bi.md",
       "title": "How to work with a numeric range slicer in Microsoft Power BI",
       "excerpt": "an uppercase character (A through Z) or a lowercase (a through z) character (no spaces). How to work with a numeric range slicer in Microsoft Power BI Your email has been sent Adding a numeric range slicer to a Microsoft Power BI report is easy ...",
@@ -1204,57 +1255,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-08-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-why-using-a-new-power-bi-zendesk-integration-for-business.md",
-      "title": "Why Using a New Power BI Zendesk Integration for Business",
-      "excerpt": "The truth is that we can influence only what we can measure, so customer service software such as Zendesk has become a valuable data source for business analytics. Integrating Zendesk Support software with a professional solution like Power BI can help companies improve the entire customer experience and raise the service level significantly based on the insights generated from the Zendesk reports visualized in Power BI.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-27-why-using-a-new-power-bi-zendesk-integration-for-business/index.json",
-      "webUrl": "https://www.marketwatch.com/press-release/why-using-a-new-power-bi-zendesk-integration-for-business-2022-08-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/why-using-a-new-power-bi-zendesk-integration-for-business-2022-08-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-27T01:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
