@@ -685,8 +685,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2814,
-            "average": 4.7228146
+            "count": 2815,
+            "average": 4.722913
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -894,8 +894,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 6157,
-            "average": 4.7169075
+            "count": 6158,
+            "average": 4.7169538
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -954,8 +954,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 6157,
-        "average": 4.7169075
+        "count": 6158,
+        "average": 4.7169538
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1080,8 +1080,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 16296,
-        "average": 4.72257
+        "count": 16299,
+        "average": 4.7225595
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1122,8 +1122,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 6144,
-        "average": 4.7989907
+        "count": 6146,
+        "average": 4.7990565
       },
       "provider": {
         "name": "Microsoft Learn",
