@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 76,
+      "heat": 65,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/get-data-social.png",
@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 92,
+      "heat": 70,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/clean-transform-and-load-data-in-power-bi-social.png",
