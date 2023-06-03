@@ -256,8 +256,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 29570,
-        "average": 4.721069
+        "count": 29571,
+        "average": 4.721044
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -397,7 +397,7 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 90721,
+            "count": 90730,
             "average": 4.778111
           },
           "provider": {
@@ -439,8 +439,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 35145,
-            "average": 4.7268744
+            "count": 35147,
+            "average": 4.7268615
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -524,8 +524,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 7516,
-            "average": 4.763438
+            "count": 7517,
+            "average": 4.7634697
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -607,8 +607,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
           "length": "PT22M",
           "ratings": {
-            "count": 324,
-            "average": 4.8950615
+            "count": 325,
+            "average": 4.895385
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -970,8 +970,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 19702,
-            "average": 4.756827
+            "count": 19705,
+            "average": 4.7568636
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1012,8 +1012,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 12574,
-            "average": 4.769127
+            "count": 12578,
+            "average": 4.7692003
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1095,8 +1095,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 19702,
-            "average": 4.756827
+            "count": 19705,
+            "average": 4.7568636
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1137,8 +1137,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 12574,
-            "average": 4.769127
+            "count": 12578,
+            "average": 4.7692003
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1197,8 +1197,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 12574,
-        "average": 4.769127
+        "count": 12578,
+        "average": 4.7692003
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1508,8 +1508,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 7561,
-        "average": 4.7590265
+        "count": 7562,
+        "average": 4.7590585
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1952,8 +1952,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4415,
-            "average": 4.669309
+            "count": 4416,
+            "average": 4.669384
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1970,7 +1970,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 55,
+          "heat": 135,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/visuals-power-bi-social.png",
