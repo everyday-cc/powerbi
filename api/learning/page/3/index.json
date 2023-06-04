@@ -49,8 +49,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 19713,
-        "average": 4.7569118
+        "count": 19716,
+        "average": 4.7569485
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1314,8 +1314,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 7569,
-        "average": 4.759149
+        "count": 7570,
+        "average": 4.759181
       },
       "provider": {
         "name": "Microsoft Learn",
