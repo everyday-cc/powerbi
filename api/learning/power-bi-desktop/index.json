@@ -227,8 +227,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 35154,
-        "average": 4.726859
+        "count": 35155,
+        "average": 4.7268667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1194,8 +1194,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 674,
-        "average": 4.700297
+        "count": 675,
+        "average": 4.700741
       },
       "provider": {
         "name": "Microsoft Learn",
