@@ -54,8 +54,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
       "length": "PT22M",
       "ratings": {
-        "count": 325,
-        "average": 4.895385
+        "count": 326,
+        "average": 4.892638
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1934,8 +1934,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1482,
-            "average": 4.745614
+            "count": 1483,
+            "average": 4.7457857
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2273,8 +2273,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 7563,
-        "average": 4.7590904
+        "count": 7565,
+        "average": 4.759154
       },
       "provider": {
         "name": "Microsoft Learn",
