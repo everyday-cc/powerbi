@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 64127,
-            "average": 4.7960763
+            "count": 64133,
+            "average": 4.79608
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 90754,
-            "average": 4.7781253
+            "count": 90760,
+            "average": 4.77814
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -348,8 +348,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 21062,
-            "average": 4.753157
+            "count": 21063,
+            "average": 4.753169
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -424,8 +424,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 90754,
-            "average": 4.7781253
+            "count": 90760,
+            "average": 4.77814
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -507,8 +507,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 90754,
-            "average": 4.7781253
+            "count": 90760,
+            "average": 4.77814
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -549,8 +549,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 35151,
-            "average": 4.7268925
+            "count": 35152,
+            "average": 4.7269
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -968,8 +968,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 12587,
-            "average": 4.7692065
+            "count": 12588,
+            "average": 4.7692246
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1093,8 +1093,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 12587,
-            "average": 4.7692065
+            "count": 12588,
+            "average": 4.7692246
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1642,8 +1642,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 11213,
-            "average": 4.7432446
+            "count": 11214,
+            "average": 4.7432675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1984,8 +1984,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4420,
-            "average": 4.669231
+            "count": 4421,
+            "average": 4.669306
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3060,8 +3060,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
           "length": "PT1H21M",
           "ratings": {
-            "count": 131,
-            "average": 4.7480917
+            "count": 132,
+            "average": 4.75
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3270,7 +3270,7 @@
             ]
           },
           "publishedDateTime": "2020-09-08T03:00:15-07:00",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/JS-K2faCiCc/maxresdefault.jpg",
