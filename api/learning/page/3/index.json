@@ -250,8 +250,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4421,
-            "average": 4.669306
+            "count": 4422,
+            "average": 4.66938
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -436,8 +436,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 35152,
-        "average": 4.7269
+        "count": 35154,
+        "average": 4.726859
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -479,8 +479,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
       "length": "PT22M",
       "ratings": {
-        "count": 328,
-        "average": 4.887195
+        "count": 330,
+        "average": 4.887879
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -704,8 +704,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 19709,
-        "average": 4.756913
+        "count": 19712,
+        "average": 4.7568994
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2271,8 +2271,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 7567,
-        "average": 4.7592177
+        "count": 7569,
+        "average": 4.759149
       },
       "provider": {
         "name": "Microsoft Learn",

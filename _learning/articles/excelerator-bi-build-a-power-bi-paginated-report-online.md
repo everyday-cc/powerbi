@@ -4,7 +4,7 @@ excerpt: "Back in April 2022, I wrote an article called Poor Man&#8217;s Paginat
 webUrl: https://exceleratorbi.com.au/build-a-power-bi-paginated-report-online/
 type: article
 publishedDateTime: 2023-03-31T01:34:18Z
-heat: 50
+heat: 130
 
 provider:
   name: Excelerator BI
