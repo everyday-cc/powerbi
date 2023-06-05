@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 339,
-            "average": 4.716814
+            "count": 340,
+            "average": 4.714706
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -344,7 +344,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 55,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-paginated-reports-power-bi-social.png",
@@ -659,8 +659,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 837,
-            "average": 4.762246
+            "count": 838,
+            "average": 4.7601433
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1161,8 +1161,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 366,
-            "average": 4.68306
+            "count": 367,
+            "average": 4.6839237
           },
           "provider": {
             "name": "Microsoft Learn",
