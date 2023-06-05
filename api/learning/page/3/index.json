@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 19719,
-        "average": 4.756935
+        "count": 19720,
+        "average": 4.7568965
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -835,8 +835,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
           "length": "PT1H21M",
           "ratings": {
-            "count": 133,
-            "average": 4.7518797
+            "count": 134,
+            "average": 4.7537313
           },
           "provider": {
             "name": "Microsoft Learn",
