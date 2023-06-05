@@ -7,7 +7,7 @@ price: Free
 length: PT32M
 ratings:
   count: 2420
-  average: 4.702893
+  average: 4.7024794
 heat: 53
 
 provider:
