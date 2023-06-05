@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 19718,
-        "average": 4.7569733
+        "count": 19719,
+        "average": 4.756935
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -95,8 +95,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 12207,
-        "average": 4.682068
+        "count": 12209,
+        "average": 4.68212
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1276,8 +1276,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 7572,
-        "average": 4.7592444
+        "count": 7573,
+        "average": 4.7592764
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2162,7 +2162,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 131,
+          "heat": 51,
           "content": "\r\n",
           "type": "course",
           "price": "Free",

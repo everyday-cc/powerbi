@@ -1465,7 +1465,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
@@ -1531,8 +1531,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 194,
-            "average": 4.7216496
+            "count": 195,
+            "average": 4.723077
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1740,8 +1740,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-reach/",
           "length": "PT19M",
           "ratings": {
-            "count": 135,
-            "average": 4.6222224
+            "count": 136,
+            "average": 4.625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1949,8 +1949,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-reach/",
           "length": "PT19M",
           "ratings": {
-            "count": 135,
-            "average": 4.6222224
+            "count": 136,
+            "average": 4.625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2912,8 +2912,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 194,
-            "average": 4.7216496
+            "count": 195,
+            "average": 4.723077
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2996,8 +2996,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-monitor/",
           "length": "PT11M",
           "ratings": {
-            "count": 160,
-            "average": 4.74375
+            "count": 161,
+            "average": 4.745342
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4393,8 +4393,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7189,
-            "average": 4.7265267
+            "count": 7190,
+            "average": 4.726565
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4685,8 +4685,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 9043,
-            "average": 4.711379
+            "count": 9044,
+            "average": 4.7113004
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4853,8 +4853,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4425,
-            "average": 4.6696043
+            "count": 4426,
+            "average": 4.669453
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5145,8 +5145,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12207,
-            "average": 4.682068
+            "count": 12209,
+            "average": 4.68212
           },
           "provider": {
             "name": "Microsoft Learn",
