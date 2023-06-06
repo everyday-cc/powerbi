@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7205,
-            "average": 4.7267175
+            "count": 7206,
+            "average": 4.7267556
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 6210,
-            "average": 4.735749
+            "count": 6211,
+            "average": 4.735791
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -159,8 +159,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 415,
-            "average": 4.7566266
+            "count": 416,
+            "average": 4.7548075
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -261,7 +261,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 55,
+          "heat": 135,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-paginated-reports-power-bi-social.png",
@@ -303,8 +303,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 136,
-        "average": 4.757353
+        "count": 137,
+        "average": 4.7591243
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -345,8 +345,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 6210,
-        "average": 4.735749
+        "count": 6211,
+        "average": 4.735791
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -471,8 +471,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 2831,
-        "average": 4.723066
+        "count": 2832,
+        "average": 4.7231636
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -555,8 +555,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 7205,
-        "average": 4.7267175
+        "count": 7206,
+        "average": 4.7267556
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -597,8 +597,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
       "length": "PT25M",
       "ratings": {
-        "count": 415,
-        "average": 4.7566266
+        "count": 416,
+        "average": 4.7548075
       },
       "provider": {
         "name": "Microsoft Learn",
