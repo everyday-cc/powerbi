@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 12671,
-        "average": 4.769237
+        "count": 12672,
+        "average": 4.769255
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -206,8 +206,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 29713,
-        "average": 4.7211995
+        "count": 29717,
+        "average": 4.721237
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -378,8 +378,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
           "length": "PT22M",
           "ratings": {
-            "count": 380,
-            "average": 4.881579
+            "count": 383,
+            "average": 4.8798957
           },
           "provider": {
             "name": "Microsoft Learn",

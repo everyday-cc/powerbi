@@ -2322,8 +2322,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 167,
-            "average": 4.658683
+            "count": 168,
+            "average": 4.660714
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2406,8 +2406,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-automate/",
           "length": "PT12M",
           "ratings": {
-            "count": 124,
-            "average": 4.645161
+            "count": 125,
+            "average": 4.648
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2531,8 +2531,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 167,
-            "average": 4.658683
+            "count": 168,
+            "average": 4.660714
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2615,8 +2615,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-automate/",
           "length": "PT12M",
           "ratings": {
-            "count": 124,
-            "average": 4.645161
+            "count": 125,
+            "average": 4.648
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4275,8 +4275,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 9068,
-        "average": 4.7112923
+        "count": 9069,
+        "average": 4.711324
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4318,8 +4318,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 7595,
-        "average": 4.7595787
+        "count": 7596,
+        "average": 4.75961
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4360,8 +4360,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 12243,
-        "average": 4.6824307
+        "count": 12247,
+        "average": 4.682371
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4394,8 +4394,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
       "length": "PT22M",
       "ratings": {
-        "count": 380,
-        "average": 4.881579
+        "count": 383,
+        "average": 4.8798957
       },
       "provider": {
         "name": "Microsoft Learn",
