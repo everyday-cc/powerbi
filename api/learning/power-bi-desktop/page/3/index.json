@@ -452,8 +452,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1903,
-        "average": 4.7172885
+        "count": 1904,
+        "average": 4.716912
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -539,8 +539,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 675,
-        "average": 4.700741
+        "count": 676,
+        "average": 4.699704
       },
       "provider": {
         "name": "Microsoft Learn",
