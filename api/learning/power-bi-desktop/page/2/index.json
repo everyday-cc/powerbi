@@ -653,8 +653,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-solve-problems/",
       "length": "PT35M",
       "ratings": {
-        "count": 403,
-        "average": 4.7121587
+        "count": 404,
+        "average": 4.710396
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -697,8 +697,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1488,
-        "average": 4.745968
+        "count": 1489,
+        "average": 4.7461386
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -741,8 +741,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 2587,
-        "average": 4.7325087
+        "count": 2588,
+        "average": 4.732612
       },
       "provider": {
         "name": "Microsoft Learn",
