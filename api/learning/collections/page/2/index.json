@@ -2542,7 +2542,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-content-social.png",
@@ -2667,7 +2667,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -4799,8 +4799,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12229,
-            "average": 4.682231
+            "count": 12231,
+            "average": 4.682283
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5167,8 +5167,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 652,
-            "average": 4.8006134
+            "count": 653,
+            "average": 4.800919
           },
           "provider": {
             "name": "Microsoft Learn",
