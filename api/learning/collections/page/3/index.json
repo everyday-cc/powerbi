@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7206,
-            "average": 4.7267556
+            "count": 7207,
+            "average": 4.7267933
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 6211,
-            "average": 4.735791
+            "count": 6212,
+            "average": 4.7358336
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -159,8 +159,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 416,
-            "average": 4.7548075
+            "count": 417,
+            "average": 4.755396
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -243,8 +243,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3539,
-            "average": 4.724216
+            "count": 3540,
+            "average": 4.7242937
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -261,7 +261,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 135,
+          "heat": 55,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-paginated-reports-power-bi-social.png",
@@ -451,8 +451,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visualize-real-time-data-azure-stream-analytics-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 159,
-            "average": 4.792453
+            "count": 160,
+            "average": 4.79375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -952,8 +952,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-power-bi-application-lifecycle-management-strategy/",
           "length": "PT25M",
           "ratings": {
-            "count": 94,
-            "average": 4.755319
+            "count": 95,
+            "average": 4.7578945
           },
           "provider": {
             "name": "Microsoft Learn",
