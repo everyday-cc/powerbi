@@ -164,8 +164,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 29694,
-        "average": 4.7211895
+        "count": 29703,
+        "average": 4.7212067
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -336,8 +336,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
           "length": "PT22M",
           "ratings": {
-            "count": 374,
-            "average": 4.879679
+            "count": 379,
+            "average": 4.8812666
           },
           "provider": {
             "name": "Microsoft Learn",
