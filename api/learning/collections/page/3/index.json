@@ -201,8 +201,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 478,
-            "average": 4.6945605
+            "count": 479,
+            "average": 4.6951985
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -243,8 +243,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3541,
-            "average": 4.723807
+            "count": 3542,
+            "average": 4.7238846
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -887,7 +887,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-infrastructure-social.png",
@@ -1203,8 +1203,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 161,
-            "average": 4.78882
+            "count": 162,
+            "average": 4.7901235
           },
           "provider": {
             "name": "Microsoft Learn",
