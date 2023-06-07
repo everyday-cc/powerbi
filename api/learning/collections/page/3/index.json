@@ -243,8 +243,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 231,
-            "average": 4.7402596
+            "count": 232,
+            "average": 4.7413793
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -660,8 +660,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 162,
-            "average": 4.7901235
+            "count": 164,
+            "average": 4.792683
           },
           "provider": {
             "name": "Microsoft Learn",
