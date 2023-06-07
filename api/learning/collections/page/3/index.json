@@ -201,8 +201,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 342,
-            "average": 4.7134504
+            "count": 343,
+            "average": 4.714286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -243,8 +243,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 230,
-            "average": 4.7434783
+            "count": 231,
+            "average": 4.7402596
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -493,8 +493,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3545,
-            "average": 4.7241187
+            "count": 3546,
+            "average": 4.723914
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -576,8 +576,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 370,
-            "average": 4.6864867
+            "count": 371,
+            "average": 4.6873317
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -618,8 +618,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-scalability-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 121,
-            "average": 4.7933884
+            "count": 122,
+            "average": 4.795082
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1037,8 +1037,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 265,
-            "average": 4.6867924
+            "count": 266,
+            "average": 4.6842103
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1079,8 +1079,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 168,
-            "average": 4.660714
+            "count": 169,
+            "average": 4.6568046
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1204,8 +1204,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-deployment-pipelines/",
           "length": "PT42M",
           "ratings": {
-            "count": 160,
-            "average": 4.76875
+            "count": 161,
+            "average": 4.757764
           },
           "provider": {
             "name": "Microsoft Learn",
