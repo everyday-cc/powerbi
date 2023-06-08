@@ -72,7 +72,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 57,
+      "heat": 58,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-write-formulas-social.png",
@@ -116,7 +116,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 53,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-add-calculated-tables-social.png",
@@ -159,7 +159,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 54,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/add-measures-power-bi-desktop-social.png",
@@ -246,7 +246,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/modify-dax-filter-context-power-bi-desktop-social.png",
@@ -272,8 +272,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1491,
-        "average": 4.746479
+        "count": 1492,
+        "average": 4.746649
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -290,7 +290,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 53,
+      "heat": 52,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/use-dax-time-intelligence-functions-power-bi-desktop-social.png",
@@ -334,7 +334,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-calculation-groups-social.png",
