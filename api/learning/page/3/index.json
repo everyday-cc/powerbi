@@ -147,8 +147,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
       "length": "PT22M",
       "ratings": {
-        "count": 410,
-        "average": 4.878049
+        "count": 412,
+        "average": 4.8786407
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -342,8 +342,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 12274,
-        "average": 4.6824994
+        "count": 12276,
+        "average": 4.682307
       },
       "provider": {
         "name": "Microsoft Learn",
