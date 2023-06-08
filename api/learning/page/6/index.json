@@ -847,8 +847,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
           "length": "PT1H21M",
           "ratings": {
-            "count": 140,
-            "average": 4.757143
+            "count": 141,
+            "average": 4.751773
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2121,7 +2121,7 @@
             ]
           },
           "publishedDateTime": "2016-02-24T15:04:39-08:00",
-          "heat": 54,
+          "heat": 53,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/sbPS3ZKIt7g/maxresdefault.jpg",
@@ -2429,8 +2429,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1105,
-            "average": 4.7791853
+            "count": 1106,
+            "average": 4.779385
           },
           "provider": {
             "name": "Microsoft Learn",
