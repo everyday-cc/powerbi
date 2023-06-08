@@ -451,8 +451,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 479,
-            "average": 4.6951985
+            "count": 480,
+            "average": 4.695833
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1246,8 +1246,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 79,
-            "average": 4.772152
+            "count": 80,
+            "average": 4.775
           },
           "provider": {
             "name": "Microsoft Learn",

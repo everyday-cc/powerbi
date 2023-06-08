@@ -25,7 +25,7 @@
         ]
       },
       "publishedDateTime": "2023-06-06T08:00:50-07:00",
-      "heat": 328,
+      "heat": 300,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/wEcRTSNhtLg/maxresdefault.jpg",
@@ -42,14 +42,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-what-is-microsoft-fabric-public-preview.md",
-      "title": "What is Microsoft Fabric (Public Preview)?",
-      "excerpt": "Maybe you've heard the announcement of Microsoft Fabric. Maybe you are coming from Power BI and curious how Microsoft Fabric relates. Adam gets you up to speed!  Microsft Learn: Get Started with Microsoft Fabric https://learn.microsoft.com/training/paths/get-started-fabric/  Microsoft Fabric End to End",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-is-microsoft-fabric-public-preview/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-is-microsoft-fabric-public-preview/",
-      "originalUrl": "https://youtube.com/watch?v=-f0XIVEP7bE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-f0XIVEP7bE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M7S",
+      "path": "_learning/videos/guy-in-a-cube-use-your-browser-to-edit-your-power-bi-dataset-within-microsoft-fabric.md",
+      "title": "Use your browser to edit your Power BI dataset within Microsoft Fabric",
+      "excerpt": "More Power BI Desktop capabilities are heading to the service. Modeling in the web is the latest addition. Now Mac users can enjoy editing capabilities! Emily joins us to tell us more!  Edit your data model in the Power BI Service (Preview) https://powerbi.microsoft.com/blog/edit-your-data-model-in-the-power-bi-service-public-preview-opt-in/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-use-your-browser-to-edit-your-power-bi-dataset-within-microsoft-fabric/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-use-your-browser-to-edit-your-power-bi-dataset-within-microsoft-fabric/",
+      "originalUrl": "https://youtube.com/watch?v=2bGb0QCLebw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2bGb0QCLebw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M57S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -62,11 +62,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-05-30T08:00:00-07:00",
-      "heat": 247,
+      "publishedDateTime": "2023-06-07T08:00:01-07:00",
+      "heat": 300,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-f0XIVEP7bE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/2bGb0QCLebw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -118,14 +118,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-use-your-browser-to-edit-your-power-bi-dataset-within-microsoft-fabric.md",
-      "title": "Use your browser to edit your Power BI dataset within Microsoft Fabric",
-      "excerpt": "More Power BI Desktop capabilities are heading to the service. Modeling in the web is the latest addition. Now Mac users can enjoy editing capabilities! Emily joins us to tell us more!  Edit your data model in the Power BI Service (Preview) https://powerbi.microsoft.com/blog/edit-your-data-model-in-the-power-bi-service-public-preview-opt-in/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-use-your-browser-to-edit-your-power-bi-dataset-within-microsoft-fabric/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-use-your-browser-to-edit-your-power-bi-dataset-within-microsoft-fabric/",
-      "originalUrl": "https://youtube.com/watch?v=2bGb0QCLebw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2bGb0QCLebw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M57S",
+      "path": "_learning/videos/guy-in-a-cube-what-is-microsoft-fabric-public-preview.md",
+      "title": "What is Microsoft Fabric (Public Preview)?",
+      "excerpt": "Maybe you've heard the announcement of Microsoft Fabric. Maybe you are coming from Power BI and curious how Microsoft Fabric relates. Adam gets you up to speed!  Microsft Learn: Get Started with Microsoft Fabric https://learn.microsoft.com/training/paths/get-started-fabric/  Microsoft Fabric End to End",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-is-microsoft-fabric-public-preview/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-is-microsoft-fabric-public-preview/",
+      "originalUrl": "https://youtube.com/watch?v=-f0XIVEP7bE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-f0XIVEP7bE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M7S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -138,11 +138,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-06-07T08:00:01-07:00",
-      "heat": 218,
+      "publishedDateTime": "2023-05-30T08:00:00-07:00",
+      "heat": 236,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2bGb0QCLebw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-f0XIVEP7bE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -224,6 +224,44 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-show-numbers-in-thousands-or-millions-in-same-column-with-the-new-dynamic-formatting-in-power-bi.md",
+      "title": "Show numbers in Thousands or Millions in same column with the new Dynamic formatting in Power BI",
+      "excerpt": "If you want to be able to conditional format a number in Power BI as k for thousands and M for millions in the same column, the new Dynamic Formatting can do that for you.  Check this video to learn how. Download the sample file at the download center , number 079.  Join this channel membership to get",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-show-numbers-in-thousands-or-millions-in-same-column-with-the-new-dynamic-formatting-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-show-numbers-in-thousands-or-millions-in-same-column-with-the-new-dynamic-formatting-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=ROyVkQ9vTjc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ROyVkQ9vTjc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M58S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-04-17T03:43:45-07:00",
+      "heat": 145,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ROyVkQ9vTjc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-get-started-with-microsoft-data-analytics.md",
       "title": "Get started with Microsoft data analytics",
       "excerpt": "Businesses need data analysis more than ever. In this learning path, you will learn about the life and journey of a data analyst, the skills, tasks, and processes they go through in order to tell a story with data so trusted business decisions can be made. You will learn how the suite of Power BI tools and services are used by a data analyst to tell a compelling story through reports and dashboards, and the need to true BI in the enterprise.",
@@ -254,8 +292,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 64514,
-            "average": 4.7959514
+            "count": 64523,
+            "average": 4.7959485
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -296,8 +334,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 91304,
-            "average": 4.7781367
+            "count": 91317,
+            "average": 4.7781353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -356,8 +394,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 91304,
-        "average": 4.7781367
+        "count": 91317,
+        "average": 4.7781353
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -398,8 +436,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 64514,
-        "average": 4.7959514
+        "count": 64523,
+        "average": 4.7959485
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -433,14 +471,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-switch-a-power-bi-reports-dataset-without-needing-premium.md",
-      "title": "Switch a Power BI Report's dataset without needing Premium!",
-      "excerpt": "Want a dev and production environment in Power BI but don't have Power BI Premium? Patrick shows you a way to switch a report from Dev to Production without Premium or without APIs.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-switch-a-power-bi-reports-dataset-without-needing-premium/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-switch-a-power-bi-reports-dataset-without-needing-premium/",
-      "originalUrl": "https://youtube.com/watch?v=X_1tBbPwBMg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X_1tBbPwBMg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M2S",
+      "path": "_learning/videos/guy-in-a-cube-how-do-thin-reports-work-with-power-bi-deployment-pipelines.md",
+      "title": "How do THIN reports work with Power BI Deployment Pipelines?",
+      "excerpt": "Using Power BI Deployment Pipelines and curious what happens when the report and dataset are in different workspaces? How does it work when you promote to another pipeline? Kevin Arnold shows us!  Kevin Arnold: https://twitter.com/kevarnold https://www.linkedin.com/in/kevarnold/  📢 Become a member:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-how-do-thin-reports-work-with-power-bi-deployment-pipelines/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-how-do-thin-reports-work-with-power-bi-deployment-pipelines/",
+      "originalUrl": "https://youtube.com/watch?v=zJopprZC-bE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zJopprZC-bE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M5S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -453,11 +491,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-03-29T08:00:31-07:00",
-      "heat": 133,
+      "publishedDateTime": "2023-03-16T08:00:49-07:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/X_1tBbPwBMg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/zJopprZC-bE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -471,14 +509,56 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-where-are-the-power-bi-gateway-logs-i-thought-i-knew.md",
-      "title": "Where are the Power BI Gateway logs? I thought I knew...",
-      "excerpt": "Do you know where the Power BI Gateway log files are? I didn't! I'll show you a tool I use to help figure something like this out. And also tell you where they are!  Process Monitor https://learn.microsoft.com/sysinternals/downloads/procmon  Rui Romano's Gateway Monitor Report https://github.com/RuiRomano/pbigtwmonitor",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-where-are-the-power-bi-gateway-logs-i-thought-i-knew/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-where-are-the-power-bi-gateway-logs-i-thought-i-knew/",
-      "originalUrl": "https://youtube.com/watch?v=H6sLCVanIYE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/H6sLCVanIYE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M49S",
+      "path": "_learning/courses/microsoft-learn-intro-power-platform.md",
+      "title": "Power Platform - Introduction, business value, and demos",
+      "excerpt": "Explore the capabilities of Power Platform applications, as seen in demonstrations and customer case studies.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-intro-power-platform/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-power-platform-mba/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 3921,
+        "average": 4.7413926
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-power-platform-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-tips-from-the-pros-live-w-chris-finlan-sept-26-2020-member-chat-2nd-half.md",
+      "title": "🔴 Power BI tips from the Pros - LIVE /w Chris Finlan (Sept 26, 2020) (Member Chat 2nd Half)",
+      "excerpt": "Join us live as we answer your questions about Power BI! With special guest, Chris Finlan! Get your Power BI Premium per User questions and of course anything else Power BI related.  Connect with Chris: Twitter: https://twitter.com/cmfinlan YouTube: https://www.youtube.com/user/cfinlan Blog: https://christopherfinlan.com/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-tips-from-the-pros-live-w-chris-finlan-sept-26-2020-member-chat-2nd-half/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-tips-from-the-pros-live-w-chris-finlan-sept-26-2020-member-chat-2nd-half/",
+      "originalUrl": "https://youtube.com/watch?v=6DOUHWlorCE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6DOUHWlorCE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H12M22S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -491,11 +571,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-04-06T08:00:17-07:00",
-      "heat": 131,
+      "publishedDateTime": "2020-09-26T08:40:48-07:00",
+      "heat": 128,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/H6sLCVanIYE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6DOUHWlorCE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -587,7 +667,7 @@
             ]
           },
           "publishedDateTime": "2021-01-21T08:00:02-08:00",
-          "heat": 84,
+          "heat": 81,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/B_bAKrXAUh0/maxresdefault.jpg",
@@ -682,7 +762,7 @@
         }
       ],
       "size": 9,
-      "heat": 130,
+      "heat": 127,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
@@ -693,86 +773,6 @@
       ],
       "content": "\r\n",
       "type": "collection",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub.md",
-      "title": "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics",
-      "excerpt": "Learn about Azure IoT Hub message routing, and Stream Analytics anomaly detection. Start by creating an app that simulates issues with conveyor belt vibration. Then, use the Azure portal to route all the data for archiving in blob storage. Finish by routing the vibration data to anomaly detection, using a built-in ML model.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/",
-      "length": "PT1H6M",
-      "ratings": {
-        "count": 341,
-        "average": 4.6041055
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/iot-hub-conveyor-belt-vibration-detection-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-tips-from-the-pros-live-w-chris-finlan-sept-26-2020-member-chat-2nd-half.md",
-      "title": "🔴 Power BI tips from the Pros - LIVE /w Chris Finlan (Sept 26, 2020) (Member Chat 2nd Half)",
-      "excerpt": "Join us live as we answer your questions about Power BI! With special guest, Chris Finlan! Get your Power BI Premium per User questions and of course anything else Power BI related.  Connect with Chris: Twitter: https://twitter.com/cmfinlan YouTube: https://www.youtube.com/user/cfinlan Blog: https://christopherfinlan.com/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-tips-from-the-pros-live-w-chris-finlan-sept-26-2020-member-chat-2nd-half/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-tips-from-the-pros-live-w-chris-finlan-sept-26-2020-member-chat-2nd-half/",
-      "originalUrl": "https://youtube.com/watch?v=6DOUHWlorCE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6DOUHWlorCE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H12M22S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-09-26T08:40:48-07:00",
-      "heat": 128,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6DOUHWlorCE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
       "topics": [
         "Power BI"
       ]
@@ -990,8 +990,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 21346,
-            "average": 4.7530217
+            "count": 21353,
+            "average": 4.753009
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1066,8 +1066,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 91304,
-            "average": 4.7781367
+            "count": 91317,
+            "average": 4.7781353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1126,8 +1126,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 21346,
-        "average": 4.7530217
+        "count": 21353,
+        "average": 4.753009
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1276,8 +1276,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 29818,
-        "average": 4.721276
+        "count": 29827,
+        "average": 4.7213264
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1448,8 +1448,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 91304,
-            "average": 4.7781367
+            "count": 91317,
+            "average": 4.7781353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1490,8 +1490,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 35258,
-            "average": 4.7267003
+            "count": 35261,
+            "average": 4.7267237
           },
           "provider": {
             "name": "Microsoft Learn",
