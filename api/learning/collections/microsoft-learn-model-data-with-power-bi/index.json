@@ -96,8 +96,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 11285,
-        "average": 4.74249
+        "count": 11286,
+        "average": 4.7425127
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -242,7 +242,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 58,
+      "heat": 52,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-write-formulas-social.png",
@@ -356,8 +356,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10284,
-        "average": 4.7612796
+        "count": 10285,
+        "average": 4.761303
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -374,7 +374,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 61,
+      "heat": 62,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/optimize-model-power-bi-social.png",

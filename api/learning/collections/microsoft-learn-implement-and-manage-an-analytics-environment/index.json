@@ -155,7 +155,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
@@ -263,8 +263,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-automate/",
       "length": "PT12M",
       "ratings": {
-        "count": 126,
-        "average": 4.6190476
+        "count": 127,
+        "average": 4.6220474
       },
       "provider": {
         "name": "Microsoft Learn",

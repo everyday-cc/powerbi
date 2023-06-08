@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 850,
-            "average": 4.7588234
+            "count": 852,
+            "average": 4.758216
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 737,
-            "average": 4.833107
+            "count": 738,
+            "average": 4.8333335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -118,8 +118,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 657,
-            "average": 4.8021307
+            "count": 658,
+            "average": 4.8024316
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -636,7 +636,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 132,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-deployment-pipelines-social.png",
@@ -1204,8 +1204,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 266,
-            "average": 4.6842103
+            "count": 267,
+            "average": 4.6853933
           },
           "provider": {
             "name": "Microsoft Learn",
