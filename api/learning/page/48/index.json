@@ -4,32 +4,6 @@
   "page": 48,
   "value": [
     {
-      "path": "_learning/articles/excelerator-bi-build-a-power-bi-paginated-report-online.md",
-      "title": "Build a Power BI Paginated Report Online",
-      "excerpt": "Back in April 2022, I wrote an article called Poor Man&#8217;s Paginated Reports. That article covered an easy way to create a paginated report without having to learn how to use paginated report builder. Sometime since then, Microsoft has released the ability to create a simple paginate report online",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-build-a-power-bi-paginated-report-online/index.json",
-      "webUrl": "https://exceleratorbi.com.au/build-a-power-bi-paginated-report-online/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2023-03-30T18:34:18-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2023/03/paginated-reports.png",
-          "width": 666,
-          "height": 527,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/articles/excelerator-bi-building-a-matrix-with-asymmetrical-columns-and-rows-in-power-bi.md",
       "title": "Building a Matrix with Asymmetrical Columns and Rows in Power BI",
       "excerpt": "I have written a few articles that are related to this topic (articles that utilise this same technique to solve a problem), but never before have I explained the stand alone concept of how to build a visual with asymmetrical columns and rows in Power BI.  Let me explain with [...]Read More »",
@@ -717,6 +691,32 @@
           "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/07/image.png",
           "width": 346,
           "height": 220,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-incremental-backup-of-pbix-files.md",
+      "title": "Incremental Backup of PBIX Files",
+      "excerpt": "I do a lot of Power BI model and report development; maybe you do too. There&#8217;s nothing worse than spending an hour or so developing your model only to have something go wrong and you lose your work. Things that can go wrong include: Your PC/App crashes. Power BI does [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-incremental-backup-of-pbix-files/index.json",
+      "webUrl": "https://exceleratorbi.com.au/incremental-backup-of-pbix-files/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2023-03-13T15:44:53-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2017/05/Power-Query-Academy-Logo-450x216.png",
+          "width": 450,
+          "height": 216,
           "isCached": true
         }
       ],
