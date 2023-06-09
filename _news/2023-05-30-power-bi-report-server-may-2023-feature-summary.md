@@ -6,9 +6,11 @@ publishedDateTime: 2023-05-30T14:01:18Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-may-2023-feature-summary/"
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-may-2023-feature-summary/"
 type: article
-quality: 87
-heat: 87
+quality: 189
+heat: 189
 published: true
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DFgbuMnsS-g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Microsoft
@@ -20,6 +22,7 @@ provider:
 
 topics:
   - Power BI
+  - Power BI Desktop
 
 images:
   - url: "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png"
@@ -27,6 +30,6 @@ images:
     height: 630
     isCached: true
 
-secured: "DIo6KsR6NS8SJxNU/lhiSIAYZimXhk5I3abyM1eEDTuY7osT9JmBcBPw1W0jJPfdTx01GiT/WLsIfbBKcpQOgtjYufAfE5BUS1Hz7pKQbMq8lcCxdPOA9SAOfZKERh+tMA8bUEyQ0h/GeyzXsm/A4ErAqSdSTgEUuX2QfS5QdVO6rrASEWjQjOYyaXraZa+cXzdG32j3zfuSi8dURRtys8y77tBUVkXrv4/0rAn/c7KXDdXGB8S4JlJztgtKslJhikgGtXikczcNFPPmDr8WHnHe6kbz5KWRhpNqmYhKYiF8Js37AvkvtqmSFErPHJ/Hc6VZe6jUo/0tG91FCkXSjaIynx5NrtiSIOF+bTZNvS4=;wCNJM3AHF0XgtnedrbPg+g=="
+secured: "jqXkUkap2OYqXiCbxe+imZ7/gmCNojZ/KeeuZFKUf2n4QPOj9QG+YGKEBjIPi3Nv5AHbGyTUbM371fL/BZKAx58Qq8MFbsW5HBcotz8n1FGPFp6mDXBCcXEpd2rKYjNpbjoc0yMr0NoN2xn81BNIXelkc0nhTaQWl+1baQcVv9i9Zn9GEiT/Wc3a8kdhgxXuGOY3JgXoxV53PKL56+pbcEytmIeTwFscrj1Ex6mKI64aFCE3Wam9KbLVmH6iP2wtd/c+1YJsCXgBnwANWF+EGkqdpXohMYsxUJie+V0kKOd5mwdEermI5emmcYdt8F0y65nq75145WU5ri5dvKtTiBkCCwYJHQJGKMwKh7x0bQ05S2AEzNFepKugH5TpKQ5tVPPohD+QPXAa0mMzs8MCb8Nv4t8etbDcQg4VcAohFZk=;zx6iY9ohbNYgwBuCzuPOKA=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-02-05-power-bi-desktop-update-november-2019.md",
+      "title": "Power BI Desktop Update - November 2019",
+      "excerpt": "The November update has major updates in several areas of Power BI Desktop. There's a new, modern ribbon that aligns Power BI Desktop with Office and adds more functionality. We're also adding a new visual, the decomposition tree, which is one of the most requested ideas on ideas.powerbi.com. AI functions",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-02-05-power-bi-desktop-update-november-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-02-05-power-bi-desktop-update-november-2019/",
+      "originalUrl": "https://youtube.com/watch?v=kVli3Vm_kDo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kVli3Vm_kDo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kVli3Vm_kDo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI Desktop Update - November 2019",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T12:18:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2020-02-05-power-bi-desktop-update-october-2019.md",
       "title": "Power BI Desktop Update - October 2019",
       "excerpt": "This month’s update is filled with major updates across the whole product. In the data preparation area, we’ve introduced query diagnostics, which allow you to see what queries are being run behind the scenes. On the reporting side, we are taking a huge step forward in terms of real-time reporting, with",
@@ -1492,58 +1544,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2018-09-17T06:29:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2018-08-24-composite-models-explained-combine-import-sources-with-direct-query-in-power-bi.md",
-      "title": "COMPOSITE MODELS EXPLAINED | Combine import sources with Direct Query in Power BI",
-      "excerpt": "This is Power WEEK and I will publish one video a day (working days)!  In today's video we go through what the new composite models are in Power BI after the Power BI team released them in the July 2018 Power BI Desktop Update.  Composite models allow you to combine import sources with Direct query,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2018-08-24-composite-models-explained-combine-import-sources-with-direct-query-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2018-08-24-composite-models-explained-combine-import-sources-with-direct-query-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=au1buy6NBAI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/au1buy6NBAI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/au1buy6NBAI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-08-24T03:29:41-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Curbal",
