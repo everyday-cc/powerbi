@@ -831,8 +831,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 11358,
-        "average": 4.7069025
+        "count": 11359,
+        "average": 4.7069283
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -915,8 +915,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 3288,
-        "average": 4.6840024
+        "count": 3289,
+        "average": 4.6840987
       },
       "provider": {
         "name": "Microsoft Learn",
