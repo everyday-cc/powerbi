@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
       "length": "PT22M",
       "ratings": {
-        "count": 441,
-        "average": 4.8843536
+        "count": 442,
+        "average": 4.8846154
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -197,7 +197,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 134,
+      "heat": 54,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",

@@ -4,15 +4,15 @@
   "page": 19,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-explore-azure-data-services-for-modern-analytics.md",
-      "title": "Explore Azure data services for modern analytics",
-      "excerpt": "Understand analytics solutions in the Azure data ecosystem. Explore the architecture of a scalable analytics solution to meet business needs.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-azure-data-services-for-modern-analytics/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
-      "length": "PT18M",
+      "path": "_learning/courses/microsoft-learn-use-data-factory-pipelines-fabric.md",
+      "title": "Use Data Factory pipelines in Microsoft Fabric",
+      "excerpt": "Use Data Factory pipelines in Microsoft Fabric",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-use-data-factory-pipelines-fabric/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-data-factory-pipelines-fabric/",
+      "length": "PT1H22M",
       "ratings": {
-        "count": 856,
-        "average": 4.759346
+        "count": 36,
+        "average": 4.9166665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,14 +27,14 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 54,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/explore-azure-data-services-for-modern-analytics-social.png",
-          "width": 1281,
-          "height": 641,
+          "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],

@@ -4,7 +4,7 @@ excerpt: "Manage the analytics development lifecycle"
 type: collection
 price: Free
 length: PT2H15M
-heat: 52
+heat: 51
 
 provider:
   name: Microsoft Learn
