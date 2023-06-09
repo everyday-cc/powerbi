@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/new-tenant-setting-notifi
 webUrl: "https://powerbi.microsoft.com/en-us/blog/new-tenant-setting-notifications-and-gettenantsettings-api/"
 type: article
 quality: 72
-heat: 72
+heat: 74
 published: true
 
 provider:
