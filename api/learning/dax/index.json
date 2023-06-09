@@ -459,8 +459,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2591,
-            "average": 4.7329216
+            "count": 2592,
+            "average": 4.7330246
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -477,7 +477,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-write-formulas-social.png",
@@ -1757,8 +1757,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 9094,
-        "average": 4.711128
+        "count": 9095,
+        "average": 4.71116
       },
       "provider": {
         "name": "Microsoft Learn",
