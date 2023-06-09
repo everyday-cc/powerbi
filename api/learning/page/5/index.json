@@ -266,8 +266,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4471,
-            "average": 4.6692014
+            "count": 4473,
+            "average": 4.669349
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -308,8 +308,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6653,
-            "average": 4.701338
+            "count": 6654,
+            "average": 4.7012324
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -452,8 +452,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 16385,
-        "average": 4.7223682
+        "count": 16387,
+        "average": 4.722341
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -947,8 +947,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 11296,
-        "average": 4.7425637
+        "count": 11298,
+        "average": 4.7426095
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1385,8 +1385,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4025,
-            "average": 4.747081
+            "count": 4026,
+            "average": 4.7471437
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1428,8 +1428,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 373,
-            "average": 4.689008
+            "count": 375,
+            "average": 4.6906667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1470,8 +1470,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 11296,
-            "average": 4.7425637
+            "count": 11298,
+            "average": 4.7426095
           },
           "provider": {
             "name": "Microsoft Learn",
