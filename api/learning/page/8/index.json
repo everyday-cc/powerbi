@@ -793,8 +793,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 490,
-            "average": 4.742857
+            "count": 491,
+            "average": 4.743381
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1003,8 +1003,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 490,
-            "average": 4.742857
+            "count": 491,
+            "average": 4.743381
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1409,8 +1409,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 9098,
-        "average": 4.711255
+        "count": 9099,
+        "average": 4.711287
       },
       "provider": {
         "name": "Microsoft Learn",
