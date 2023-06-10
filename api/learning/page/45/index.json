@@ -4,805 +4,1173 @@
   "page": 45,
   "value": [
     {
-      "path": "_learning/articles/excelerator-bi-5-new-features-i-love-coming-soon-to-power-bi.md",
-      "title": "5 New Features I Love – Coming Soon to Power BI",
-      "excerpt": "You may already be aware (but then again, maybe not) that Microsoft shares its plans for upcoming new features for the Power Platform every 6 months, and Power BI forms a subset of that plan. The next plan is called Power Platform Release Plan 2021 Wave 2. It takes a [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-5-new-features-i-love-coming-soon-to-power-bi/index.json",
-      "webUrl": "https://exceleratorbi.com.au/5-new-features-i-love-coming-soon-to-power-bi/",
+      "path": "_learning/videos/curbal-dax-fridays-58-combinevalues.md",
+      "title": "DAX Fridays! #58: COMBINEVALUES",
+      "excerpt": "In today's video I will show you a DAX function that is not available yet....Go figure!  I learn about this measure here: https://xxlbi.com/blog/new-dax-function-combinevalues/  EXCEL SURVEY: https://1drv.ms/xs/s!Ar8CDNp8cGTcgjaHonN82T8I1jQT  PREVIOUS VIDEO: https://www.youtube.com/watch?v=mxDt81H8hDg",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-58-combinevalues/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-58-combinevalues/",
+      "originalUrl": "https://youtube.com/watch?v=e8lzj9F7aQg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e8lzj9F7aQg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M54S",
       "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2021-10-18T22:42:42-07:00",
+      "publishedDateTime": "2017-11-09T22:50:36-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/10/2021-10-19_164115.png",
-          "width": 613,
-          "height": 367,
+          "url": "https://i.ytimg.com/vi/e8lzj9F7aQg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-5-productivity-benefits-of-tabular-editor-3.md",
-      "title": "5 Productivity Benefits of Tabular Editor 3",
-      "excerpt": "Tabular Editor is a Power BI Tabular Modelling productivity tool developed by Daniel Otykier. I blogged about Version 2 of the Tabular Editor in this article here. The 3rd edition of Tabular Editor has just been released, and it is a major upgrade from version 2. TE 3 is not [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-5-productivity-benefits-of-tabular-editor-3/index.json",
-      "webUrl": "https://exceleratorbi.com.au/5-productivity-benefits-of-tabular-editor-3/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-06-07T00:04:55-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/06/TE3.png",
-          "width": 577,
-          "height": 288,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-build-a-pl-in-power-bi-without-any-dax.md",
-      "title": "Build a P&L in Power BI Without Any DAX",
-      "excerpt": "This is the third article where I have covered building a P&#38;L in Power BI. My first 2 articles here and here focused on how to use the DAX language to solve some of the common problems with P&#38;L reporting, such as adding sub totals into the visual, % of [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-build-a-pl-in-power-bi-without-any-dax/index.json",
-      "webUrl": "https://exceleratorbi.com.au/build-a-pl-in-power-bi-without-any-dax/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-05-27T17:21:42-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/05/052821_0018_BuildaPLin1.png",
-          "width": 800,
-          "height": 482,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "Power BI",
         "DAX"
       ]
     },
     {
-      "path": "_learning/articles/excelerator-bi-build-a-power-bi-paginated-report-online.md",
-      "title": "Build a Power BI Paginated Report Online",
-      "excerpt": "Back in April 2022, I wrote an article called Poor Man&#8217;s Paginated Reports. That article covered an easy way to create a paginated report without having to learn how to use paginated report builder. Sometime since then, Microsoft has released the ability to create a simple paginate report online",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-build-a-power-bi-paginated-report-online/index.json",
-      "webUrl": "https://exceleratorbi.com.au/build-a-power-bi-paginated-report-online/",
+      "path": "_learning/videos/curbal-dax-fridays-59-error.md",
+      "title": "DAX Fridays! #59: ERROR",
+      "excerpt": "In today's video I will show you a new DAX measured introduced this year: ERROR. The Error function allows you to write your own custom Error message for DAX measures.  EXCEL SURVEY: https://1drv.ms/xs/s!Ar8CDNp8cGTcgjaHonN82T8I1jQT  PREVIOUS VIDEO: https://www.youtube.com/watch?v=e8lzj9F7aQg NEXT VIDEO:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-59-error/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-59-error/",
+      "originalUrl": "https://youtube.com/watch?v=soQRTh9vz-k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/soQRTh9vz-k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M15S",
       "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2023-03-30T18:34:18-07:00",
+      "publishedDateTime": "2017-11-17T02:41:54-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2023/03/paginated-reports.png",
-          "width": 666,
-          "height": 527,
+          "url": "https://i.ytimg.com/vi/soQRTh9vz-k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-building-a-matrix-with-asymmetrical-columns-and-rows-in-power-bi.md",
-      "title": "Building a Matrix with Asymmetrical Columns and Rows in Power BI",
-      "excerpt": "I have written a few articles that are related to this topic (articles that utilise this same technique to solve a problem), but never before have I explained the stand alone concept of how to build a visual with asymmetrical columns and rows in Power BI.  Let me explain with [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-building-a-matrix-with-asymmetrical-columns-and-rows-in-power-bi/index.json",
-      "webUrl": "https://exceleratorbi.com.au/building-a-matrix-with-asymmetrical-columns-and-rows-in-power-bi/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2020-10-26T12:55:50-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/10/102320_0501_BuildingaMa2.png",
-          "width": 597,
-          "height": 497,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-building-a-pl-in-power-bi-part-2-percentages.md",
-      "title": "Building a P&L in Power BI – Part 2 (Percentages)",
-      "excerpt": "I blogged about how to Build a P&#38;L With Power BI back in April 2020, and the response from my readers was great. Several people asked how to add percentages such as % of net sales revenue, % gross profit, etc. into the P&#38;L. I decided therefore to do a [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-building-a-pl-in-power-bi-part-2-percentages/index.json",
-      "webUrl": "https://exceleratorbi.com.au/building-a-pl-in-power-bi-part-2-percentages/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-03-22T12:55:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/03/032121_2354_BuildingaPL2.png",
-          "width": 794,
-          "height": 315,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-building-a-power-bi-covid-report-from-scratch.md",
-      "title": "Building A Power BI (COVID) Report From Scratch",
-      "excerpt": "As promised, today I am sharing with you the process I went through to build the COVID report I shared in my last article. One of the best ways to learn and improve your Power BI skills is to practice. The best way to practice is to find something you [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-building-a-power-bi-covid-report-from-scratch/index.json",
-      "webUrl": "https://exceleratorbi.com.au/building-a-power-bi-report-from-scratch/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-07-21T13:55:57-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/07/new-report-from-scratch.png",
-          "width": 400,
-          "height": 225,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-calendar-over-run-in-power-bi.md",
-      "title": "Calendar Over Run in Power BI",
-      "excerpt": "This is an update to an article that I wrote back in 2019. This time around I created a video to go along with the written explanation and documentation below. You can jump straight to the video below if you prefer that medium. What is Calendar Over Run? Consider the [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-calendar-over-run-in-power-bi/index.json",
-      "webUrl": "https://exceleratorbi.com.au/calendar-over-run-while-comparing-last-years-data/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-05-03T16:50:54-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/05/050321_2139_CalendarOve3.png",
-          "width": 800,
-          "height": 281,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-case-fatality-rate-for-covid-in-australia.md",
-      "title": "Case Fatality Rate for COVID in Australia",
-      "excerpt": "I am writing an off-topic article today but I promise I will circle back later in the week with a follow up article bringing it back on topic. In this article, I am going to share a COVID report I built today, and later in the week I will post [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-case-fatality-rate-for-covid-in-australia/index.json",
-      "webUrl": "https://exceleratorbi.com.au/infection-fatality-rate-for-covid-in-australia/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-07-19T01:22:47-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2017/05/Power-Query-Academy-Logo-450x216.png",
-          "width": 450,
-          "height": 216,
-          "isCached": true
-        },
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/02/SCPBI-Cover-3rd-Edition-small.png",
-          "width": 300,
-          "height": 408,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-compare-any-two-of-anything-in-power-bi.md",
-      "title": "Compare Any Two of Anything in Power BI",
-      "excerpt": "I have been increasingly recording videos as my method of sharing tips and techniques for getting more out of Power BI. Some concepts are best documented (traditional blogging) and some are just easier for everyone if it is a video. That is the case again for today. Compare Any Two [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-compare-any-two-of-anything-in-power-bi/index.json",
-      "webUrl": "https://exceleratorbi.com.au/compare-any-two-of-anything-in-power-bi/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-06-28T05:16:26-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/06/compare-any-2-of-anything.png",
-          "width": 745,
-          "height": 383,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-copy-measures-between-2-power-bi-files.md",
-      "title": "Copy Measures Between 2 Power BI Files",
-      "excerpt": "I first wrote this article back in Jan-2019 and have decided to come back and update it now.  With the recent enhanced External Tools Toolbar in Power BI Desktop, there has never been a better time to start to learn how to use these tools. Have you ever wondered if [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-copy-measures-between-2-power-bi-files/index.json",
-      "webUrl": "https://exceleratorbi.com.au/copy-measures-between-2-power-bi-files/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2020-08-17T16:35:13-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/08/2-windows.png",
-          "width": 960,
-          "height": 371,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-correcting-source-data-in-power-bi.md",
-      "title": "Correcting Source Data in Power BI",
-      "excerpt": "This article continues to build on my COVID Case Fatality Rate report for Australia. Something happened with the global source data this week – in short, it was wrong. This is a global database and I am sure there are many people diligently trying to keep the data up to [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-correcting-source-data-in-power-bi/index.json",
-      "webUrl": "https://exceleratorbi.com.au/correcting-source-data-in-power-bi/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-07-29T18:35:07-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/07/incorrect-data.png",
-          "width": 625,
-          "height": 250,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-dataflows-101.md",
-      "title": "Dataflows 101",
-      "excerpt": "Matt here.  I want to do a brief introduction prior to handing over to Roland.  I have known Roland for a couple of years now &#8211; he is a member of the Sydney Power BI User Group.  What I didn&#8217;t know until very recently is that he has the same [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-dataflows-101/index.json",
-      "webUrl": "https://exceleratorbi.com.au/dataflows-101/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2022-03-28T12:55:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/03/DataFlow-101-Practical-Guide-For-Business-Users-Blog.png",
-          "width": 750,
-          "height": 500,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "Power BI",
-        "Dataflows"
+        "DAX"
       ]
     },
     {
-      "path": "_learning/articles/excelerator-bi-deep-dive-into-inforiver-export-to-excel.md",
-      "title": "Deep Dive into InfoRiver Export to Excel",
-      "excerpt": "This is a further article in my series where I share with you what I have learnt about the InfoRiver custom visual.  As good as Power BI is, it will take Microsoft many more years to make it fully featured.  Microsoft Excel is 37 years old, and I can assure [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-deep-dive-into-inforiver-export-to-excel/index.json",
-      "webUrl": "https://exceleratorbi.com.au/deep-dive-into-inforiver-export-to-excel/",
+      "path": "_learning/videos/curbal-dax-fridays-6-filter.md",
+      "title": "DAX Fridays! #6: FILTER",
+      "excerpt": "Learn how to use the DAX FILTER function to filter data.  Link to PBI file: https://curbal.com/blog/glossary/filter-dax   PREVIOUS VIDEO: https://www.youtube.com/watch?v=-oDpOfhgmzA NEXT VIDEO:-  You can apply filters in formulas that take a table as input. Instead of entering a table name, you use the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-6-filter/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-6-filter/",
+      "originalUrl": "https://youtube.com/watch?v=SOTQ3MiTXT4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SOTQ3MiTXT4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M2S",
       "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2022-02-22T11:55:21-08:00",
+      "publishedDateTime": "2016-09-26T07:49:00-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/02/export-to-excel-featured-image.gif",
-          "width": 640,
-          "height": 340,
+          "url": "https://i.ytimg.com/vi/SOTQ3MiTXT4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-do-i-need-a-power-bi-premium-per-user-licence.md",
-      "title": "Do I Need a Power BI Premium Per User Licence?",
-      "excerpt": "As is often the case, the inspiration for many of my blog articles comes from my experiences working with clients. Today I was on a call with a client in the USA who is still very early into his PowerBI.com journey. I noticed that he had a Power BI Premium [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-do-i-need-a-power-bi-premium-per-user-licence/index.json",
-      "webUrl": "https://exceleratorbi.com.au/do-i-need-a-power-bi-premium-per-user-licence/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-12-23T15:35:09-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/12/122321_2109_DoINeedaPow1.png",
-          "width": 457,
-          "height": 270,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-do-not-build-a-column-chart-like-this-please.md",
-      "title": "Do Not Build a Column Chart Like This – Please!",
-      "excerpt": "I was inspired into action this week by one of the worst visuals I have seen during the COVID pandemic. Here is the visual below, take a look and see what you think. When I first saw this chart, I simply couldn&#8217;t make sense of it. The first thing I [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-do-not-build-a-column-chart-like-this-please/index.json",
-      "webUrl": "https://exceleratorbi.com.au/do-not-build-a-column-chart-like-this-please/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-08-05T15:01:44-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/07/dont-do-this.png",
-          "width": 2109,
-          "height": 920,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-dynamic-commentary-in-power-bi.md",
-      "title": "Dynamic Commentary in Power BI",
-      "excerpt": "Today is another in my series where I am building out my COVID report for Australia. There are a few things I cover in the video today.  The main &#8220;new&#8221; concept is the dynamic commentary, but I also show you some more warts and all insider view of building a [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-dynamic-commentary-in-power-bi/index.json",
-      "webUrl": "https://exceleratorbi.com.au/dynamic-commentary-in-power-bi/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-09-20T18:14:17-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/09/Thumbnail-e1632139127781.jpg",
-          "width": 750,
-          "height": 422,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-dynamic-formatting-of-switch-measures.md",
-      "title": "Dynamic Formatting of Switch Measures",
-      "excerpt": "History of Switch Measures Using a switch measure to toggle results is a mature and common technique used in Power BI and Power Pivot for Excel. For example, a switch measure can be used to toggle what appears on a chart so that the end user can easily switch the [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-dynamic-formatting-of-switch-measures/index.json",
-      "webUrl": "https://exceleratorbi.com.au/dynamic-formatting-of-switch-measures/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2020-08-24T17:57:11-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/08/Dynamic-Formatting-of-Switch-Measures.gif",
-          "width": 750,
-          "height": 346,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-exploding-measures-using-tabular-editor-3.md",
-      "title": "Exploding Measures using Tabular Editor 3",
-      "excerpt": "What?! Exploding Measures I hear you say. Exploding, expanding, use which ever word you like; what I mean is when you want to remove any refence to a measure INSIDE another measure. Example Consider the 3 measures below. Total Sales = SUM(Sales[ExtendedAmount]) Total All Product Sales = CALCULATE([Total",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-exploding-measures-using-tabular-editor-3/index.json",
-      "webUrl": "https://exceleratorbi.com.au/expanding-measures-using-tabular-editor-3/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2022-04-12T20:00:35-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2017/05/Power-Query-Academy-Logo-450x216.png",
-          "width": 450,
-          "height": 216,
-          "isCached": true
-        },
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/02/SCPBI-Cover-3rd-Edition-small.png",
-          "width": 300,
-          "height": 408,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-extract-multiple-pages-from-web.md",
-      "title": "Extract Multiple Pages from Web",
-      "excerpt": "Every now and then when I have a Power BI project of interest to me, I like to create a video of the end to end process of building a new report. This allows me to share some &#8220;warts and all&#8221; real-world examples of how to go about building a [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-extract-multiple-pages-from-web/index.json",
-      "webUrl": "https://exceleratorbi.com.au/extract-multiple-pages-from-web/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2022-08-31T19:24:53-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/08/extract-from-web.png",
-          "width": 969,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-extract-tabular-data-from-power-bi-service-to-excel.md",
-      "title": "Extract Tabular Data From Power BI Service to Excel",
-      "excerpt": "Level: Intermediate Updated: 10 Nov 2020 I first wrote this article about how to get tabular data from the Power BI Service into Excel back in Jan 2017.  The benefits of extracting tabular data are still the same as they were back then however the process of extracting the tabular data [...]Read More",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-extract-tabular-data-from-power-bi-service-to-excel/index.json",
-      "webUrl": "https://exceleratorbi.com.au/extract-tabular-data-power-bi-service-excel/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2020-11-09T13:40:19-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2017/01/export.png",
-          "width": 500,
-          "height": 250,
-          "isCached": true
-        },
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/11/thumbnail.png",
-          "width": 500,
-          "height": 250,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "Power BI",
-        "Power BI Service"
+        "DAX"
       ]
     },
     {
-      "path": "_learning/articles/excelerator-bi-fast-track-power-bi-dev-with-sharepoint-files.md",
-      "title": "Fast Track Power BI Dev With SharePoint Files",
-      "excerpt": "I&#8217;m always looking for more productive ways to work with Power BI and associated tools. As I covered in my article last week, development of Power BI reports using SharePoint for your file storage can be so slow that it is impractical. In this article I discuss the various options [...]Read More",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-fast-track-power-bi-dev-with-sharepoint-files/index.json",
-      "webUrl": "https://exceleratorbi.com.au/fast-track-power-bi-dev-with-sharepoint-files/",
+      "path": "_learning/videos/curbal-dax-fridays-60-datatable.md",
+      "title": "DAX Fridays! #60: DATATABLE",
+      "excerpt": "In today's video we will learn how to create a table using DAX where you can specify the column name and the column data type while creating it.  To download the sample file: https://curbal.com/blog/glossary/datatable-dax  Other ways to create a data table: https://www.youtube.com/watch?v=cvzDJM0ZxE0",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-60-datatable/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-60-datatable/",
+      "originalUrl": "https://youtube.com/watch?v=phoeV7QTBjY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/phoeV7QTBjY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M",
       "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-09-22T01:18:03-07:00",
+      "publishedDateTime": "2017-11-24T03:38:30-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/09/092220_0726_FastTrackPo1.png",
-          "width": 800,
-          "height": 339,
+          "url": "https://i.ytimg.com/vi/phoeV7QTBjY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-field-parameters-in-power-bi.md",
-      "title": "Field Parameters in Power BI",
-      "excerpt": "The May 2022 version of Power BI Desktop includes a very interesting and useful feature – Field Parameters. Today I will show you how to use this new feature illustrating with 3 (no, wait, 4) use cases – Chart Elements, Chart Axis, Table Contents and Permanent Ad hoc Hierarchies. How [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-field-parameters-in-power-bi/index.json",
-      "webUrl": "https://exceleratorbi.com.au/field-parameters-in-power-bi/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2022-05-17T16:22:36-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/05/051722_2152_FieldParame2.png",
-          "width": 533,
-          "height": 518,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-field-parameters-using-measures.md",
-      "title": "Field Parameters Using Measures",
-      "excerpt": "Readers of my blog may have read this previous article from Roland where he covered an introduction to dataflows. In this new article, Roland is going to share some ideas about using the new field parameters.  If you haven&#8217;t subscribed to Roland&#8217;s YouTube Channel yet, I highly recommend that",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-field-parameters-using-measures/index.json",
-      "webUrl": "https://exceleratorbi.com.au/field-parameters-useful-ui-design/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2022-07-14T16:59:55-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/07/Blog_Pic1-1.jpg",
-          "width": 800,
-          "height": 273,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-fill-data-to-the-right-in-a-table.md",
-      "title": "Fill Data to the Right in a Table",
-      "excerpt": "I was helping someone recently with an issue. They wanted to allow end users (department managers in this case) to enter data in a table as simply as possible, and then use this data for reporting. The challenge often is, that the easiest way to enter data from a user&#8217;s [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-fill-data-to-the-right-in-a-table/index.json",
-      "webUrl": "https://exceleratorbi.com.au/fill-data-to-the-right-in-a-table/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-06-22T14:49:37-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2017/05/Power-Query-Academy-Logo-450x216.png",
-          "width": 450,
-          "height": 216,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-filter-one-slicer-based-on-another-slicer-in-power-bi.md",
-      "title": "Filter One Slicer Based on Another Slicer in Power BI",
-      "excerpt": "This is a follow up article from my last blog post where I demonstrated how easy it is to use two slicers to compare any two items. In the demo in my article, I specifically showed how you could compare any 2 years of choice, but the principle applies to [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-filter-one-slicer-based-on-another-slicer-in-power-bi/index.json",
-      "webUrl": "https://exceleratorbi.com.au/filter-one-slicer-based-on-another-slicer-in-power-bi/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-07-12T16:24:52-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/07/070921_2320_FilterOneSl1.png",
-          "width": 402,
-          "height": 259,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-five-essential-power-tools-for-power-bi-desktop.md",
-      "title": "Five Essential Power Tools for Power BI Desktop",
-      "excerpt": "The External Tools ribbon is a feature that has been available in Power BI Desktop since the July 2020 release.  This feature should be considered essential to anyone who is regularly working in the Power BI space.    In this article I recommend my top five External Tools, that I [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-five-essential-power-tools-for-power-bi-desktop/index.json",
-      "webUrl": "https://exceleratorbi.com.au/five-essential-power-tools-for-power-bi-desktop/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2022-11-21T18:47:09-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/11/Bravo-DAX-Formatter.gif",
-          "width": 1424,
-          "height": 752,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "Power BI",
-        "Power BI Desktop"
+        "DAX"
       ]
     },
     {
-      "path": "_learning/articles/excelerator-bi-gartner-magic-quadrant-for-business-intelligence-2022-update.md",
-      "title": "Gartner Magic Quadrant for Business Intelligence – 2022 Update",
-      "excerpt": "Updated May 2022 I update this blog article regularly to keep track of how Microsoft is progressing on its strategic journey in building a world class BI platform.  Gartner released the 2022 magic quadrant for Business Intelligence in March 2022.  As expected (by me at least), Microsoft is continuing",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-gartner-magic-quadrant-for-business-intelligence-2022-update/index.json",
-      "webUrl": "https://exceleratorbi.com.au/extract-numerical-data-points-from-an-image/",
+      "path": "_learning/videos/curbal-dax-fridays-61-crossjoin.md",
+      "title": "DAX Fridays! #61: CROSSJOIN",
+      "excerpt": "In this video I will show you an example on how the DAX function CROSSJOIN works. Dont miss it :)  EXCEL SURVEY: https://1drv.ms/xs/s!Ar8CDNp8cGTcgjaHonN82T8I1jQT  PREVIOUS VIDEO: https://www.youtube.com/watch?v=phoeV7QTBjY NEXT VIDEO:https://www.youtube.com/watch?v=mcQ_ZmuWvDs   Looking for a download",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-61-crossjoin/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-61-crossjoin/",
+      "originalUrl": "https://youtube.com/watch?v=2laBGpCdc4g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2laBGpCdc4g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M9S",
       "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2022-05-11T16:00:52-07:00",
+      "publishedDateTime": "2017-12-01T06:02:13-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/02/Gartner-2022.gif",
-          "width": 596,
-          "height": 592,
+          "url": "https://i.ytimg.com/vi/2laBGpCdc4g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "article",
+      "type": "video",
+      "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "DAX"
       ]
     },
     {
-      "path": "_learning/articles/excelerator-bi-how-many-employees-by-period.md",
-      "title": "How Many Employees by Period",
-      "excerpt": "I have many reasons for sharing content online. The main reasons are that I like sharing what I know, but also that I want to document how to complete a task for future reference. My article today ticks both of those boxes. How Many Employees by Period I&#8217;m calling this [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-how-many-employees-by-period/index.json",
-      "webUrl": "https://exceleratorbi.com.au/how-many-employees-by-period/",
+      "path": "_learning/videos/curbal-dax-fridays-62-naturalinnerjoin-and-naturalleftouterjoin.md",
+      "title": "DAX Fridays! #62: NATURALINNERJOIN and NATURALLEFTOUTERJOIN",
+      "excerpt": "In today's video I will show you how to do an inner join and outer join of tables using DAX.  Keynotes: 04:35 Innerjoin 07:59 Outer join  Link to download file: https://curbal.com/blog/glossary/naturalinnerjoin-dax  Link to Join tutorial in Power Query: https://www.youtube.com/watch?v=PNdxy0c1Shg  EXCEL",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-62-naturalinnerjoin-and-naturalleftouterjoin/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-62-naturalinnerjoin-and-naturalleftouterjoin/",
+      "originalUrl": "https://youtube.com/watch?v=mcQ_ZmuWvDs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mcQ_ZmuWvDs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M42S",
       "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2022-05-23T17:39:48-07:00",
+      "publishedDateTime": "2017-12-08T08:33:51-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2017/05/Power-Query-Academy-Logo-450x216.png",
-          "width": 450,
-          "height": 216,
+          "url": "https://i.ytimg.com/vi/mcQ_ZmuWvDs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "article",
+      "type": "video",
+      "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "DAX"
       ]
     },
     {
-      "path": "_learning/articles/excelerator-bi-improving-my-covid-power-bi-report.md",
-      "title": "Improving My COVID Power BI Report",
-      "excerpt": "As is almost always the case when building Power BI reports, the first version is just the start of the journey, not the final destination. This article is a follow up from last week where I showed you how I built my COVID Power BI report from scratch. This week [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-improving-my-covid-power-bi-report/index.json",
-      "webUrl": "https://exceleratorbi.com.au/improving-my-covid-power-bi-report/",
+      "path": "_learning/videos/curbal-dax-fridays-64-generate-generateall.md",
+      "title": "DAX Fridays! #64: GENERATE, GENERATEALL",
+      "excerpt": "In today's video we will continue learning how to join tables using DAX. This time we will use GENERATE and GENERATEALL.  EXCEL SURVEY: https://1drv.ms/xs/s!Ar8CDNp8cGTcgjaHonN82T8I1jQT  PREVIOUS VIDEO:https://www.youtube.com/watch?v=mcQ_ZmuWvDs NEXT VIDEO:https://www.youtube.com/watch?v=TL81opk59aE",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-64-generate-generateall/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-64-generate-generateall/",
+      "originalUrl": "https://youtube.com/watch?v=xGelnWcsbSg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xGelnWcsbSg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M33S",
       "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2021-07-26T19:05:59-07:00",
+      "publishedDateTime": "2017-12-21T02:11:18-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/07/image.png",
-          "width": 346,
-          "height": 220,
+          "url": "https://i.ytimg.com/vi/xGelnWcsbSg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "article",
+      "type": "video",
+      "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-65-except.md",
+      "title": "DAX Fridays! #65: EXCEPT",
+      "excerpt": "In today's video we will continue learning how to join tables using DAX. This time we will use Except to do anti join.   You will find the link to all files here: https://curbal.com/blog/glossary/except-dax  EXCEL SURVEY: https://1drv.ms/xs/s!Ar8CDNp8cGTcgjaHonN82T8I1jQT  PREVIOUS VIDEO: https://www.youtube.com/watch?v=xGelnWcsbSg",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-65-except/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-65-except/",
+      "originalUrl": "https://youtube.com/watch?v=TL81opk59aE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TL81opk59aE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M34S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-12T05:43:48-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TL81opk59aE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-66-treatas.md",
+      "title": "DAX Fridays! #66: TREATAS",
+      "excerpt": "In this video we will go through the DAX function TREATAS.  The TREATAS DAX function allows us to create virtual relationships within tables or pass filters to tables that are not related.  Link to function in glossary:  https://curbal.com/blog/glossary/treatas-dax   Link to SQLBI blog post: https://www.sqlbi.com/articles/propagate-filters-using-treatas-in-dax/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-66-treatas/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-66-treatas/",
+      "originalUrl": "https://youtube.com/watch?v=pbAL_zG-Pgo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pbAL_zG-Pgo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M39S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-26T07:04:31-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pbAL_zG-Pgo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-67-fixed.md",
+      "title": "DAX Fridays! #67: FIXED",
+      "excerpt": "In today's DAX Fridays video we will go through the function FIXED that allows you to convert an number into text while keeping the numbering format.  EXCEL SURVEY: https://1drv.ms/xs/s!Ar8CDNp8cGTcgjaHonN82T8I1jQT  PREVIOUS VIDEO: https://www.youtube.com/watch?v=pbAL_zG-Pgo NEXT VIDEO: https://youtu.be/oBg3IerQswQ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-67-fixed/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-67-fixed/",
+      "originalUrl": "https://youtube.com/watch?v=lA7CDTgCIrM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lA7CDTgCIrM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M43S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-02-02T03:34:24-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lA7CDTgCIrM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-68-utcnow-utctoday.md",
+      "title": "DAX Fridays! #68: UTCNOW, UTCTODAY",
+      "excerpt": "In today's DAX Fridays video we will go through the function UTCNOW and UTCTODAY.  EXCEL SURVEY: https://1drv.ms/xs/s!Ar8CDNp8cGTcgjaHonN82T8I1jQT  PREVIOUS VIDEO: https://www.youtube.com/watch?v=lA7CDTgCIrM NEXT VIDEO:   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-68-utcnow-utctoday/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-68-utcnow-utctoday/",
+      "originalUrl": "https://youtube.com/watch?v=oBg3IerQswQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oBg3IerQswQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M48S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-02-09T07:11:28-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oBg3IerQswQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-69-how-to-write-a-dax-measure-part-1.md",
+      "title": "DAX Fridays! #69: How to write a DAX measure (Part 1)",
+      "excerpt": "In today’s video I will show you how to create a bit more complex calculation using DAX. We will calculate the average number of categories per customers.   Here in Part one, we will calculate it using Summarize, and then summarize and addcolumns and finally, summarize and addcolumns and calculate to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-69-how-to-write-a-dax-measure-part-1/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-69-how-to-write-a-dax-measure-part-1/",
+      "originalUrl": "https://youtube.com/watch?v=SOkBdbu4sVc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SOkBdbu4sVc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M16S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-02-18T09:30:36-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SOkBdbu4sVc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-7-all-allexcept.md",
+      "title": "DAX Fridays! #7: ALL, ALLEXCEPT",
+      "excerpt": "The function ALL returns all the rows in a table, or all the values in a column, ignoring any filters that might have been applied. This function is useful for clearing filters and creating calculations on all the rows in a table.  The function ALLEXCEPT removes all filters except the ones that have",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-7-all-allexcept/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-7-all-allexcept/",
+      "originalUrl": "https://youtube.com/watch?v=q4jePhzKtbU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q4jePhzKtbU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M3S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-10-10T02:18:12-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q4jePhzKtbU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-70-how-to-write-a-dax-measure-part-2.md",
+      "title": "DAX Fridays! #70: How to write a DAX measure (Part 2)",
+      "excerpt": "In today’s video I will show you how to create a bit more complex calculation using DAX. We will calculate the average number of categories per customers.   In Part one, we will calculate it using Summarize, and then summarize and addcolumns and finally, summarize and addcolumns and calculate to get",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-70-how-to-write-a-dax-measure-part-2/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-70-how-to-write-a-dax-measure-part-2/",
+      "originalUrl": "https://youtube.com/watch?v=daiCAmq3OxU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/daiCAmq3OxU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M2S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-02-23T04:33:35-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/daiCAmq3OxU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-71-optimize-a-dax-measure.md",
+      "title": "DAX Fridays! #71: Optimize a DAX measure",
+      "excerpt": "In today’s video I will show you how to create a bit more complex calculation using DAX. We will calculate the average number of categories per customers.   In Part one, we will calculate it using Summarize, and then summarize and addcolumns and finally, summarize and addcolumns and calculate to get",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-71-optimize-a-dax-measure/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-71-optimize-a-dax-measure/",
+      "originalUrl": "https://youtube.com/watch?v=nwnncgqmB-E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nwnncgqmB-E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M19S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-03-02T09:59:38-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nwnncgqmB-E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-72-max-maxx-maxa.md",
+      "title": "DAX Fridays! #72: MAX, MAXX, MAXA",
+      "excerpt": "In today's video we will go through the DAX functions of MAX, MAXX and MAXA.  Link to DAX glossary:  https://curbal.com/blog/glossary/max-dax  PREVIOUS VIDEO: NEXT VIDEO: https://youtu.be/1Swyk3jJ63k  EXCEL SURVEY: https://1drv.ms/xs/s!Ar8CDNp8cGTcgjaHonN82T8I1jQT   Looking for a download file? Go to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-72-max-maxx-maxa/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-72-max-maxx-maxa/",
+      "originalUrl": "https://youtube.com/watch?v=_FuL3kYoF0o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_FuL3kYoF0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M13S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-03-09T02:31:49-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_FuL3kYoF0o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-73-why-should-i-use-mark-as-a-date-function.md",
+      "title": "DAX Fridays! #73: Why should I use mark as a date function?",
+      "excerpt": "In today's video we will go through what the new \"Mark as a date\" functionality does and why you should use it. I did a bit of research for this video and all my sources are here:  Mark as a date table (official docs): https://docs.microsoft.com/en-us/power-bi/desktop-date-tables Date Hierarchies in",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-73-why-should-i-use-mark-as-a-date-function/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-73-why-should-i-use-mark-as-a-date-function/",
+      "originalUrl": "https://youtube.com/watch?v=1Swyk3jJ63k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1Swyk3jJ63k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M49S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-03-16T04:33:04-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1Swyk3jJ63k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-74-previousday-previousmonth-previousquarter-previousyear.md",
+      "title": "DAX Fridays! #74: PREVIOUSDAY, PREVIOUSMONTH, PREVIOUSQUARTER, PREVIOUSYEAR",
+      "excerpt": "In today’s video I we will go through how to build a time intelligence measure in DAX using the PREVIOUSDAY, PREVIOUSMONTH, PREVIOUSQUARTER, PREVIOUSYEAR.  We will first go through PREVIOUSYEAR DAX function and explain how can those functions can be combined with CALCULATE to create the correct measure.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-74-previousday-previousmonth-previousquarter-previousyear/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-74-previousday-previousmonth-previousquarter-previousyear/",
+      "originalUrl": "https://youtube.com/watch?v=s4HsdoSTNt4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s4HsdoSTNt4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M45S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-03-23T09:34:11-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/s4HsdoSTNt4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-75-sameperiodlastyear.md",
+      "title": "DAX Fridays! #: 75: SAMEPERIODLASTYEAR",
+      "excerpt": "In today's video we will go through the DAX function called SAMEPERIODLASTYEAR.  This little function is great for analyzing as the function itself says, the same period last year.  If you have seasonal business and you want to analyze what happended the same period the previous year, it will do it flowless.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-75-sameperiodlastyear/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-75-sameperiodlastyear/",
+      "originalUrl": "https://youtube.com/watch?v=eJ03-7MssuY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eJ03-7MssuY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M9S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-03-29T07:01:09-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eJ03-7MssuY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-76-parallelperiod.md",
+      "title": "DAX Fridays! #76: PARALLELPERIOD",
+      "excerpt": "In today's video, I will go through the DAX function PARALLELPERIOD. This function allows you to go back to the entire previous period from the current one.   Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK    Looking for a download",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-76-parallelperiod/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-76-parallelperiod/",
+      "originalUrl": "https://youtube.com/watch?v=laVHA7A1IzE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/laVHA7A1IzE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M9S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-03-29T08:50:12-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/laVHA7A1IzE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-77-groupby-currentgroup.md",
+      "title": "DAX Fridays! #77: GROUPBY, CURRENTGROUP",
+      "excerpt": "In today's DAX Fridays, we will go through the DAX function GROUPBY with an example.  GROUPBY is similar as SUMMARIZE, but the difference is that in the expression part, you use DAX iterators to get your results. You can also nest GROUPBY functions to get for example the highest sales amount by country.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-77-groupby-currentgroup/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-77-groupby-currentgroup/",
+      "originalUrl": "https://youtube.com/watch?v=pn3pf7pcwOA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pn3pf7pcwOA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M27S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-04-12T09:02:07-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pn3pf7pcwOA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-79-keepfilters.md",
+      "title": "DAX Fridays! #79: KEEPFILTERS",
+      "excerpt": "In today's video we are going through the DAX function KEEPFILTERS. KEEPFILTERS will remove the behaviour that CALCULATE has where it removes the filters available.  Looking for Part 1 video?  https://www.youtube.com/watch?v=ewjRItLlgG8  Download file here: https://curbal.com/blog/glossary/keepfilters-function-dax",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-79-keepfilters/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-79-keepfilters/",
+      "originalUrl": "https://youtube.com/watch?v=DnI7XNRGeCA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DnI7XNRGeCA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M59S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-04-27T04:59:20-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DnI7XNRGeCA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-8-calculate-part-2.md",
+      "title": "DAX Fridays! #8: CALCULATE (Part 2)",
+      "excerpt": "The calculate function is the most useful measure available in DAX. Let's go through how it works in this part 2!  Calculate Part 1: https://www.youtube.com/watch?v=-oDpOfhgmzA Download Power BI file:https://curbal.com/blog/glossary/calculate-dax  PREVIOUS VIDEO: https://www.youtube.com/watch?v=q4jePhzKtbU",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-8-calculate-part-2/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-8-calculate-part-2/",
+      "originalUrl": "https://youtube.com/watch?v=uZ15A13AsHY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uZ15A13AsHY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M46S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-10-07T03:23:19-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uZ15A13AsHY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-80-datesbetween.md",
+      "title": "DAX Fridays! #80: DATESBETWEEN",
+      "excerpt": "In todays video we are going to cover the DAX function DATESBETWEEN.  DATESBETWEEN function allows you to calculate amounts between two dates you specify.   For example, if you want to calculate the sum of sales between two specific dates, this is the perfect function for you.  You can \"hardcode\" the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-80-datesbetween/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-80-datesbetween/",
+      "originalUrl": "https://youtube.com/watch?v=Bbp-R3mLAF8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bbp-R3mLAF8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M3S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-05-04T04:45:21-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Bbp-R3mLAF8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-82-how-to-learn-dax-for-beginners.md",
+      "title": "DAX Fridays! #82: How to learn DAX for beginners",
+      "excerpt": "So you want to know which path to take to learn DAX and you want to use my DAX Fridays! videos? No problem, in this video, I have put together a list of the order you could follow to learn DAX based on the function difficulties, the common needs on the report and your previous experience.  But before",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-82-how-to-learn-dax-for-beginners/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-82-how-to-learn-dax-for-beginners/",
+      "originalUrl": "https://youtube.com/watch?v=xHiIrvhxAzY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xHiIrvhxAzY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M16S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-05-18T06:05:13-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xHiIrvhxAzY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-83-dax-functions-to-create-a-calendar-the-easy-way-.md",
+      "title": "DAX Fridays! #83: DAX functions to create a calendar (the easy way) 🤓",
+      "excerpt": "In today's video I will go through the functions needed to create a calendar in DAX. As you will see, you can use those specific functions, but using format is by far easier and faster and more customizable. No need to have a download file, but here is the code, in case you need it:  Convert date text",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-83-dax-functions-to-create-a-calendar-the-easy-way-/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-83-dax-functions-to-create-a-calendar-the-easy-way-/",
+      "originalUrl": "https://youtube.com/watch?v=VtwvJabL2Lg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VtwvJabL2Lg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M37S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-05-25T02:44:52-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VtwvJabL2Lg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-84-fifa-wc-part-4-get-values-from-another-table-with-inactive-relationships.md",
+      "title": "DAX Fridays! #84: FIFA WC 🏆  (Part 4) - Get values from another table with inactive relationships",
+      "excerpt": "It is world's cup fever: FIFA world cup 2018 in Russia!!! And we dont want to miss anything right?  That is where Power BI comes to the rescue :)  I am going to build a Power BI file to follow the world cup and I decided to show you how I create it while creating it :)  In the first video, I downloaded",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-84-fifa-wc-part-4-get-values-from-another-table-with-inactive-relationships/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-84-fifa-wc-part-4-get-values-from-another-table-with-inactive-relationships/",
+      "originalUrl": "https://youtube.com/watch?v=JGy0xzzHcDk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JGy0xzzHcDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M31S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-06-07T08:46:35-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JGy0xzzHcDk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-85-difference-between-dates-in-the-same-column.md",
+      "title": "DAX Fridays! #85: Difference between dates in the same column",
+      "excerpt": "Do you know how to calculate the difference between dates when both are in the same column?  One example of when this is needed is when you are working with subscription based services. If you want to calculate how many dates go between users changing subscriptions, this DAX measure will help you.  To",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-85-difference-between-dates-in-the-same-column/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-85-difference-between-dates-in-the-same-column/",
+      "originalUrl": "https://youtube.com/watch?v=jYvr4histgY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jYvr4histgY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M35S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-06-21T07:01:12-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jYvr4histgY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-86-what-is-dax-and-compare-it-to-excel-formulas.md",
+      "title": "DAX Fridays! #86: What is DAX? (and compare it to Excel formulas)",
+      "excerpt": "So, what is DAX? and how does it compare to Excel formulas? Lets find out in this video.  Link to Vertipaq videos: https://www.youtube.com/playlist?list=PLDz00l_jz6zyfWLZIu8psvTESmKuVDUoG  And link to Write DAX fast: https://www.youtube.com/watch?v=pabn7kLxN6c&list=PLDz00l_jz6zym_YP8ZW11o52niGfCP8pN&t=0s&index=2",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-86-what-is-dax-and-compare-it-to-excel-formulas/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-86-what-is-dax-and-compare-it-to-excel-formulas/",
+      "originalUrl": "https://youtube.com/watch?v=ETcSzHYoWwA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ETcSzHYoWwA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M53S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-06-29T05:53:04-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ETcSzHYoWwA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-87-distinct-vs-distinctcount-vs-values.md",
+      "title": "DAX Fridays! #87: DISTINCT vs DISTINCTCOUNT vs VALUES",
+      "excerpt": "In today's video we are going to cover the DAX function DISTINCT as well as how DISTINCT compares to VALUES and DISTINCTCOUNT.  Link to download: https://curbal.com/blog/glossary/distinct-dax-function  Other functions in this video:  DISTINCTCOUNT: https://www.youtube.com/watch?v=V8wYTjKyvgk VALUES:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-87-distinct-vs-distinctcount-vs-values/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-87-distinct-vs-distinctcount-vs-values/",
+      "originalUrl": "https://youtube.com/watch?v=SX6h4zoZ_8I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SX6h4zoZ_8I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M56S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-07-13T04:10:26-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SX6h4zoZ_8I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     }
   ],
