@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 2838,
-        "average": 4.766032
+        "count": 2840,
+        "average": 4.766197
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 55,
+      "heat": 54,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/create-manage-workspaces-power-bi-social.png",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 2442,
-        "average": 4.703112
+        "count": 2443,
+        "average": 4.7032337
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 55,
+      "heat": 53,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/manage-datasets-in-power-bi-social.png",

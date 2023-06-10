@@ -4,67 +4,6 @@
   "page": 44,
   "value": [
     {
-      "path": "_learning/videos/radacad-powershell-cmdlets-for-power-bi-what-is-it-and-why-should-you-care.md",
-      "title": "PowerShell Cmdlets for Power BI What is it And Why should you care",
-      "excerpt": "Power BI has a set of PowerShell Cmdlets that help automate part of the operations with Power BI. However, PowerShell is not a commonly familiar technology. In the world of Power BI, we are used to working with graphical options and settings provided in the tools and the service. However, using commands",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-powershell-cmdlets-for-power-bi-what-is-it-and-why-should-you-care/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-powershell-cmdlets-for-power-bi-what-is-it-and-why-should-you-care/",
-      "originalUrl": "https://youtube.com/watch?v=0vrnnHtzJL4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0vrnnHtzJL4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M26S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2023-01-16T14:02:46-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0vrnnHtzJL4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-quick-measures-in-power-bi-you-dont-have-to-write-dax.md",
-      "title": "Quick Measures in Power BI You don’t have to write DAX",
-      "excerpt": "Download the dataset from my blog article here: https://radacad.com/quick-measures-in-power-bi-you-dont-have-to-write-dax  To learn more about the difference of Power BI default Date dimension and custom date table, read this article: https://radacad.com/power-bi-date-dimension-default-or-custom-is-it-confusing",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-quick-measures-in-power-bi-you-dont-have-to-write-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-quick-measures-in-power-bi-you-dont-have-to-write-dax/",
-      "originalUrl": "https://youtube.com/watch?v=faUvo30iDWg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/faUvo30iDWg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M58S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-09-03T21:01:39-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/faUvo30iDWg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-relative-date-slicer-in-power-bi-simple-yet-powerful.md",
       "title": "Relative Date Slicer in Power BI   Simple yet Powerful",
       "excerpt": "If you are using a date slicer in your Power BI report, a relative date slicer is one of the options to consider for sure. This is a very simple type of slicer to use, but very effective in terms of options that it provides for the user to slice and dice the data. Let’s check it out in this short video.",
@@ -881,6 +820,44 @@
       ]
     },
     {
+      "path": "_learning/videos/sqlbi-optimizing-switch-on-slicer-selection-with-group-by-columns.md",
+      "title": "Optimizing SWITCH on slicer selection with Group By Columns",
+      "excerpt": "Optimize the query performance of a SWITCH function in DAX that reads a slicer selection: the Group By Columns property can solve a practical problem.\r \r Article and download: https://sql.bi/792990?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-optimizing-switch-on-slicer-selection-with-group-by-columns/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-optimizing-switch-on-slicer-selection-with-group-by-columns/",
+      "originalUrl": "https://youtube.com/watch?v=RCEoAvru8rY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RCEoAvru8rY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M1S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-04-11T03:00:15-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RCEoAvru8rY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/sqlbi-optimizing-text-search-in-dax.md",
       "title": "Optimizing text search in DAX",
       "excerpt": "How to optimize a text search operation in DAX that uses the contains condition in the filter pane or the filter mode of the Smart Filter Pro custom visual.\r Article and download: https://sql.bi/797173?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX:",
@@ -1072,6 +1049,44 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-understanding-the-optimization-of-switch.md",
+      "title": "Understanding the optimization of SWITCH",
+      "excerpt": "The SWITCH function in DAX has been optimized over the years, and it is helpful to know what makes the optimization work best.\r \r  \r Article and download: https://sql.bi/754856?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-understanding-the-optimization-of-switch/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-understanding-the-optimization-of-switch/",
+      "originalUrl": "https://youtube.com/watch?v=Thw6np7EfoM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Thw6np7EfoM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M28S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-06-28T03:00:28-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Thw6np7EfoM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],
