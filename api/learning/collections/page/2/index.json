@@ -619,8 +619,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4027,
-            "average": 4.747206
+            "count": 4028,
+            "average": 4.7470207
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3785,7 +3785,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-organize-fields-social.png",
@@ -4614,8 +4614,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4477,
-            "average": 4.669645
+            "count": 4478,
+            "average": 4.6697187
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4940,8 +4940,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 6233,
-            "average": 4.736082
+            "count": 6234,
+            "average": 4.7361245
           },
           "provider": {
             "name": "Microsoft Learn",
