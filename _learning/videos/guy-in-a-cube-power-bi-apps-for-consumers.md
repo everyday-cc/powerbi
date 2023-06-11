@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Apps for Consumers"
 
-secured: "+XWthjGvnjwCgzsSCl+IDG5rPd3/KGs2tJKHCQBOf15DOJ1qlmZpeqrj39GjLHahVoG1vjrC5zgvYfVE471nWC7jhuezc+nJWc/YRoLpjIztC1xbIMIUNqF/TZ9Q4t6lpFBwSVJY8fah2yIB2EgZ6kfdsaGreqXZdlrDbja1LU4QFfpnvJtsW7HLPHCY+9O0LqG75p2iUeWBo1TnjryTb+0ehkD7jpCjBStq6ytf6/cZ860AaV59L/mUpm72zkJTcmV8GRfYL7XhDPzAW+owbVbOxUaw53uQsULWtpDhYd+V5f1wJZ2gKiAgknrEg6ztNN1ia/+yq90LFasytVWa34NkHdM1mly9kVlbrz6xRio+89WC/ot7EMvPLWRIzfLypwdas/SoT+dCPh7ITUytf5Ea/fNjImYc41WNvt5OSPU=;siMjAx7D5BAQszsKJcS4RQ=="
+secured: "YgF7oUTTds8PnURITZ/6eGzQan/bgvSDeeKY4G8+LzbEAudgOzR6UrevO5J/rEm+KfEDBY7Ggso3Kh0C/MQix7f+mUNTIKGhORcqUrdt69n/+Qk96Wg9ETduraipoJ3QnLbpC62UOKMT+mNSVjesgNP09C7UArYAdYp4frs1VI9cigRxIJJOCJmNVo9/OA8qFSdScVJKTSXJKdkwlfZnDhxLOC9gES6JSpq6vJOAaZP+kbQyFg14Nsz1mc6OtyHnzDC1WPxmRgbwdCoBtxEAM5tkbmGgKwpO/yN0cE230R5l1Mn1S4nTDdz9e1KBR3zcd3gPMH+m/qcbTy7RiNo1UMtBpUsWs1TKKf8BcKuPKYu93kAKPIegrNAyP2QymTuhvNrTWOmjUROCUtKEAVyH/rtDodApW/4mT8S+tKQKklM=;35/YvOXqb/PvcTXxY81Bhg=="
 ---
 
