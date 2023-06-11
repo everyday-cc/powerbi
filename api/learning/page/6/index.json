@@ -570,8 +570,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2861,
-            "average": 4.724222
+            "count": 2862,
+            "average": 4.7243185
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -612,8 +612,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4482,
-            "average": 4.6700134
+            "count": 4484,
+            "average": 4.6699376
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -756,8 +756,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 2861,
-        "average": 4.724222
+        "count": 2862,
+        "average": 4.7243185
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -798,8 +798,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 6202,
-        "average": 4.7995806
+        "count": 6203,
+        "average": 4.799613
       },
       "provider": {
         "name": "Microsoft Learn",
