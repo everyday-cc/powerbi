@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-select/",
       "length": "PT29M",
       "ratings": {
-        "count": 84,
-        "average": 4.8333335
+        "count": 85,
+        "average": 4.8352942
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -95,8 +95,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-permissions-content/",
       "length": "PT33M",
       "ratings": {
-        "count": 64,
-        "average": 4.859375
+        "count": 65,
+        "average": 4.8615384
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -113,7 +113,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-permissions-content-social.png",
