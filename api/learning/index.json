@@ -101,7 +101,7 @@
         ]
       },
       "publishedDateTime": "2023-06-06T08:00:50-07:00",
-      "heat": 187,
+      "heat": 184,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/wEcRTSNhtLg/maxresdefault.jpg",
@@ -139,48 +139,10 @@
         ]
       },
       "publishedDateTime": "2023-05-30T08:00:00-07:00",
-      "heat": 173,
+      "heat": 170,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/-f0XIVEP7bE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-use-your-browser-to-edit-your-power-bi-dataset-within-microsoft-fabric.md",
-      "title": "Use your browser to edit your Power BI dataset within Microsoft Fabric",
-      "excerpt": "More Power BI Desktop capabilities are heading to the service. Modeling in the web is the latest addition. Now Mac users can enjoy editing capabilities! Emily joins us to tell us more!  Edit your data model in the Power BI Service (Preview) https://powerbi.microsoft.com/blog/edit-your-data-model-in-the-power-bi-service-public-preview-opt-in/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-use-your-browser-to-edit-your-power-bi-dataset-within-microsoft-fabric/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-use-your-browser-to-edit-your-power-bi-dataset-within-microsoft-fabric/",
-      "originalUrl": "https://youtube.com/watch?v=2bGb0QCLebw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2bGb0QCLebw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M57S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-06-07T08:00:01-07:00",
-      "heat": 166,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2bGb0QCLebw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -219,6 +181,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/C7szTkb84hc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-use-your-browser-to-edit-your-power-bi-dataset-within-microsoft-fabric.md",
+      "title": "Use your browser to edit your Power BI dataset within Microsoft Fabric",
+      "excerpt": "More Power BI Desktop capabilities are heading to the service. Modeling in the web is the latest addition. Now Mac users can enjoy editing capabilities! Emily joins us to tell us more!  Edit your data model in the Power BI Service (Preview) https://powerbi.microsoft.com/blog/edit-your-data-model-in-the-power-bi-service-public-preview-opt-in/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-use-your-browser-to-edit-your-power-bi-dataset-within-microsoft-fabric/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-use-your-browser-to-edit-your-power-bi-dataset-within-microsoft-fabric/",
+      "originalUrl": "https://youtube.com/watch?v=2bGb0QCLebw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2bGb0QCLebw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M57S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-06-07T08:00:01-07:00",
+      "heat": 157,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2bGb0QCLebw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -330,115 +330,69 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-row-level-security-power-bi.md",
-      "title": "Implement row-level security",
-      "excerpt": "Row-level security (RLS) allows you to create a single or a set of reports that targets data for a specific user. In this module, you will learn how to implement RLS by using either a static or dynamic method and how Microsoft Power BI simplifies testing RLS in Power BI Desktop and Power BI service.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-row-level-security-power-bi/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
-      "length": "PT9M",
-      "ratings": {
-        "count": 6204,
-        "average": 4.799323
-      },
+      "path": "_learning/videos/guy-in-a-cube-why-is-there-a-limited-relationship-when-using-the-same-data-source.md",
+      "title": "Why is there a limited relationship when using the same data source?",
+      "excerpt": "Using Power BI Desktop and notice that you have some limited relationships in your model? Patrick discovered an interesting issue that threw him off at first. Learn how he solved it!  Model relationships in Power BI Desktop https://learn.microsoft.com/power-bi/transform-model/desktop-relationships-understand",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-why-is-there-a-limited-relationship-when-using-the-same-data-source/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-why-is-there-a-limited-relationship-when-using-the-same-data-source/",
+      "originalUrl": "https://youtube.com/watch?v=8vGwBedcXQA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8vGwBedcXQA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M23S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 136,
+      "publishedDateTime": "2023-05-10T08:00:05-07:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/row-level-security-power-bi-social.png",
-          "width": 643,
-          "height": 321,
+          "url": "https://i.ytimg.com/vi/8vGwBedcXQA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-admin-intro.md",
-      "title": "Understand the Power BI administrator role",
-      "excerpt": "Learn how to administer Power BI to support business decisions backed by data.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-intro/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
-      "length": "PT16M",
-      "ratings": {
-        "count": 372,
-        "average": 4.637097
-      },
+      "path": "_learning/videos/sqlbi-optimizing-switch-on-slicer-selection-with-group-by-columns.md",
+      "title": "Optimizing SWITCH on slicer selection with Group By Columns",
+      "excerpt": "Optimize the query performance of a SWITCH function in DAX that reads a slicer selection: the Group By Columns property can solve a practical problem.\r \r Article and download: https://sql.bi/792990?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-optimizing-switch-on-slicer-selection-with-group-by-columns/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-optimizing-switch-on-slicer-selection-with-group-by-columns/",
+      "originalUrl": "https://youtube.com/watch?v=RCEoAvru8rY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RCEoAvru8rY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M1S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 130,
+      "publishedDateTime": "2023-04-11T03:00:15-07:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-more-dynamic-formatting-awesomeness-annotations-with-dynamic-formatting.md",
-      "title": "More Dynamic formatting AWESOMENESS!! | Annotations with dynamic formatting",
-      "excerpt": "In this video I will show you how to add annotations to your charts using dynamic formatting :)  More formatting tips:https://youtu.be/ROyVkQ9vTjc  With charticulator: https://www.youtube.com/watch?v=3rr-XbbGT9o&t=169s&ab_channel=Curbal  Join this channel membership to get access to all the recorded",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-more-dynamic-formatting-awesomeness-annotations-with-dynamic-formatting/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-more-dynamic-formatting-awesomeness-annotations-with-dynamic-formatting/",
-      "originalUrl": "https://youtube.com/watch?v=aRMZEfcQrdY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aRMZEfcQrdY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M45S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-04-19T06:31:08-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aRMZEfcQrdY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/RCEoAvru8rY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -477,6 +431,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hUfdMc0GW8s/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-loop-through-a-list-using-pyspark-for-your-azure-synapse-pipelines.md",
+      "title": "Loop through a list using pySpark for your Azure Synapse Pipelines",
+      "excerpt": "Curious how to loop through files using pySpark? Patrick walks through how he did it for use within his Azure Synapse Analytics Pipelines and Notebooks.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-loop-through-a-list-using-pyspark-for-your-azure-synapse-pipelines/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-loop-through-a-list-using-pyspark-for-your-azure-synapse-pipelines/",
+      "originalUrl": "https://youtube.com/watch?v=ldTeS-yxpSE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ldTeS-yxpSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M55S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-04-18T08:00:29-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ldTeS-yxpSE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -558,8 +550,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 64827,
-            "average": 4.795764
+            "count": 64829,
+            "average": 4.7957706
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -600,8 +592,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 91641,
-            "average": 4.778265
+            "count": 91646,
+            "average": 4.7782774
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -660,8 +652,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 91641,
-        "average": 4.778265
+        "count": 91646,
+        "average": 4.7782774
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -770,8 +762,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 64827,
-        "average": 4.795764
+        "count": 64829,
+        "average": 4.7957706
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1194,8 +1186,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 29986,
-        "average": 4.72107
+        "count": 29989,
+        "average": 4.721098
       },
       "provider": {
         "name": "Microsoft Learn",
