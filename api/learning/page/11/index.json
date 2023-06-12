@@ -287,8 +287,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7252,
-            "average": 4.727661
+            "count": 7254,
+            "average": 4.7277365
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -329,8 +329,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 6241,
-            "average": 4.73594
+            "count": 6243,
+            "average": 4.735864
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -431,8 +431,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/",
       "length": "PT22M",
       "ratings": {
-        "count": 476,
-        "average": 4.857143
+        "count": 478,
+        "average": 4.8514643
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -473,8 +473,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 7252,
-        "average": 4.727661
+        "count": 7254,
+        "average": 4.7277365
       },
       "provider": {
         "name": "Microsoft Learn",
