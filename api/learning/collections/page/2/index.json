@@ -2401,8 +2401,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-intro/",
           "length": "PT34M",
           "ratings": {
-            "count": 160,
-            "average": 4.88125
+            "count": 161,
+            "average": 4.8819876
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2485,8 +2485,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-permissions-content/",
           "length": "PT33M",
           "ratings": {
-            "count": 63,
-            "average": 4.857143
+            "count": 64,
+            "average": 4.859375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4300,8 +4300,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 11330,
-            "average": 4.742542
+            "count": 11331,
+            "average": 4.7425647
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4342,8 +4342,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 9114,
-            "average": 4.7113233
+            "count": 9116,
+            "average": 4.7113867
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4468,8 +4468,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12324,
-            "average": 4.6826515
+            "count": 12325,
+            "average": 4.6826773
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4919,8 +4919,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4490,
-            "average": 4.6703787
+            "count": 4491,
+            "average": 4.670452
           },
           "provider": {
             "name": "Microsoft Learn",
