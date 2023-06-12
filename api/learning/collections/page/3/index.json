@@ -243,8 +243,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 6205,
-            "average": 4.799033
+            "count": 6207,
+            "average": 4.799098
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1315,8 +1315,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 168,
-            "average": 4.797619
+            "count": 169,
+            "average": 4.7988167
           },
           "provider": {
             "name": "Microsoft Learn",

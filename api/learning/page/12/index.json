@@ -823,8 +823,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 671,
-            "average": 4.804769
+            "count": 672,
+            "average": 4.8050594
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -925,8 +925,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 2596,
-        "average": 4.733436
+        "count": 2597,
+        "average": 4.733154
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1095,8 +1095,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 6205,
-        "average": 4.799033
+        "count": 6207,
+        "average": 4.799098
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1137,8 +1137,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 7583,
-        "average": 4.762495
+        "count": 7584,
+        "average": 4.7625265
       },
       "provider": {
         "name": "Microsoft Learn",
