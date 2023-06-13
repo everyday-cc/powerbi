@@ -95,8 +95,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/examine-data-visualizations-power-bi/",
       "length": "PT17M",
       "ratings": {
-        "count": 95,
-        "average": 4.7789474
+        "count": 96,
+        "average": 4.78125
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -593,8 +593,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
       "length": "PT1H28M",
       "ratings": {
-        "count": 484,
-        "average": 4.696281
+        "count": 485,
+        "average": 4.696907
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -635,8 +635,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
       "length": "PT51M",
       "ratings": {
-        "count": 3354,
-        "average": 4.71616
+        "count": 3355,
+        "average": 4.716244
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1090,48 +1090,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-effective-structure.md",
-      "title": "Structure analytical report designs in Power BI",
-      "excerpt": "Designing an analytical report involves understanding the requirements and its audience. However, designing a compelling analytical report requires understanding the automatic and unconscious processes that occur when report consumers comprehend what they see. When you have the knowledge of how to structure and apply report design principles, you can raise the level of your report designs to produce relevant, intuitive, and visually pleasing experiences for your report consumers.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-structure/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 1639,
-        "average": 4.779134
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-structure-social.png",
-          "width": 1281,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-power-bi-effective-ui.md",
       "title": "Enhance Power BI report designs for the user interface",
       "excerpt": "Designing the user interface (UI) is about how reports are consumed, including the appearance and behavior of them, and it is the final report development stage.",
@@ -1245,6 +1203,48 @@
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-content-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-power-bi-embedded-integrate.md",
+      "title": "Integrate content with Power BI client APIs",
+      "excerpt": "Learn how to use Power BI client APIs to develop solutions that respond to subscribable events and interact with Power BI content.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-integrate/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-integrate/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 43,
+        "average": 4.8139534
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-integrate-social.png",
           "width": 1280,
           "height": 641,
           "isCached": true
