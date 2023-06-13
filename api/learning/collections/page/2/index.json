@@ -3488,7 +3488,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-intro-social.png",
@@ -4401,8 +4401,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 11345,
-            "average": 4.7428823
+            "count": 11346,
+            "average": 4.742905
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4861,8 +4861,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12336,
-            "average": 4.6827173
+            "count": 12338,
+            "average": 4.682769
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4895,8 +4895,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11374,
-            "average": 4.7070513
+            "count": 11376,
+            "average": 4.707103
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5103,8 +5103,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 864,
-            "average": 4.7546296
+            "count": 865,
+            "average": 4.752601
           },
           "provider": {
             "name": "Microsoft Learn",
