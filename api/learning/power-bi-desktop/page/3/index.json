@@ -232,8 +232,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/",
       "length": "PT40M",
       "ratings": {
-        "count": 256,
-        "average": 4.7070312
+        "count": 257,
+        "average": 4.7081714
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -320,8 +320,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 4039,
-        "average": 4.746472
+        "count": 4041,
+        "average": 4.7465973
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -495,8 +495,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-interactive-experiences/",
       "length": "PT56M",
       "ratings": {
-        "count": 285,
-        "average": 4.6807017
+        "count": 286,
+        "average": 4.678322
       },
       "provider": {
         "name": "Microsoft Learn",
