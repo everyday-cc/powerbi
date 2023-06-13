@@ -705,8 +705,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-deployment-pipelines/",
           "length": "PT42M",
           "ratings": {
-            "count": 167,
-            "average": 4.760479
+            "count": 168,
+            "average": 4.7619047
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1300,8 +1300,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-your-first-power-bi-report/",
       "length": "PT55M",
       "ratings": {
-        "count": 6581,
-        "average": 4.7745023
+        "count": 6583,
+        "average": 4.774571
       },
       "provider": {
         "name": "Microsoft Learn",

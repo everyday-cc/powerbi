@@ -269,8 +269,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12348,
-            "average": 4.6827826
+            "count": 12353,
+            "average": 4.682587
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -303,8 +303,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11378,
-            "average": 4.707066
+            "count": 11380,
+            "average": 4.7071176
           },
           "provider": {
             "name": "Microsoft Learn",
