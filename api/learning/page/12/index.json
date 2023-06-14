@@ -564,8 +564,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7260,
-            "average": 4.7278237
+            "count": 7262,
+            "average": 4.727761
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -708,8 +708,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 3311,
-        "average": 4.6816673
+        "count": 3313,
+        "average": 4.680954
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -834,8 +834,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 7260,
-        "average": 4.7278237
+        "count": 7262,
+        "average": 4.727761
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -876,8 +876,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 6217,
-        "average": 4.798617
+        "count": 6219,
+        "average": 4.7986813
       },
       "provider": {
         "name": "Microsoft Learn",
