@@ -685,8 +685,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 748,
-            "average": 4.8342247
+            "count": 749,
+            "average": 4.834446
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -745,7 +745,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 136,
+          "heat": 56,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/explore-data-analytics-at-scale-social.png",
@@ -1210,8 +1210,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
       "length": "PT28M",
       "ratings": {
-        "count": 748,
-        "average": 4.8342247
+        "count": 749,
+        "average": 4.834446
       },
       "provider": {
         "name": "Microsoft Learn",
