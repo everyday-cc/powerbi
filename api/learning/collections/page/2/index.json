@@ -2646,7 +2646,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-power-bi-model-relationships-social.png",
@@ -4545,8 +4545,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12364,
-            "average": 4.682708
+            "count": 12366,
+            "average": 4.6827593
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4704,8 +4704,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2881,
-            "average": 4.72336
+            "count": 2882,
+            "average": 4.723456
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4788,8 +4788,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6678,
-            "average": 4.701108
+            "count": 6679,
+            "average": 4.701153
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4913,8 +4913,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 6226,
-            "average": 4.717475
+            "count": 6228,
+            "average": 4.7172446
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5274,8 +5274,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 868,
-            "average": 4.752304
+            "count": 869,
+            "average": 4.752589
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5358,8 +5358,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 681,
-            "average": 4.804699
+            "count": 682,
+            "average": 4.8049855
           },
           "provider": {
             "name": "Microsoft Learn",
