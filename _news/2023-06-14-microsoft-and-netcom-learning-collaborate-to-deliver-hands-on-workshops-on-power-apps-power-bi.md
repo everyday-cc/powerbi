@@ -6,17 +6,24 @@ publishedDateTime: 2023-06-13T18:00:00Z
 originalUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2023-6-14-microsoft-and-netcom-learning-collaborate-to-deliver-hands-on-workshops-on-power-apps-and-power-bi"
 webUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2023-6-14-microsoft-and-netcom-learning-collaborate-to-deliver-hands-on-workshops-on-power-apps-and-power-bi"
 type: article
-quality: 4
-heat: 4
-published: false
+quality: 106
+heat: 106
+published: true
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Tbh0tFEfoXw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: The Buffalo News
   domain: buffalonews.com
+  images:
+    - url: "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Power BI
+  - Power BI Desktop
 
-secured: "W9v4i79iXSVu4Jge14dCQ2dxa2C/7DIeTaUYje69EYyhBT5hCfTp7tx5E8NIjIpWrk+mZngW9rPtZ50rGYGT/bnhccpzLdBeponS9ipOHOEo8FlODF4dUg+O4W5xy5y3DPmGq9328MfTH0G+Ooa402RIdAoj1gqzrMrR6Ye7ZtyDyfGTy9ip9NwqqTolgMnFPbcobZ+GneURs2IB5FN7IKcpejbL424IUR5ZZ4OwtH0y5NYmzqorA/xNjl4wREkiPILPGYrdhAKRcPHVTsgzsQP+FzC+ZmEF8F82AcMQwaH/WXSqzvPW/HLXsLswZJKVarfDgsJSP1hHEdZ94eeOCX40zGnZdSvUfDfsg9/PhP8is7u/9H4Ag1nPSjucySAsU0Bd01s6gZ7RUE2QgC7NtB5p28TnPpbkAd0tWJdk63C8M3vQnF4IJFHn7g92au7GbQZYSteGS5cBT6K9nb+gEnnwCxoTybj6ggkLgDFvzgyVRIIrWaQqjpj5DBErMjF5xPVl0abvOgBEeUmjx5CTtQ==;uOtIJNL6c4XEdIJAYKHcSg=="
+secured: "rq3nUgG/RUsJT963jHtnucpOL5cSfIfF4pQCQ3Jec+kWNL4zZCAhAqMHeGyxEgUWDc+g3xiMG1YWVgwdy2xS6njNLhAAcgX3RR7GdEJM2HGFIBg4nbMSLqMEG1vYm6hzFAAIzO+3d7YBGN1SpyfPYVakI9wKDE8xgZokO0fBv1PaUW8GNF++7GpZG2Cy5vBDsJX7kavWFUUfPLF+HjmNDk30WOBRPHmTpvGdB53GkHiagZpTu3H425nC4vf/u4VsTnYIf0BDnzbydnxWj7URHDGP9k3JNO75tXeEdBnw/EMCxaz2yrfTwuKxb0FybZOCOCNlun5K18YRlFTH+X3cI4k5JeBL7j8oWVPIFjHJuWRB5+VRCpqQub6IWh0fkYno7xUskeBt/fi1iv6Ei1iaFcZdU9IWawyglsZGCEpzm06KZhCVqRaspdERtNpwI3js6868MOkwLlsgcQH8oQG2F9PoF8hN81NC0qajk8FC331ekEhk8TiPU0cr3aaWky1wskqNra1mB5NcMq4NPeKYbRG+EHsYcUbOEaFUQ3O9lxSyaXZM31gKlk3pmoHTKEbcQTeuVQFaVlQPKjGssV8smw==;7EEQaDl21HKE6Jxw758OOw=="
 ---
 

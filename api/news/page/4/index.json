@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-17-join-us-power-bi-dev-camp-thursday-17-november-2022-1100-am-1200-pm-noon-pdt.md",
+      "title": "Join Us! Power BI Dev Camp: Thursday 17 November 2022: 11:00 AM – 12:00 PM (noon) PDT",
+      "excerpt": "Join us to learn how to manage challenges faced by Power BI Admins with monitoring and troubleshooting multiple on-premises Data Gateway Clusters.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-11-17-join-us-power-bi-dev-camp-thursday-17-november-2022-1100-am-1200-pm-noon-pdt/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-17-november-2022-1100-am-1200-pm-noon-pdt/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-17-november-2022-1100-am-1200-pm-noon-pdt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T23:50:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-power-bi-update-november-2022.md",
+      "title": "Power BI Update - November 2022",
+      "excerpt": "Welcome to the November 2022 update. This month's update introduces a change to our Power BI accent color, and is further filled with exciting updates to features like small multiples, modeling, metrics, and more!   Intro -- 00:00  Announcing New Power BI Color Accent -- 00:12  Reporting Unshared and",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-11-16-power-bi-update-november-2022/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2022-11-16-power-bi-update-november-2022/",
+      "originalUrl": "https://youtube.com/watch?v=q-ZUfL2sEek",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q-ZUfL2sEek\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q-ZUfL2sEek/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T18:19:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2022-11-14-announcing-support-for-paginated-reports-in-power-bi-pro.md",
       "title": "Announcing support for paginated reports in Power BI Pro",
       "excerpt": "As part of the continued Power BI innovations, we’re excited to announce the support for paginated reports in Power BI Pro at this year’s PASS Data Community Summit. Now Microsoft Power BI customers have the flexibility to create and consume interactive reports as well as paginated reports using Power",
@@ -1153,108 +1256,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-09-08T09:54:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-power-bi-component-for-vuejs-applications-is-now-available.md",
-      "title": "Power BI component for Vue.js applications is now available",
-      "excerpt": "We’re thrilled to announce that a new component for embedding Power BI content in Vue.js applications is now available! Vue is an increasingly popular JavaScript framework for building front-end user interfaces and websites. ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-09-05-power-bi-component-for-vuejs-applications-is-now-available/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-component-for-vue-js-applications-is-now-available/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-component-for-vue-js-applications-is-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-04T20:57:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-whats-new-in-datamarts-august-2022.md",
-      "title": "What᾿s New in Datamarts – August 2022",
-      "excerpt": "Hear about the latest updates to Datamart in Power BI since the //Build announcement",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-30-whats-new-in-datamarts-august-2022/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/whats-new-in-datamarts-august-2022/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/whats-new-in-datamarts-august-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T10:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

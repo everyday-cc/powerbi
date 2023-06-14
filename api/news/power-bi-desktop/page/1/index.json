@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-14-microsoft-and-netcom-learning-collaborate-to-deliver-hands-on-workshops-on-power-apps-power-bi.md",
+      "title": "Microsoft And NetCom Learning Collaborate To Deliver Hands-On Workshops On Power Apps & Power BI",
+      "excerpt": "Microsoft and NetCom Learning collaborate to offer Power Apps & Power BI workshops. NetCom Learning is proud to collaborate with Microsoft to conduct complimentary 8-Hour virtual instructor-led training workshops on Microsoft Power BI and Microsoft Power Platform.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-06-14-microsoft-and-netcom-learning-collaborate-to-deliver-hands-on-workshops-on-power-apps-power-bi/index.json",
+      "webUrl": "https://markets.buffalonews.com/buffnews/article/abnewswire-2023-6-14-microsoft-and-netcom-learning-collaborate-to-deliver-hands-on-workshops-on-power-apps-and-power-bi",
+      "originalUrl": "https://markets.buffalonews.com/buffnews/article/abnewswire-2023-6-14-microsoft-and-netcom-learning-collaborate-to-deliver-hands-on-workshops-on-power-apps-and-power-bi",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Tbh0tFEfoXw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Buffalo News",
+        "domain": "buffalonews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-power-bi-report-server-may-2023-feature-summary.md",
       "title": "Power BI Report Server May 2023 Feature Summary",
       "excerpt": "Welcome to the May 2023 Power BI Report Server release! This release has a number of great new features like the Report Server accessibility tagging for screen-reader report consumers, as well as updates to existing features for Modeling, and Reporting. ",
@@ -1473,58 +1516,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-reminder-webview2-will-be-required-for-the-next-power-bi-desktop-release.md",
-      "title": "Reminder: WebView2 will be required for the next Power BI Desktop release",
-      "excerpt": "Starting with the next Power BI Desktop release, WebView2 will be required. If you have not switched over yet, please take action now to avoid interruptions.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-01-28-reminder-webview2-will-be-required-for-the-next-power-bi-desktop-release/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/reminder-webview2-will-be-required-for-the-next-power-bi-desktop-release/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/reminder-webview2-will-be-required-for-the-next-power-bi-desktop-release/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-28T01:21:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

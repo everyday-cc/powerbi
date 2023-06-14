@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-15-power-bi-february-2023-feature-summary.md",
+      "title": "Power BI February 2023 Feature Summary",
+      "excerpt": "Welcome to the February 2023 update! This month, we’ve added TypeScript support in the developer playground sandbox, several new formatting features for reporting, and so much more. Continue reading for more details on our new features!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-02-15-power-bi-february-2023-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-february-2023-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-february-2023-feature-summary/",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7-0Pr0U2HIA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-15T01:24:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2023-02-13-empower-your-application-users-to-quickly-explore-their-data-with-the-new-power-bi-embedding-capabilities.md",
+      "title": "Empower your application users to quickly explore their data with the new Power BI Embedding capabilities",
+      "excerpt": "We’re excited to announce a new form of Power BI embedded analytics that enables you to embed an interactive data exploration and report creation experience in your applications. With this solution, you’ll be able to provide your users a similar experience to our integrations in Dynamics 365 and SharePoint.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-02-13-empower-your-application-users-to-quickly-explore-their-data-with-the-new-power-bi-embedding-capabilities/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/empower-your-application-users-to-quickly-explore-their-data-with-the-new-power-bi-embedding-capabilities/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/empower-your-application-users-to-quickly-explore-their-data-with-the-new-power-bi-embedding-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-12T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-power-bi-activity-logs-new-workspace-metadata-for-excel-scenarios.md",
       "title": "Power BI Activity Logs: New Workspace Metadata for Excel Scenarios",
       "excerpt": "We are announcing improvements to the Power BI audit logs that helps Power BI admins filter usage of Power BI data in Excel by workspace name and workspace id.",
@@ -1175,109 +1278,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-join-us-power-bi-dev-camp-thursday-17-november-2022-1100-am-1200-pm-noon-pdt.md",
-      "title": "Join Us! Power BI Dev Camp: Thursday 17 November 2022: 11:00 AM – 12:00 PM (noon) PDT",
-      "excerpt": "Join us to learn how to manage challenges faced by Power BI Admins with monitoring and troubleshooting multiple on-premises Data Gateway Clusters.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-11-17-join-us-power-bi-dev-camp-thursday-17-november-2022-1100-am-1200-pm-noon-pdt/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-17-november-2022-1100-am-1200-pm-noon-pdt/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-17-november-2022-1100-am-1200-pm-noon-pdt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T23:50:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-power-bi-update-november-2022.md",
-      "title": "Power BI Update - November 2022",
-      "excerpt": "Welcome to the November 2022 update. This month's update introduces a change to our Power BI accent color, and is further filled with exciting updates to features like small multiples, modeling, metrics, and more!   Intro -- 00:00  Announcing New Power BI Color Accent -- 00:12  Reporting Unshared and",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-11-16-power-bi-update-november-2022/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2022-11-16-power-bi-update-november-2022/",
-      "originalUrl": "https://youtube.com/watch?v=q-ZUfL2sEek",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q-ZUfL2sEek\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/q-ZUfL2sEek/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T18:19:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],

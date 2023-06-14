@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-28-reminder-webview2-will-be-required-for-the-next-power-bi-desktop-release.md",
+      "title": "Reminder: WebView2 will be required for the next Power BI Desktop release",
+      "excerpt": "Starting with the next Power BI Desktop release, WebView2 will be required. If you have not switched over yet, please take action now to avoid interruptions.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-01-28-reminder-webview2-will-be-required-for-the-next-power-bi-desktop-release/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/reminder-webview2-will-be-required-for-the-next-power-bi-desktop-release/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/reminder-webview2-will-be-required-for-the-next-power-bi-desktop-release/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-28T01:21:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-announcing-the-power-bi-app-for-microsoft-teams-is-now-available-in-the-us-government-community-cloud.md",
       "title": "Announcing: The Power BI app for Microsoft Teams is now available in the US Government Community cloud",
       "excerpt": "We’re excited to announce the Power BI app for Microsoft Teams is available in the US Government Community clouds (GCC). This enables organizations in GCC to use Power BI as a data hub, enables users to find data without context switches, and to bring data into more collaboration to help make better",
@@ -1457,58 +1509,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-announcing-microsoft-information-protection-sensitivity-labels-in-power-bi-desktop-public-preview.md",
-      "title": "Announcing Microsoft Information Protection Sensitivity Labels in Power BI Desktop (Public Preview)",
-      "excerpt": "We are excited to extend Power BI’s sensitivity label capabilities by bringing Microsoft Information Protection sensitivity labels into Power BI Desktop, allowing creators to apply sensitivity labels just as they start building their datasets and reports in Power BI Desktop.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-14-announcing-microsoft-information-protection-sensitivity-labels-in-power-bi-desktop-public-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-microsoft-information-protection-sensitivity-labels-in-power-bi-desktop-public-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-microsoft-information-protection-sensitivity-labels-in-power-bi-desktop-public-preview/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9Eu1gNYCLX0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-13T19:14:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

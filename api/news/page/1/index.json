@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-14-power-bi-june-2023-feature-summary.md",
+      "title": "Power BI June 2023 Feature Summary",
+      "excerpt": "Welcome to the June 2023 update! This month, we are please to announce updatest to On-Object interaction, a new demo experience to the Power BI embedded playground which simplifies the process of exploring embedding Power BI in your application, creating Power BI reports instantly with Jupyter Notebooks,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-06-14-power-bi-june-2023-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-june-2023-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-june-2023-feature-summary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-microsoft-and-netcom-learning-collaborate-to-deliver-hands-on-workshops-on-power-apps-power-bi.md",
+      "title": "Microsoft And NetCom Learning Collaborate To Deliver Hands-On Workshops On Power Apps & Power BI",
+      "excerpt": "Microsoft and NetCom Learning collaborate to offer Power Apps & Power BI workshops. NetCom Learning is proud to collaborate with Microsoft to conduct complimentary 8-Hour virtual instructor-led training workshops on Microsoft Power BI and Microsoft Power Platform.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-06-14-microsoft-and-netcom-learning-collaborate-to-deliver-hands-on-workshops-on-power-apps-power-bi/index.json",
+      "webUrl": "https://markets.buffalonews.com/buffnews/article/abnewswire-2023-6-14-microsoft-and-netcom-learning-collaborate-to-deliver-hands-on-workshops-on-power-apps-and-power-bi",
+      "originalUrl": "https://markets.buffalonews.com/buffnews/article/abnewswire-2023-6-14-microsoft-and-netcom-learning-collaborate-to-deliver-hands-on-workshops-on-power-apps-and-power-bi",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Tbh0tFEfoXw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Buffalo News",
+        "domain": "buffalonews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2023-06-13-new-card-visual-public-preview.md",
       "title": "New card visual | Public preview",
       "excerpt": "Power BI Desktop has a new card visual that allows users to display multiple cards in a single container with full control over each card&#8217;s components. It supports multiple fields and offers refined formatting settings.",
@@ -1179,109 +1273,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-analytics-and-bi-platforms.md",
-      "title": "Microsoft named a Leader in the 2023 Gartner® Magic Quadrant™ for Analytics and BI Platforms",
-      "excerpt": "We are thrilled to announce that for the sixteenth consecutive year, Microsoft has been positioned as a Leader in the 2023 Gartner Magic Quadrant for Analytics and Business Intelligence Platforms. Microsoft has also been positioned furthest to the right for Completeness of Vision, and highest in the",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-04-12-microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-analytics-and-bi-platforms/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-analytics-and-bi-platforms/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-analytics-and-bi-platforms/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rQfUo3PN0zw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2023/04/WCO18_workCouch_001_v2.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T03:13:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-power-bi-april-2023-feature-summary.md",
-      "title": "Power BI April 2023 Feature Summary",
-      "excerpt": "Welcome to the Power BI April 2023 Monthly Update!\r\n\r\nWe are happy to announce that Power BI Desktop is fully supported on Azure Virtual Desktop (formerly Windows Virtual Desktop) and Windows 365.\r\n\r\nThis month, we have updates to the Preview feature On-object that was announced last month and dynamic",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-04-12-power-bi-april-2023-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-april-2023-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-april-2023-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T01:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],

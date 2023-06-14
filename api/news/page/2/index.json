@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-12-microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-analytics-and-bi-platforms.md",
+      "title": "Microsoft named a Leader in the 2023 Gartner® Magic Quadrant™ for Analytics and BI Platforms",
+      "excerpt": "We are thrilled to announce that for the sixteenth consecutive year, Microsoft has been positioned as a Leader in the 2023 Gartner Magic Quadrant for Analytics and Business Intelligence Platforms. Microsoft has also been positioned furthest to the right for Completeness of Vision, and highest in the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-04-12-microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-analytics-and-bi-platforms/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-analytics-and-bi-platforms/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-analytics-and-bi-platforms/",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rQfUo3PN0zw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2023/04/WCO18_workCouch_001_v2.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T03:13:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2023-04-12-power-bi-april-2023-feature-summary.md",
+      "title": "Power BI April 2023 Feature Summary",
+      "excerpt": "Welcome to the Power BI April 2023 Monthly Update!\r\n\r\nWe are happy to announce that Power BI Desktop is fully supported on Azure Virtual Desktop (formerly Windows Virtual Desktop) and Windows 365.\r\n\r\nThis month, we have updates to the Preview feature On-object that was announced last month and dynamic",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-04-12-power-bi-april-2023-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-april-2023-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-april-2023-feature-summary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T01:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2023-04-11-announcing-public-preview-of-the-tabular-model-definition-language-tmdl.md",
       "title": "Announcing public preview of the Tabular Model Definition Language (TMDL)",
       "excerpt": "We are pleased to announce the public preview of a new Tabular Model Definition Language (TMDL), which offers a human-readable, editable, and collaborative format for Tabular Models.",
@@ -1152,109 +1255,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-02-15T23:52:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-power-bi-february-2023-feature-summary.md",
-      "title": "Power BI February 2023 Feature Summary",
-      "excerpt": "Welcome to the February 2023 update! This month, we’ve added TypeScript support in the developer playground sandbox, several new formatting features for reporting, and so much more. Continue reading for more details on our new features!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-02-15-power-bi-february-2023-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-february-2023-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-february-2023-feature-summary/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7-0Pr0U2HIA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-15T01:24:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-empower-your-application-users-to-quickly-explore-their-data-with-the-new-power-bi-embedding-capabilities.md",
-      "title": "Empower your application users to quickly explore their data with the new Power BI Embedding capabilities",
-      "excerpt": "We’re excited to announce a new form of Power BI embedded analytics that enables you to embed an interactive data exploration and report creation experience in your applications. With this solution, you’ll be able to provide your users a similar experience to our integrations in Dynamics 365 and SharePoint.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-02-13-empower-your-application-users-to-quickly-explore-their-data-with-the-new-power-bi-embedding-capabilities/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/empower-your-application-users-to-quickly-explore-their-data-with-the-new-power-bi-embedding-capabilities/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/empower-your-application-users-to-quickly-explore-their-data-with-the-new-power-bi-embedding-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-12T21:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
