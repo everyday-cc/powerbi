@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-31-how-to-download-and-install-microsoft-power-bi-desktop.md",
+      "title": "How to download and install Microsoft Power BI Desktop",
+      "excerpt": "How to download and install Microsoft Power BI Desktop Your email has been sent Sometimes you can't get to the internet and must work offline. Power BI Desktop gives you access your data ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-01-31-how-to-download-and-install-microsoft-power-bi-desktop/index.json",
+      "webUrl": "https://www.techrepublic.com/article/how-to-download-and-install-microsoft-power-bi-desktop/",
+      "originalUrl": "https://www.techrepublic.com/article/how-to-download-and-install-microsoft-power-bi-desktop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/blog/microsoft-office/how-to-download-and-install-microsoft-power-bi-desktop/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/blog/microsoft-office/how-to-download-and-install-microsoft-power-bi-desktop/",
+      "publishedDateTime": "2022-01-31T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2022-01-28-reminder-webview2-will-be-required-for-the-next-power-bi-desktop-release.md",
       "title": "Reminder: WebView2 will be required for the next Power BI Desktop release",
       "excerpt": "Starting with the next Power BI Desktop release, WebView2 will be required. If you have not switched over yet, please take action now to avoid interruptions.",
@@ -1473,58 +1516,6 @@
       "topics": [
         "Power BI",
         "Dataflows",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-power-bi-desktop-gets-microsoft-information-protection-sensitivity-labels.md",
-      "title": "Power BI Desktop gets Microsoft Information Protection sensitivity labels",
-      "excerpt": "The new capability is now being introduced to Desktop, after coming to Power BI last year. This introduction continues with the addition of recent data protection capabilities brought to Power BI.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-14-power-bi-desktop-gets-microsoft-information-protection-sensitivity-labels/index.json",
-      "webUrl": "https://www.neowin.net/news/power-bi-desktop-gets-microsoft-information-protection-sensitivity-labels",
-      "originalUrl": "https://www.neowin.net/news/power-bi-desktop-gets-microsoft-information-protection-sensitivity-labels",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574779301_powerbi1_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/power-bi-desktop-gets-microsoft-information-protection-sensitivity-labels/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-desktop-gets-microsoft-information-protection-sensitivity-labels/",
-      "publishedDateTime": "2020-12-14T03:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
         "Power BI Desktop"
       ]
     }

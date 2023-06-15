@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-15-new-power-bi-update-june-2023-released-check-out-the-highlights.md",
+      "title": "New Power Bi Update June 2023 Released - Check Out The Highlights!",
+      "excerpt": "Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-06-15-new-power-bi-update-june-2023-released-check-out-the-highlights/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2023-06-15-new-power-bi-update-june-2023-released-check-out-the-highlights/",
+      "originalUrl": "https://youtube.com/watch?v=EkRVxaCTLyE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EkRVxaCTLyE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EkRVxaCTLyE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T01:51:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-microsoft-and-netcom-learning-collaborate-to-deliver-hands-on-workshops-on-power-apps-power-bi.md",
       "title": "Microsoft And NetCom Learning Collaborate To Deliver Hands-On Workshops On Power Apps & Power BI",
       "excerpt": "Microsoft and NetCom Learning collaborate to offer Power Apps & Power BI workshops. NetCom Learning is proud to collaborate with Microsoft to conduct complimentary 8-Hour virtual instructor-led training workshops on Microsoft Power BI and Microsoft Power Platform.",
@@ -1473,49 +1525,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-how-to-download-and-install-microsoft-power-bi-desktop.md",
-      "title": "How to download and install Microsoft Power BI Desktop",
-      "excerpt": "How to download and install Microsoft Power BI Desktop Your email has been sent Sometimes you can't get to the internet and must work offline. Power BI Desktop gives you access your data ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-01-31-how-to-download-and-install-microsoft-power-bi-desktop/index.json",
-      "webUrl": "https://www.techrepublic.com/article/how-to-download-and-install-microsoft-power-bi-desktop/",
-      "originalUrl": "https://www.techrepublic.com/article/how-to-download-and-install-microsoft-power-bi-desktop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/blog/microsoft-office/how-to-download-and-install-microsoft-power-bi-desktop/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/blog/microsoft-office/how-to-download-and-install-microsoft-power-bi-desktop/",
-      "publishedDateTime": "2022-01-31T01:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

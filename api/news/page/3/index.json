@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-16-announcing-availability-expansion-of-the-ssrs-migration-tool-to-power-bi.md",
+      "title": "Announcing Availability Expansion of the SSRS Migration Tool to Power BI",
+      "excerpt": "The SSRS RDL Migration tool is now available in SSRS 2017, SSRS 2019 and SSRS 2022! You can also migrate .pbix and .rdl files from Power BI Report Server January 2023 and Report Server September 2022.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-02-16-announcing-availability-expansion-of-the-ssrs-migration-tool-to-power-bi/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-availability-expansion-of-the-ssrs-migration-tool-to-power-bi/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-availability-expansion-of-the-ssrs-migration-tool-to-power-bi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-15T23:52:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2023-02-15-power-bi-february-2023-feature-summary.md",
       "title": "Power BI February 2023 Feature Summary",
       "excerpt": "Welcome to the February 2023 update! This month, we’ve added TypeScript support in the developer playground sandbox, several new formatting features for reporting, and so much more. Continue reading for more details on our new features!",
@@ -1204,57 +1255,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-11-29T02:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-power-bi-november-2022-feature-summary.md",
-      "title": "Power BI November 2022 Feature Summary",
-      "excerpt": "Welcome to the November 2022 update! This month we introduce an Optimize ribbon which makes your report creation experience more streamlined, especially if you are working in DirectQuery mode. Also new this month are Linked Metrics and a new EvaluateAndLog DAX function that enable you to log intermediate",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-11-29-power-bi-november-2022-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-november-2022-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-november-2022-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T01:04:22-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

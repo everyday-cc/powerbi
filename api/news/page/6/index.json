@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-18-visualizing-views-in-dynamics-365-with-power-bi-is-now-generally-available.md",
+      "title": "Visualizing views in Dynamics 365 with Power BI is now generally available",
+      "excerpt": "We’re very excited to announce that the Power BI integration in Dynamics 365 and model driven Power Apps, which shipped as a preview last December, is now generally available. Dynamics 365 and model driven Power Apps give organizations the ability to quickly build essential line-of-business apps in a",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-18-visualizing-views-in-dynamics-365-with-power-bi-is-now-generally-available/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/visualizing-views-in-dynamics-365-generally-available/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/visualizing-views-in-dynamics-365-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-power-bi-update-july-2022.md",
       "title": "Power BI Update - July 2022",
       "excerpt": "Welcome to the July 2022 update. We are thrilled to announce the Error Bars general availability, Metric visuals and Datamarts updates, query performance and data hub improvements, Data in space augmented reality new mobile feature, accessibility enhancements for embedded reports. There is more to explore,",
@@ -1202,57 +1253,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-05-23T23:00:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-goals-in-power-bi-is-becoming-metrics-and-is-moving-to-ga.md",
-      "title": "Goals in Power BI is becoming ‘metrics’ and is moving to GA!",
-      "excerpt": "We are excited to announce general availability for metrics in Power BI (formerly called goals) along with new features to deliver scorecarding scenarios even more effectively within Power BI. Additionally, we’re pleased to share plans for how Power BI will work with the new Viva Goals offering from",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-24-goals-in-power-bi-is-becoming-metrics-and-is-moving-to-ga/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-goals-is-now-metrics-and-is-moving-to-ga/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-goals-is-now-metrics-and-is-moving-to-ga/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T22:45:48-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
