@@ -888,8 +888,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 698,
-            "average": 4.7707734
+            "count": 699,
+            "average": 4.7711015
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3310,7 +3310,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-select-social.png",
@@ -4747,8 +4747,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6685,
-            "average": 4.701122
+            "count": 6687,
+            "average": 4.7012115
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4872,8 +4872,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 6230,
-            "average": 4.7173357
+            "count": 6231,
+            "average": 4.7172203
           },
           "provider": {
             "name": "Microsoft Learn",

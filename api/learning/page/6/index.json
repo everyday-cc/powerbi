@@ -697,8 +697,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1294,
-            "average": 4.7735705
+            "count": 1295,
+            "average": 4.773745
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -739,8 +739,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 649,
-            "average": 4.734977
+            "count": 650,
+            "average": 4.7353845
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -992,8 +992,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 7703,
-        "average": 4.7600937
+        "count": 7704,
+        "average": 4.7596054
       },
       "provider": {
         "name": "Microsoft Learn",
