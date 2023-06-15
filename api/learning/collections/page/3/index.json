@@ -410,8 +410,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 377,
-            "average": 4.6286473
+            "count": 378,
+            "average": 4.6296296
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -911,8 +911,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3573,
-            "average": 4.7232018
+            "count": 3574,
+            "average": 4.7232795
           },
           "provider": {
             "name": "Microsoft Learn",
