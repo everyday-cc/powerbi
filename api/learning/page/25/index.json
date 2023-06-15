@@ -348,8 +348,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 241,
-            "average": 4.73444
+            "count": 242,
+            "average": 4.735537
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -611,8 +611,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 2452,
-        "average": 4.701468
+        "count": 2453,
+        "average": 4.70159
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -695,8 +695,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
       "length": "PT21M",
       "ratings": {
-        "count": 1645,
-        "average": 4.7787232
+        "count": 1646,
+        "average": 4.7788577
       },
       "provider": {
         "name": "Microsoft Learn",
