@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M21S
 publishedDateTime: 2018-01-16T19:13:15Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6TQN6KPG74Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "6NOB459N/SyEY1C5u0loHtWWdgodzqN7eDZGMewHLIGj/DOROUccUQwG1+hFRAc+WN68RwMWt0lEwAVwiLOn5Oyb9d2LrJb5t9Of1Hom3UHgwL6h7Z1Y6nEvS9MCcaOlhlzVpJlbUAzUhn3JTT6nWi8xRPyNQD1f2K3B3Pqdxh/tNke7TAj2TRjrYE6y2Qfprm2d1crHq6DyDqETekyEMjjYEEcHFrfCrkeJoVXTcqzbeOyqntV88nIbdzYlEtxmoxeK4hlnqwglD7lR8Hjo8h7SwC0HLSjMKVzpVIJOT1qaoQ+x2EC8WrKux/gslAPYg5fk7BK7AQLQD/rJh52KeTW1RROslRbXHIa1QkSZDb+PEdl+NcJ6BC3GYV73LyujUFabhUG9bVFy53Qaa6aKBeIjDzLks4FUS4PeYiWAsqU=;DM6hzb+RYFPWz8uF772pmg=="
+secured: "D4Sryd+rUs4BROPBtRJAR8MqXy8iRe01QX1/KZxDo/1VebAMu4/Wnt6yoqmRZ757dJI0ARN8QpchuC4Pp1JMMVKZrzLRqEUigZAa3Gk2VB3y3DWBMAqxwqdVfow7ER0YCidGNqv8K4UAYlWpYCCU5jc3EIUTt5okXJX6+QsPF3fnZ6Iai8G7LM1SoWDB51/dzHDGvJaRzHdItdByJu/NUtYaD83zbE+Mt+Un2OKPv6+hZEksWkGNLmqtD9QYtbobWhwoB+19WD/yawjlfI5+jcRRQU4zOJlmJTXJd5MISM1hnTWoZbigjJue8ijrFkpcdNcMB1sCSgp5X6AZmjN1nBmQwKI55E+CtIlig4hbLQZdcKM2dZsV1XGrYSdQ13pr7erDsSS/vOXFXy3S5kB/1R5aCyZjw6YNQY8E2n8vpdw=;VyQy8FasbNzjWX6gXffJeA=="
 ---
 

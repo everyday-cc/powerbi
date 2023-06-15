@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M52S
 publishedDateTime: 2020-09-14T19:30:42Z
-heat: 51
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xZyJlgE1RsI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "gcsmIY/DcZb/gjp70i4DveysUBM5PSt+QLpK4DXVXqdYcCf/PunkWoErZbfhP34Fc2MRLPNEvkXyfzy9/4Y1N9dl17c0Dn8gawLnLLfrwoTgiP8JEGMrczUl9h7ZZG+Bnl+q3ESEjIAsfFcfuWbDk0r2/SHD4ObhpM1ZkrHRuMsOzgtFZZX5xZP5fU13ipFN7dSF91LGAufC73d8Oz2Ip0ZwCsYdjeqjabD0k6B8F+kaMprqOGtsYlkXOLsGCPgJino9apyWIbMi5iD/ENvLXJQSo6ph3qUKrF48YVZr/u+/5C5HvpSinVxeT7Z8zFXXXVctzfr98e1D9ppopGkgQDBsUJxE6zB/Ns0KTtqIF8qGd4RsOsTWRJNqkdayN13rF2O0OGouHLOdSvetRVLTcJbwbdVLfkx31UERuJNssZw=;iy+Rl9/QwCv97a9khr2i4g=="
+secured: "M2mClaw+FliSyeTyiX3/46ZZPdMrlr0muZl2KlxO0/FH2zxe7z2Are/X8s9/pb1NVLstATxREL4F4M6wGpzxNgIxXuN3l1LNa5xzZrYafApW1ticyIFUHh6yZUSMbULV3YJMmCYrDmGYB3Bz3MkRL5z6BF+MnD8bpabvWVWa7X1GtGPiU8+5Uc4Hfdeyk8P5HpbQEkwawT3hHcNRP2WaRGAif6BspaQ25FpNeEekyRYaS7Sa38nA5wlr3P7cYYoDkbodnLKixth1vk/S+fo7q2Nm64w9JPpIDxbouuEZ3Hy/dQ+E1BIv1vP/GsrRhEemzsCC3klyCXKOnmISKuuIUvws67/HDvmJkXIUXlHks3yqf5A4bc5DwgnqaEwT+Qg6vGMezlGupbup3WMEN7UZKUd2TFoi4YIKaOd6jQna+Y0=;aHXEVx6dbyYl0sKD8BrCsw=="
 ---
 
