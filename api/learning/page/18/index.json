@@ -933,8 +933,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 6238,
-            "average": 4.717217
+            "count": 6240,
+            "average": 4.7173076
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1016,8 +1016,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2853,
-            "average": 4.766211
+            "count": 2856,
+            "average": 4.7661066
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1202,8 +1202,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 6238,
-        "average": 4.717217
+        "count": 6240,
+        "average": 4.7173076
       },
       "provider": {
         "name": "Microsoft Learn",
