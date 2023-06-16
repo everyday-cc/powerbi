@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M
 publishedDateTime: 2019-09-06T14:30:51Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xH7DMBS0Kog\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "+X7m8LFVRmal6Estik4OxhGeSW2atNtDx9BjO0eIrwiaKh/xSoWwC0bwPN+K7fGdg323cLzmjQPaBzkKvZmNaUovxf0383TvlBEGA5BGvtcTRzin/vyO+/q21zx2tqUUux6DWGWnl9+cGBbCteeVboBQiLrCjt06f3XZis3Cku4LHhVb9hC19wxdRX9OM38U4SigikEGwWUqqotIFYFzq81hPYDkGkcMRlGn9Bm1tXfv5Dz6RWlfxWOESFKph7XwjN1HUY089xOgpO9ZSxBilRK7nNCFwfjz9d4sK/7ZE6xh5hT9xYCDC7IfOj/HSoc/m95tv3hgE2x7/QEDfmTK+FG/YUUNprt1AmMmNDzG+XCXHzzY+gKeCzyU1JSgCPBWcGoYfZ6MvZFK2S29fHGmlrxWTk8Zm5mX9N/vE0keNJU=;DmGQ6pkDZ4kKEro0fJc64Q=="
+secured: "yunki+B6AiybLIMFINCOXqjq0wUcpNBikM9uhVIVDBwEd/W/ZEI4Ipvmk+e2CsGSWpOxeeKXvV8Yv9t5zN7Cq76htjFugM0SSk3rlHa+TVF+oqe4OpRGwf37W3sXAPoufatc6/w5NPwO4nKK16/+UIFzgcXyFsDk80Em84p3wYkQPxQX5jXO74woQV6wIffkUbhnXkNf4rlhoh3NvwU2L3yjICJCOQVRUv09tXvPu2GqUPhfeeHNazmjV0xv50J15ykKb043hABF8bzjqHh4/NW8suPCb2FqCKnwo6fRGlCR3dgTbwQoL3/MmFyHCNypwSjg+biwu0m660fqW7iR8xGSFZuoa1cqI+IKMvlp27KbC8i5EtL0Sbm3wSryzyvjSthgK67I+Nv/tlfnXQAwScoIjSOUN5ismXouB/WSUhA=;WDwUXyf6wk0/cq2bZPzj+Q=="
 ---
 
