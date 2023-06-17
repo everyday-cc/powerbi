@@ -512,8 +512,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4552,
-            "average": 4.6709137
+            "count": 4553,
+            "average": 4.670986
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -989,8 +989,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 7732,
-        "average": 4.760088
+        "count": 7733,
+        "average": 4.7598605
       },
       "provider": {
         "name": "Microsoft Learn",
