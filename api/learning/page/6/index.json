@@ -605,8 +605,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 652,
-            "average": 4.733129
+            "count": 653,
+            "average": 4.7335377
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2635,8 +2635,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10349,
-        "average": 4.760363
+        "count": 10350,
+        "average": 4.7603865
       },
       "provider": {
         "name": "Microsoft Learn",
