@@ -296,8 +296,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 9201,
-        "average": 4.711118
+        "count": 9203,
+        "average": 4.7110724
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -711,8 +711,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1132,
-            "average": 4.7809186
+            "count": 1133,
+            "average": 4.781112
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -921,8 +921,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1132,
-            "average": 4.7809186
+            "count": 1133,
+            "average": 4.781112
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1131,8 +1131,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4072,
-            "average": 4.746071
+            "count": 4073,
+            "average": 4.746133
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1149,7 +1149,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 57,
+          "heat": 137,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
@@ -1218,8 +1218,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1921,
-            "average": 4.7136908
+            "count": 1922,
+            "average": 4.7138395
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3480,8 +3480,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 9201,
-            "average": 4.711118
+            "count": 9203,
+            "average": 4.7110724
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3818,8 +3818,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 7747,
-        "average": 4.7602944
+        "count": 7748,
+        "average": 4.7603254
       },
       "provider": {
         "name": "Microsoft Learn",
