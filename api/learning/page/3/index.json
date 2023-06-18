@@ -110,8 +110,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2904,
-            "average": 4.7238293
+            "count": 2905,
+            "average": 4.723924
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1131,8 +1131,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4073,
-            "average": 4.746133
+            "count": 4074,
+            "average": 4.7459497
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3818,8 +3818,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 7750,
-        "average": 4.760387
+        "count": 7751,
+        "average": 4.760418
       },
       "provider": {
         "name": "Microsoft Learn",
