@@ -301,8 +301,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 884,
-            "average": 4.7522626
+            "count": 885,
+            "average": 4.7525425
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -385,8 +385,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 697,
-            "average": 4.800574
+            "count": 698,
+            "average": 4.8008595
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -445,8 +445,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
       "length": "PT18M",
       "ratings": {
-        "count": 884,
-        "average": 4.7522626
+        "count": 885,
+        "average": 4.7525425
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -487,8 +487,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
       "length": "PT29M",
       "ratings": {
-        "count": 697,
-        "average": 4.800574
+        "count": 698,
+        "average": 4.8008595
       },
       "provider": {
         "name": "Microsoft Learn",

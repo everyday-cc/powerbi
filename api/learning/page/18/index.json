@@ -469,8 +469,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 433,
-            "average": 4.7505774
+            "count": 434,
+            "average": 4.751152
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -511,8 +511,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 492,
-            "average": 4.699187
+            "count": 493,
+            "average": 4.699797
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -553,8 +553,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3588,
-            "average": 4.7235227
+            "count": 3591,
+            "average": 4.7234755
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -941,8 +941,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 2465,
-        "average": 4.70142
+        "count": 2466,
+        "average": 4.701541
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1270,8 +1270,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
       "length": "PT25M",
       "ratings": {
-        "count": 433,
-        "average": 4.7505774
+        "count": 434,
+        "average": 4.751152
       },
       "provider": {
         "name": "Microsoft Learn",
