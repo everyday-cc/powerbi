@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-19-revamped-look-for-power-bi-mobile-is-now-available.md",
+      "title": "Revamped look for Power BI Mobile is now available",
+      "excerpt": "Microsoft's recent improvements to Power BI include URL parameters for paginated reports, changes to summarized data export behavior, and new settings to tackle issues related to capacity.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-19-revamped-look-for-power-bi-mobile-is-now-available/index.json",
+      "webUrl": "https://www.neowin.net/news/revamped-look-for-power-bi-mobile-is-now-available/",
+      "originalUrl": "https://www.neowin.net/news/revamped-look-for-power-bi-mobile-is-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329716_powerbi-3_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/revamped-look-for-power-bi-mobile-is-now-available/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/revamped-look-for-power-bi-mobile-is-now-available/",
+      "publishedDateTime": "2022-07-19T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-executequeries-rest-api-versus-xmla-endpoints-at-scale.md",
       "title": "ExecuteQueries REST API versus XMLA endpoints at scale",
       "excerpt": "Power BI APIs can support you at any scale, but there is no one-size-fits-all API. The ExecuteQueries API is a great choice at small scale. For large-scale solutions, switch to XMLA endpoints and host your datasets on Power BI Premium.",
@@ -1202,57 +1253,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-05-24T00:30:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-whats-new-in-sql-server-2022-analysis-services-ctp-20.md",
-      "title": "What’s new in SQL Server 2022 Analysis Services CTP 2.0",
-      "excerpt": "SQL Server 2022 Analysis Services is now available for public preview! SSAS 2022 tabular models now join forces in Power BI Desktop with other data to create composite models, speed up MDX queries used in Excel PivotTables, allow for more control over resources, and get data back to business users faster",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-24-whats-new-in-sql-server-2022-analysis-services-ctp-20/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/whats-new-in-sql-server-2022-analysis-services-ctp-2-0/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/whats-new-in-sql-server-2022-analysis-services-ctp-2-0/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T00:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

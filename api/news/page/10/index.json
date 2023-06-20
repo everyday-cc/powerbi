@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-12-15-power-bi-data-protection-december-announcements.md",
+      "title": "Power BI Data Protection December announcements",
+      "excerpt": "Today we’re happy to announce the general availability of two very popular MIP label features: Mandatory MIP label policies and Default MIP label policies, which, both together and separately, can help you ensure that MIP labels are applied to all your Power BI content. ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-12-15-power-bi-data-protection-december-announcements/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-data-protection-december-announcements/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-data-protection-december-announcements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T03:35:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-explore-free-virtual-workshops-to-help-you-get-started-with-power-bi.md",
       "title": "Explore free virtual workshops to help you get started with Power BI",
       "excerpt": "Workshops and training for Power BI Desktop and Service.",
@@ -1180,57 +1231,6 @@
       "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-machine-learning-speeds-up-power-bi-reports/",
       "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-machine-learning-speeds-up-power-bi-reports/",
       "publishedDateTime": "2021-10-26T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-learn-the-skills-to-be-a-data-analyst-with-courses-on-python-excel-power-bi-and-more.md",
-      "title": "Learn the skills to be a data analyst with courses on Python, Excel, Power BI and more",
-      "excerpt": "Microsoft created the powerful business intelligence tool Power BI so that users with only limited tech backgrounds could still perform complex data analysis with only a few clicks. The \"Power BI ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-10-26-learn-the-skills-to-be-a-data-analyst-with-courses-on-python-excel-power-bi-and-more/index.json",
-      "webUrl": "https://www.techrepublic.com/article/learn-the-skills-to-be-a-data-analyst-with-courses-on-python-excel-power-bi-and-more/",
-      "originalUrl": "https://www.techrepublic.com/article/learn-the-skills-to-be-a-data-analyst-with-courses-on-python-excel-power-bi-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/04/ec067427-4002-4aa7-a732-69a05d2d22d2/resize/1200x/f540c08e6526be6676ec04c2cd60af3c/istock-1167502731.jpg",
-          "width": 1200,
-          "height": 767,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/learn-the-skills-to-be-a-data-analyst-with-courses-on-python-excel-power-bi-and-more/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/learn-the-skills-to-be-a-data-analyst-with-courses-on-python-excel-power-bi-and-more/",
-      "publishedDateTime": "2021-10-25T13:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRepublic",
