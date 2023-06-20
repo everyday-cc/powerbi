@@ -225,36 +225,6 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-dynamic-row-level-security-in-power-bi.md",
-      "title": "Dynamic Row Level Security in Power BI",
-      "excerpt": "There are different methods to use row-level security in Power BI; You can set up Row Level Security in Power BI itself or through a live connection from a data source such as SSAS Tabular. However, row-level security defined in the ways mentioned in the articles above isn’t dynamic. By dynamic row-level",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-dynamic-row-level-security-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-dynamic-row-level-security-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=jphj40tBPD8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jphj40tBPD8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M47S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2023-04-30T15:47:14-07:00",
-      "heat": 150,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jphj40tBPD8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-what-is-microsoft-fabric-public-preview.md",
       "title": "What is Microsoft Fabric (Public Preview)?",
       "excerpt": "Maybe you've heard the announcement of Microsoft Fabric. Maybe you are coming from Power BI and curious how Microsoft Fabric relates. Adam gets you up to speed!  Microsft Learn: Get Started with Microsoft Fabric https://learn.microsoft.com/training/paths/get-started-fabric/  Microsoft Fabric End to End",
@@ -399,15 +369,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-modern-analytics-publish-share.md",
-      "title": "Secure, publish, and share data in Power BI",
-      "excerpt": "This module reviews securing, sharing, and publishing Microsoft Power BI reports as part of Power BI service.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-publish-share/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-publish-share/",
-      "length": "PT49M",
+      "path": "_learning/courses/microsoft-learn-create-manage-workspaces-power-bi.md",
+      "title": "Create and manage workspaces in Power BI ",
+      "excerpt": "This module explains how you can share reports and datasets with your users and how to create a deployment strategy that makes sense for you and your organization. Furthermore, you will learn about data lineage in Microsoft Power BI.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-manage-workspaces-power-bi/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
+      "length": "PT29M",
       "ratings": {
-        "count": 231,
-        "average": 4.714286
+        "count": 2874,
+        "average": 4.7658315
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -424,12 +394,12 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 131,
+      "heat": 132,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/modern-analytics-publish-share-social.png",
-          "width": 1282,
-          "height": 642,
+          "url": "https://learn.microsoft.com/training/achievements/create-manage-workspaces-power-bi-social.png",
+          "width": 643,
+          "height": 321,
           "isCached": true
         }
       ],
@@ -441,14 +411,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-controlling-cost-with-azure-synapse-serverless-pools.md",
-      "title": "Controlling cost with Azure Synapse Serverless Pools",
-      "excerpt": "Curious how to save cost when using Azure Synapse Serverless Pools? Any way to minimize the amount of data you are processing? Patrick shows you how and has a script for you!  Cost management for serverless SQL pool in Azure Synapse Analytics https://learn.microsoft.com/azure/synapse-analytics/sql/data-processed",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-controlling-cost-with-azure-synapse-serverless-pools/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-controlling-cost-with-azure-synapse-serverless-pools/",
-      "originalUrl": "https://youtube.com/watch?v=AbiYgh9RD2U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AbiYgh9RD2U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M12S",
+      "path": "_learning/videos/guy-in-a-cube-switch-a-power-bi-reports-dataset-without-needing-premium.md",
+      "title": "Switch a Power BI Report's dataset without needing Premium!",
+      "excerpt": "Want a dev and production environment in Power BI but don't have Power BI Premium? Patrick shows you a way to switch a report from Dev to Production without Premium or without APIs.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-switch-a-power-bi-reports-dataset-without-needing-premium/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-switch-a-power-bi-reports-dataset-without-needing-premium/",
+      "originalUrl": "https://youtube.com/watch?v=X_1tBbPwBMg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X_1tBbPwBMg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M2S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -461,11 +431,49 @@
           }
         ]
       },
-      "publishedDateTime": "2023-05-09T08:00:07-07:00",
+      "publishedDateTime": "2023-03-29T08:00:31-07:00",
+      "heat": 132,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/X_1tBbPwBMg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-microsoft-build-may-2023-social-hour.md",
+      "title": "🔴 Microsoft Build - May 2023 Social Hour",
+      "excerpt": "Join us live as we recap Power BI and Azure Data announcements made at Microsoft Build - May 2023. With special guest, Stephanie Bruno, Jason Himmelstein and John White!  Microsoft Build: https://powerbi.microsoft.com/en-us/blog/microsoft-digital-event-may-24-25/  Connect with Stephanie Bruno https://twitter.com/StephTBruno",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-microsoft-build-may-2023-social-hour/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-microsoft-build-may-2023-social-hour/",
+      "originalUrl": "https://youtube.com/watch?v=tMx3rhl43b4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tMx3rhl43b4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "P0D",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-05-15T05:04:23-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/AbiYgh9RD2U/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/tMx3rhl43b4/maxresdefault_live.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -842,8 +850,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 65598,
-            "average": 4.795878
+            "count": 65602,
+            "average": 4.795875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -884,8 +892,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 92661,
-            "average": 4.7783966
+            "count": 92669,
+            "average": 4.7784157
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -944,8 +952,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 92661,
-        "average": 4.7783966
+        "count": 92669,
+        "average": 4.7784157
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1141,8 +1149,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 65598,
-        "average": 4.795878
+        "count": 65602,
+        "average": 4.795875
       },
       "provider": {
         "name": "Microsoft Learn",

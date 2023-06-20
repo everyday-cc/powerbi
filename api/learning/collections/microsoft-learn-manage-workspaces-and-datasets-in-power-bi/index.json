@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 2873,
-        "average": 4.76575
+        "count": 2874,
+        "average": 4.7658315
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 52,
+      "heat": 132,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/create-manage-workspaces-power-bi-social.png",
