@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 92781,
-        "average": 4.7782736
+        "count": 92802,
+        "average": 4.7782807
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 35560,
-        "average": 4.726575
+        "count": 35562,
+        "average": 4.726562
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 67,
+      "heat": 83,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/get-data-power-bi-desktop-social.png",
@@ -96,8 +96,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 16498,
-        "average": 4.72233
+        "count": 16499,
+        "average": 4.722347
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -114,7 +114,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 56,
+      "heat": 64,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/model-data-with-power-bi-desktop-social.png",
@@ -198,7 +198,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 54,
+      "heat": 62,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/explore-data-with-power-bi-desktop-social.png",
@@ -240,7 +240,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 56,
+      "heat": 66,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/publish-and-share-with-power-bi-desktop-social.png",

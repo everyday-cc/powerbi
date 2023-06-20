@@ -4,12 +4,12 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-get-started-with-microsoft-viva-insights-workplace-analytics.md",
-      "title": "Get started with Microsoft Viva Insights (Workplace Analytics)",
-      "excerpt": "Collaboration is a key component of knowledge-worker success. Microsoft Viva Insights (Workplace Analytics) turns Microsoft 365 data into useful insights about how organizations get work done and empowers leaders to drive strategies for positive change. Get started with Microsoft Workplace Analytics introduces how you can use Workplace Analytics to access these insights. You will learn what Workplace Analytics is and how it works, how to onboard to Workplace Analytics from the administrator perspective, how you can evaluate and track collaboration with the Ways of working assessment, and how you can use Workplace Analytics and MyAnalytics to drive organizational change.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-get-started-with-microsoft-viva-insights-workplace-analytics/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-get-started-with-microsoft-viva-insights-workplace-analytics/",
-      "length": "PT2H31M",
+      "path": "_learning/collections/microsoft-learn-data-analysis-in-power-bi.md",
+      "title": "Data analysis in Power BI",
+      "excerpt": "Report authors can use additional features to enhance their reports for analytical insights in their data with features like Q&amp;A and exporting. In this module, you will closely examine your data and Power BI reports and then extract value with deeper analysis. Additionally, you will learn how to sort data and how to present the report in a cohesive manner. You will learn how to get a statistical summary for your data and export data from Power BI. You will also apply and perform advanced analytics on the report for deeper and more meaningful data insights.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-data-analysis-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-data-analysis-in-power-bi/",
+      "length": "PT1H52M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -23,19 +23,19 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-workplace-analytics-ways-working.md",
-          "title": "Analyze collaboration and engagement using the Ways of working assessment dashboard in Power BI",
-          "excerpt": "Learn to evaluate collaboration culture and employee experience with a Power BI template by using Viva Insights data in Workplace Analytics.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-workplace-analytics-ways-working/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/workplace-analytics-ways-working/",
-          "length": "PT31M",
+          "path": "_learning/courses/microsoft-learn-perform-analytics-power-bi.md",
+          "title": "Perform analytics in Power BI ",
+          "excerpt": "You will learn how to use Power BI to perform data analytical functions, how to identify outliers in your data, how to group data together, and how to bin data for analysis. You will also learn how to perform time series analysis. Finally, you will work with advanced analytic features of Power BI, such as Quick Insights, AI Insights, and the Analyze feature.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-perform-analytics-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
+          "length": "PT51M",
           "ratings": {
-            "count": 167,
-            "average": 4.712575
+            "count": 3401,
+            "average": 4.71626
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -52,12 +52,12 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 139,
           "images": [
             {
-              "url": "https://learn.microsoft.com/training/achievements/analyze-collaboration-and-engagement-with-ways-working-dashboard-in-workplace-analytics-social.png",
+              "url": "https://learn.microsoft.com/training/achievements/perform-analytics-power-bi-social.png",
               "width": 643,
-              "height": 322,
+              "height": 321,
               "isCached": true
             }
           ],
@@ -69,15 +69,15 @@
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-workplace-analytics-ways-working-action.md",
-          "title": "Drive organizational change with Microsoft Viva Insights (Workplace Analytics and MyAnalytics)",
-          "excerpt": "After using Microsoft Viva Insights with Workplace Analytics and Power BI to generate insights about your employees’ work behaviors, you’ll learn about the Microsoft 365 features that can be tools to implement and measure the changes you’ve identified. You’ll learn how to initiate common change practices and what tools and tactics are the most useful.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-workplace-analytics-ways-working-action/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/workplace-analytics-ways-working-action/",
-          "length": "PT40M",
+          "path": "_learning/courses/microsoft-learn-ai-visuals-power-bi.md",
+          "title": "Work with AI visuals in Power BI",
+          "excerpt": "This module describes the AI capabilities of Power BI.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-ai-visuals-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
+          "length": "PT1H1M",
           "ratings": {
-            "count": 233,
-            "average": 4.828326
+            "count": 6273,
+            "average": 4.717679
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -94,10 +94,10 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 54,
           "images": [
             {
-              "url": "https://learn.microsoft.com/training/achievements/drive-organizational-change-with-microsoft-workplace-analytics-social.png",
+              "url": "https://learn.microsoft.com/training/achievements/ai-visuals-power-bi-social.png",
               "width": 643,
               "height": 321,
               "isCached": true
@@ -112,137 +112,12 @@
         }
       ],
       "size": 2,
-      "heat": 130,
+      "heat": 139,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/analyze-collaboration-and-engagement-with-ways-working-dashboard-in-workplace-analytics-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/perform-analytics-power-bi-social.png",
           "width": 643,
-          "height": 322,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-get-started-with-microsoft-workplace-analytics.md",
-      "title": "Get started with Microsoft Workplace Analytics",
-      "excerpt": "Collaboration is a key component of knowledge-worker success. Workplace Analytics turns Microsoft 365 data into useful insights about how organizations get work done and empowers leaders to drive strategies for positive change. Get started with Microsoft Workplace Analytics introduces how you can use Workplace Analytics to access these insights. You will learn what Workplace Analytics is and how it works, how to onboard to Workplace Analytics from the administrator perspective, how you can evaluate and track collaboration with the Ways of working assessment, and how you can use Workplace Analytics and MyAnalytics to drive organizational change.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-get-started-with-microsoft-workplace-analytics/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-get-started-with-microsoft-workplace-analytics/",
-      "length": "PT2H31M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-workplace-analytics-ways-working.md",
-          "title": "Analyze collaboration and engagement using the Ways of working assessment dashboard in Power BI",
-          "excerpt": "Learn to evaluate collaboration culture and employee experience with a Power BI template by using Viva Insights data in Workplace Analytics.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-workplace-analytics-ways-working/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/workplace-analytics-ways-working/",
-          "length": "PT31M",
-          "ratings": {
-            "count": 167,
-            "average": 4.712575
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 130,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/analyze-collaboration-and-engagement-with-ways-working-dashboard-in-workplace-analytics-social.png",
-              "width": 643,
-              "height": 322,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-workplace-analytics-ways-working-action.md",
-          "title": "Drive organizational change with Microsoft Viva Insights (Workplace Analytics and MyAnalytics)",
-          "excerpt": "After using Microsoft Viva Insights with Workplace Analytics and Power BI to generate insights about your employees’ work behaviors, you’ll learn about the Microsoft 365 features that can be tools to implement and measure the changes you’ve identified. You’ll learn how to initiate common change practices and what tools and tactics are the most useful.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-workplace-analytics-ways-working-action/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/workplace-analytics-ways-working-action/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 233,
-            "average": 4.828326
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/drive-organizational-change-with-microsoft-workplace-analytics-social.png",
-              "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 2,
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/analyze-collaboration-and-engagement-with-ways-working-dashboard-in-workplace-analytics-social.png",
-          "width": 643,
-          "height": 322,
+          "height": 321,
           "isCached": true
         }
       ],
@@ -294,7 +169,7 @@
             ]
           },
           "publishedDateTime": "2021-01-14T08:21:12-08:00",
-          "heat": 87,
+          "heat": 89,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
@@ -473,8 +348,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 65665,
-            "average": 4.7959337
+            "count": 65682,
+            "average": 4.7959714
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -515,8 +390,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 92781,
-            "average": 4.7782736
+            "count": 92802,
+            "average": 4.7782807
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -557,6 +432,625 @@
           "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
           "width": 640,
           "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-get-started-with-power-bi.md",
+      "title": "Get started with Power BI",
+      "excerpt": "Get started with Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-get-started-with-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-get-started-with-power-bi/",
+      "length": "PT2H35M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-introduction-power-bi.md",
+          "title": "Introduction to Power BI",
+          "excerpt": "Introduction to Power BI",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-introduction-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
+          "length": "PT46M",
+          "ratings": {
+            "count": 22054,
+            "average": 4.7535596
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 103,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/introduction-power-bi-social.png",
+              "width": 643,
+              "height": 322,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-power-bi-service.md",
+          "title": "Explore what Power BI can do for you",
+          "excerpt": "As a consumer, you'll work in the Power BI service to review and interact with content that has been shared with you. This module provides the foundational information that you need to work effectively in the Power BI service.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-intro-to-power-bi-service/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
+          "length": "PT1H9M",
+          "ratings": {
+            "count": 12476,
+            "average": 4.68235
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 71,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-get-started-with-power-bi.md",
+          "title": "Get started building with Power BI",
+          "excerpt": "Power BI is a collection of software services and applications that let you connect to all sorts of data sources and create compelling visuals and reports. You can benefit from receiving those reports, or you can share them with others inside or outside your organization. Learn the basics of Power BI, how its services and applications work together, and how they can be used to create or experience compelling visuals and analytics based on your data.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-started-with-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 92802,
+            "average": 4.7782807
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 111,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
+              "width": 643,
+              "height": 322,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 103,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/introduction-power-bi-social.png",
+          "width": 643,
+          "height": 322,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-create-and-use-analytics-reports-with-power-bi.md",
+      "title": "Create and use analytics reports with Power BI",
+      "excerpt": "This learning path introduces you to Power BI, and teaches you to use and build business intelligence reports.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-create-and-use-analytics-reports-with-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-create-and-use-analytics-reports-with-power-bi/",
+      "length": "PT6H22M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-get-started-with-power-bi.md",
+          "title": "Get started building with Power BI",
+          "excerpt": "Power BI is a collection of software services and applications that let you connect to all sorts of data sources and create compelling visuals and reports. You can benefit from receiving those reports, or you can share them with others inside or outside your organization. Learn the basics of Power BI, how its services and applications work together, and how they can be used to create or experience compelling visuals and analytics based on your data.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-started-with-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 92802,
+            "average": 4.7782807
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 111,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
+              "width": 643,
+              "height": 322,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-get-data-power-bi.md",
+          "title": "Get data with Power BI Desktop",
+          "excerpt": "How can you find, collect, and clean data from different sources? Power BI is a tool for making sense of your data. You will learn tricks to make data-gathering easier.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
+          "length": "PT1H15M",
+          "ratings": {
+            "count": 35562,
+            "average": 4.726562
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 83,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/get-data-power-bi-desktop-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "Power BI Desktop"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-model-data-power-bi.md",
+          "title": "Model data in Power BI",
+          "excerpt": "Connect Power BI to multiple data sources to create reports. Define the relationship between your data sources.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-model-data-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
+          "length": "PT1H7M",
+          "ratings": {
+            "count": 16499,
+            "average": 4.722347
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 64,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/model-data-with-power-bi-desktop-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-visuals-in-power-bi.md",
+          "title": "Use visuals in Power BI",
+          "excerpt": "Create and customize visuals to present data in compelling and insightful ways.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visuals-in-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
+          "length": "PT1H16M",
+          "ratings": {
+            "count": 7638,
+            "average": 4.7626343
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/create-visuals-power-bi-desktop-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 99,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
+          "width": 643,
+          "height": 322,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-get-and-transform-data-with-power-bi.md",
+      "title": "Get and transform data with Power BI",
+      "excerpt": "Get and transform data with Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-get-and-transform-data-with-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-get-and-transform-data-with-power-bi/",
+      "length": "PT3H26M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-get-data.md",
+          "title": "Get data in Power BI",
+          "excerpt": "You will learn how to retrieve data from a wide variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores. You will also learn how to improve performance while retrieving data.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
+          "length": "PT1H25M",
+          "ratings": {
+            "count": 20150,
+            "average": 4.7572703
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 78,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/get-data-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-clean-data-power-bi.md",
+          "title": "Clean, transform, and load data in Power BI",
+          "excerpt": "Power Query has an incredible amount of features that are dedicated to helping you clean and prepare your data for analysis. You will learn how to simplify a complicated model, change data types, rename objects, and pivot data. You will also learn how to profile columns so that you know which columns have the valuable data that you’re seeking for deeper analytics.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-clean-data-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
+          "length": "PT2H1M",
+          "ratings": {
+            "count": 13185,
+            "average": 4.7686005
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 86,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/clean-transform-and-load-data-in-power-bi-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 86,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/get-data-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-prepare-data-for-analysis.md",
+      "title": "Prepare data for analysis",
+      "excerpt": "Students will explore Power Query as they learn to extract data from different data sources and choose a storage mode and connectivity type. They will learn to profile, clean, and load data into Power BI in preparation for modeling their data.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-prepare-data-for-analysis/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-prepare-data-for-analysis/",
+      "length": "PT3H26M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-get-data.md",
+          "title": "Get data in Power BI",
+          "excerpt": "You will learn how to retrieve data from a wide variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores. You will also learn how to improve performance while retrieving data.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
+          "length": "PT1H25M",
+          "ratings": {
+            "count": 20150,
+            "average": 4.7572703
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 78,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/get-data-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-clean-data-power-bi.md",
+          "title": "Clean, transform, and load data in Power BI",
+          "excerpt": "Power Query has an incredible amount of features that are dedicated to helping you clean and prepare your data for analysis. You will learn how to simplify a complicated model, change data types, rename objects, and pivot data. You will also learn how to profile columns so that you know which columns have the valuable data that you’re seeking for deeper analytics.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-clean-data-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
+          "length": "PT2H1M",
+          "ratings": {
+            "count": 13185,
+            "average": 4.7686005
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 86,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/clean-transform-and-load-data-in-power-bi-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 86,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/get-data-social.png",
+          "width": 643,
+          "height": 321,
           "isCached": true
         }
       ],
@@ -761,12 +1255,12 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-create-and-use-analytics-reports-with-power-bi.md",
-      "title": "Create and use analytics reports with Power BI",
-      "excerpt": "This learning path introduces you to Power BI, and teaches you to use and build business intelligence reports.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-create-and-use-analytics-reports-with-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-create-and-use-analytics-reports-with-power-bi/",
-      "length": "PT6H22M",
+      "path": "_learning/collections/microsoft-learn-visualize-data-in-power-bi.md",
+      "title": "Visualize data in Power BI",
+      "excerpt": "Power BI has extraordinary visuals that can be used on Power BI reports and dashboards. In this module, you will learn when to use which visual to solve which problem. You will also learn report design and report formatting. Additionally, you will learn how to use report navigation to tell a compelling, data-driven story in Power BI. Dashboards will help your users target report visuals to meet their specific needs. Paginated reports help you create pixel-perfect report artifacts like sales invoices, purchase orders, medical records, transaction statements, and much more.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-visualize-data-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-visualize-data-in-power-bi/",
+      "length": "PT5H5M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -780,61 +1274,19 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-get-started-with-power-bi.md",
-          "title": "Get started building with Power BI",
-          "excerpt": "Power BI is a collection of software services and applications that let you connect to all sorts of data sources and create compelling visuals and reports. You can benefit from receiving those reports, or you can share them with others inside or outside your organization. Learn the basics of Power BI, how its services and applications work together, and how they can be used to create or experience compelling visuals and analytics based on your data.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-started-with-power-bi/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
-          "length": "PT40M",
+          "path": "_learning/courses/microsoft-learn-visuals-power-bi.md",
+          "title": "Work with Power BI visuals",
+          "excerpt": "Learn how to choose from the exceptional visuals that Power BI makes available to you. Formatting visuals will direct the user’s attention to exactly where you want it, while helping to make the visual easier to read and interpret. You will also learn about how to use key performance indicators (KPIs).",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visuals-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
+          "length": "PT1H13M",
           "ratings": {
-            "count": 92781,
-            "average": 4.7782736
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 111,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
-              "width": 643,
-              "height": 322,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-get-data-power-bi.md",
-          "title": "Get data with Power BI Desktop",
-          "excerpt": "How can you find, collect, and clean data from different sources? Power BI is a tool for making sense of your data. You will learn tricks to make data-gathering easier.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data-power-bi/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
-          "length": "PT1H15M",
-          "ratings": {
-            "count": 35560,
-            "average": 4.726575
+            "count": 4592,
+            "average": 4.672256
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -851,12 +1303,12 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 67,
+          "heat": 62,
           "images": [
             {
-              "url": "https://learn.microsoft.com/training/achievements/get-data-power-bi-desktop-social.png",
-              "width": 800,
-              "height": 400,
+              "url": "https://learn.microsoft.com/training/achievements/visuals-power-bi-social.png",
+              "width": 640,
+              "height": 320,
               "isCached": true
             }
           ],
@@ -864,20 +1316,19 @@
           "type": "course",
           "price": "Free",
           "topics": [
-            "Power BI",
-            "Power BI Desktop"
+            "Power BI"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-model-data-power-bi.md",
-          "title": "Model data in Power BI",
-          "excerpt": "Connect Power BI to multiple data sources to create reports. Define the relationship between your data sources.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-model-data-power-bi/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
-          "length": "PT1H7M",
+          "path": "_learning/courses/microsoft-learn-data-driven-story-power-bi.md",
+          "title": "Create a data-driven story with Power BI reports",
+          "excerpt": "Power BI helps you create vibrant, highly useful reports that form a cohesive, data-driven story. You’ll learn how to use buttons, bookmarks, and other navigation techniques. Additionally, you’ll learn how to integrate Power BI reports with other applications. Power BI visuals can interact with each other, letting the user see exactly which data is appealing to them. You’ll also explore Power BI report themes to create a unified reporting experience across all reports.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-driven-story-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
+          "length": "PT1H44M",
           "ratings": {
-            "count": 16498,
-            "average": 4.72233
+            "count": 6734,
+            "average": 4.7009206
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -897,7 +1348,7 @@
           "heat": 56,
           "images": [
             {
-              "url": "https://learn.microsoft.com/training/achievements/model-data-with-power-bi-desktop-social.png",
+              "url": "https://learn.microsoft.com/training/achievements/create-reports-with-power-bi-desktop-social.png",
               "width": 800,
               "height": 400,
               "isCached": true
@@ -911,15 +1362,15 @@
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-visuals-in-power-bi.md",
-          "title": "Use visuals in Power BI",
-          "excerpt": "Create and customize visuals to present data in compelling and insightful ways.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visuals-in-power-bi/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
-          "length": "PT1H16M",
+          "path": "_learning/courses/microsoft-learn-create-dashboards-power-bi.md",
+          "title": "Create dashboards in Power BI",
+          "excerpt": "Microsoft Power BI dashboards are different than Power BI reports. Dashboards allow report consumers to create a single artifact of directed data that is personalized just for them.  Dashboards can be comprised of pinned visuals that are taken from different reports. Where a Power BI report uses data from a single dataset, a Power BI dashboard can contain visuals from different datasets.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-dashboards-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
+          "length": "PT1H8M",
           "ratings": {
-            "count": 7638,
-            "average": 4.7626343
+            "count": 3349,
+            "average": 4.6828904
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -936,12 +1387,54 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 54,
+          "heat": 61,
           "images": [
             {
-              "url": "https://learn.microsoft.com/training/achievements/create-visuals-power-bi-desktop-social.png",
-              "width": 800,
-              "height": 400,
+              "url": "https://learn.microsoft.com/training/achievements/create-dashboards-power-bi-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-paginated-reports-power-bi.md",
+          "title": "Create paginated reports  ",
+          "excerpt": "Paginated reports allow report developers to create Power BI artifacts that have tightly controlled rendering requirements. Paginated reports are ideal for creating sales invoices, receipts, purchase orders, and tabular data. This module will teach you how to create reports, add parameters, and work with tables and charts in paginated reports.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-paginated-reports-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
+          "length": "PT15M",
+          "ratings": {
+            "count": 3597,
+            "average": 4.7239366
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/create-paginated-reports-power-bi-social.png",
+              "width": 640,
+              "height": 320,
               "isCached": true
             }
           ],
@@ -953,13 +1446,13 @@
           ]
         }
       ],
-      "size": 6,
-      "heat": 80,
+      "size": 4,
+      "heat": 73,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
-          "width": 643,
-          "height": 322,
+          "url": "https://learn.microsoft.com/training/achievements/visuals-power-bi-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -971,12 +1464,12 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-get-and-transform-data-with-power-bi.md",
-      "title": "Get and transform data with Power BI",
-      "excerpt": "Get and transform data with Power BI",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-get-and-transform-data-with-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-get-and-transform-data-with-power-bi/",
-      "length": "PT3H26M",
+      "path": "_learning/collections/microsoft-learn-model-data-with-power-bi.md",
+      "title": "Model data with Power BI",
+      "excerpt": "Model data with Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-model-data-with-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-model-data-with-power-bi/",
+      "length": "PT3H10M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -994,15 +1487,15 @@
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-get-data.md",
-          "title": "Get data in Power BI",
-          "excerpt": "You will learn how to retrieve data from a wide variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores. You will also learn how to improve performance while retrieving data.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
-          "length": "PT1H25M",
+          "path": "_learning/courses/microsoft-learn-dax-power-bi-models.md",
+          "title": "Describe Power BI Desktop models",
+          "excerpt": "In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This module provides a strong foundation on which you can learn to optimize model designs and add model calculations.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-models/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
+          "length": "PT29M",
           "ratings": {
-            "count": 20145,
-            "average": 4.7574086
+            "count": 4094,
+            "average": 4.746947
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1019,12 +1512,55 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 62,
+          "heat": 60,
           "images": [
             {
-              "url": "https://learn.microsoft.com/training/achievements/get-data-social.png",
+              "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
               "width": 643,
               "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "Power BI Desktop"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-choose-power-bi-model-framework.md",
+          "title": "Choose a Power BI model framework",
+          "excerpt": "Describe Power BI data model frameworks, their benefits and limitations, and features to help optimize your Power BI data models.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-choose-power-bi-model-framework/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
+          "length": "PT46M",
+          "ratings": {
+            "count": 391,
+            "average": 4.6828647
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/choose-power-bi-model-framework-social.png",
+              "width": 1281,
+              "height": 641,
               "isCached": true
             }
           ],
@@ -1036,15 +1572,15 @@
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-clean-data-power-bi.md",
-          "title": "Clean, transform, and load data in Power BI",
-          "excerpt": "Power Query has an incredible amount of features that are dedicated to helping you clean and prepare your data for analysis. You will learn how to simplify a complicated model, change data types, rename objects, and pivot data. You will also learn how to profile columns so that you know which columns have the valuable data that you’re seeking for deeper analytics.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-clean-data-power-bi/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
-          "length": "PT2H1M",
+          "path": "_learning/courses/microsoft-learn-design-model-power-bi.md",
+          "title": "Design a data model in Power BI ",
+          "excerpt": "The process of creating a complicated data model in Power BI is straightforward. If your data is coming in from more than one transactional system, before you know it, you can have dozens of tables that you have to work with. Building a great data model is about simplifying the disarray. A star schema is one way to simplify a data model, and you’ll learn about the terminology and implementation of them in this module. You will also learn about why choosing the correct data granularity is important for performance and usability of your Power BI reports. Finally, you’ll learn about improving performance with your Power BI data models.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-design-model-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
+          "length": "PT1H23M",
           "ratings": {
-            "count": 13182,
-            "average": 4.768624
+            "count": 11465,
+            "average": 4.7427826
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1061,95 +1597,12 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 71,
+          "heat": 67,
           "images": [
             {
-              "url": "https://learn.microsoft.com/training/achievements/clean-transform-and-load-data-in-power-bi-social.png",
+              "url": "https://learn.microsoft.com/training/achievements/design-a-data-model-in-power-bi-social.png",
               "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 2,
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/get-data-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-prepare-data-for-analysis.md",
-      "title": "Prepare data for analysis",
-      "excerpt": "Students will explore Power Query as they learn to extract data from different data sources and choose a storage mode and connectivity type. They will learn to profile, clean, and load data into Power BI in preparation for modeling their data.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-prepare-data-for-analysis/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-prepare-data-for-analysis/",
-      "length": "PT3H26M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-get-data.md",
-          "title": "Get data in Power BI",
-          "excerpt": "You will learn how to retrieve data from a wide variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores. You will also learn how to improve performance while retrieving data.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
-          "length": "PT1H25M",
-          "ratings": {
-            "count": 20145,
-            "average": 4.7574086
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 62,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/get-data-social.png",
-              "width": 643,
-              "height": 321,
+              "height": 322,
               "isCached": true
             }
           ],
@@ -1161,15 +1614,15 @@
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-clean-data-power-bi.md",
-          "title": "Clean, transform, and load data in Power BI",
-          "excerpt": "Power Query has an incredible amount of features that are dedicated to helping you clean and prepare your data for analysis. You will learn how to simplify a complicated model, change data types, rename objects, and pivot data. You will also learn how to profile columns so that you know which columns have the valuable data that you’re seeking for deeper analytics.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-clean-data-power-bi/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
-          "length": "PT2H1M",
+          "path": "_learning/courses/microsoft-learn-dax-power-bi-add-measures.md",
+          "title": "Add measures to Power BI Desktop models",
+          "excerpt": "In this module, you'll learn how to work with implicit and explicit measures. You'll start by creating simple measures, which summarize a single column or table. Then, you'll create more complex measures based on other measures in the model. Additionally, you'll learn about the similarities of, and differences between, a calculated column and a measure.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-add-measures/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
+          "length": "PT13M",
           "ratings": {
-            "count": 13182,
-            "average": 4.768624
+            "count": 1623,
+            "average": 4.728897
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1186,12 +1639,12 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 71,
+          "heat": 52,
           "images": [
             {
-              "url": "https://learn.microsoft.com/training/achievements/clean-transform-and-load-data-in-power-bi-social.png",
-              "width": 643,
-              "height": 321,
+              "url": "https://learn.microsoft.com/training/achievements/add-measures-power-bi-desktop-social.png",
+              "width": 640,
+              "height": 320,
               "isCached": true
             }
           ],
@@ -1199,15 +1652,16 @@
           "type": "course",
           "price": "Free",
           "topics": [
-            "Power BI"
+            "Power BI",
+            "Power BI Desktop"
           ]
         }
       ],
-      "size": 2,
-      "heat": 71,
+      "size": 10,
+      "heat": 72,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/get-data-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
           "width": 643,
           "height": 321,
           "isCached": true
@@ -1412,165 +1866,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-get-started-with-power-bi.md",
-      "title": "Get started with Power BI",
-      "excerpt": "Get started with Power BI",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-get-started-with-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-get-started-with-power-bi/",
-      "length": "PT2H35M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-introduction-power-bi.md",
-          "title": "Introduction to Power BI",
-          "excerpt": "Introduction to Power BI",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-introduction-power-bi/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
-          "length": "PT46M",
-          "ratings": {
-            "count": 22047,
-            "average": 4.7534814
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 69,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/introduction-power-bi-social.png",
-              "width": 643,
-              "height": 322,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-power-bi-service.md",
-          "title": "Explore what Power BI can do for you",
-          "excerpt": "As a consumer, you'll work in the Power BI service to review and interact with content that has been shared with you. This module provides the foundational information that you need to work effectively in the Power BI service.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-intro-to-power-bi-service/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
-          "length": "PT1H9M",
-          "ratings": {
-            "count": 12474,
-            "average": 4.6824594
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 58,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-get-started-with-power-bi.md",
-          "title": "Get started building with Power BI",
-          "excerpt": "Power BI is a collection of software services and applications that let you connect to all sorts of data sources and create compelling visuals and reports. You can benefit from receiving those reports, or you can share them with others inside or outside your organization. Learn the basics of Power BI, how its services and applications work together, and how they can be used to create or experience compelling visuals and analytics based on your data.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-started-with-power-bi/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 92781,
-            "average": 4.7782736
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 111,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
-              "width": 643,
-              "height": 322,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 69,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/introduction-power-bi-social.png",
-          "width": 643,
-          "height": 322,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-get-started-with-microsoft-fabric.md",
       "title": "Get started with Microsoft Fabric",
       "excerpt": "Get started and explore the capabilities of Microsoft Fabric.",
@@ -1661,7 +1956,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 145,
+          "heat": 65,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
@@ -1971,221 +2266,12 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-visualize-data-in-power-bi.md",
-      "title": "Visualize data in Power BI",
-      "excerpt": "Power BI has extraordinary visuals that can be used on Power BI reports and dashboards. In this module, you will learn when to use which visual to solve which problem. You will also learn report design and report formatting. Additionally, you will learn how to use report navigation to tell a compelling, data-driven story in Power BI. Dashboards will help your users target report visuals to meet their specific needs. Paginated reports help you create pixel-perfect report artifacts like sales invoices, purchase orders, medical records, transaction statements, and much more.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-visualize-data-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-visualize-data-in-power-bi/",
-      "length": "PT5H5M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-visuals-power-bi.md",
-          "title": "Work with Power BI visuals",
-          "excerpt": "Learn how to choose from the exceptional visuals that Power BI makes available to you. Formatting visuals will direct the user’s attention to exactly where you want it, while helping to make the visual easier to read and interpret. You will also learn about how to use key performance indicators (KPIs).",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visuals-power-bi/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
-          "length": "PT1H13M",
-          "ratings": {
-            "count": 4592,
-            "average": 4.672256
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 58,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/visuals-power-bi-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-data-driven-story-power-bi.md",
-          "title": "Create a data-driven story with Power BI reports",
-          "excerpt": "Power BI helps you create vibrant, highly useful reports that form a cohesive, data-driven story. You’ll learn how to use buttons, bookmarks, and other navigation techniques. Additionally, you’ll learn how to integrate Power BI reports with other applications. Power BI visuals can interact with each other, letting the user see exactly which data is appealing to them. You’ll also explore Power BI report themes to create a unified reporting experience across all reports.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-driven-story-power-bi/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
-          "length": "PT1H44M",
-          "ratings": {
-            "count": 6734,
-            "average": 4.7009206
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/create-reports-with-power-bi-desktop-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-dashboards-power-bi.md",
-          "title": "Create dashboards in Power BI",
-          "excerpt": "Microsoft Power BI dashboards are different than Power BI reports. Dashboards allow report consumers to create a single artifact of directed data that is personalized just for them.  Dashboards can be comprised of pinned visuals that are taken from different reports. Where a Power BI report uses data from a single dataset, a Power BI dashboard can contain visuals from different datasets.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-dashboards-power-bi/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
-          "length": "PT1H8M",
-          "ratings": {
-            "count": 3348,
-            "average": 4.6827955
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/create-dashboards-power-bi-social.png",
-              "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-paginated-reports-power-bi.md",
-          "title": "Create paginated reports  ",
-          "excerpt": "Paginated reports allow report developers to create Power BI artifacts that have tightly controlled rendering requirements. Paginated reports are ideal for creating sales invoices, receipts, purchase orders, and tabular data. This module will teach you how to create reports, add parameters, and work with tables and charts in paginated reports.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-paginated-reports-power-bi/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
-          "length": "PT15M",
-          "ratings": {
-            "count": 3597,
-            "average": 4.7239366
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/create-paginated-reports-power-bi-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 67,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/visuals-power-bi-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-model-data-with-power-bi.md",
-      "title": "Model data with Power BI",
-      "excerpt": "Model data with Power BI",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-model-data-with-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-model-data-with-power-bi/",
-      "length": "PT3H10M",
+      "path": "_learning/collections/microsoft-learn-distribute-power-bi-insights.md",
+      "title": "Distribute Power BI insights",
+      "excerpt": "Distribute Power BI insights",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-distribute-power-bi-insights/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-distribute-power-bi-insights/",
+      "length": "PT1H57M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -2203,15 +2289,15 @@
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-dax-power-bi-models.md",
-          "title": "Describe Power BI Desktop models",
-          "excerpt": "In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This module provides a strong foundation on which you can learn to optimize model designs and add model calculations.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-models/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
-          "length": "PT29M",
+          "path": "_learning/courses/microsoft-learn-publish-share-power-bi.md",
+          "title": "Publish and share in Power BI",
+          "excerpt": "Publish and share your Power BI reports and dashboards to teammates in your organization or to everyone on the web.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-publish-share-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
+          "length": "PT1H4M",
           "ratings": {
-            "count": 4094,
-            "average": 4.746947
+            "count": 7339,
+            "average": 4.727892
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2228,55 +2314,12 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 55,
+          "heat": 66,
           "images": [
             {
-              "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
-              "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "Power BI Desktop"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-choose-power-bi-model-framework.md",
-          "title": "Choose a Power BI model framework",
-          "excerpt": "Describe Power BI data model frameworks, their benefits and limitations, and features to help optimize your Power BI data models.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-choose-power-bi-model-framework/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
-          "length": "PT46M",
-          "ratings": {
-            "count": 391,
-            "average": 4.6828647
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/choose-power-bi-model-framework-social.png",
-              "width": 1281,
-              "height": 641,
+              "url": "https://learn.microsoft.com/training/achievements/publish-and-share-with-power-bi-desktop-social.png",
+              "width": 800,
+              "height": 400,
               "isCached": true
             }
           ],
@@ -2288,15 +2331,15 @@
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-design-model-power-bi.md",
-          "title": "Design a data model in Power BI ",
-          "excerpt": "The process of creating a complicated data model in Power BI is straightforward. If your data is coming in from more than one transactional system, before you know it, you can have dozens of tables that you have to work with. Building a great data model is about simplifying the disarray. A star schema is one way to simplify a data model, and you’ll learn about the terminology and implementation of them in this module. You will also learn about why choosing the correct data granularity is important for performance and usability of your Power BI reports. Finally, you’ll learn about improving performance with your Power BI data models.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-design-model-power-bi/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
-          "length": "PT1H23M",
+          "path": "_learning/courses/microsoft-learn-explore-data-power-bi.md",
+          "title": "Explore data in Power BI",
+          "excerpt": "Turn your business intelligence data into data insights by creating and configuring Power BI dashboards.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-data-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
+          "length": "PT53M",
           "ratings": {
-            "count": 11464,
-            "average": 4.74276
+            "count": 6295,
+            "average": 4.735028
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2316,9 +2359,9 @@
           "heat": 62,
           "images": [
             {
-              "url": "https://learn.microsoft.com/training/achievements/design-a-data-model-in-power-bi-social.png",
-              "width": 643,
-              "height": 322,
+              "url": "https://learn.microsoft.com/training/achievements/explore-data-with-power-bi-desktop-social.png",
+              "width": 800,
+              "height": 400,
               "isCached": true
             }
           ],
@@ -2328,58 +2371,15 @@
           "topics": [
             "Power BI"
           ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-dax-power-bi-add-measures.md",
-          "title": "Add measures to Power BI Desktop models",
-          "excerpt": "In this module, you'll learn how to work with implicit and explicit measures. You'll start by creating simple measures, which summarize a single column or table. Then, you'll create more complex measures based on other measures in the model. Additionally, you'll learn about the similarities of, and differences between, a calculated column and a measure.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-add-measures/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
-          "length": "PT13M",
-          "ratings": {
-            "count": 1623,
-            "average": 4.728897
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/add-measures-power-bi-desktop-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "Power BI Desktop"
-          ]
         }
       ],
-      "size": 10,
+      "size": 2,
       "heat": 66,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
-          "width": 643,
-          "height": 321,
+          "url": "https://learn.microsoft.com/training/achievements/publish-and-share-with-power-bi-desktop-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -2768,6 +2768,642 @@
       "type": "collection",
       "topics": [
         "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-empower-modern-analytics-and-business-intelligence-data-cultures-with-excel-power-bi-ms-teams-and-sharepoint.md",
+      "title": "Empower modern analytics and business intelligence data cultures with Excel, Power BI, MS Teams, and SharePoint",
+      "excerpt": "Excel is a Microsoft application that has been in use since 1985. You might be surprised that in addition to simple spreadsheets, Excel can enable modern analytics and business intelligence. In this Learning Path, you will learn how to modernize and empower data conversations within your organization using Excel & Power BI together with MS Teams, and SharePoint. You’ll gain awareness of the business intelligence landscape, technology capabilities, and their roles.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-empower-modern-analytics-and-business-intelligence-data-cultures-with-excel-power-bi-ms-teams-and-sharepoint/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-empower-modern-analytics-and-business-intelligence-data-cultures-with-excel-power-bi-ms-teams-and-sharepoint/",
+      "length": "PT7H47M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-modern-analytics-intro.md",
+          "title": "Introduction to modern analytics using Excel and Power BI",
+          "excerpt": "This module introduces the Microsoft modern analytics core suite of tools, including Office 365/Excel 2016+, Power Query, Data Model, Power BI Desktop, and Power BI service. By using modern analytics technologies, you and your organization can work faster, more efficiently, and smarter by using Excel together with Power BI.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-intro/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
+          "length": "PT37M",
+          "ratings": {
+            "count": 1141,
+            "average": 4.780894
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/modern-analytics-intro-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-automate-data-cleaning-power-query.md",
+          "title": "Automate data cleaning with Power Query",
+          "excerpt": "This module introduces Power Query in Microsoft Excel, a powerful data connection, cleaning, and shaping technology that is a core part of the Microsoft modern analytics suite of business intelligence tools.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-automate-data-cleaning-power-query/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
+          "length": "PT1H29M",
+          "ratings": {
+            "count": 787,
+            "average": 4.7763658
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/automate-data-cleaning-power-query-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "Power Query"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-modern-analytics-data-modeling.md",
+          "title": "Introduction to foundations in data modeling",
+          "excerpt": "This module introduces the key concepts that are related to developing a well-organized data model.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-data-modeling/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
+          "length": "PT34M",
+          "ratings": {
+            "count": 508,
+            "average": 4.7460628
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/modern-analytics-data-modeling-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-modern-analytics-transition.md",
+          "title": "Transition from Excel to Power BI",
+          "excerpt": "Microsoft's Power BI combines the Power Query's extraction, transformation, and loading capabilities with DAX and a relational data model in a new application with new features.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-transition/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
+          "length": "PT48M",
+          "ratings": {
+            "count": 426,
+            "average": 4.7488265
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/modern-analytics-transition-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/modern-analytics-intro-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-empowering-modern-analytics-and-business-intelligence-data-cultures-with-excel-power-bi-ms-teams-and-sharepoint.md",
+      "title": "Empowering Modern Analytics and Business Intelligence Data Cultures with Excel, Power BI, MS Teams, and SharePoint",
+      "excerpt": "Excel is a Microsoft application that has been in use since 1985. You might be surprised that in addition to simple spreadsheets, Excel can enable modern analytics and business intelligence. In this Learning Path, you will learn how to modernize and empower data conversations within your organization using Excel & Power BI together with MS Teams, and SharePoint. You’ll gain awareness of the business intelligence landscape, technology capabilities, and their roles.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-empowering-modern-analytics-and-business-intelligence-data-cultures-with-excel-power-bi-ms-teams-and-sharepoint/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-empowering-modern-analytics-and-business-intelligence-data-cultures-with-excel-power-bi-ms-teams-and-sharepoint/",
+      "length": "PT7H47M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-modern-analytics-intro.md",
+          "title": "Introduction to modern analytics using Excel and Power BI",
+          "excerpt": "This module introduces the Microsoft modern analytics core suite of tools, including Office 365/Excel 2016+, Power Query, Data Model, Power BI Desktop, and Power BI service. By using modern analytics technologies, you and your organization can work faster, more efficiently, and smarter by using Excel together with Power BI.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-intro/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
+          "length": "PT37M",
+          "ratings": {
+            "count": 1141,
+            "average": 4.780894
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/modern-analytics-intro-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-automate-data-cleaning-power-query.md",
+          "title": "Automate data cleaning with Power Query",
+          "excerpt": "This module introduces Power Query in Microsoft Excel, a powerful data connection, cleaning, and shaping technology that is a core part of the Microsoft modern analytics suite of business intelligence tools.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-automate-data-cleaning-power-query/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
+          "length": "PT1H29M",
+          "ratings": {
+            "count": 787,
+            "average": 4.7763658
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/automate-data-cleaning-power-query-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "Power Query"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-modern-analytics-data-modeling.md",
+          "title": "Introduction to foundations in data modeling",
+          "excerpt": "This module introduces the key concepts that are related to developing a well-organized data model.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-data-modeling/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
+          "length": "PT34M",
+          "ratings": {
+            "count": 508,
+            "average": 4.7460628
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/modern-analytics-data-modeling-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-modern-analytics-transition.md",
+          "title": "Transition from Excel to Power BI",
+          "excerpt": "Microsoft's Power BI combines the Power Query's extraction, transformation, and loading capabilities with DAX and a relational data model in a new application with new features.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-transition/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
+          "length": "PT48M",
+          "ratings": {
+            "count": 426,
+            "average": 4.7488265
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/modern-analytics-transition-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/modern-analytics-intro-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-use-dax-in-power-bi-desktop.md",
+      "title": "Use DAX in Power BI Desktop",
+      "excerpt": "This learning path introduces Data Analysis Expressions (DAX) and provides you with foundational skills required to enhance data models with calculations. It starts by describing Power BI Desktop model structure and how it can be enhanced with DAX calculations. It then describes how you can write DAX formulas and the different types of model calculations, including calculated tables and columns, and measures. Evaluation contexts are introduced, and subsequent lessons describe how to write DAX formulas that modify filter context. Finally, you learn to write DAX expressions using time intelligence functions and iterator functions.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-use-dax-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-use-dax-in-power-bi-desktop/",
+      "length": "PT2H4M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-dax-power-bi-models.md",
+          "title": "Describe Power BI Desktop models",
+          "excerpt": "In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This module provides a strong foundation on which you can learn to optimize model designs and add model calculations.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-models/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 4094,
+            "average": 4.746947
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 60,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "Power BI Desktop"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-dax-power-bi-write-formulas.md",
+          "title": "Write DAX formulas for Power BI Desktop models",
+          "excerpt": "In this module, you'll learn how to write DAX formulas to create calculated tables, calculated columns, and measures, which are different types of model calculations. Additionally, you'll learn how to write and format DAX formulas, which consist of expressions that use functions, operators, references to model objects, constants, and variables.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-write-formulas/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
+          "length": "PT27M",
+          "ratings": {
+            "count": 2614,
+            "average": 4.7329764
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-write-formulas-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "Power BI Desktop",
+            "DAX"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables.md",
+          "title": "Add calculated tables and columns to Power BI Desktop models",
+          "excerpt": "By the end of this module, you'll be able to add calculated tables and calculated columns to your data model. You'll also be able to describe row context, which is used to evaluated calculated column formulas. Because it's possible to add columns to a table by using Power Query, you'll also learn when it's best to create calculated columns instead of Power Query custom columns.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
+          "length": "PT19M",
+          "ratings": {
+            "count": 1927,
+            "average": 4.7135444
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-add-calculated-tables-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "Power BI Desktop"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-dax-power-bi-add-measures.md",
+          "title": "Add measures to Power BI Desktop models",
+          "excerpt": "In this module, you'll learn how to work with implicit and explicit measures. You'll start by creating simple measures, which summarize a single column or table. Then, you'll create more complex measures based on other measures in the model. Additionally, you'll learn about the similarities of, and differences between, a calculated column and a measure.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-add-measures/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
+          "length": "PT13M",
+          "ratings": {
+            "count": 1623,
+            "average": 4.728897
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/add-measures-power-bi-desktop-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "Power BI Desktop"
+          ]
+        }
+      ],
+      "size": 9,
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
         "DAX"
       ]
     },
@@ -3494,6 +4130,217 @@
       ],
       "content": "\r\n",
       "type": "collection",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-design-and-build-tabular-models.md",
+      "title": "Design and build tabular models",
+      "excerpt": "Design and build tabular models",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-design-and-build-tabular-models/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-design-and-build-tabular-models/",
+      "length": "PT2H43M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-create-power-bi-model-relationships.md",
+          "title": "Create Power BI model relationships",
+          "excerpt": "Power BI model relationships form the basis of a tabular model. Define Power BI model relationships, set up relationships, recognize DAX relationship functions, and describe relationship evaluation.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-power-bi-model-relationships/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-power-bi-model-relationships/",
+          "length": "PT1H30M",
+          "ratings": {
+            "count": 146,
+            "average": 4.8013697
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/create-power-bi-model-relationships-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-dax-power-bi-time-intelligence.md",
+          "title": "Use DAX time intelligence functions in Power BI Desktop models",
+          "excerpt": "By the end of this module, you'll learn the meaning of time intelligence and how to add time intelligence DAX calculations to your model. These calculations will include year-to-date (YTD), year-over-year (YoY) growth, and others.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-time-intelligence/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
+          "length": "PT19M",
+          "ratings": {
+            "count": 1501,
+            "average": 4.745503
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/use-dax-time-intelligence-functions-power-bi-desktop-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "Power BI Desktop",
+            "DAX"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-calculation-groups.md",
+          "title": "Create calculation groups",
+          "excerpt": "Power BI, calculation groups, enterprise data analyst",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-calculation-groups/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-calculation-groups/",
+          "length": "PT1H3M",
+          "ratings": {
+            "count": 131,
+            "average": 4.778626
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/create-calculation-groups-social.png",
+              "width": 1282,
+              "height": 642,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-enforce-power-bi-model-security.md",
+          "title": "Enforce Power BI model security",
+          "excerpt": "Enforce model security in Power BI using row-level security and object-level security.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-enforce-power-bi-model-security/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
+          "length": "PT1H21M",
+          "ratings": {
+            "count": 165,
+            "average": 4.7636366
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/enforce-power-bi-model-security-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/create-power-bi-model-relationships-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
       "topics": [
         "Power BI"
       ]
@@ -4563,764 +5410,6 @@
       ],
       "content": "\r\n",
       "type": "collection",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/collections/enterprise-dna-ultimate-beginners-guide-to-dax-2020.md",
-      "title": "Ultimate Beginners Guide to DAX 2020",
-      "excerpt": "Follow along to the beginners guide DAX tutorials by using the demo data available for download. Enjoy!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/enterprise-dna-ultimate-beginners-guide-to-dax-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/enterprise-dna-ultimate-beginners-guide-to-dax-2020/",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/enterprise-dna-ultimate-beginners-guide-to-dax-2021-course-intro.md",
-          "title": "Ultimate Beginners Guide To DAX 2021 - Course Intro",
-          "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-ultimate-beginners-guide-to-dax-2021-course-intro/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-ultimate-beginners-guide-to-dax-2021-course-intro/",
-          "originalUrl": "https://youtube.com/watch?v=ILVRJQ22cjs",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ILVRJQ22cjs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M48S",
-          "provider": {
-            "name": "Enterprise DNA",
-            "domain": "enterprisedna.co"
-          },
-          "publishedDateTime": "2020-05-05T20:00:14-07:00",
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/ILVRJQ22cjs/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        },
-        {
-          "path": "_learning/videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginners-guide-to-dax-2020.md",
-          "title": "What Is DAX? & Why Do You Need To Learn It - (1.2)  Ultimate Beginners Guide to DAX 2020",
-          "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginners-guide-to-dax-2020/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginners-guide-to-dax-2020/",
-          "originalUrl": "https://youtube.com/watch?v=KORVXOs44Mg",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KORVXOs44Mg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT5M42S",
-          "provider": {
-            "name": "Enterprise DNA",
-            "domain": "enterprisedna.co"
-          },
-          "publishedDateTime": "2020-05-01T01:51:47-07:00",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/KORVXOs44Mg/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        },
-        {
-          "path": "_learning/videos/enterprise-dna-a-review-of-the-data-scenario-13-ultimate-beginner-guide-to-dax-2020.md",
-          "title": "A Review Of The Data Scenario - (1.3) Ultimate Beginner Guide to DAX 2020",
-          "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-a-review-of-the-data-scenario-13-ultimate-beginner-guide-to-dax-2020/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-a-review-of-the-data-scenario-13-ultimate-beginner-guide-to-dax-2020/",
-          "originalUrl": "https://youtube.com/watch?v=eoHSi2kQNCA",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" src=\"https://www.youtube.com/embed/eoHSi2kQNCA\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M4S",
-          "provider": {
-            "name": "Enterprise DNA",
-            "domain": "enterprisedna.co"
-          },
-          "publishedDateTime": "2020-05-01T01:57:50-07:00",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/eoHSi2kQNCA/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        },
-        {
-          "path": "_learning/videos/enterprise-dna-setting-up-your-power-bi-model-14-ultimate-beginner-guide-to-dax-2020.md",
-          "title": "Setting Up Your Power BI Model - (1.4) Ultimate Beginner Guide to DAX 2020",
-          "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-setting-up-your-power-bi-model-14-ultimate-beginner-guide-to-dax-2020/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-setting-up-your-power-bi-model-14-ultimate-beginner-guide-to-dax-2020/",
-          "originalUrl": "https://youtube.com/watch?v=vEB0aS8n9I8",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vEB0aS8n9I8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT4M52S",
-          "provider": {
-            "name": "Enterprise DNA",
-            "domain": "enterprisedna.co"
-          },
-          "publishedDateTime": "2020-05-01T02:09:58-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/vEB0aS8n9I8/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        }
-      ],
-      "size": 40,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ILVRJQ22cjs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-architect-solutions-for-dynamics-365-and-power-platform.md",
-      "title": "Architect solutions for Dynamics 365 and Power Platform",
-      "excerpt": "A Solution Architect is responsible for the successful design, implementation, deployment, and adoption of an overall solution. A Solution Architect ensures that the solution meets the customer’s needs now and in the future. While the Solution Architect may not “click the buttons” during a deployment, they are ultimately responsible for the solution and work closely with the deployment team.\nThis learning path covers the pre-sales and analysis phases of a project to include:\n\nWhat it takes to become a Solution Architect.\nDiscovering customer needs.\nProposing a solution.\nWorking with requirements.\nPerforming fit-gap analysis.\n\nInstructor-led training (ILT) is scheduled for March 2020 that provides more hands-on activities and both this path and ILT are needed for the exam.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-architect-solutions-for-dynamics-365-and-power-platform/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-architect-solutions-for-dynamics-365-and-power-platform/",
-      "length": "PT3H57M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-becoming-solution-architect.md",
-          "title": "Becoming a solution architect for Dynamics 365 and Power Platform",
-          "excerpt": "Learn how to become a solution architect.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-becoming-solution-architect/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/becoming-solution-architect/",
-          "length": "PT1H43M",
-          "ratings": {
-            "count": 766,
-            "average": 4.7310705
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-discover-customer-needs.md",
-          "title": "Discover customer needs as a Solution Architect for Dynamics 365 and Power Platform",
-          "excerpt": "Learn how to ask customers questions about their business processes and feature requirements to create a viable solution.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-discover-customer-needs/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discover-customer-needs/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 518,
-            "average": 4.689189
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 51,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-propose-solution.md",
-          "title": "Propose a solution as a Solution Architect for Power Platform and Dynamics 365",
-          "excerpt": "Learn how to propose a solution.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-propose-solution/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/propose-solution/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 363,
-            "average": 4.674931
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 51,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-work-with-requirements.md",
-          "title": "Work with requirements as a solution architect for Microsoft Power Platform and Dynamics 365",
-          "excerpt": "It is important to capture the customer’s needs accurately. This module explains how to capture requirements and identify functional and non-functional items.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-work-with-requirements/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
-          "length": "PT23M",
-          "ratings": {
-            "count": 704,
-            "average": 4.7727275
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-empower-modern-analytics-and-business-intelligence-data-cultures-with-excel-power-bi-ms-teams-and-sharepoint.md",
-      "title": "Empower modern analytics and business intelligence data cultures with Excel, Power BI, MS Teams, and SharePoint",
-      "excerpt": "Excel is a Microsoft application that has been in use since 1985. You might be surprised that in addition to simple spreadsheets, Excel can enable modern analytics and business intelligence. In this Learning Path, you will learn how to modernize and empower data conversations within your organization using Excel & Power BI together with MS Teams, and SharePoint. You’ll gain awareness of the business intelligence landscape, technology capabilities, and their roles.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-empower-modern-analytics-and-business-intelligence-data-cultures-with-excel-power-bi-ms-teams-and-sharepoint/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-empower-modern-analytics-and-business-intelligence-data-cultures-with-excel-power-bi-ms-teams-and-sharepoint/",
-      "length": "PT7H47M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-modern-analytics-intro.md",
-          "title": "Introduction to modern analytics using Excel and Power BI",
-          "excerpt": "This module introduces the Microsoft modern analytics core suite of tools, including Office 365/Excel 2016+, Power Query, Data Model, Power BI Desktop, and Power BI service. By using modern analytics technologies, you and your organization can work faster, more efficiently, and smarter by using Excel together with Power BI.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-intro/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
-          "length": "PT37M",
-          "ratings": {
-            "count": 1141,
-            "average": 4.780894
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/modern-analytics-intro-social.png",
-              "width": 1281,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-automate-data-cleaning-power-query.md",
-          "title": "Automate data cleaning with Power Query",
-          "excerpt": "This module introduces Power Query in Microsoft Excel, a powerful data connection, cleaning, and shaping technology that is a core part of the Microsoft modern analytics suite of business intelligence tools.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-automate-data-cleaning-power-query/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
-          "length": "PT1H29M",
-          "ratings": {
-            "count": 787,
-            "average": 4.7763658
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/automate-data-cleaning-power-query-social.png",
-              "width": 1281,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "Power Query"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-modern-analytics-data-modeling.md",
-          "title": "Introduction to foundations in data modeling",
-          "excerpt": "This module introduces the key concepts that are related to developing a well-organized data model.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-data-modeling/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
-          "length": "PT34M",
-          "ratings": {
-            "count": 507,
-            "average": 4.745562
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/modern-analytics-data-modeling-social.png",
-              "width": 1281,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-modern-analytics-transition.md",
-          "title": "Transition from Excel to Power BI",
-          "excerpt": "Microsoft's Power BI combines the Power Query's extraction, transformation, and loading capabilities with DAX and a relational data model in a new application with new features.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-transition/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
-          "length": "PT48M",
-          "ratings": {
-            "count": 425,
-            "average": 4.748235
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/modern-analytics-transition-social.png",
-              "width": 1281,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/modern-analytics-intro-social.png",
-          "width": 1281,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-empowering-modern-analytics-and-business-intelligence-data-cultures-with-excel-power-bi-ms-teams-and-sharepoint.md",
-      "title": "Empowering Modern Analytics and Business Intelligence Data Cultures with Excel, Power BI, MS Teams, and SharePoint",
-      "excerpt": "Excel is a Microsoft application that has been in use since 1985. You might be surprised that in addition to simple spreadsheets, Excel can enable modern analytics and business intelligence. In this Learning Path, you will learn how to modernize and empower data conversations within your organization using Excel & Power BI together with MS Teams, and SharePoint. You’ll gain awareness of the business intelligence landscape, technology capabilities, and their roles.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-empowering-modern-analytics-and-business-intelligence-data-cultures-with-excel-power-bi-ms-teams-and-sharepoint/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-empowering-modern-analytics-and-business-intelligence-data-cultures-with-excel-power-bi-ms-teams-and-sharepoint/",
-      "length": "PT7H47M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-modern-analytics-intro.md",
-          "title": "Introduction to modern analytics using Excel and Power BI",
-          "excerpt": "This module introduces the Microsoft modern analytics core suite of tools, including Office 365/Excel 2016+, Power Query, Data Model, Power BI Desktop, and Power BI service. By using modern analytics technologies, you and your organization can work faster, more efficiently, and smarter by using Excel together with Power BI.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-intro/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
-          "length": "PT37M",
-          "ratings": {
-            "count": 1141,
-            "average": 4.780894
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/modern-analytics-intro-social.png",
-              "width": 1281,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-automate-data-cleaning-power-query.md",
-          "title": "Automate data cleaning with Power Query",
-          "excerpt": "This module introduces Power Query in Microsoft Excel, a powerful data connection, cleaning, and shaping technology that is a core part of the Microsoft modern analytics suite of business intelligence tools.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-automate-data-cleaning-power-query/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
-          "length": "PT1H29M",
-          "ratings": {
-            "count": 787,
-            "average": 4.7763658
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/automate-data-cleaning-power-query-social.png",
-              "width": 1281,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "Power Query"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-modern-analytics-data-modeling.md",
-          "title": "Introduction to foundations in data modeling",
-          "excerpt": "This module introduces the key concepts that are related to developing a well-organized data model.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-data-modeling/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
-          "length": "PT34M",
-          "ratings": {
-            "count": 507,
-            "average": 4.745562
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/modern-analytics-data-modeling-social.png",
-              "width": 1281,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-modern-analytics-transition.md",
-          "title": "Transition from Excel to Power BI",
-          "excerpt": "Microsoft's Power BI combines the Power Query's extraction, transformation, and loading capabilities with DAX and a relational data model in a new application with new features.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-transition/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
-          "length": "PT48M",
-          "ratings": {
-            "count": 425,
-            "average": 4.748235
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/modern-analytics-transition-social.png",
-              "width": 1281,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/modern-analytics-intro-social.png",
-          "width": 1281,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
       "topics": [
         "Power BI"
       ]

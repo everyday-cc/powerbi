@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 20145,
-        "average": 4.7574086
+        "count": 20150,
+        "average": 4.7572703
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 62,
+      "heat": 78,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/get-data-social.png",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 13182,
-        "average": 4.768624
+        "count": 13185,
+        "average": 4.7686005
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 71,
+      "heat": 86,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/clean-transform-and-load-data-in-power-bi-social.png",
