@@ -924,8 +924,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 380,
-            "average": 4.6289473
+            "count": 381,
+            "average": 4.6299214
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1008,8 +1008,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 179,
-            "average": 4.6368713
+            "count": 180,
+            "average": 4.638889
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1151,7 +1151,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-deployment-pipelines-social.png",

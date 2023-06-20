@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visualize-real-time-data-azure-stream-analytics-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 181,
-            "average": 4.78453
+            "count": 182,
+            "average": 4.7802196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -117,8 +117,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2874,
-            "average": 4.7658315
+            "count": 2875,
+            "average": 4.7655654
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -159,8 +159,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2470,
-            "average": 4.7016196
+            "count": 2472,
+            "average": 4.7014565
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -201,8 +201,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 6250,
-            "average": 4.79856
+            "count": 6253,
+            "average": 4.7984967
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -493,8 +493,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3594,
-            "average": 4.7237062
+            "count": 3596,
+            "average": 4.72386
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -827,8 +827,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 380,
-            "average": 4.6289473
+            "count": 381,
+            "average": 4.6299214
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -911,8 +911,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 179,
-            "average": 4.6368713
+            "count": 180,
+            "average": 4.638889
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1054,7 +1054,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-deployment-pipelines-social.png",
