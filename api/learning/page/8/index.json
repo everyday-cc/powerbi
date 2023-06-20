@@ -2293,8 +2293,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12479,
-            "average": 4.6823463
+            "count": 12481,
+            "average": 4.6823974
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2327,8 +2327,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11428,
-            "average": 4.7072105
+            "count": 11430,
+            "average": 4.7072616
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2369,8 +2369,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2237,
-            "average": 4.7483234
+            "count": 2238,
+            "average": 4.748436
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3850,8 +3850,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 11428,
-        "average": 4.7072105
+        "count": 11430,
+        "average": 4.7072616
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4020,8 +4020,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 7787,
-        "average": 4.7612686
+        "count": 7789,
+        "average": 4.76133
       },
       "provider": {
         "name": "Microsoft Learn",
