@@ -111,8 +111,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 890,
-            "average": 4.752809
+            "count": 892,
+            "average": 4.75
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -153,8 +153,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 759,
-            "average": 4.8353095
+            "count": 761,
+            "average": 4.8357425
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -195,8 +195,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 700,
-            "average": 4.801429
+            "count": 701,
+            "average": 4.801712
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -255,8 +255,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1927,
-        "average": 4.7135444
+        "count": 1928,
+        "average": 4.713693
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -298,8 +298,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
       "length": "PT18M",
       "ratings": {
-        "count": 890,
-        "average": 4.752809
+        "count": 892,
+        "average": 4.75
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -340,8 +340,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
       "length": "PT29M",
       "ratings": {
-        "count": 700,
-        "average": 4.801429
+        "count": 701,
+        "average": 4.801712
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -425,8 +425,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
       "length": "PT28M",
       "ratings": {
-        "count": 759,
-        "average": 4.8353095
+        "count": 761,
+        "average": 4.8357425
       },
       "provider": {
         "name": "Microsoft Learn",
