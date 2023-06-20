@@ -346,8 +346,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 248,
-            "average": 4.733871
+            "count": 249,
+            "average": 4.7349396
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -471,8 +471,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 494,
-            "average": 4.6923075
+            "count": 496,
+            "average": 4.693548
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -513,8 +513,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3596,
-            "average": 4.72386
+            "count": 3597,
+            "average": 4.7239366
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1070,8 +1070,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
       "length": "PT37M",
       "ratings": {
-        "count": 1139,
-        "average": 4.780509
+        "count": 1141,
+        "average": 4.780894
       },
       "provider": {
         "name": "Microsoft Learn",
