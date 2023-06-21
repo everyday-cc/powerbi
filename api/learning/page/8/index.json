@@ -1917,8 +1917,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 180,
-            "average": 4.638889
+            "count": 181,
+            "average": 4.6243095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2126,8 +2126,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 180,
-            "average": 4.638889
+            "count": 181,
+            "average": 4.6243095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3934,8 +3934,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 9233,
-        "average": 4.711145
+        "count": 9234,
+        "average": 4.711176
       },
       "provider": {
         "name": "Microsoft Learn",
