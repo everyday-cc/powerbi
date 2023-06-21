@@ -1124,8 +1124,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 6280,
-            "average": 4.717516
+            "count": 6283,
+            "average": 4.717651
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1334,8 +1334,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 426,
-            "average": 4.7488265
+            "count": 427,
+            "average": 4.7494144
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1544,8 +1544,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 426,
-            "average": 4.7488265
+            "count": 427,
+            "average": 4.7494144
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2013,8 +2013,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 6280,
-        "average": 4.717516
+        "count": 6283,
+        "average": 4.717651
       },
       "provider": {
         "name": "Microsoft Learn",

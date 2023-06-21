@@ -4,34 +4,6 @@
   "page": 48,
   "value": [
     {
-      "path": "_learning/articles/excelerator-bi-when-to-use-power-querym-vs-data-modellingdax.md",
-      "title": "When to use Power Query/M vs Data Modelling/DAX",
-      "excerpt": "Ken Puls and I decided we would do a live stream chat to talk about a topic of interest to Power BI people.  We put out a survey and 75% of the respondents wanted to hear about &#8220;when to use Power Query/M vs Data Modelling/DAX&#8221;.  It&#8217;s a really interesting topic [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-when-to-use-power-querym-vs-data-modellingdax/index.json",
-      "webUrl": "https://exceleratorbi.com.au/when-to-use-power-query-m-vs-data-modelling-dax/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-09-09T16:58:33-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/09/ken.png",
-          "width": 444,
-          "height": 250,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI",
-        "Power Query",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/articles/excelerator-bi-which-columns-are-not-used-in-my-power-bi-data-model.md",
       "title": "Which Columns are Not Used in my Power BI Data Model?",
       "excerpt": "Level: Intermediate. One of the commercial services I offer is to complete a health check of Power BI deployments. I look at everything including the data model, the DAX, the queries, the distribution approach, and other things to help you polish your work. I thought I would share with you [...]Read",
@@ -150,8 +122,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-power-bi-application-lifecycle-management-strategy/",
           "length": "PT25M",
           "ratings": {
-            "count": 102,
-            "average": 4.7647057
+            "count": 103,
+            "average": 4.76699
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -192,8 +164,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-deployment-pipelines/",
           "length": "PT42M",
           "ratings": {
-            "count": 171,
-            "average": 4.754386
+            "count": 172,
+            "average": 4.755814
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -234,8 +206,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 82,
-            "average": 4.780488
+            "count": 83,
+            "average": 4.7831326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -317,8 +289,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 394,
-            "average": 4.6852794
+            "count": 395,
+            "average": 4.686076
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -359,8 +331,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-scalability-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 127,
-            "average": 4.7795277
+            "count": 128,
+            "average": 4.78125
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -955,8 +927,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 82,
-        "average": 4.780488
+        "count": 83,
+        "average": 4.7831326
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1479,6 +1451,48 @@
           "url": "https://learn.microsoft.com/training/achievements/modern-analytics-excel-social.png",
           "width": 1282,
           "height": 642,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-power-bi-admin-automate.md",
+      "title": "Automate Power BI administration",
+      "excerpt": "Common manual tasks can be automated with Microsoft Power BI Cmdlets for Windows PowerShell and PowerShell core.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-automate/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-automate/",
+      "length": "PT12M",
+      "ratings": {
+        "count": 132,
+        "average": 4.621212
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-automate-social.png",
+          "width": 641,
+          "height": 321,
           "isCached": true
         }
       ],

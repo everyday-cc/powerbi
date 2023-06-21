@@ -4,6 +4,36 @@
   "page": 33,
   "value": [
     {
+      "path": "_learning/videos/radacad-pl-300-power-bi-exam-prep-connecting-to-data-sources.md",
+      "title": "PL 300 Power BI Exam Prep Connecting to data sources",
+      "excerpt": "If you want to pass the PL-300 exam, there are some areas in that your skills will be assessed, and one of those is identifying and connecting to the data source and changing data source settings. Power BI Supports over 140 data sources, each data source has some connection configurations. In this video,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-pl-300-power-bi-exam-prep-connecting-to-data-sources/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-pl-300-power-bi-exam-prep-connecting-to-data-sources/",
+      "originalUrl": "https://youtube.com/watch?v=baV1hfnOnoo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/baV1hfnOnoo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M19S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-04-27T19:32:08-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/baV1hfnOnoo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-power-bi-bookmark-with-or-without-data.md",
       "title": "Power BI bookmark   with or without data",
       "excerpt": "Bookmark is a helpful feature in Power BI. It enables you to have a good story to tell and also have a dynamic visualization. I have explained how bookmarks work in Power BI and how to use them with buttons to have a next-level visualization. An important attribute of the bookmark is the Data. You can",
@@ -1050,44 +1080,6 @@
       "topics": [
         "Power BI",
         "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-optimizing-switch-on-slicer-selection-with-group-by-columns.md",
-      "title": "Optimizing SWITCH on slicer selection with Group By Columns",
-      "excerpt": "Optimize the query performance of a SWITCH function in DAX that reads a slicer selection: the Group By Columns property can solve a practical problem.\r \r Article and download: https://sql.bi/792990?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-optimizing-switch-on-slicer-selection-with-group-by-columns/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-optimizing-switch-on-slicer-selection-with-group-by-columns/",
-      "originalUrl": "https://youtube.com/watch?v=RCEoAvru8rY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RCEoAvru8rY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M1S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-04-11T03:00:15-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RCEoAvru8rY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],

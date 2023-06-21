@@ -157,6 +157,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-microsoft-fabric-launch-digital-event-day-1.md",
+      "title": "Microsoft Fabric Launch Digital Event (Day 1)",
+      "excerpt": "Learn more about the exciting news about the launch of Microsoft Fabric in this two-day digital event. From Power BI, to Synapse, and Data Factory, you will be able to learn what’s available to you in this new offering.  Blog: https://aka.ms/build-with-analytics  #MicrosoftFabric",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-microsoft-fabric-launch-digital-event-day-1/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-microsoft-fabric-launch-digital-event-day-1/",
+      "originalUrl": "https://youtube.com/watch?v=5jlP0wdEsls",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5jlP0wdEsls\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3H20M46S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-05-22T17:23:39-07:00",
+      "heat": 171,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5jlP0wdEsls/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-gorgeous-backgrounds-for-power-bi-in-minutes-with-this-free-tool.md",
       "title": "GORGEOUS backgrounds for Power BI in minutes with this FREE tool",
       "excerpt": "Do you want to create stunning backgrounds for Power BI in minutes?   Let me show you this amazing tool that is easy to use and Free!! :)  Links mentioned: Storytelling by data viz techniques https://youtu.be/0pcTpIC6uFk  Eye picker for windows: https://youtu.be/skPTyaEmyws  Here you can download all",
@@ -263,36 +301,6 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-dynamic-row-level-security-in-power-bi.md",
-      "title": "Dynamic Row Level Security in Power BI",
-      "excerpt": "There are different methods to use row-level security in Power BI; You can set up Row Level Security in Power BI itself or through a live connection from a data source such as SSAS Tabular. However, row-level security defined in the ways mentioned in the articles above isn’t dynamic. By dynamic row-level",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-dynamic-row-level-security-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-dynamic-row-level-security-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=jphj40tBPD8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jphj40tBPD8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M47S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2023-04-30T15:47:14-07:00",
-      "heat": 153,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jphj40tBPD8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-get-started-with-microsoft-data-analytics.md",
       "title": "Get started with Microsoft data analytics",
       "excerpt": "Businesses need data analysis more than ever. In this learning path, you will learn about the life and journey of a data analyst, the skills, tasks, and processes they go through in order to tell a story with data so trusted business decisions can be made. You will learn how the suite of Power BI tools and services are used by a data analyst to tell a compelling story through reports and dashboards, and the need to true BI in the enterprise.",
@@ -323,8 +331,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 65803,
-            "average": 4.7959366
+            "count": 65821,
+            "average": 4.7958555
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -365,8 +373,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 92963,
-            "average": 4.7781806
+            "count": 92986,
+            "average": 4.7781386
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -425,8 +433,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 92963,
-        "average": 4.7781806
+        "count": 92986,
+        "average": 4.7781386
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -793,54 +801,15 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-219-index-function.md",
-      "title": "DAX Fridays #219: INDEX function",
-      "excerpt": "A refresher of the difference between INDEX, WINDOW and OFFSET and a deeper dive into INDEX function. Offset functions: https://youtu.be/tSREqpagte4  Window functions: https://youtu.be/2Qa0XEqRzYU  25 days of DAX Fridays challenge: https://curbal.com/25-days-of-dax-fridays-challenge  Join this channel",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-219-index-function/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-219-index-function/",
-      "originalUrl": "https://youtube.com/watch?v=T9kNng75-Mw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/T9kNng75-Mw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M38S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-05-02T03:26:43-07:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/T9kNng75-Mw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-admin-governance.md",
-      "title": "Provide governance in a Power BI environment",
-      "excerpt": "Learn the fundamental rules, regulations, and policies of a BI governance approach.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-governance/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
-      "length": "PT12M",
+      "path": "_learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure.md",
+      "title": "Build systems of insights for enterprise scale with Power BI and Azure",
+      "excerpt": "Build systems of insights for enterprise scale with Power BI and Azure",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/",
+      "length": "PT30M",
       "ratings": {
-        "count": 205,
-        "average": 4.721951
+        "count": 5,
+        "average": 4.6
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -855,19 +824,49 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
-      "heat": 130,
+      "heat": 131,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-governance-social.png",
-          "width": 641,
-          "height": 321,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-power-bi-dynamic-format-string-for-measures.md",
+      "title": "Power BI: Dynamic Format String for Measures",
+      "excerpt": "Recently Microsoft launched new Power BI feature - \"Dynamic Format String for Measures\". With dynamic format strings for measures, you can determine how measures appear in visuals by conditionally applying a format string with a separate DAX expression.  Dynamic format strings overcome an inherent disadvantage",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-dynamic-format-string-for-measures/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-dynamic-format-string-for-measures/",
+      "originalUrl": "https://youtube.com/watch?v=hI7zkOdKrig",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hI7zkOdKrig\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M56S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2023-05-04T03:21:29-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hI7zkOdKrig/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -995,8 +994,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 65803,
-        "average": 4.7959366
+        "count": 65821,
+        "average": 4.7958555
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1214,8 +1213,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 22118,
-            "average": 4.7534585
+            "count": 22129,
+            "average": 4.7534003
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1256,8 +1255,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12500,
-            "average": 4.68208
+            "count": 12509,
+            "average": 4.681829
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1290,8 +1289,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 92963,
-            "average": 4.7781806
+            "count": 92986,
+            "average": 4.7781386
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1350,8 +1349,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 22118,
-        "average": 4.7534585
+        "count": 22129,
+        "average": 4.7534003
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1493,8 +1492,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 92963,
-            "average": 4.7781806
+            "count": 92986,
+            "average": 4.7781386
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1535,8 +1534,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 35595,
-            "average": 4.726675
+            "count": 35599,
+            "average": 4.726706
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1578,8 +1577,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16513,
-            "average": 4.7224007
+            "count": 16522,
+            "average": 4.72237
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1620,8 +1619,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 7654,
-            "average": 4.7626076
+            "count": 7657,
+            "average": 4.762701
           },
           "provider": {
             "name": "Microsoft Learn",
