@@ -520,8 +520,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1307,
-            "average": 4.7750573
+            "count": 1308,
+            "average": 4.7744646
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -963,8 +963,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 6315,
-        "average": 4.7355504
+        "count": 6317,
+        "average": 4.735634
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1005,8 +1005,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 4608,
-        "average": 4.672526
+        "count": 4609,
+        "average": 4.67238
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2663,8 +2663,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 382,
-            "average": 4.63089
+            "count": 383,
+            "average": 4.6318536
           },
           "provider": {
             "name": "Microsoft Learn",
