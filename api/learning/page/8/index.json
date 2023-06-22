@@ -1347,8 +1347,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-reach/",
           "length": "PT19M",
           "ratings": {
-            "count": 142,
-            "average": 4.584507
+            "count": 143,
+            "average": 4.5874124
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1556,8 +1556,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-reach/",
           "length": "PT19M",
           "ratings": {
-            "count": 142,
-            "average": 4.584507
+            "count": 143,
+            "average": 4.5874124
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1775,7 +1775,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 51,
+          "heat": 131,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1866,8 +1866,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2929,
-            "average": 4.724138
+            "count": 2931,
+            "average": 4.724326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1950,8 +1950,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1308,
-            "average": 4.7744646
+            "count": 1309,
+            "average": 4.774637
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2202,8 +2202,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 427,
-            "average": 4.7494144
+            "count": 429,
+            "average": 4.7505827
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2412,8 +2412,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 427,
-            "average": 4.7494144
+            "count": 429,
+            "average": 4.7505827
           },
           "provider": {
             "name": "Microsoft Learn",
