@@ -73,8 +73,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 899,
-            "average": 4.74416
+            "count": 900,
+            "average": 4.7444444
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -260,8 +260,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1934,
-        "average": 4.714064
+        "count": 1936,
+        "average": 4.7143593
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -303,8 +303,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-solve-problems/",
       "length": "PT35M",
       "ratings": {
-        "count": 420,
-        "average": 4.7095237
+        "count": 421,
+        "average": 4.7102137
       },
       "provider": {
         "name": "Microsoft Learn",

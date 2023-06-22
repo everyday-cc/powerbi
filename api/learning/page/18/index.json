@@ -549,8 +549,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 398,
-            "average": 4.688442
+            "count": 400,
+            "average": 4.69
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -778,8 +778,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
       "length": "PT46M",
       "ratings": {
-        "count": 398,
-        "average": 4.688442
+        "count": 400,
+        "average": 4.69
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -820,8 +820,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 2890,
-        "average": 4.765398
+        "count": 2891,
+        "average": 4.765479
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -862,8 +862,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 2623,
-        "average": 4.7323675
+        "count": 2625,
+        "average": 4.7325716
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -906,8 +906,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
       "length": "PT51M",
       "ratings": {
-        "count": 3416,
-        "average": 4.7145786
+        "count": 3417,
+        "average": 4.714662
       },
       "provider": {
         "name": "Microsoft Learn",
