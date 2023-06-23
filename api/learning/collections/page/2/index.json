@@ -609,7 +609,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 133,
+          "heat": 53,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-infrastructure-social.png",
@@ -818,7 +818,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 133,
+          "heat": 53,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-infrastructure-social.png",
@@ -4323,7 +4323,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -4723,8 +4723,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2940,
-            "average": 4.72483
+            "count": 2941,
+            "average": 4.7249236
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4765,8 +4765,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4640,
-            "average": 4.672845
+            "count": 4641,
+            "average": 4.6729155
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4890,8 +4890,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12549,
-            "average": 4.680851
+            "count": 12552,
+            "average": 4.6809273
           },
           "provider": {
             "name": "Microsoft Learn",
