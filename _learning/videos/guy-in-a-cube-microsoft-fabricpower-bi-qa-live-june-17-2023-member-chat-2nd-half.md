@@ -6,7 +6,7 @@ type: video
 price: Free
 length: P0D
 publishedDateTime: 2023-06-16T12:23:13Z
-heat: 130
+heat: 80
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/piv6I5ohH6k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
