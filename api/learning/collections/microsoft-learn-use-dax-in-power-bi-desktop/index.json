@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 57,
+      "heat": 137,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
@@ -54,8 +54,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 2626,
-        "average": 4.732673
+        "count": 2627,
+        "average": 4.732775
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -272,8 +272,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1513,
-        "average": 4.7475214
+        "count": 1514,
+        "average": 4.7476883
       },
       "provider": {
         "name": "Microsoft Learn",

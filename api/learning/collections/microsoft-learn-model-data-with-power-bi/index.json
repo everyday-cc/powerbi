@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 57,
+      "heat": 137,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
@@ -96,8 +96,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 11507,
-        "average": 4.743026
+        "count": 11508,
+        "average": 4.743048
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -224,8 +224,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 2626,
-        "average": 4.732673
+        "count": 2627,
+        "average": 4.732775
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -268,8 +268,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1513,
-        "average": 4.7475214
+        "count": 1514,
+        "average": 4.7476883
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -356,8 +356,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10419,
-        "average": 4.7600536
+        "count": 10421,
+        "average": 4.7601
       },
       "provider": {
         "name": "Microsoft Learn",
