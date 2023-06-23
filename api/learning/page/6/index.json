@@ -525,8 +525,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4112,
-            "average": 4.747325
+            "count": 4113,
+            "average": 4.7473865
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1087,7 +1087,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 138,
+          "heat": 58,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-requirements-social.png",
@@ -1278,8 +1278,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7365,
-            "average": 4.728581
+            "count": 7367,
+            "average": 4.728655
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1658,8 +1658,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 7672,
-        "average": 4.7631645
+        "count": 7673,
+        "average": 4.7628045
       },
       "provider": {
         "name": "Microsoft Learn",
