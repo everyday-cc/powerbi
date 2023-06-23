@@ -1823,8 +1823,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-intro/",
           "length": "PT34M",
           "ratings": {
-            "count": 167,
-            "average": 4.8862276
+            "count": 168,
+            "average": 4.8869047
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3054,8 +3054,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 4625,
-        "average": 4.673081
+        "count": 4627,
+        "average": 4.6732225
       },
       "provider": {
         "name": "Microsoft Learn",
