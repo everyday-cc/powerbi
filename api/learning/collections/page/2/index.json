@@ -4376,7 +4376,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-calculations-social.png",
@@ -4901,8 +4901,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3425,
-            "average": 4.7144527
+            "count": 3427,
+            "average": 4.7140355
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4943,8 +4943,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 6301,
-            "average": 4.7168703
+            "count": 6302,
+            "average": 4.716915
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5026,8 +5026,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12554,
-            "average": 4.6808987
+            "count": 12555,
+            "average": 4.680924
           },
           "provider": {
             "name": "Microsoft Learn",
