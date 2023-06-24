@@ -2580,8 +2580,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1146,
-            "average": 4.78185
+            "count": 1147,
+            "average": 4.78204
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2790,8 +2790,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1146,
-            "average": 4.78185
+            "count": 1147,
+            "average": 4.78204
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4064,8 +4064,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 6338,
-        "average": 4.7355633
+        "count": 6339,
+        "average": 4.735605
       },
       "provider": {
         "name": "Microsoft Learn",
