@@ -96,8 +96,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 11535,
-        "average": 4.7426963
+        "count": 11537,
+        "average": 4.7427406
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -398,8 +398,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 179,
-        "average": 4.765363
+        "count": 180,
+        "average": 4.766667
       },
       "provider": {
         "name": "Microsoft Learn",
