@@ -4,215 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-prepare-to-teach-the-course-modern-excel-analyst-in-a-day.md",
-      "title": "Prepare to teach the course: Modern Excel Analyst in a day",
-      "excerpt": "Prepare to teach the course: Modern Excel Analyst in a day",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-prepare-to-teach-the-course-modern-excel-analyst-in-a-day/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-prepare-to-teach-the-course-modern-excel-analyst-in-a-day/",
-      "length": "PT5H16M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-analytics-excel.md",
-          "title": "Prepare to teach the module: Analytics in Excel",
-          "excerpt": "Prepare to teach the module: Analytics in Excel",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-analytics-excel/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analytics-excel/",
-          "length": "PT2H6M",
-          "ratings": {
-            "count": 1,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-mapping-learning-to-power-bi.md",
-          "title": "Prepare to teach the module: Map learning to Power BI",
-          "excerpt": "Prepare to teach the module: Map learning to Power BI",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-mapping-learning-to-power-bi/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/map-learning-to-power-bi/",
-          "length": "PT1H15M",
-          "ratings": {
-            "count": 0,
-            "average": 0.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-power-bi-excel-better-together.md",
-          "title": "Prepare to teach the module: Power BI & Excel better together",
-          "excerpt": "Prepare to teach the module: Power BI & Excel better together",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-excel-better-together/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-excel-better-together/",
-          "length": "PT54M",
-          "ratings": {
-            "count": 0,
-            "average": 0.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-power-bi-office-better-together.md",
-          "title": "Prepare to teach the module: Power BI & Office better together",
-          "excerpt": "Prepare to teach the module: Power BI & Office better together",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-office-better-together/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-office-better-together/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 0,
-            "average": 0.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/power-bi-tips-dax-studio-tutorials.md",
       "title": "DAX Studio Tutorials",
       "excerpt": "DAX Studio is the tool for data model tuning.",
@@ -865,8 +656,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 3389,
-        "average": 4.681912
+        "count": 3390,
+        "average": 4.682006
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1419,36 +1210,6 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-dynamic-row-level-security-in-power-bi.md",
-      "title": "Dynamic Row Level Security in Power BI",
-      "excerpt": "There are different methods to use row-level security in Power BI; You can set up Row Level Security in Power BI itself or through a live connection from a data source such as SSAS Tabular. However, row-level security defined in the ways mentioned in the articles above isn’t dynamic. By dynamic row-level",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-dynamic-row-level-security-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-dynamic-row-level-security-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=jphj40tBPD8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jphj40tBPD8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M47S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2023-04-30T15:47:14-07:00",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jphj40tBPD8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-kpi-visual-in-power-bi-explained.md",
       "title": "KPI Visual in Power BI Explained",
       "excerpt": "If you are showing an important measure value in the report, and you want to compare it with a target and see if it meets the target or not, The KPI visual comes in handy. The KPI Visual’s behavior, however, might be a bit hard to understand, In this article and video, I explained how this visual works,",
@@ -1877,8 +1638,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12575,
-            "average": 4.6812725
+            "count": 12576,
+            "average": 4.681298
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1911,8 +1672,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11456,
-            "average": 4.7066164
+            "count": 11458,
+            "average": 4.7065806
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2000,6 +1761,91 @@
       ],
       "content": "\r\n",
       "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-dax-power-bi-models.md",
+      "title": "Describe Power BI Desktop models",
+      "excerpt": "In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This module provides a strong foundation on which you can learn to optimize model designs and add model calculations.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-models/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 4122,
+        "average": 4.74721
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-power-bi-mobile-apps.md",
+      "title": "Get to your data on the go with the Power BI Mobile apps",
+      "excerpt": "As a consumer, you'll use the Power BI mobile app to review and interact with the content that is available to you in the Power BI service while you're on the go. This module provides the information that you need to work effectively with the Power BI mobile apps.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-intro-to-power-bi-mobile-apps/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
+      "length": "PT1H29M",
+      "ratings": {
+        "count": 2260,
+        "average": 4.7486725
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/intro-to-power-bi-mobile-apps-social.png",
+          "width": 1282,
+          "height": 642,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
