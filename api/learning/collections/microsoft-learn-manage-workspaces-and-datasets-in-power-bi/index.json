@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 2500,
-        "average": 4.6996
+        "count": 2501,
+        "average": 4.69972
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 134,
+      "heat": 54,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/manage-datasets-in-power-bi-social.png",
@@ -95,8 +95,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 6293,
-        "average": 4.7978706
+        "count": 6295,
+        "average": 4.797935
       },
       "provider": {
         "name": "Microsoft Learn",
