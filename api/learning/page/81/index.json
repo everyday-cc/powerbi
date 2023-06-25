@@ -4,66 +4,6 @@
   "page": 81,
   "value": [
     {
-      "path": "_learning/videos/learn-power-bi-3-trends-impacting-power-bi-consulting-in-2021-whats-helping-what-can-go-wrong-.md",
-      "title": "3 Trends 📈 Impacting Power BI Consulting in 2021: What's Helping 👍 & What Can Go Wrong 👎?",
-      "excerpt": "Want to learn the 5-Steps to become a successful Power BI Consultant? 👉 Sign Up for our Free Webinar on Thu Jan 21: https://web.learnpowerbi.com/consultant/  In the new year of 2021, are you thinking about creating a side-income or full-time income as a \"Power BI Consultant\"? Then you must learn the",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-3-trends-impacting-power-bi-consulting-in-2021-whats-helping-what-can-go-wrong-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-3-trends-impacting-power-bi-consulting-in-2021-whats-helping-what-can-go-wrong-/",
-      "originalUrl": "https://youtube.com/watch?v=UPQII8NJN7E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UPQII8NJN7E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M56S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2021-01-06T21:44:25-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UPQII8NJN7E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-5-day-challenge-build-your-first-or-next-power-bi-dashboard-starts-mon-nov-27.md",
-      "title": "5-Day Challenge! Build Your First (or Next) Power BI Dashboard (Starts Mon Nov 27)",
-      "excerpt": "Join me in a 5-Day Challenge to build your first (or next) Power BI Dashboard ==Complete Schedule Below== ∎ Day 1 Mon Nov 27: Query Editor ∎ Day 2 Tue Nov 28: DAX ∎ Day 3 Wed Nov 29: Visualization ∎ Day 4 Thu Nov 27: Power BI Platform ∎ Day 5 Fri Dec 1: Talk Power BI Marathon ==RESOURCES== 👉 Subscribe",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-5-day-challenge-build-your-first-or-next-power-bi-dashboard-starts-mon-nov-27/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-5-day-challenge-build-your-first-or-next-power-bi-dashboard-starts-mon-nov-27/",
-      "originalUrl": "https://youtube.com/watch?v=wE9UsLgSY_s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wE9UsLgSY_s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M13S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-11-21T21:16:57-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wE9UsLgSY_s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-5-days-of-learn-power-bi-live-with-avi-singh-all-in-and-shameless.md",
       "title": "5 Days of Learn Power BI LIVE with Avi Singh (All-In and Shameless!)",
       "excerpt": "UPDATE: #5DaysofLive Videos have been archived and can now only be found inside the Course Area for 'Learn Power BI' students. http://www.LearnPowerBI.com  Avi will be LIVE delivering Power BI Training as part of \"5DaysOfLIVE, All-In and Shameless\" campaign to promote his \"Learn Power BI\" program. Learn",
@@ -895,6 +835,66 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/dhow0Bzp_tQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-day-2build-your-firstnext-power-bi-dashboard-live-mar-26.md",
+      "title": "Day 2:Build Your First/Next Power BI Dashboard (LIVE🔴), Mar 26",
+      "excerpt": "Join me in a 5-Day Challenge to build your first (or next) Power BI Dashboard. Accept the challenge at 👉 http://www.learnpowerbi.com/challenge Day 2 Topics Discussed: 00:00:00 Avi: Demo of Query Editor (Hard Way and Easy Way) 00:34:29 Wytze Easier way to create a table...link to the table name instead",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-day-2build-your-firstnext-power-bi-dashboard-live-mar-26/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-day-2build-your-firstnext-power-bi-dashboard-live-mar-26/",
+      "originalUrl": "https://youtube.com/watch?v=RNfD5xSg-jc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RNfD5xSg-jc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H41M39S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-03-23T14:45:42-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RNfD5xSg-jc/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-day-2build-your-firstnext-power-bi-dashboard-live.md",
+      "title": "Day 2:Build Your First/Next Power BI Dashboard (LIVE🔴)",
+      "excerpt": "Let's go from learning to doing! Join me for a 5 day challenge to build your first or next Power BI Dashboard. I will be going LIVE for 5 straight days, teaching a little bit each day, but focusing on answering your questions and helping you build your next dashboard. ==Complete Schedule Below== ∎ Day",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-day-2build-your-firstnext-power-bi-dashboard-live/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-day-2build-your-firstnext-power-bi-dashboard-live/",
+      "originalUrl": "https://youtube.com/watch?v=szjsMlarc4o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/szjsMlarc4o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H43M15S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-11-19T18:00:06-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/szjsMlarc4o/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true

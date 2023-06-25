@@ -2569,7 +2569,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-intro-social.png",
@@ -4995,8 +4995,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12567,
-            "average": 4.6810694
+            "count": 12568,
+            "average": 4.6810946
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5238,8 +5238,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 6292,
-            "average": 4.7978387
+            "count": 6293,
+            "average": 4.7978706
           },
           "provider": {
             "name": "Microsoft Learn",
