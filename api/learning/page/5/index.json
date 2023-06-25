@@ -865,8 +865,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 3390,
-        "average": 4.682006
+        "count": 3392,
+        "average": 4.6818986
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1877,8 +1877,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12579,
-            "average": 4.681215
+            "count": 12580,
+            "average": 4.68124
           },
           "provider": {
             "name": "Microsoft Learn",

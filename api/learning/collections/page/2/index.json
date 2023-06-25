@@ -3598,8 +3598,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 107,
-            "average": 4.738318
+            "count": 108,
+            "average": 4.740741
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4995,8 +4995,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12579,
-            "average": 4.681215
+            "count": 12580,
+            "average": 4.68124
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5321,8 +5321,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 905,
-            "average": 4.7458563
+            "count": 906,
+            "average": 4.7461367
           },
           "provider": {
             "name": "Microsoft Learn",

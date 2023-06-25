@@ -520,8 +520,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 364,
-            "average": 4.7060437
+            "count": 365,
+            "average": 4.6986303
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1147,8 +1147,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 401,
-            "average": 4.690773
+            "count": 402,
+            "average": 4.691542
           },
           "provider": {
             "name": "Microsoft Learn",
