@@ -44,7 +44,7 @@
             ]
           },
           "publishedDateTime": "2020-04-24T04:44:00-07:00",
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/7CqXdSEN2k4/maxresdefault.jpg",
@@ -83,7 +83,7 @@
             ]
           },
           "publishedDateTime": "2020-04-24T04:44:00-07:00",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/qUmTxQHr6nY/maxresdefault.jpg",
@@ -562,8 +562,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 253,
-            "average": 4.735178
+            "count": 254,
+            "average": 4.7322836
           },
           "provider": {
             "name": "Microsoft Learn",

@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M55S
 publishedDateTime: 2020-11-26T11:00:19Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XsyeImIK-7g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "fZAXVG8nPyuC3Sa6GanW/QLHZB/fiBPE+25HkfIkgmZb+gDlQ3h1yRviAzK7+meaq4JmwEv2gt5/9X4PRSfi7UAd9ekAvKoZMiBlrkuDmQMP06owcQjXN03OwpXVz2UixO2/AbbZa/DHpF91RkGjRNhvYVvjxfzmkVJh64hqb/JKJAWNc2HNh9fie0vwplL7pBoWJKSp+dS9W2g9RZFu2/6QlUYxQzcvM5UhvlVgqP54nKQRpUk+mmpVd6ggaOfj0qpbJ1A1gQUufueknPClqRIG8EJB1j/Yc9LK9bKJpyrsVNLrZdrxzjbULcHhHhAduJhwCMOHsHvScVcfzYxGA9WrSl15WqmZtrF+p51sK118dYThz1+l16Lx/1ig2n09Z7f4uGvTiSxOv7H2rTObAtN3Akokl5do6onDsjYfgqQ=;WPw41+ccuPk0GO+aLxDYcg=="
+secured: "5DA+gym++Qliei8V2WOAJ2t1c9KpIfy+s0h5SS44yC6aWEDH5Mbvx0bzUK4z0MB4bnhHyF+bz6V+6C3uWIZJu5y2Gd2WFQ9PXNxpKdUF+kNf9yq6veVLW+VjmaFX8uatKxJ7C5/VH5jLbDUdg1MqGqN4OIwCEaceyr5cV2S4lpBDJnXgO6uobu/ahcpk/60W87ZwpWep4EcukQIwFjvrijD5QuVwRzx/Hqp39j0FUxVzdlIIGOCc0z6uV7TDJqI2Fc6W8pj4f49DMhIc5ss9A1GF4Lz85LaXSFr6a1Vyj+1FOfvKYeG3k6rlfOkzpisVXEflFvUWiTC5stEGZMTYADE6nMNFD0w/LeL2c0jrtokMXX8dA2YJWEQGxnyiM576wjI5r5T6gZfJXlr3snx0N7tbKqIY5UE2vxdBC6tNAMM=;OgiluTB6OYuRx6WOLcF5cg=="
 ---
 

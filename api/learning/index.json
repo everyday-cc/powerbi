@@ -81,14 +81,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-get-the-most-as-a-data-scientist-with-microsoft-fabric-public-preview.md",
-      "title": "Get the most as a Data Scientist with Microsoft Fabric (Public Preview)",
-      "excerpt": "Going down the DATA SCIENCE path can be hard when trying to get all the right data. Microsoft Fabric breaks down barriers and allows for easy reuse of data with OneLake. Nellie joins to talk about how data scientists can take advantage!  What is Data Science in Microsoft Fabric? https://learn.microsoft.com/fabric/data-science/data-science-overview",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-get-the-most-as-a-data-scientist-with-microsoft-fabric-public-preview/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-get-the-most-as-a-data-scientist-with-microsoft-fabric-public-preview/",
-      "originalUrl": "https://youtube.com/watch?v=LDZL0gyHQbs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LDZL0gyHQbs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M14S",
+      "path": "_learning/videos/guy-in-a-cube-your-data-is-in-the-lakehouse-but-now-what-microsoft-fabric-public-preview.md",
+      "title": "Your data is in the Lakehouse, but now what? | Microsoft Fabric (Public Preview)",
+      "excerpt": "You've got your data into OneLake and a Lakehouse, but now what? What can you do with that data after you've landed it in Microsoft Fabric? Justyna walks us through different areas where you can leverage your data throughout fabric. From data warehouses to even Power BI!  What is Data engineering in",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-your-data-is-in-the-lakehouse-but-now-what-microsoft-fabric-public-preview/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-your-data-is-in-the-lakehouse-but-now-what-microsoft-fabric-public-preview/",
+      "originalUrl": "https://youtube.com/watch?v=_-rxBAtFFOA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_-rxBAtFFOA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M20S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -101,11 +101,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-06-21T08:00:22-07:00",
-      "heat": 170,
+      "publishedDateTime": "2023-06-20T08:00:32-07:00",
+      "heat": 167,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/LDZL0gyHQbs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/_-rxBAtFFOA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -144,44 +144,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/C7szTkb84hc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-your-data-is-in-the-lakehouse-but-now-what-microsoft-fabric-public-preview.md",
-      "title": "Your data is in the Lakehouse, but now what? | Microsoft Fabric (Public Preview)",
-      "excerpt": "You've got your data into OneLake and a Lakehouse, but now what? What can you do with that data after you've landed it in Microsoft Fabric? Justyna walks us through different areas where you can leverage your data throughout fabric. From data warehouses to even Power BI!  What is Data engineering in",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-your-data-is-in-the-lakehouse-but-now-what-microsoft-fabric-public-preview/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-your-data-is-in-the-lakehouse-but-now-what-microsoft-fabric-public-preview/",
-      "originalUrl": "https://youtube.com/watch?v=_-rxBAtFFOA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_-rxBAtFFOA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M20S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-06-20T08:00:32-07:00",
-      "heat": 164,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_-rxBAtFFOA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -234,6 +196,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-get-the-most-as-a-data-scientist-with-microsoft-fabric-public-preview.md",
+      "title": "Get the most as a Data Scientist with Microsoft Fabric (Public Preview)",
+      "excerpt": "Going down the DATA SCIENCE path can be hard when trying to get all the right data. Microsoft Fabric breaks down barriers and allows for easy reuse of data with OneLake. Nellie joins to talk about how data scientists can take advantage!  What is Data Science in Microsoft Fabric? https://learn.microsoft.com/fabric/data-science/data-science-overview",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-get-the-most-as-a-data-scientist-with-microsoft-fabric-public-preview/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-get-the-most-as-a-data-scientist-with-microsoft-fabric-public-preview/",
+      "originalUrl": "https://youtube.com/watch?v=LDZL0gyHQbs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LDZL0gyHQbs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M14S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-06-21T08:00:22-07:00",
+      "heat": 162,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LDZL0gyHQbs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-power-bi-tutorial-from-beginner-to-pro-desktop-to-dashboard-in-60-minutes-.md",
       "title": "Power BI Tutorial From Beginner to Pro ⚡ Desktop to Dashboard in 60 Minutes ⏰",
       "excerpt": "This Complete Power BI Tutorial takes you Step-by-Step as you use Power BI Desktop to create a beautiful Power BI Dashboard. 👉 Download Power BI Files in Video at https://web.learnpowerbi.com/download?content=20190501  ✅ Subscribe to always get my latest videos: https://www.youtube.com/powerbipro?sub_confirmation=1",
@@ -247,7 +247,7 @@
         "domain": "learnpowerbi.com"
       },
       "publishedDateTime": "2019-04-30T16:11:09-07:00",
-      "heat": 143,
+      "heat": 154,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/AGrl-H87pRU/maxresdefault.jpg",
@@ -264,140 +264,92 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-get-started-with-microsoft-data-analytics.md",
-      "title": "Get started with Microsoft data analytics",
-      "excerpt": "Businesses need data analysis more than ever. In this learning path, you will learn about the life and journey of a data analyst, the skills, tasks, and processes they go through in order to tell a story with data so trusted business decisions can be made. You will learn how the suite of Power BI tools and services are used by a data analyst to tell a compelling story through reports and dashboards, and the need to true BI in the enterprise.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-get-started-with-microsoft-data-analytics/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-get-started-with-microsoft-data-analytics/",
-      "length": "PT1H10M",
+      "path": "_learning/videos/sqlbi-introducing-dynamic-format-strings-for-dax-measures.md",
+      "title": "Introducing dynamic format strings for DAX measures",
+      "excerpt": "Introduction to dynamic format strings feature released in Power BI May 2023, including a few technical details of its implementation.\r Article and download: https://sql.bi/798996?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-introducing-dynamic-format-strings-for-dax-measures/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-introducing-dynamic-format-strings-for-dax-measures/",
+      "originalUrl": "https://youtube.com/watch?v=eNRZU6QkIZ4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eNRZU6QkIZ4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M9S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-data-analytics-microsoft.md",
-          "title": "Discover data analysis",
-          "excerpt": "Would you like to explore the journey of a data analyst and learn how a data analyst tells a story with data? In this module, you will explore the different roles in data and learn the different tasks of a data analyst.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-analytics-microsoft/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 66134,
-            "average": 4.7958236
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 115,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-get-started-with-power-bi.md",
-          "title": "Get started building with Power BI",
-          "excerpt": "Power BI is a collection of software services and applications that let you connect to all sorts of data sources and create compelling visuals and reports. You can benefit from receiving those reports, or you can share them with others inside or outside your organization. Learn the basics of Power BI, how its services and applications work together, and how they can be used to create or experience compelling visuals and analytics based on your data.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-started-with-power-bi/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 93478,
-            "average": 4.778183
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 141,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
-              "width": 643,
-              "height": 322,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 2,
-      "heat": 141,
+      "publishedDateTime": "2023-05-23T03:00:13-07:00",
+      "heat": 133,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://i.ytimg.com/vi/eNRZU6QkIZ4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "collection",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-optimizing-switch-on-slicer-selection-with-group-by-columns.md",
+      "title": "Optimizing SWITCH on slicer selection with Group By Columns",
+      "excerpt": "Optimize the query performance of a SWITCH function in DAX that reads a slicer selection: the Group By Columns property can solve a practical problem.\r \r Article and download: https://sql.bi/792990?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-optimizing-switch-on-slicer-selection-with-group-by-columns/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-optimizing-switch-on-slicer-selection-with-group-by-columns/",
+      "originalUrl": "https://youtube.com/watch?v=RCEoAvru8rY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RCEoAvru8rY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M1S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-04-11T03:00:15-07:00",
+      "heat": 132,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RCEoAvru8rY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-get-started-with-power-bi.md",
-      "title": "Get started building with Power BI",
-      "excerpt": "Power BI is a collection of software services and applications that let you connect to all sorts of data sources and create compelling visuals and reports. You can benefit from receiving those reports, or you can share them with others inside or outside your organization. Learn the basics of Power BI, how its services and applications work together, and how they can be used to create or experience compelling visuals and analytics based on your data.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-started-with-power-bi/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
-      "length": "PT40M",
+      "path": "_learning/courses/microsoft-learn-gain-insights-into-usage-performance-of-your-power-bi-reports-to-increase-adopti.md",
+      "title": "Gain insights into usage and performance of your Power BI reports to increase adoption and reduce costs",
+      "excerpt": "Gain insights into usage and performance of your Power BI reports to increase adoption and reduce costs",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-gain-insights-into-usage-performance-of-your-power-bi-reports-to-increase-adopti/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/gain-insights-into-usage-performance-of-power-bi-reports-to-increase-adopti/",
+      "length": "PT24M",
       "ratings": {
-        "count": 93478,
-        "average": 4.778183
+        "count": 3,
+        "average": 4.6666665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -414,123 +366,17 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 141,
+      "heat": 130,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
-          "width": 643,
-          "height": 322,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-enabling-drillthrough-with-power-bi-on-object-editing.md",
-      "title": "Enabling Drillthrough with Power BI On-Object Editing",
-      "excerpt": "Using the new On-Object editing in Power BI Desktop? Have you figured out how to enable drillthrough yet? Adam has and is here to show you the clicks!  Power BI April 2023 Feature Summary https://powerbi.microsoft.com/blog/power-bi-april-2023-feature-summary/  On-object Interaction https://learn.microsoft.com/power-bi/create-reports/power-bi-on-object-interaction",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-enabling-drillthrough-with-power-bi-on-object-editing/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-enabling-drillthrough-with-power-bi-on-object-editing/",
-      "originalUrl": "https://youtube.com/watch?v=eYxRHJ0hB_E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eYxRHJ0hB_E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M34S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-05-17T08:00:34-07:00",
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eYxRHJ0hB_E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-apply-all-and-remove-all-button-in-power-bi.md",
-      "title": "Apply All and Remove All Button in Power BI",
-      "excerpt": "This video covers how we can add Apply All and Clear All buttons in Power BI report. This new feature is a game changer if you want improve your Power BI report performance. So, Let's get started!  Chapters: 00:00 Start 01:00 Different Ways to Apply All and Clear All 02:24 Perform Testing  #PowerBI #PowerBIDesktop",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-apply-all-and-remove-all-button-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-apply-all-and-remove-all-button-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=4fFrnCm5aPQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4fFrnCm5aPQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M2S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2023-03-28T03:56:02-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4fFrnCm5aPQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-3-tips-for-the-new-on-object-editing-of-a-power-bi-visual.md",
-      "title": "3 tips for the new On-Object editing of a Power BI visual",
-      "excerpt": "Have you started using the new on-object editing for Power BI visuals? Adam found some hidden gems that you may not be aware of when using it! You need to be aware of these!  Use on-object interaction with visuals in your report (preview) https://learn.microsoft.com/power-bi/create-reports/power-bi-on-object-interaction",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-3-tips-for-the-new-on-object-editing-of-a-power-bi-visual/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-3-tips-for-the-new-on-object-editing-of-a-power-bi-visual/",
-      "originalUrl": "https://youtube.com/watch?v=xL6DvHYjBVs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xL6DvHYjBVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M38S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-04-19T08:00:44-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xL6DvHYjBVs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -613,6 +459,173 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-get-started-with-microsoft-data-analytics.md",
+      "title": "Get started with Microsoft data analytics",
+      "excerpt": "Businesses need data analysis more than ever. In this learning path, you will learn about the life and journey of a data analyst, the skills, tasks, and processes they go through in order to tell a story with data so trusted business decisions can be made. You will learn how the suite of Power BI tools and services are used by a data analyst to tell a compelling story through reports and dashboards, and the need to true BI in the enterprise.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-get-started-with-microsoft-data-analytics/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-get-started-with-microsoft-data-analytics/",
+      "length": "PT1H10M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-data-analytics-microsoft.md",
+          "title": "Discover data analysis",
+          "excerpt": "Would you like to explore the journey of a data analyst and learn how a data analyst tells a story with data? In this module, you will explore the different roles in data and learn the different tasks of a data analyst.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-analytics-microsoft/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
+          "length": "PT36M",
+          "ratings": {
+            "count": 66141,
+            "average": 4.795845
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 95,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-get-started-with-power-bi.md",
+          "title": "Get started building with Power BI",
+          "excerpt": "Power BI is a collection of software services and applications that let you connect to all sorts of data sources and create compelling visuals and reports. You can benefit from receiving those reports, or you can share them with others inside or outside your organization. Learn the basics of Power BI, how its services and applications work together, and how they can be used to create or experience compelling visuals and analytics based on your data.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-started-with-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 93484,
+            "average": 4.778187
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 123,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
+              "width": 643,
+              "height": 322,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 123,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-get-started-with-power-bi.md",
+      "title": "Get started building with Power BI",
+      "excerpt": "Power BI is a collection of software services and applications that let you connect to all sorts of data sources and create compelling visuals and reports. You can benefit from receiving those reports, or you can share them with others inside or outside your organization. Learn the basics of Power BI, how its services and applications work together, and how they can be used to create or experience compelling visuals and analytics based on your data.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-started-with-power-bi/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 93484,
+        "average": 4.778187
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 123,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
+          "width": 643,
+          "height": 322,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-tips-from-the-pros-live-oct-3-2020-member-chat-2nd-half.md",
       "title": "🔴 Power BI tips from the Pros - LIVE (Oct 3, 2020) (Member Chat 2nd Half)",
       "excerpt": "Join us live as we answer your questions about Power BI!  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\" in front of your comment to help us identify questions! 👉 Super chats take priority 👉 Do NOT re-post",
@@ -651,42 +664,38 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-data-analytics-microsoft.md",
-      "title": "Discover data analysis",
-      "excerpt": "Would you like to explore the journey of a data analyst and learn how a data analyst tells a story with data? In this module, you will explore the different roles in data and learn the different tasks of a data analyst.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-analytics-microsoft/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 66134,
-        "average": 4.7958236
-      },
+      "path": "_learning/videos/guy-in-a-cube-what-does-microsoft-fabric-mean-for-power-bi.md",
+      "title": "What does Microsoft Fabric mean for Power BI?",
+      "excerpt": "You've heard the news about Microsoft Fabric but what about Power BI? How does Power BI fit in? Do you need to migrate anything? Can you still do what you were doing? Adam tells you what you need to know!  Direct Lake (PREVIEW) https://learn.microsoft.com/power-bi/enterprise/directlake-overview  Microsoft",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-does-microsoft-fabric-mean-for-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-does-microsoft-fabric-mean-for-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=fvuL8Nk_gxU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fvuL8Nk_gxU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M56S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 115,
+      "publishedDateTime": "2023-06-15T08:00:36-07:00",
+      "heat": 113,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://i.ytimg.com/vi/fvuL8Nk_gxU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -732,44 +741,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-what-does-microsoft-fabric-mean-for-power-bi.md",
-      "title": "What does Microsoft Fabric mean for Power BI?",
-      "excerpt": "You've heard the news about Microsoft Fabric but what about Power BI? How does Power BI fit in? Do you need to migrate anything? Can you still do what you were doing? Adam tells you what you need to know!  Direct Lake (PREVIEW) https://learn.microsoft.com/power-bi/enterprise/directlake-overview  Microsoft",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-does-microsoft-fabric-mean-for-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-does-microsoft-fabric-mean-for-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=fvuL8Nk_gxU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fvuL8Nk_gxU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M56S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-06-15T08:00:36-07:00",
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fvuL8Nk_gxU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/guy-in-a-cube-getting-started-with-power-bi.md",
       "title": "Getting Started with Power BI",
       "excerpt": "These videos will help you with getting started with Power BI. From Power BI Desktop to the Power BI service and items in between, this is a great way to get started.",
@@ -810,7 +781,7 @@
             ]
           },
           "publishedDateTime": "2021-01-14T08:21:12-08:00",
-          "heat": 72,
+          "heat": 75,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
@@ -886,7 +857,7 @@
             ]
           },
           "publishedDateTime": "2021-01-28T08:23:13-08:00",
-          "heat": 61,
+          "heat": 63,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/-ip7mKUdwRg/maxresdefault.jpg",
@@ -924,7 +895,7 @@
             ]
           },
           "publishedDateTime": "2018-03-20T08:10:00-07:00",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/QiwxT9ndefY/maxresdefault.jpg",
@@ -998,14 +969,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-create-your-first-lakehouse-in-microsoft-fabric.md",
-      "title": "Create your FIRST Lakehouse in Microsoft Fabric",
-      "excerpt": "You started your journey into Microsoft Fabric. Ted wants to help you understand how to create your first Lakehouse and start getting data into OneLake!   What is a lakehouse in Microsoft Fabric? https://learn.microsoft.com/fabric/data-engineering/lakehouse-overview  Create a lakehouse in Microsoft Fabric",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-create-your-first-lakehouse-in-microsoft-fabric/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-create-your-first-lakehouse-in-microsoft-fabric/",
-      "originalUrl": "https://youtube.com/watch?v=SFta1_70T_U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SFta1_70T_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M39S",
+      "path": "_learning/videos/guy-in-a-cube-what-is-microsoft-fabric-public-preview.md",
+      "title": "What is Microsoft Fabric (Public Preview)?",
+      "excerpt": "Maybe you've heard the announcement of Microsoft Fabric. Maybe you are coming from Power BI and curious how Microsoft Fabric relates. Adam gets you up to speed!  Microsft Learn: Get Started with Microsoft Fabric https://learn.microsoft.com/training/paths/get-started-fabric/  Microsoft Fabric End to End",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-is-microsoft-fabric-public-preview/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-is-microsoft-fabric-public-preview/",
+      "originalUrl": "https://youtube.com/watch?v=-f0XIVEP7bE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-f0XIVEP7bE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M7S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -1018,49 +989,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-06-13T08:00:32-07:00",
-      "heat": 103,
+      "publishedDateTime": "2023-05-30T08:00:00-07:00",
+      "heat": 102,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/SFta1_70T_U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-want-a-beautiful-power-bi-report-start-here.md",
-      "title": "Want a BEAUTIFUL Power BI Report? Start here!",
-      "excerpt": "If you are like us, creating beautiful Power BI reports doesn't come easy. Mara Pereira joins us to show us where to start to get amazing and beautiful Power BI reports even with no designer background.  Dribbble https://dribbble.com/  Freepik https://www.freepik.com/  Figma https://www.figma.com/  Adobe",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-want-a-beautiful-power-bi-report-start-here/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-want-a-beautiful-power-bi-report-start-here/",
-      "originalUrl": "https://youtube.com/watch?v=pKkav_W-jiQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pKkav_W-jiQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M21S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-05-11T08:00:36-07:00",
-      "heat": 101,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pKkav_W-jiQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-f0XIVEP7bE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1113,14 +1046,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-what-is-microsoft-fabric-public-preview.md",
-      "title": "What is Microsoft Fabric (Public Preview)?",
-      "excerpt": "Maybe you've heard the announcement of Microsoft Fabric. Maybe you are coming from Power BI and curious how Microsoft Fabric relates. Adam gets you up to speed!  Microsft Learn: Get Started with Microsoft Fabric https://learn.microsoft.com/training/paths/get-started-fabric/  Microsoft Fabric End to End",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-is-microsoft-fabric-public-preview/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-is-microsoft-fabric-public-preview/",
-      "originalUrl": "https://youtube.com/watch?v=-f0XIVEP7bE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-f0XIVEP7bE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M7S",
+      "path": "_learning/videos/guy-in-a-cube-want-a-beautiful-power-bi-report-start-here.md",
+      "title": "Want a BEAUTIFUL Power BI Report? Start here!",
+      "excerpt": "If you are like us, creating beautiful Power BI reports doesn't come easy. Mara Pereira joins us to show us where to start to get amazing and beautiful Power BI reports even with no designer background.  Dribbble https://dribbble.com/  Freepik https://www.freepik.com/  Figma https://www.figma.com/  Adobe",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-want-a-beautiful-power-bi-report-start-here/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-want-a-beautiful-power-bi-report-start-here/",
+      "originalUrl": "https://youtube.com/watch?v=pKkav_W-jiQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pKkav_W-jiQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M21S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -1133,11 +1066,91 @@
           }
         ]
       },
-      "publishedDateTime": "2023-05-30T08:00:00-07:00",
-      "heat": 99,
+      "publishedDateTime": "2023-05-11T08:00:36-07:00",
+      "heat": 98,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-f0XIVEP7bE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/pKkav_W-jiQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-data-analytics-microsoft.md",
+      "title": "Discover data analysis",
+      "excerpt": "Would you like to explore the journey of a data analyst and learn how a data analyst tells a story with data? In this module, you will explore the different roles in data and learn the different tasks of a data analyst.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-analytics-microsoft/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 66141,
+        "average": 4.795845
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 95,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-create-your-first-lakehouse-in-microsoft-fabric.md",
+      "title": "Create your FIRST Lakehouse in Microsoft Fabric",
+      "excerpt": "You started your journey into Microsoft Fabric. Ted wants to help you understand how to create your first Lakehouse and start getting data into OneLake!   What is a lakehouse in Microsoft Fabric? https://learn.microsoft.com/fabric/data-engineering/lakehouse-overview  Create a lakehouse in Microsoft Fabric",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-create-your-first-lakehouse-in-microsoft-fabric/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-create-your-first-lakehouse-in-microsoft-fabric/",
+      "originalUrl": "https://youtube.com/watch?v=SFta1_70T_U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SFta1_70T_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M39S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-06-13T08:00:32-07:00",
+      "heat": 94,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SFta1_70T_U/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1257,8 +1270,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 93478,
-            "average": 4.778183
+            "count": 93484,
+            "average": 4.778187
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1275,7 +1288,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 141,
+          "heat": 123,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -1299,8 +1312,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 35718,
-            "average": 4.7263284
+            "count": 35720,
+            "average": 4.726316
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1342,8 +1355,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16570,
-            "average": 4.722752
+            "count": 16572,
+            "average": 4.722725
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1402,7 +1415,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 61,
+          "heat": 54,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-visuals-power-bi-desktop-social.png",
@@ -1527,7 +1540,7 @@
         ]
       },
       "publishedDateTime": "2023-06-14T08:00:16-07:00",
-      "heat": 83,
+      "heat": 84,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Q8NfZCFKCmw/maxresdefault.jpg",

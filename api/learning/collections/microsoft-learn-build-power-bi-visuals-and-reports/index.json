@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 57,
+      "heat": 53,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-requirements-social.png",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 4654,
-        "average": 4.6729693
+        "count": 4655,
+        "average": 4.67304
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -113,7 +113,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 63,
+      "heat": 55,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/create-reports-with-power-bi-desktop-social.png",
