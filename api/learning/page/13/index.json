@@ -4,6 +4,44 @@
   "page": 13,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-reduce-power-bi-dataset-size-by-60-with-one-checkbox.md",
+      "title": "REDUCE Power BI dataset size by 60% with ONE CHECKBOX???",
+      "excerpt": "What if I told you that you could potentially reduce your Power BI dataset size by up to 60-70% with ONE CHECKBOX??? This was crazy and we show you what is going on! (results will vary)  Download Sample: https://guyinacu.be/onecheckboxsample  DAX Studio: https://www.sqlbi.com/tools/dax-studio/  📢 Become",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-reduce-power-bi-dataset-size-by-60-with-one-checkbox/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-reduce-power-bi-dataset-size-by-60-with-one-checkbox/",
+      "originalUrl": "https://youtube.com/watch?v=RnDdDlozcdo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RnDdDlozcdo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M49S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-08-27T08:00:19-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RnDdDlozcdo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-source-control-with-power-bi-can-it-be-done.md",
       "title": "Source Control with Power BI - Can it be done?",
       "excerpt": "Can we use source control, or version control, with Power BI? We get this question ALL THE TIME! Adam walks you through what your options are and how this works today with Power BI.  ALM Toolkit: http://alm-toolkit.com/  Tabular Editor: https://tabulareditor.com/  Latest updates for Deployment Pipelines:",
@@ -332,37 +370,6 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-combining-hotel-price-sheets-using-power-query.md",
-      "title": "Power BI: Combining Hotel Price Sheets 💲 Using Power Query",
-      "excerpt": "👉 Download the Power BI files https://www.LearnPowerBI.com/download 👉 Ask Power BI Questions: https://www.LearnPowerBI.com/question 👉 Get Power BI Training: https://www.LearnPowerBI.com/training 👉 Get Power Advance BI Training: https://www.LearnPowerBI.com/advance  ================================",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-combining-hotel-price-sheets-using-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-combining-hotel-price-sheets-using-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=jli55mHeyo0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jli55mHeyo0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M20S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2023-05-24T09:00:35-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jli55mHeyo0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-power-bi-how-to-use-maps-visual-qa-with-vinny-shorts.md",
       "title": "Power BI: How to Use Maps Visual? Q&A with Vinny #Shorts",
       "excerpt": "👉 If you have any questions, just leave us a comment.  👉 Check out our Power BI Tutorial https://youtu.be/AGrl-H87pRU ================================ #PowerBI #PowerBIBeginner #PowerBIPro  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files",
@@ -565,6 +572,37 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-all-vs-allselected-in-power-bi-and-dax.md",
+      "title": "ALL vs ALLSelected in Power BI and DAX",
+      "excerpt": "These two functions in DAX are often used instead of each other; ALL and ALLSELECTED. Their behavior can be similar in some contexts, but it can also be different in other contexts. In this article and video, I'll explain the difference between these two functions and when to use each in DAX for Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-all-vs-allselected-in-power-bi-and-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-all-vs-allselected-in-power-bi-and-dax/",
+      "originalUrl": "https://youtube.com/watch?v=6t5D7K8jZvc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6t5D7K8jZvc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M18S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2023-05-18T15:45:55-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6t5D7K8jZvc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -997,44 +1035,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/dEgBOsQGHBA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-import-vs-directquery-in-power-bi.md",
-      "title": "Import vs DirectQuery in Power BI",
-      "excerpt": "Should you use Import or DirectQuery data connectivity mode for your Power BI models? Let's make the right choice by comparing the performance and scalability of the two options!  Optimizing DAX video course: https://www.sqlbi.com/p/optimizing-dax-video-course/?aff=yt How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-import-vs-directquery-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-import-vs-directquery-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=tDIsCVB7mnI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tDIsCVB7mnI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M24S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-11-19T03:00:21-08:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tDIsCVB7mnI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

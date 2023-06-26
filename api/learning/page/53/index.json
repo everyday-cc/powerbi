@@ -4,6 +4,200 @@
   "page": 53,
   "value": [
     {
+      "path": "_learning/videos/curbal-recreate-the-economist-excess-mortality-tracker-in-power-bi.md",
+      "title": "Recreate  The Economist Excess Mortality tracker in Power BI",
+      "excerpt": "In todays video I will show you how to recreate the excess mortality tracker using their data source: The economist excess deaths tracker: https://github.com/TheEconomist/covid-19-excess-deaths-tracker  Get covid data:  https://www.youtube.com/watch?v=4vfAz7XDuH0  Tutorial on functions: https://www.youtube.com/watch?v=Ar_fV_oXSNs",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-recreate-the-economist-excess-mortality-tracker-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-recreate-the-economist-excess-mortality-tracker-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=9a6As_OnywA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9a6As_OnywA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M49S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-18T05:22:06-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9a6As_OnywA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-remove-all-spaces-from-column-headers-in-bulk-4-magic-mondays.md",
+      "title": "Remove all spaces from column headers in bulk #4: (M)agic (M)ondays",
+      "excerpt": "Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1  Our PLAYLISTS: - Join our DAX Fridays! Series: https://goo.gl/FtUWUX - Power BI dashboards",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-remove-all-spaces-from-column-headers-in-bulk-4-magic-mondays/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-remove-all-spaces-from-column-headers-in-bulk-4-magic-mondays/",
+      "originalUrl": "https://youtube.com/watch?v=_TMJ9RJlqXQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_TMJ9RJlqXQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M32S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-05-18T11:47:01-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_TMJ9RJlqXQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-remove-duplicates-based-on-sort-order-power-bi-tips-tricks-22.md",
+      "title": "Remove duplicates based on sort order - Power BI Tips & Tricks #22",
+      "excerpt": "In this video I will show a trick on how to remove duplicates based on sort order in Power BI / Power Query.   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-remove-duplicates-based-on-sort-order-power-bi-tips-tricks-22/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-remove-duplicates-based-on-sort-order-power-bi-tips-tricks-22/",
+      "originalUrl": "https://youtube.com/watch?v=rqDdnNxSgHQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rqDdnNxSgHQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M1S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-12-19T10:55:07-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rqDdnNxSgHQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-remove-duplicates-on-multiple-columns-5-magic-mondays.md",
+      "title": "Remove duplicates on multiple columns -#5 (M)agic (M)ondays",
+      "excerpt": "In today's video I will show you how to remove duplicates from multiple columns in Power Query.  It is very easy to use and it will save you some steps and workarounds.  Link to PowerBI file: http://gofile.me/2kEOD/IQIaYrz8k   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-remove-duplicates-on-multiple-columns-5-magic-mondays/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-remove-duplicates-on-multiple-columns-5-magic-mondays/",
+      "originalUrl": "https://youtube.com/watch?v=IU1ciyGQF3M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IU1ciyGQF3M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M27S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-05-24T05:43:48-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IU1ciyGQF3M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-reuse-m-code-m-functions-created-by-others-easily.md",
+      "title": "Reuse M code (M functions) created by others easily",
+      "excerpt": "In today's video I am collaborating with Imke Feldmann to bring you the best that M or Power Query has to offer.  We will show you how you can easily re-use M functions in your reports.  Link to the sources: http://www.thebiccountant.com/2017/12/11/date-datesbetween-retrieve-dates-between-2-dates-power-bi-power-query/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-reuse-m-code-m-functions-created-by-others-easily/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-reuse-m-code-m-functions-created-by-others-easily/",
+      "originalUrl": "https://youtube.com/watch?v=6TQN6KPG74Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6TQN6KPG74Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M21S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-16T11:13:15-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6TQN6KPG74Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-reverse-cummulative-values-in-power-query.md",
       "title": "Reverse cummulative values in Power Query",
       "excerpt": "I have shown you previously how you can reverse cummulated data using DAX, but I never showed you how to do it in Power Query, so here it is!   Here you can download all the pbix files: https://curbal.com/donwload-center Want the pbix file? Get download number 68 on the community downloads folder.",
@@ -968,198 +1162,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-summary-of-power-query-updates-march-2021.md",
-      "title": "Summary of Power Query Updates March 2021",
-      "excerpt": "Lets review the power query features released on March 2021!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1\r \r Our PLAYLISTS:\r - Join our DAX",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-summary-of-power-query-updates-march-2021/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-summary-of-power-query-updates-march-2021/",
-      "originalUrl": "https://youtube.com/watch?v=1KOVARFqxNM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1KOVARFqxNM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M24S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-03-22T03:44:34-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1KOVARFqxNM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-switch-power-bi-login-credentials-easily-with-google-chrome-power-bi-tips-tricks-36.md",
-      "title": "Switch Power BI login credentials easily with Google Chrome - Power BI Tips & Tricks #36",
-      "excerpt": "In today's video I show you how to switch Power BI credentials easily with Chrome.  I got this team from Chris Webb: https://blog.crossjoin.co.uk/2017/03/23/quick-tip-working-with-multiple-power-bi-subscriptionsaccounts/  who got the tip from James Callahan: https://jcallaghan.com/2014/06/login-multiple-office-365-azure-accounts/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-switch-power-bi-login-credentials-easily-with-google-chrome-power-bi-tips-tricks-36/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-switch-power-bi-login-credentials-easily-with-google-chrome-power-bi-tips-tricks-36/",
-      "originalUrl": "https://youtube.com/watch?v=ojRRhzaFpss",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ojRRhzaFpss\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M32S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-03-27T09:54:32-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ojRRhzaFpss/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-sync-and-group-slicers-in-power-bi.md",
-      "title": "Sync and group slicers in Power BI",
-      "excerpt": "In today's video I will show you the sync and group feature in Power BI.  Have you applied the group feature elsewhere? Let us know in the comments box!  Link to the pbix file: https://gofile.me/2kEOD/uYvUnnwQO   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-sync-and-group-slicers-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-sync-and-group-slicers-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=BTjsPRPfBsA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BTjsPRPfBsA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M1S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-07-09T07:33:15-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BTjsPRPfBsA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-test-of-sanddance-a-microsoft-research-visualization-in-power-bi.md",
-      "title": "Test of SandDance, a Microsoft Research visualization in Power BI",
-      "excerpt": "You probably heard the news about the new visualization that Microsoft Research release a few days ago. In this video I just give it a go and show you some of the features and questions I have.  If you prefer to read about it, check out my review on the Power BI Community: http://community.powerbi.com/t5/Community-Blog/SandDance-my-first-impressions-and-test/ba-p/30479",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-test-of-sanddance-a-microsoft-research-visualization-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-test-of-sanddance-a-microsoft-research-visualization-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=e0a6CNEjJkk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e0a6CNEjJkk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M48S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-02-06T02:28:05-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/e0a6CNEjJkk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-testing-dataflows-in-power-bi-pro-and-premium-accounts.md",
-      "title": "Testing dataflows in Power BI Pro and Premium accounts",
-      "excerpt": "In today's video we are going to put all the theory from Monday's video into practice and we are going to create a dataflow in a Power BI Pro and Premium account.   If you missed the video on Monday, check it out here: https://www.youtube.com/watch?v=bkFG8s_9sGE  Here you can download all the pbix files:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-testing-dataflows-in-power-bi-pro-and-premium-accounts/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-testing-dataflows-in-power-bi-pro-and-premium-accounts/",
-      "originalUrl": "https://youtube.com/watch?v=Xp3iwC8hVDU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Xp3iwC8hVDU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M37S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-11-28T09:20:53-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Xp3iwC8hVDU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Dataflows"
       ]
     }
   ],

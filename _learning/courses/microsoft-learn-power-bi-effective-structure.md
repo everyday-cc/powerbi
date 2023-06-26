@@ -8,7 +8,7 @@ length: PT21M
 ratings:
   count: 1665
   average: 4.7795796
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 641
     isCached: true
 
-secured: "9CEL7wznRGfc4X54pJ1m11cyLVERwsblA5eBYOrB4IO7audZDrMcKH8Hr08hxp7hJTe8kfbzRfyoqGLLXqDqKC4wtMUy2Apzg76QUFoMlAXZ0cCBLFJ3dDWThbTxMIsgBHkMtMWBO5yAHU/VqNbnCRyuui+Lz21RLcGwRDHSXqU02FFKln1H3ySZ80+HQLGkJe2PWK5DfEf8Jzmb/evZS1H5JRd4Wh+j7rbTllvfEUY8U+xbaeDjZdmotfQUaRd4MgMaSwKzOSw6kET72JWOTKL8V9PGUWQaSNUp9Sf6t+c4LTrhOt5+hyS0mbuv6zRHj7NOgX4uPEKj9buhGFJr+evtF/nxAzNHf8rlygtaPb8FaD6R6aMlMTWRjvUF8GFRXU0vTMqEQ9FPx1aQ9473+cJLKnPqG5TMEaFCvnif8xk=;SiIuXqke8jApByeBTRWeSA=="
+secured: "DokKFy2XL+CzmY1JXt+LppgsdKUit0WoAtFcba+Vv0Jok3VlRlPWvVZwIO9wzlVpS+u3dMv3X0ecIerVMSoIEIi6wy0wBxnnOmPena/8OtE4KQqLRr1y3/MU/HnjW8I+GAmy+g2Xcb259Mi/LBVvLOvjPTx5D52MucJc5AwQpVyAf+5KJeTZ1sNgiZKEjErhFA2QJERoYja/j76/4mslIzJ4hT6e7YfZ02xDD2gtkA9c/SDtPCdixottj+tOaKoqoOGNEhEzBPyJ6+gUxdpFQcw44t0qlBQGpwCXZj0D7jHCoBYqCiSLG7COwbGppiVfM5wBMftfATjS2gmbKl/jaHpPY564poApUE7gmKiiNSNScjddLjzlxHOu9fx+ZED6g6ANTP77g9SPDk20AGyQrZfid10PdVUvW0VD9ktzhUc=;7W7EKN6RIhjkXasNMfKqAg=="
 ---
 

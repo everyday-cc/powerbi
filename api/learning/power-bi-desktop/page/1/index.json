@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 35724,
-        "average": 4.7263465
+        "count": 35727,
+        "average": 4.7263694
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -77,8 +77,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4125,
-            "average": 4.747394
+            "count": 4126,
+            "average": 4.747455
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -660,8 +660,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 4125,
-        "average": 4.747394
+        "count": 4126,
+        "average": 4.747455
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1013,6 +1013,37 @@
       ]
     },
     {
+      "path": "_learning/videos/radacad-where-is-the-format-visual-in-the-new-power-bi-desktop.md",
+      "title": "Where is the FORMAT Visual in the new Power BI Desktop",
+      "excerpt": "Where is the Format visual option in the new Power BI Desktop? There is a simple answer to this question, which I explained in this video. This change applied from March 2023 version of Power BI Desktop, and by the time you watch this video, it might be at general availability and the only way to format",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-where-is-the-format-visual-in-the-new-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-where-is-the-format-visual-in-the-new-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=SKzPtk__XSU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SKzPtk__XSU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M54S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2023-05-10T15:12:54-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SKzPtk__XSU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-dax-power-bi-add-measures.md",
       "title": "Add measures to Power BI Desktop models",
       "excerpt": "In this module, you'll learn how to work with implicit and explicit measures. You'll start by creating simple measures, which summarize a single column or table. Then, you'll create more complex measures based on other measures in the model. Additionally, you'll learn about the similarities of, and differences between, a calculated column and a measure.",
@@ -1331,37 +1362,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/OWW9vLW9sq4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-call-power-bi-rest-api-with-dynamic-access-token-from-power-bi-desktop-power-bi-rest-api-part-two.md",
-      "title": "Call Power BI Rest API with Dynamic Access Token From Power BI Desktop |Power BI Rest API | Part Two",
-      "excerpt": "During this series, we will explore Rest APIs in Power BI. Sometimes, we need to build Power BI Admin report by consuming Power BI Admin APIs. During this session we will learn the same thing.   During the first step we have registered Power BI App to Azure Portal. If you haven’t gone through that video,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-call-power-bi-rest-api-with-dynamic-access-token-from-power-bi-desktop-power-bi-rest-api-part-two/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-call-power-bi-rest-api-with-dynamic-access-token-from-power-bi-desktop-power-bi-rest-api-part-two/",
-      "originalUrl": "https://youtube.com/watch?v=N8qYRSqRz84",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N8qYRSqRz84\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M15S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-08-10T19:22:21-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/N8qYRSqRz84/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

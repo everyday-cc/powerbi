@@ -4,6 +4,97 @@
   "page": 98,
   "value": [
     {
+      "path": "_learning/videos/radacad-power-bi-sandbox-an-environment-to-learn-power-bi-service-for-free.md",
+      "title": "Power BI Sandbox   An Environment to Learn Power BI Service for Free",
+      "excerpt": "A question I often get from many students is: \"How can I practice Power BI service features if I do not have a Power BI Account?\". Not having a Power BI account can happen because of many scenarios; your company might close this option so that the process be only channeled through a specific process",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-sandbox-an-environment-to-learn-power-bi-service-for-free/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-sandbox-an-environment-to-learn-power-bi-service-for-free/",
+      "originalUrl": "https://youtube.com/watch?v=9ZMUHj--MVs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9ZMUHj--MVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M53S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-01-26T19:38:17-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9ZMUHj--MVs/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Service"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-subscription-get-report-updates-in-email.md",
+      "title": "Power BI Subscription   Get Report Updates In Email",
+      "excerpt": "Have you ever wondered is it possible to have updates of the Power BI report to be emailed to you (or some other colleagues) on a daily basis? Power BI, fortunately, has this feature, it is called Subscription. Subscriptions are helpful ways to send an up-to-date version of the report and dashboard to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-subscription-get-report-updates-in-email/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-subscription-get-report-updates-in-email/",
+      "originalUrl": "https://youtube.com/watch?v=f_Y471pKWh0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f_Y471pKWh0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M42S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-04-20T16:57:58-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/f_Y471pKWh0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-user-access-levels-build-and-edit-are-different.md",
+      "title": "Power BI User Access Levels   Build and Edit are different",
+      "excerpt": "Often I have seen Power BI users have access to the areas that they shouldn’t. In Power BI, you can share a report with a user just for view only, or give them access to view and built, or to Edit. These are all different levels of access. Build access is the one that is often is confused with Edit.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-user-access-levels-build-and-edit-are-different/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-user-access-levels-build-and-edit-are-different/",
+      "originalUrl": "https://youtube.com/watch?v=ZsZkYOAcABI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZsZkYOAcABI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M19S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-01-04T13:35:21-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZsZkYOAcABI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-power-bi-workspace-collaborative-dev-environment.md",
       "title": "Power BI Workspace   Collaborative DEV Environment",
       "excerpt": "Workspaces are another way of sharing Power BI content with other people. The benefit of this sharing approach is that you can share content with a group of people and create a collaborative development environment where everyone can access it. In this article and video, I get you through sharing with",
@@ -813,96 +904,6 @@
           "url": "https://i.ytimg.com/vi/nAePfbGOEQE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-share-different-visual-pages-with-different-security-groups-in-power-bi.md",
-      "title": "Share Different Visual Pages with Different Security Groups in Power BI",
-      "excerpt": "I have written a dozen of blogs and a book about Power BI row-level security and the security on the dataset. However, I always get this question that: \"What if I want some people to see only a few pages of my report, and some others to see other pages?\" or \"How can I put security for different pages",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-share-different-visual-pages-with-different-security-groups-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-share-different-visual-pages-with-different-security-groups-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=Iy1ZjToy-B8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Iy1ZjToy-B8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M28S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-01-15T19:13:46-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Iy1ZjToy-B8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-sharing-power-bi-reports-with-selection-of-slicers-and-filters-how-it-works.md",
-      "title": "Sharing Power BI Reports with selection of Slicers and Filters How it Works",
-      "excerpt": "Read the detailed blog post here: http://radacad.com/sharing-reports-with-selection-of-slicers-and-filters-what-it-means",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-sharing-power-bi-reports-with-selection-of-slicers-and-filters-how-it-works/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-sharing-power-bi-reports-with-selection-of-slicers-and-filters-how-it-works/",
-      "originalUrl": "https://youtube.com/watch?v=-xeVhFOY-hw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-xeVhFOY-hw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M39S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2018-07-12T00:40:20-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-xeVhFOY-hw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-show-the-information-but-not-the-details-power-bi-data-masking.md",
-      "title": "Show the information but not the details   Power BI Data Masking",
-      "excerpt": "I wrote several row-level security articles so far, and a book. I explained how to restrict access to the data using row-level security approaches. However, one of the questions I got recently is this: “I want users to see one another’s sales information, but not to see who others are! How can I do that",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-show-the-information-but-not-the-details-power-bi-data-masking/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-show-the-information-but-not-the-details-power-bi-data-masking/",
-      "originalUrl": "https://youtube.com/watch?v=24BuWbUJPSk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/24BuWbUJPSk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M22S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-06-07T19:56:05-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/24BuWbUJPSk/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
           "isCached": true
         }
       ],
