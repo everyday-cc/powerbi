@@ -242,8 +242,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 909,
-            "average": 4.7469745
+            "count": 911,
+            "average": 4.74753
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -284,8 +284,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 773,
-            "average": 4.8382926
+            "count": 774,
+            "average": 4.8385015
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -326,8 +326,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 712,
-            "average": 4.804775
+            "count": 714,
+            "average": 4.805322
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -701,8 +701,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 504,
-            "average": 4.6865077
+            "count": 505,
+            "average": 4.6871285
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -743,8 +743,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3634,
-            "average": 4.721794
+            "count": 3635,
+            "average": 4.721871
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -827,8 +827,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 390,
-            "average": 4.6358976
+            "count": 391,
+            "average": 4.6317134
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -911,8 +911,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 191,
-            "average": 4.5968585
+            "count": 193,
+            "average": 4.601036
           },
           "provider": {
             "name": "Microsoft Learn",

@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 35747,
-        "average": 4.7263827
+        "count": 35750,
+        "average": 4.7263775
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -77,8 +77,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4131,
-            "average": 4.747277
+            "count": 4132,
+            "average": 4.747338
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -207,8 +207,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1634,
-            "average": 4.728886
+            "count": 1637,
+            "average": 4.728772
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -660,8 +660,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 4131,
-        "average": 4.747277
+        "count": 4132,
+        "average": 4.747338
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1051,8 +1051,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 1634,
-        "average": 4.728886
+        "count": 1637,
+        "average": 4.728772
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1138,8 +1138,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 696,
-        "average": 4.6939654
+        "count": 697,
+        "average": 4.6944046
       },
       "provider": {
         "name": "Microsoft Learn",
