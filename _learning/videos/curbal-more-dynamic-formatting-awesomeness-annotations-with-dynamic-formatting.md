@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M45S
 publishedDateTime: 2023-04-19T13:31:08Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aRMZEfcQrdY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "v1P9XrLJWhx96zeLp/h6tzg2Pwh1Cj+LuQfPvotj66qqbRlc41BtCBqHChOrIAThbV1i88gtzwZbS5hXYRgpeZ8rULzTdpWQL9Yo/Bl+zKqqkhdXiwtobtvRdQjxoXYzm+NyzDNBzWF13W/UBwWL0dmoBV4CH31o4x3FVKBMYEGE8P9zOhKVmdnthcYIh0butd+a1SO0YrzXeSq7q6+gULEj/7A6aOCR8SvlnDL9X9Pb0ga+AU5OVg37EAb+IMFfwSiL9WkyB4LLlKHqCliZZIjEArtwlXNt5/2YVDf3gqgvt+rs490vj0HWiRf0Vx5wmntkC0s7GacrG0cWPosgZk9dtOHASKcjk8pU81VCfUlp8t5f5Fmfdwzsf5MxWy6ujHrAMdPLHjv4D3uXvevB0R92fYJ7p6QXa3QqzKHYhmU=;UvWboDXGgsupkkSnZY8gyw=="
+secured: "KIDsQ+Dz9b1+7geRyLhCy3Nu8uSenkj5o4tP/4KUmcXbrsiCO1vSlyQc6V6PUL+B95J6jmabakPzI94o9r+v+f1gL7K8fMQ9dFAWVFBqMM9e9RM31ZB47AGz3BK3xR5QEId5lE9kDYaNy6uuIOWDSaprLaJ4qeWbx+XqGeT9erDrTfzFpfP2XhFUuAczM1YkY7+mRMECLTgoAC34UzGzypuOcR8DgAduWovMciC/i8jIGBIPJkgvySi88PtGUksfnWwZzDQNAS98M3njM4ZQjhF85jjp+kYgtkeuZaSnjbdWfNoDxBGFZMKvnm+EqVROCfYHUrPmJy/iQU6qG5gaqv6GMHReD/Xtl/nFkAvmDpS3DOhwh+Wzn4fUlmHIvY7Mhn55atzHsIWX3GJ/Xd5Ytfx6+Ras/58Cq3yKyWli/TQ=;20WdIxdtX2OwXEGErw3H2A=="
 ---
 
