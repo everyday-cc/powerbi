@@ -4,23 +4,54 @@
   "page": 16,
   "value": [
     {
-      "path": "_learning/videos/enterprise-dna-main-difference-between-dax-excel-formulas-18-ultimate-beginners-guide-to-dax-2020.md",
-      "title": "Main Difference Between DAX & Excel Formulas - (1.8) Ultimate Beginners Guide to DAX 2020",
+      "path": "_learning/videos/enterprise-dna-measures-vs-calculated-columns-14-ultimate-beginners-guide-to-dax-2019.md",
+      "title": "Measures vs Calculated Columns - (1.4) Ultimate Beginners Guide to DAX 2019",
       "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-main-difference-between-dax-excel-formulas-18-ultimate-beginners-guide-to-dax-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-main-difference-between-dax-excel-formulas-18-ultimate-beginners-guide-to-dax-2020/",
-      "originalUrl": "https://youtube.com/watch?v=YOA9diAflco",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YOA9diAflco\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M30S",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-measures-vs-calculated-columns-14-ultimate-beginners-guide-to-dax-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-measures-vs-calculated-columns-14-ultimate-beginners-guide-to-dax-2019/",
+      "originalUrl": "https://youtube.com/watch?v=nJSXty9Y4tM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nJSXty9Y4tM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M59S",
       "provider": {
         "name": "Enterprise DNA",
         "domain": "enterprisedna.co"
       },
-      "publishedDateTime": "2020-05-01T03:17:22-07:00",
+      "publishedDateTime": "2018-03-05T19:22:17-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/YOA9diAflco/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/nJSXty9Y4tM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-measures-vs-calculated-columns-15-ultimate-beginners-guide-to-dax-2020.md",
+      "title": "Measures vs Calculated Columns - (1.5) Ultimate Beginners Guide to DAX 2020",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-measures-vs-calculated-columns-15-ultimate-beginners-guide-to-dax-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-measures-vs-calculated-columns-15-ultimate-beginners-guide-to-dax-2020/",
+      "originalUrl": "https://youtube.com/watch?v=5vOEktgYWM0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5vOEktgYWM0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M1S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2020-05-01T02:36:30-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5vOEktgYWM0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -221,6 +252,37 @@
       ]
     },
     {
+      "path": "_learning/videos/enterprise-dna-simple-filters-wcalculate-113-ultimate-beginners-guide-to-dax-2019.md",
+      "title": "Simple Filters w/CALCULATE - (1.13) Ultimate Beginners Guide to DAX 2019",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-simple-filters-wcalculate-113-ultimate-beginners-guide-to-dax-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-simple-filters-wcalculate-113-ultimate-beginners-guide-to-dax-2019/",
+      "originalUrl": "https://youtube.com/watch?v=awpvBSiJhAg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/awpvBSiJhAg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M44S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2018-03-05T19:22:17-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/awpvBSiJhAg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/enterprise-dna-types-of-time-intelligence-functions-117-ultimate-beginners-guide-to-dax-2020.md",
       "title": "Types Of Time Intelligence Functions - (1.17) Ultimate Beginners Guide to DAX 2020",
       "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
@@ -300,6 +362,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/dbiy9iDYdAg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-using-quick-measures-in-power-bi-117-ultimate-beginners-guide-to-dax-2019.md",
+      "title": "Using Quick Measures In Power BI - (1.17) Ultimate Beginners Guide to DAX 2019",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-using-quick-measures-in-power-bi-117-ultimate-beginners-guide-to-dax-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-using-quick-measures-in-power-bi-117-ultimate-beginners-guide-to-dax-2019/",
+      "originalUrl": "https://youtube.com/watch?v=M6iQ82K9NY0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M6iQ82K9NY0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M23S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2018-03-05T19:22:17-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/M6iQ82K9NY0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -407,37 +500,6 @@
       ]
     },
     {
-      "path": "_learning/videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginners-guide-to-dax-2020.md",
-      "title": "What Is DAX? & Why Do You Need To Learn It - (1.2)  Ultimate Beginners Guide to DAX 2020",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginners-guide-to-dax-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginners-guide-to-dax-2020/",
-      "originalUrl": "https://youtube.com/watch?v=KORVXOs44Mg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KORVXOs44Mg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M42S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2020-05-01T01:51:47-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KORVXOs44Mg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020.md",
       "title": "Where To Next - (1.21) Ultimate Beginners Guide to DAX 2020",
       "excerpt": "DOWNLOAD RESOURCES HERE https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Learn about advanced DAX functions, supporting tables, and customer segmentation.  ***** Video Details",
@@ -455,45 +517,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/n5ymKk9Rl6I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-combine-power-bi-report-tooltips-using-dax.md",
-      "title": "Combine Power BI Report Tooltips using DAX",
-      "excerpt": "In this video, Patrick shows you how to combine Power BI Report Tooltips using DAX. Just a little bit of DAX! This can be useful when you want to use a single report tooltip for multiple Power BI visuals.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-combine-power-bi-report-tooltips-using-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-combine-power-bi-report-tooltips-using-dax/",
-      "originalUrl": "https://youtube.com/watch?v=uprJM3zbzWs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uprJM3zbzWs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M29S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-05-30T07:09:01-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uprJM3zbzWs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -743,6 +766,45 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-finding-the-lowest-value-and-highlighting-in-dax-power-bi.md",
+      "title": "Finding the lowest value and highlighting in DAX | Power BI",
+      "excerpt": "Sometimes you want to highlight the lowest value in a Power BI visual. First you need to find it! Then you can highlight it. What if you want to ANIMATE it? Patrick shows you how to do just that!  ALLSELECTED() article:  https://www.sqlbi.com/articles/the-definitive-guide-to-allselected/  📢 Become a",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-finding-the-lowest-value-and-highlighting-in-dax-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-finding-the-lowest-value-and-highlighting-in-dax-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=eqO4wFZQOPc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eqO4wFZQOPc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M8S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-09-29T08:00:21-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eqO4wFZQOPc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-hex-tile-dax-and-narratives-roundup-44.md",
       "title": "Hex Tile, DAX and narratives - Roundup #44",
       "excerpt": "Jason Thomas looks at how to create a Hex Tile Grid Map in Power BI. Bill Anton looks at how you can use DAX to accomplish a logical AND. Chris Webb uses DAX to create dynamic chart titles in Power BI. And, a new Power BI custom visual is available for natural language narratives.  Hex Tile Grid Maps",
@@ -860,45 +922,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-case-too-many-rows-from-a-dax-statement.md",
-      "title": "Power BI Case: Too many rows from a DAX Statement",
-      "excerpt": "Too many rows? How is that possible? Patrick looks at a case where a customer hit an error of too many rows coming back from a DAX statement in Power BI.   📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-case-too-many-rows-from-a-dax-statement/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-case-too-many-rows-from-a-dax-statement/",
-      "originalUrl": "https://youtube.com/watch?v=3vcKgN8HxjY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3vcKgN8HxjY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M40S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-11-25T08:00:01-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3vcKgN8HxjY/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-desktop-gateway-dax-roundup-36.md",
       "title": "Power BI Desktop, Gateway, DAX - Roundup #36",
       "excerpt": "In this roundup, we had a bunch of updates for Power BI and Power BI Desktop. This included custom hierarchies, improvements to report design, and a bunch of updates for connectivity. There was an update for the enterprise gateway which included DirectQuery for Oracle and Teradata along with the ability",
@@ -1004,45 +1027,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/5Yajvi2tbls/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-premium-query-profiling-with-dax-studio-and-sql-profiler.md",
-      "title": "Power BI Premium Query Profiling with DAX Studio and SQL Profiler",
-      "excerpt": "Patrick looks at how you can use DAX Studio, or SQL Profiler, to do query profiling on Power BI Premium. This can help you debug query performance and more.  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-premium-query-profiling-with-dax-studio-and-sql-profiler/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-premium-query-profiling-with-dax-studio-and-sql-profiler/",
-      "originalUrl": "https://youtube.com/watch?v=-dqt2-xpJd4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-dqt2-xpJd4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M25S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-08-25T05:58:46-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-dqt2-xpJd4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

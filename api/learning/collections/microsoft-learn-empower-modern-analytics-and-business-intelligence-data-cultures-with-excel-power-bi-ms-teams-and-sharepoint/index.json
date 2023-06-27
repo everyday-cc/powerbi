@@ -71,7 +71,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/automate-data-cleaning-power-query-social.png",
@@ -138,8 +138,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
       "length": "PT48M",
       "ratings": {
-        "count": 433,
-        "average": 4.7505774
+        "count": 434,
+        "average": 4.751152
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -325,7 +325,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/modern-analytics-teams-social.png",
