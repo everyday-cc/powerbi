@@ -823,8 +823,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
       "length": "PT15M",
       "ratings": {
-        "count": 3636,
-        "average": 4.721947
+        "count": 3637,
+        "average": 4.7220235
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -907,8 +907,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10452,
-        "average": 4.75995
+        "count": 10453,
+        "average": 4.759782
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -949,8 +949,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 6307,
-        "average": 4.797685
+        "count": 6308,
+        "average": 4.797717
       },
       "provider": {
         "name": "Microsoft Learn",
