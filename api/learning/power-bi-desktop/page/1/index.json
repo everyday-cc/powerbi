@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 35783,
-        "average": 4.726518
+        "count": 35786,
+        "average": 4.7265134
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -203,8 +203,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1943,
-            "average": 4.71333
+            "count": 1944,
+            "average": 4.713477
           },
           "provider": {
             "name": "Microsoft Learn",
