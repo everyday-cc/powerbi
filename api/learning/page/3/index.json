@@ -117,8 +117,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 7941,
-        "average": 4.761869
+        "count": 7942,
+        "average": 4.761899
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -374,8 +374,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4684,
-            "average": 4.6739964
+            "count": 4685,
+            "average": 4.674066
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -842,8 +842,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1642,
-            "average": 4.72838
+            "count": 1643,
+            "average": 4.728545
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1448,8 +1448,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1942,
-            "average": 4.7131824
+            "count": 1943,
+            "average": 4.71333
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1491,8 +1491,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1642,
-            "average": 4.72838
+            "count": 1643,
+            "average": 4.728545
           },
           "provider": {
             "name": "Microsoft Learn",

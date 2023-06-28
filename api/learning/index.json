@@ -323,8 +323,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 66353,
-            "average": 4.79597
+            "count": 66357,
+            "average": 4.7959824
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -365,8 +365,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 93825,
-            "average": 4.7783
+            "count": 93830,
+            "average": 4.7782907
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -425,8 +425,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 93825,
-        "average": 4.7783
+        "count": 93830,
+        "average": 4.7782907
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -460,54 +460,15 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-219-index-function.md",
-      "title": "DAX Fridays #219: INDEX function",
-      "excerpt": "A refresher of the difference between INDEX, WINDOW and OFFSET and a deeper dive into INDEX function. Offset functions: https://youtu.be/tSREqpagte4  Window functions: https://youtu.be/2Qa0XEqRzYU  25 days of DAX Fridays challenge: https://curbal.com/25-days-of-dax-fridays-challenge  Join this channel",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-219-index-function/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-219-index-function/",
-      "originalUrl": "https://youtube.com/watch?v=T9kNng75-Mw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/T9kNng75-Mw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M38S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-05-02T03:26:43-07:00",
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/T9kNng75-Mw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-get-started-kusto-fabric.md",
-      "title": "Get started with Real-Time Analytics in Microsoft Fabric",
-      "excerpt": "Get started with Real-Time Analytics in Microsoft Fabric",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-started-kusto-fabric/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-kusto-fabric/",
-      "length": "PT53M",
+      "path": "_learning/courses/microsoft-learn-intro-power-platform.md",
+      "title": "Power Platform - Introduction, business value, and demos",
+      "excerpt": "Explore the capabilities of Power Platform applications, as seen in demonstrations and customer case studies.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-intro-power-platform/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-power-platform-mba/",
+      "length": "PT35M",
       "ratings": {
-        "count": 20,
-        "average": 4.85
+        "count": 3921,
+        "average": 4.7413926
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -527,9 +488,9 @@
       "heat": 131,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-power-platform-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -541,15 +502,53 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-workplace-analytics-teams-insights.md",
-      "title": "Measure Teams collaboration with the Microsoft Teams insights dashboard in Power BI through Workplace Analytics with Viva Insights",
-      "excerpt": "Learn how to prepare and generate actionable data by using Workplace Analytics with Viva Insights and the Teams insights dashboard in Power BI.  Analyze Microsoft Teams adoption trends from the populated Power BI reports.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-workplace-analytics-teams-insights/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/workplace-analytics-teams-insights/",
-      "length": "PT28M",
+      "path": "_learning/videos/guy-in-a-cube-dont-miss-out-of-microsoft-build-powerbi.md",
+      "title": "Don’t miss out of Microsoft Build! #powerbi",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-dont-miss-out-of-microsoft-build-powerbi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-dont-miss-out-of-microsoft-build-powerbi/",
+      "originalUrl": "https://youtube.com/watch?v=TprbclJaSJU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TprbclJaSJU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT53S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-05-22T14:21:58-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TprbclJaSJU/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBQKEUwDw==&rs=AOn4CLDwPhQE5ZAAtmTbgSCd6r-KmrkbAw",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-power-bi-tableau-data-connectivity.md",
+      "title": "Connect data to Power BI for Tableau users",
+      "excerpt": "This module provides the foundational information needed to connect to your data confidently with the new platform.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-tableau-data-connectivity/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-data-connectivity/",
+      "length": "PT50M",
       "ratings": {
-        "count": 118,
-        "average": 4.618644
+        "count": 142,
+        "average": 4.6549296
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -564,14 +563,14 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/measure-teams-collaboration-with-the-teams-insights-dashboard-in-workplace-analytics-social.png",
-          "width": 643,
-          "height": 322,
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-data-connectivity-social.png",
+          "width": 1280,
+          "height": 641,
           "isCached": true
         }
       ],
@@ -742,8 +741,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 66353,
-        "average": 4.79597
+        "count": 66357,
+        "average": 4.7959824
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1227,8 +1226,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 22470,
-            "average": 4.7532268
+            "count": 22472,
+            "average": 4.7532487
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1303,8 +1302,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 93825,
-            "average": 4.7783
+            "count": 93830,
+            "average": 4.7782907
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1363,8 +1362,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 22470,
-        "average": 4.7532268
+        "count": 22472,
+        "average": 4.7532487
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1467,8 +1466,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 93825,
-            "average": 4.7783
+            "count": 93830,
+            "average": 4.7782907
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1552,8 +1551,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16589,
-            "average": 4.7227077
+            "count": 16590,
+            "average": 4.7227244
           },
           "provider": {
             "name": "Microsoft Learn",

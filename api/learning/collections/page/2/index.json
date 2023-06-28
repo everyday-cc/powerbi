@@ -454,8 +454,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1151,
-            "average": 4.7827973
+            "count": 1152,
+            "average": 4.782986
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -496,8 +496,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 794,
-            "average": 4.775819
+            "count": 796,
+            "average": 4.776382
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -664,8 +664,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1151,
-            "average": 4.7827973
+            "count": 1152,
+            "average": 4.782986
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -706,8 +706,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 794,
-            "average": 4.775819
+            "count": 796,
+            "average": 4.776382
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4465,7 +4465,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-data-connectivity-social.png",
@@ -5108,8 +5108,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2275,
-            "average": 4.7498903
+            "count": 2276,
+            "average": 4.75
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5191,8 +5191,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 918,
-            "average": 4.7494555
+            "count": 919,
+            "average": 4.749728
           },
           "provider": {
             "name": "Microsoft Learn",

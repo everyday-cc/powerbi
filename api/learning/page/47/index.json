@@ -902,8 +902,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-scalability-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 134,
-            "average": 4.783582
+            "count": 135,
+            "average": 4.7851853
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1246,8 +1246,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 794,
-        "average": 4.775819
+        "count": 796,
+        "average": 4.776382
       },
       "provider": {
         "name": "Microsoft Learn",
