@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT19M7S
 publishedDateTime: 2018-11-16T13:50:34Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sSUCyps_1O4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "+SFwrfX8HZXKvgD3DYTr+K+IXb1P1+Vngm2BzeweSBNGlSQ6lg8JxnI6gbxK8ckAy//asJsDcVCe0Yi1B7RjphL0FmVaOk8A8S2J8f8mSX1DYl/Q8H7ky/8jqnpzkID+E1cSaEgiN9Km11fXzcuYIbswB0ZGQ4+i+0Ued6Yu8MIv0FWmo8zsyg6FPXcEYfj2cQRTVCtEbMwZjFtb/PnXlOOldduH5BomBu4ci/8cckPoUSjgidPSL32x+ZvfPUOcUhZeqQKavljv8gwEdr7tywsNulPRXjuEcj3AM8oZLq07Xo3b5zucapohWPsNPmv2sBvSQDXgpkAcIoNGzwDfy0nRqZWMLIeP4WL2QNmNxlVJozpRQRYS8yk8bdri7WKeSx/f9R82m7Kh4mfpCe4qQiaDB8yenlwack3YTJ/hmOA=;LkGZAK01O3p1F361RF3Llg=="
+secured: "s8bpn4SSsycW4zLdrlzaTnQuHsZyGAK0J6af//jObKq+CYm7r+tL3NB7Kht+bEJpYe5HqBHGToro71NOcKo3feeEkgpbDds5J0fRzIy4IYsoeohowpo/okpgctLmZTvgyxR2ZEUsvzo4AprWGaqXUqPBM9wF0s3y/eTLm1r7rwpc8vju1yK0+a/eD4fqRR/NxZ8daM1xzXs+ZQkcuaoFrqNE50JMZY27wPPAg+6Woic00Ao9eBixhUmvNMOr26RngtdYywFAdl5Z4xyG9eL0Nros/VE3f70G4Dxg6DFl2htsZi6TZm+6upPImFvhkVqrJAZWrvdPzzUiUtfFPcSRGDa0I/H1l4U10jTZyKrdYny0ZjoAtDSlw1wgG/pm8ox9I0Eprc1AIp9KJTCfgwple2Od1OCPqGBud9CRWIEI4yM=;AgPFmBC+d9dQn6XSMeAY8A=="
 ---
 

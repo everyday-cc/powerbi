@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M28S
 publishedDateTime: 2018-09-05T10:55:17Z
-heat: 54
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2BxaUXlx3K4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "NXAEB2LA/Ts5gXRkWkWnJCc4QiDtNGygGus+FSt0z8rsa5c5j7ZL3Tpg22yvFifznNRPn40DD6/dWHNprmtQ38N6bwm6tNmXJEmgfDZfNzV3JZiLn6VXwBATDBm3BO9s38tJUQbu3nuzuDY30SbzQ16igkqmYW9pOsgFGbANihrCUhtYhh0vPYLksnWMkQ1FKS72BEs12+XwB9kNrvzmIhNjcg649MjwGt80UAlrg0eec1A7tKr+/RyY/pSpWMBTVhzUl5h1w4OgVdJ5P/eONuswkQaP4Vf7S2i8K6sLzWewrQTYTk/xZVF7Y8Kf7iAOpQvPB2ayHQzplV8Eu61LcgIDKdgmSBhnoicxHrPgV4JMiKFR9Bbg6kkvL37SqMvpuSSAWHGjP8egfZXHxVNpj5kWXAoo0FI7ULyRDGH8kf8=;gyFuiK4QK9dnA8d2jTptHw=="
+secured: "MdC+qqhL32SUV/v0c1sdz7vkRzV9ANPaHnDLoeXmo61mVe5zvNKamluh+VJjTL44JWkq9l8M5IlKoV2ZS+ovYRHb4qC67eYyLU2znoGWY+WFYVSra8VvGj34XZSGPdoGcUFnULJGEAzYQhQJ7HbHlEZ0kq3S/ysJA7+TIc6WgT9txe0IfaOJKqTOY+VDcu95nUCzJqrcJotJKcOwNovx/PejTof5ldoUMZrA6Z1L4nN9OsJJcbJdGxEd5NOALYju3c1aBIBWFqp4Xc9CrHOyii3sCgV4m4KJxwJ7ksAv6IYh9VJojmfe8o71T7PZgam80GyYnzVO9OdQVLlxauDozL7xevZRGqSnW9rm5lYrZjJGq3It8fKlMBvlZ/pHiXezMMCqef2inZcM32oP6L1a/4FO8nEf0s7nN/uxSfxdTQ4=;OAr85pH6dabwxTlF5zRy1g=="
 ---
 
