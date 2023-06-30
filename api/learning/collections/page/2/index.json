@@ -2220,8 +2220,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 397,
-            "average": 4.634761
+            "count": 400,
+            "average": 4.6375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2262,8 +2262,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 281,
-            "average": 4.6690392
+            "count": 283,
+            "average": 4.671378
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2471,8 +2471,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 196,
-            "average": 4.607143
+            "count": 198,
+            "average": 4.611111
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2680,8 +2680,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 196,
-            "average": 4.607143
+            "count": 198,
+            "average": 4.611111
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4697,8 +4697,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3471,
-            "average": 4.7107463
+            "count": 3473,
+            "average": 4.7109127
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4739,8 +4739,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 6358,
-            "average": 4.715005
+            "count": 6360,
+            "average": 4.7150946
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4840,7 +4840,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 148,
+          "heat": 68,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -4898,8 +4898,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2293,
-            "average": 4.7509813
+            "count": 2294,
+            "average": 4.7510896
           },
           "provider": {
             "name": "Microsoft Learn",
