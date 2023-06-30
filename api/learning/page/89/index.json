@@ -4,36 +4,6 @@
   "page": 89,
   "value": [
     {
-      "path": "_learning/videos/learn-power-bi-new-year-resolution-create-365-new-videosnot-vlog.md",
-      "title": "New Year Resolution: Create 365 New Videos...Not! (Vlog)",
-      "excerpt": "FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus 👉 Download Lesson PBIX Files at http://www.learnpowerbi.com/bonus-download ✅ Subscribe to always get my latest videos: https://goo.gl/P79Hcr 👪 Join our Facebook Group https://www.facebook.com/groups/talkpowerbi ===Most Popular Playlists===",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-new-year-resolution-create-365-new-videosnot-vlog/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-new-year-resolution-create-365-new-videosnot-vlog/",
-      "originalUrl": "https://youtube.com/watch?v=2Z5cQL1p1wE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2Z5cQL1p1wE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M19S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-11-18T16:01:58-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2Z5cQL1p1wE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-power-bi-5-day-challenge-starts-fri-mar-23rd.md",
       "title": "Power BI 5-Day Challenge! Starts Fri Mar 23rd",
       "excerpt": "Join me in a 5-Day Challenge to build your first (or next) Power BI Dashboard. Accept the challenge at 👉 http://www.learnpowerbi.com/challenge  ⚡Power On!⚡ -Avi Singh / Powerbipro / Microsoft MVP",
@@ -141,6 +111,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ZIzulzDadp8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-calendar-table-challenge-creating-a-film-calendar-.md",
+      "title": "Power BI Calendar Table Challenge: Creating a Film Calendar 🎬",
+      "excerpt": "👉 Download the Power BI files https://www.LearnPowerBI.com/download 👉 Ask Power BI Questions: https://www.LearnPowerBI.com/question 👉 Get Power BI Training: https://www.LearnPowerBI.com/training 👉 Get Power Advance BI Training: https://www.LearnPowerBI.com/advance  You already know how to create",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-calendar-table-challenge-creating-a-film-calendar-/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-calendar-table-challenge-creating-a-film-calendar-/",
+      "originalUrl": "https://youtube.com/watch?v=azA5lbw-98A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/azA5lbw-98A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M51S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2023-04-19T09:00:02-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/azA5lbw-98A/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
