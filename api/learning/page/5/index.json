@@ -1590,8 +1590,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 711,
-            "average": 4.772152
+            "count": 712,
+            "average": 4.772472
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1749,8 +1749,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1321,
-            "average": 4.7759275
+            "count": 1322,
+            "average": 4.776097
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2404,8 +2404,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 3440,
-        "average": 4.681686
+        "count": 3441,
+        "average": 4.6817784
       },
       "provider": {
         "name": "Microsoft Learn",
