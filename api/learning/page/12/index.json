@@ -975,7 +975,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 68,
+          "heat": 148,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1033,8 +1033,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2294,
-            "average": 4.7510896
+            "count": 2295,
+            "average": 4.7511983
           },
           "provider": {
             "name": "Microsoft Learn",
