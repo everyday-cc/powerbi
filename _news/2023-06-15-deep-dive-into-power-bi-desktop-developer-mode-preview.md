@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/deep-dive-into-power-bi-d
 webUrl: "https://powerbi.microsoft.com/en-us/blog/deep-dive-into-power-bi-desktop-developer-mode-preview/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:
