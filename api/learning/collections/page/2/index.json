@@ -4447,8 +4447,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4726,
-            "average": 4.6739316
+            "count": 4728,
+            "average": 4.6740694
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4840,7 +4840,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 148,
+          "heat": 68,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
