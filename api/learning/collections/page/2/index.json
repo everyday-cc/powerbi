@@ -3275,7 +3275,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-data-connectivity-social.png",
@@ -4529,8 +4529,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4735,
-            "average": 4.6737065
+            "count": 4736,
+            "average": 4.673775
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4779,8 +4779,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12701,
-            "average": 4.6826234
+            "count": 12702,
+            "average": 4.682648
           },
           "provider": {
             "name": "Microsoft Learn",
