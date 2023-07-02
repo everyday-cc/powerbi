@@ -2839,8 +2839,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-select/",
           "length": "PT29M",
           "ratings": {
-            "count": 91,
-            "average": 4.8461537
+            "count": 92,
+            "average": 4.847826
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2881,8 +2881,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-permissions-content/",
           "length": "PT33M",
           "ratings": {
-            "count": 69,
-            "average": 4.869565
+            "count": 70,
+            "average": 4.8714285
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2923,8 +2923,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-content/",
           "length": "PT31M",
           "ratings": {
-            "count": 49,
-            "average": 4.8163266
+            "count": 50,
+            "average": 4.82
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4571,8 +4571,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6839,
-            "average": 4.701272
+            "count": 6840,
+            "average": 4.701316
           },
           "provider": {
             "name": "Microsoft Learn",
