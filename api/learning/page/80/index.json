@@ -4,44 +4,6 @@
   "page": 80,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-powerpoint-auditing-onedrive-and-more-roundup-59.md",
-      "title": "PowerPoint, Auditing, OneDrive and more... - Roundup #59",
-      "excerpt": "I was out last week, but am back! This week we had some information on how to use OneDrive for Business with Power BI, using Power BI inside of PowerPoint along with service updates for Power BI including the new Javascript API.  Get Data From OneDrive for Business (@kpuls) http://www.excelguru.ca/blog/2016/09/07/get-data-from-onedrive-for-business/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-powerpoint-auditing-onedrive-and-more-roundup-59/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-powerpoint-auditing-onedrive-and-more-roundup-59/",
-      "originalUrl": "https://youtube.com/watch?v=Z-dktbXZR2g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z-dktbXZR2g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M15S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-09-08T11:30:50-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Z-dktbXZR2g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-provide-data-lake-access-with-azure-synapse-analytics.md",
       "title": "Provide data lake access with Azure Synapse Analytics",
       "excerpt": "Using a lake database with Azure Synapse Analytics and struggling to figure out permissions needed for your data readers? Patrick and Adam show you what's missing!  Azure Synapse Access Control https://learn.microsoft.com/azure/synapse-analytics/security/synapse-workspace-access-control-overview  How",
@@ -1143,6 +1105,45 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-roundup-28-content-pack-power-bi-desktop-update-a-book-and-more.md",
+      "title": "Roundup #28 (Content Pack, Power BI Desktop update, a book and more...)",
+      "excerpt": "Analyze your Office365Mon data in Power BI http://blogs.msdn.com/b/powerbi/archive/2015/12/11/analyze-your-office365mon-data-in-power-bi.aspx  Power BI Weekly Service Update http://blogs.msdn.com/b/powerbi/archive/2015/12/10/power-bi-weekly-service-update-1210.aspx  More Power BI Feature Updates: Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-roundup-28-content-pack-power-bi-desktop-update-a-book-and-more/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-roundup-28-content-pack-power-bi-desktop-update-a-book-and-more/",
+      "originalUrl": "https://youtube.com/watch?v=FS77i5v7nBs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FS77i5v7nBs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M25S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2015-12-17T06:25:06-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FS77i5v7nBs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
       ]
     }
   ],
