@@ -1031,8 +1031,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2987,
-            "average": 4.724138
+            "count": 2988,
+            "average": 4.7242303
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2516,8 +2516,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4184,
-            "average": 4.747132
+            "count": 4186,
+            "average": 4.747253
           },
           "provider": {
             "name": "Microsoft Learn",
