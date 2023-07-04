@@ -72,7 +72,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 130,
+      "heat": 50,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/choose-power-bi-model-framework-social.png",
@@ -96,8 +96,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 11638,
-        "average": 4.7423096
+        "count": 11639,
+        "average": 4.742332
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -268,8 +268,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1537,
-        "average": 4.7436566
+        "count": 1538,
+        "average": 4.743823
       },
       "provider": {
         "name": "Microsoft Learn",
