@@ -7,7 +7,7 @@ price: Free
 length: PT12M
 ratings:
   count: 709
-  average: 4.6882935
+  average: 4.6953454
 heat: 50
 
 provider:

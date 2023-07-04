@@ -301,7 +301,7 @@
       "length": "PT12M",
       "ratings": {
         "count": 709,
-        "average": 4.6882935
+        "average": 4.6953454
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -476,8 +476,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-interactive-experiences/",
       "length": "PT56M",
       "ratings": {
-        "count": 305,
-        "average": 4.685246
+        "count": 306,
+        "average": 4.6862745
       },
       "provider": {
         "name": "Microsoft Learn",

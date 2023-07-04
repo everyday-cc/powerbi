@@ -420,8 +420,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 809,
-        "average": 4.7799754
+        "count": 810,
+        "average": 4.7802467
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -463,8 +463,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-ml-model-with-azure-stream-analytics/",
       "length": "PT1H22M",
       "ratings": {
-        "count": 371,
-        "average": 4.695418
+        "count": 372,
+        "average": 4.6962366
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1004,7 +1004,7 @@
       "length": "PT12M",
       "ratings": {
         "count": 709,
-        "average": 4.6882935
+        "average": 4.6953454
       },
       "provider": {
         "name": "Microsoft Learn",
