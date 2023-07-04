@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M20S
 publishedDateTime: 2021-07-28T15:00:30Z
-heat: 51
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZaZyR3-1ru4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "M9J9DoQ0F3vTiogL8QehKQQlCsP4quTGDPKh5mZsYKlKBMIVCgon6D0wzP5Qk/MQCNGqXjMDXQMoHVss40c/EaDUip0E1X6yO+N49d2HZMpWVzAfKsqY+5UzSch0alq7gB1dlgHyOgulJrpal51bhqBQBuXe2mwvDKDhIEQQIvqskGD9q+YUyh2modsVlv5LERaxg6c5gLq5qncZwII6KlUr58EACkgnoR3hQ7hnp+h6aiN35vQleyZZds2iSe+B5kJhJt+j/KgJ0ZgmLc7W9s6bWlYJg+k+moHImtT6Y0Ci1CJoUBi5voMnoJsOPfZ//FZRQmBcTEbp0opE04QgGL0z2pETnqSLdROy5baJEMOHl4HbLdtKkzpD866WGbVsnG9bGwmbIHJ500cb3Gz0XQuDGpoELo0KF1+C36dLl5A=;ktaKckHc67pFt9w5grearQ=="
+secured: "N+xMwayKndDll/NdOx9sf0beJ0jiW7Pkjp/yV9uW3f9FkQfNQ7CXfHCNGbNUfhQJLAnzGyXtLaZo5foFhZnKcBDWe11Ynn1GBe8kIq2IpATAAjeLocdADja/H/XOUZOkIWr1X3PGNibPeRI6KSOx8ttu8a418++zZokjBvVAUmRW9HTWktsyGnKUNIDzc+3pKW3SaceWOiFdSn/SeKNKeAVHYsjyWEkW2d82DTiDT+8lCSSy8xQ6xDc5+dew5OIBRgwPRzLQEYNvu+e5t3hCe8e8f9NEFJKeUtSGGDqCTmno5uQY4jBf3vhq9ZCvW8Hj6GuVVgztK5ojjVqBVsUfGWBUguYjtJpSloax9o40A4PW8PdEyf5Yp9kIgcGxxHUZH1iFSOlHhxIRyMS7nmLE6tyBaa0cQ6Jy0VzmkWAjx+I=;K5As28LE7fataRbeEh3r4Q=="
 ---
 
