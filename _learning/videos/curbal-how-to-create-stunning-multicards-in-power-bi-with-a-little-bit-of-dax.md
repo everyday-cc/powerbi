@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M28S
 publishedDateTime: 2022-03-03T11:47:20Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IDCcGiRvk2g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "5f8cwiJunbIMzlE1Nrx/Ot2HGX67JDQ+sJBtGelsEbCt/NcxN5kMA9AdrfV578lLMrQBODTZgTmjc1rdLS/ix96Ce0pIVoty8b3pD4+3na1PoDsFZWOgBdqNmB4W97kFu0rvmnRjfa6A/6czsypClzdJIqnJ3xL+f2IARq1YOVnF7ZhWQJBTmRscgT9jvm3UYFwjGHSK4t07PRdHLI3t6T6JP/DyYneoCxVmhFAMFsrlDPrsruHOJUB3ULRkbQrwINo6vYbh5gBO9bWOZIxWyGZMWmeBolixdiyfMDH2hUSh0qI6qry5OCg1DhgitH/O/SEq8I6hjomxBNLK1s028bhnLk+QlxX328uq8kMvoRgrN//xya6inc0Bhz58K2TSgsAVGL7Gbv6Ro7dgjZmpHjIPck5HmvMsVEQWKmnxu6w=;qrX5Bzs4/5jMzWHhF4NYUw=="
+secured: "Y01xGzxiiNoia+nvhCfv2K+zNBPqmxnQyRl53uzWEQEO5kFb1uw1/BL2fspZE8/N0Q2OpvLRrGF4T4yz3DCajgOCWBaU+tPjXQa2dsXcpRJJKTCtggt9+siqOFmqxcBxcRaKPt5VQ9Dq5gAyDuBRoJwqnfu/TmAPklZgUNjCS8FMb8jIlvEhKPnVv+6SRKCaQjfHy4Gn1g/EfP+n34Jp6D2apn3npXtBAOMK4CYi7A+Gebjzz5W1EgmFu39N/tbV9MxXzMV3DQvHsGKFTTNpYdhUTS3bEPFLo4yy0jiFCftMzakQvu+FV9T3FgmkhPP6fbzWBP8QSACMvDQvuZ/zz4tvT5Y0RCM3tjtvCa7nW4aYW04d6KXK7N89rn98shAar4mwv89kRx8ijIiHnVcEj/1gH7FM9H2KhMPqq11XCfs=;HVgdMenZU39Nex4c3Exhyg=="
 ---
 
