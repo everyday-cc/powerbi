@@ -2710,8 +2710,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 159,
-            "average": 4.8553457
+            "count": 160,
+            "average": 4.85
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2793,8 +2793,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 112,
-            "average": 4.732143
+            "count": 113,
+            "average": 4.7256637
           },
           "provider": {
             "name": "Microsoft Learn",
