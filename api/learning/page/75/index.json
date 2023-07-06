@@ -4,6 +4,82 @@
   "page": 75,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-are-you-mobile.md",
+      "title": "Are you mobile?",
+      "excerpt": "I take a look at the different mobile apps for Power BI. From the iOS apps (for iPhone and iPad), to Android and the new Windows 10 Universal App.  You can also connect to an on-premises Reporting Services server to look at mobile reports.  Spud Trooper and Darth Potato are there to help!  SUBSCRIBE!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-are-you-mobile/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-are-you-mobile/",
+      "originalUrl": "https://youtube.com/watch?v=PNFCmozZFoU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PNFCmozZFoU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M2S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-02-02T07:11:02-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PNFCmozZFoU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-are-you-using-your-licenses-correct-see-where-azure-hybrid-benefits-can-help.md",
+      "title": "Are you using your licenses correct? See where Azure Hybrid Benefits can help!",
+      "excerpt": "If you are moving your on-premises SQL Servers to the cloud, and/or if you have a mix of Azure SQL, Managed Instance and on-prem, make sure you are licensing correctly with Azure Hybrid Benefits. Shashank shows us how!  Azure Hybrid Benefit https://azure.microsoft.com/pricing/hybrid-benefit/  Azure Hybrid",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-are-you-using-your-licenses-correct-see-where-azure-hybrid-benefits-can-help/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-are-you-using-your-licenses-correct-see-where-azure-hybrid-benefits-can-help/",
+      "originalUrl": "https://youtube.com/watch?v=m2lYsQ9t-5k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m2lYsQ9t-5k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M15S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-05-16T08:00:28-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/m2lYsQ9t-5k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse.md",
       "title": "Art of the Possible with Power Platform and Azure Synapse",
       "excerpt": "What happens when you combine Power BI, Power Apps and Azure Synapse Analytics? MAGIC! Join Gaston Cruz as he shows a way to bring the Power Platform together with Azure Synapse!  Gaston Cruz https://twitter.com/GastonFCruz https://www.linkedin.com/in/gastoncruz/  📢 Become a member: https://guyinacu.be/membership",
@@ -1070,82 +1146,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-contest-winners-r-maps-data-modeling-roundup-35.md",
-      "title": "Contest Winners, R Maps, Data Modeling - Roundup #35",
-      "excerpt": "Adam Saxton is a Microsoft employee working on Business Intelligence products.  The Power BI report contest winners were announced! Get a quick start with R Map visualizations. A look at how to get started with SQL 2016. And, some data modeling tips.  Meet the Winners of the Best Report Contest https://powerbi.microsoft.com/en-us/blog/meet-the-winners-of-the-best-report-contest/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-contest-winners-r-maps-data-modeling-roundup-35/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-contest-winners-r-maps-data-modeling-roundup-35/",
-      "originalUrl": "https://youtube.com/watch?v=Y_GNOizUsvM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y_GNOizUsvM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M24S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-02-18T07:40:01-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Y_GNOizUsvM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-continuing-the-t-sql-journey-with-over-and-rank.md",
-      "title": "Continuing the T-SQL journey with OVER and RANK",
-      "excerpt": "Continuing our T-SQL journey, Patrick explores the use of the OVER and RANK functions in combination with common table expressions (CTE) in Azure SQL Database and Azure Synapse Analytics.  RANK (Transact-SQL) https://learn.microsoft.com/sql/t-sql/functions/rank-transact-sql?view=sql-server-ver16  SELECT",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-continuing-the-t-sql-journey-with-over-and-rank/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-continuing-the-t-sql-journey-with-over-and-rank/",
-      "originalUrl": "https://youtube.com/watch?v=ZKvpiOnwAK4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZKvpiOnwAK4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M53S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-02-07T08:00:30-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZKvpiOnwAK4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],

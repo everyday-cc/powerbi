@@ -180,44 +180,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-chatgpt-blew-my-mind-with-this-power-bi-scenario.md",
-      "title": "ChatGPT blew my mind with this Power BI scenario",
-      "excerpt": "Our minds were blown by this ChatGPT example for Power BI from our friends Stephanie Bruno and Shannon Lindsay! Use ChatGPT to help get you pointed in the right direction and with a faster solution.  Power BI datasets CI/CD (the easy-ish way) https://data-witches.com/2023/03/31/power-bi-datasets-ci-cd-the-easy-ish-way/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-chatgpt-blew-my-mind-with-this-power-bi-scenario/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-chatgpt-blew-my-mind-with-this-power-bi-scenario/",
-      "originalUrl": "https://youtube.com/watch?v=K6DpOJM6b7E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K6DpOJM6b7E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M52S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-04-20T08:00:19-07:00",
-      "heat": 150,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/K6DpOJM6b7E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-get-started-with-microsoft-data-analytics.md",
       "title": "Get started with Microsoft data analytics",
       "excerpt": "Businesses need data analysis more than ever. In this learning path, you will learn about the life and journey of a data analyst, the skills, tasks, and processes they go through in order to tell a story with data so trusted business decisions can be made. You will learn how the suite of Power BI tools and services are used by a data analyst to tell a compelling story through reports and dashboards, and the need to true BI in the enterprise.",
@@ -248,8 +210,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 67050,
-            "average": 4.796033
+            "count": 67061,
+            "average": 4.7960362
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -290,8 +252,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 95019,
-            "average": 4.7781496
+            "count": 95036,
+            "average": 4.778147
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -350,8 +312,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 95019,
-        "average": 4.7781496
+        "count": 95036,
+        "average": 4.778147
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -612,14 +574,45 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-what-does-microsoft-fabric-mean-for-guy-in-a-cube.md",
-      "title": "What does Microsoft Fabric mean for Guy in a Cube?",
-      "excerpt": "Very excited that Microsoft Fabic has hit Public preview! But what does that mean for Guy in a Cube? Is Guy in a Cube going to cover Microsoft Fabric?   Blog: https://azure.microsoft.com/blog/introducing-microsoft-fabric-data-analytics-for-the-era-of-ai/  Blog: https://powerbi.microsoft.com/blog/introducing-microsoft-fabric-and-copilot-in-microsoft-power-bi/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-does-microsoft-fabric-mean-for-guy-in-a-cube/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-does-microsoft-fabric-mean-for-guy-in-a-cube/",
-      "originalUrl": "https://youtube.com/watch?v=6QusOchmSXQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6QusOchmSXQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M1S",
+      "path": "_learning/videos/learn-power-bi-power-bi-combining-hotel-price-sheets-using-power-query.md",
+      "title": "Power BI: Combining Hotel Price Sheets 💲 Using Power Query",
+      "excerpt": "👉 Download the Power BI files https://www.LearnPowerBI.com/download 👉 Ask Power BI Questions: https://www.LearnPowerBI.com/question 👉 Get Power BI Training: https://www.LearnPowerBI.com/training 👉 Get Power Advance BI Training: https://www.LearnPowerBI.com/advance  ================================",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-combining-hotel-price-sheets-using-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-combining-hotel-price-sheets-using-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=jli55mHeyo0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jli55mHeyo0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M20S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2023-05-24T09:00:35-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jli55mHeyo0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-controlling-cost-with-azure-synapse-serverless-pools.md",
+      "title": "Controlling cost with Azure Synapse Serverless Pools",
+      "excerpt": "Curious how to save cost when using Azure Synapse Serverless Pools? Any way to minimize the amount of data you are processing? Patrick shows you how and has a script for you!  Cost management for serverless SQL pool in Azure Synapse Analytics https://learn.microsoft.com/azure/synapse-analytics/sql/data-processed",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-controlling-cost-with-azure-synapse-serverless-pools/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-controlling-cost-with-azure-synapse-serverless-pools/",
+      "originalUrl": "https://youtube.com/watch?v=AbiYgh9RD2U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AbiYgh9RD2U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M12S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -632,11 +625,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-05-25T07:00:05-07:00",
-      "heat": 134,
+      "publishedDateTime": "2023-05-09T08:00:07-07:00",
+      "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/6QusOchmSXQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/AbiYgh9RD2U/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -650,31 +643,31 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-220-selectedmeasure-function.md",
-      "title": "DAX Fridays #220: SELECTEDMEASURE function",
-      "excerpt": "Now that calculation groups are making its way into Power BI desktop, it is time to cover SELECTEDMEASURE  Blog post here: https://curbal.com/blog/glossary/selectedmeasure  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-220-selectedmeasure-function/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-220-selectedmeasure-function/",
-      "originalUrl": "https://youtube.com/watch?v=_F4MwolGrmg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_F4MwolGrmg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M34S",
+      "path": "_learning/videos/guy-in-a-cube-microsoft-fabric-discussion-may-2023-social-hour.md",
+      "title": "🔴 Microsoft Fabric Discussion - May 2023 Social Hour",
+      "excerpt": "Join us live as we recap Power BI and Azure Data announcements made at Microsoft Build - May 2023. With special guest, Stephanie Bruno, Jason Himmelstein and John White!  Microsoft Build: https://powerbi.microsoft.com/en-us/blog/microsoft-digital-event-may-24-25/  Connect with Stephanie Bruno https://twitter.com/StephTBruno",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-microsoft-fabric-discussion-may-2023-social-hour/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-microsoft-fabric-discussion-may-2023-social-hour/",
+      "originalUrl": "https://youtube.com/watch?v=tMx3rhl43b4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tMx3rhl43b4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "P0D",
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2023-04-27T03:47:58-07:00",
-      "heat": 132,
+      "publishedDateTime": "2023-05-15T05:04:23-07:00",
+      "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/_F4MwolGrmg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/tMx3rhl43b4/maxresdefault_live.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -684,8 +677,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
@@ -734,8 +726,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 67050,
-        "average": 4.796033
+        "count": 67061,
+        "average": 4.7960362
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1030,8 +1022,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 22953,
-            "average": 4.7532783
+            "count": 22958,
+            "average": 4.753332
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1106,8 +1098,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 95019,
-            "average": 4.7781496
+            "count": 95036,
+            "average": 4.778147
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1166,8 +1158,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 22953,
-        "average": 4.7532783
+        "count": 22958,
+        "average": 4.753332
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1339,8 +1331,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 95019,
-            "average": 4.7781496
+            "count": 95036,
+            "average": 4.778147
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1381,8 +1373,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 36017,
-            "average": 4.7272677
+            "count": 36022,
+            "average": 4.7273054
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1424,8 +1416,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16679,
-            "average": 4.723005
+            "count": 16681,
+            "average": 4.723038
           },
           "provider": {
             "name": "Microsoft Learn",

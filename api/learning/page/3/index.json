@@ -856,8 +856,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 422,
-            "average": 4.687204
+            "count": 423,
+            "average": 4.6879435
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -898,8 +898,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 11685,
-            "average": 4.7424903
+            "count": 11692,
+            "average": 4.742559
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1216,6 +1216,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-chatgpt-blew-my-mind-with-this-power-bi-scenario.md",
+      "title": "ChatGPT blew my mind with this Power BI scenario",
+      "excerpt": "Our minds were blown by this ChatGPT example for Power BI from our friends Stephanie Bruno and Shannon Lindsay! Use ChatGPT to help get you pointed in the right direction and with a faster solution.  Power BI datasets CI/CD (the easy-ish way) https://data-witches.com/2023/03/31/power-bi-datasets-ci-cd-the-easy-ish-way/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-chatgpt-blew-my-mind-with-this-power-bi-scenario/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-chatgpt-blew-my-mind-with-this-power-bi-scenario/",
+      "originalUrl": "https://youtube.com/watch?v=K6DpOJM6b7E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K6DpOJM6b7E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M52S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-04-20T08:00:19-07:00",
+      "heat": 70,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/K6DpOJM6b7E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-slicers-vs-filters-which-will-you-choose.md",
       "title": "Power BI Slicers vs Filters - which will you choose?",
       "excerpt": "Adam picks up on David Eldersveld's blog about Power BI slicers versus filters and looks at if slicers are even needed now. The filter pane can satisfy a majority of scenarios. There are a few that it can't. Which Power BI feature will you choose?  David Eldersveld blog - https://dataveld.com/2019/01/18/are-power-bi-slicers-still-relevant-with-the-new-filter-pane/",
@@ -1261,8 +1299,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 11685,
-        "average": 4.7424903
+        "count": 11692,
+        "average": 4.742559
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1397,44 +1435,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Pdbc_Q7pnD8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-help-your-power-bi-report-users-with-an-information-panel.md",
-      "title": "Help your Power BI report users with an Information Panel",
-      "excerpt": "Do your Power BI users understand your report? Chances are, at least not all of it. Help them out with an information panel to help describe the report and understand all of the capabilities. Adam walks you through how to do it in Power BI Desktop!  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-help-your-power-bi-report-users-with-an-information-panel/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-help-your-power-bi-report-users-with-an-information-panel/",
-      "originalUrl": "https://youtube.com/watch?v=yYr_SlG8bpw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yYr_SlG8bpw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M49S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-03-25T08:00:16-07:00",
-      "heat": 69,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yYr_SlG8bpw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
