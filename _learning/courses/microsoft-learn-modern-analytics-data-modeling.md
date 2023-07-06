@@ -8,7 +8,7 @@ length: PT34M
 ratings:
   count: 525
   average: 4.7466664
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 641
     isCached: true
 
-secured: "kFQlE5lswmXyFDP59QbWFaJtMVnQZ8djz1MuwfGla1kVZVLSUtDenvUwQOBQYEYzkChEHqc0muNnhkwYhBfhvnajcXHM7MlGUSJaDCiwtLaWuJLPZ16KncEu2uQEIRk/h2xsQIqNimHrZXaXevEkSeGFM0i1ERkgneYOcrUEEcQmcmG0sFmCC9JRQqSlggopOrrpd6EszBa1T6j1isQigsnxV2TnhxGREyyKvEHrdKw/79iMMbC79fdL0JoNPZ15BpP2iKh+Llf8Dicwx3aqjMKGvRQjllRbuaFJK0bZRoy8Wb1cVmB0VaHkA98cqrx+nOl3DLjNmYbJBsIZ9fXGQZRD6H1Fe3DRcQ+9wdyBBt1AQILRWfOSNLBmtD/nmvQuQESutaVqzr6AfPzEHz3rgo9r00/Ow4VB8ZLPeWeI5+Q=;GJ0IuCpKcpBxV9DdH+L1IQ=="
+secured: "3W3Hw6FtAYJ174nob45tDD28jXIeekS9FiO0J2Kg3MLl/38KZUalTEUcxaVB/pFaa8CyWpEGn6PgrgtH1CdU86LzM49IhZKvdXI3z1MYFCZu2Yuvcvo4CCagcBgNe+/AqGxpIxG1lRv9+N2n0JjRgHtbrvDD+2sAja0F2lPpRu/Tnz/Q5284/aO7eI4bz9O7PjQ7skWzoF2kny0c5+3fTHF5EmV9uI1IP3kaxUcuX5fXSMUgKJzeT3jOhoRm2zAa9TbkZx95U9qKFctOyCtAqT2nTzRU4IhJs5kNmaZM7b1HCh0VlwI+c+wsK2OO8crnfO2H5FczX4lnYmshOnGvSBApNSBmsiUYa9TlRG/luSzaOKzSSRhoRCSlo6xLiXis2oQmozlH7pMVJMTLmjGqIXk9mXxD6wz7RX/eQ7TMZ5k=;2AIGn7juFbpnNyf5EfOKZA=="
 ---
 
