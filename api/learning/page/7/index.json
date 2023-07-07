@@ -1992,8 +1992,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-data-connectivity/",
           "length": "PT50M",
           "ratings": {
-            "count": 147,
-            "average": 4.632653
+            "count": 148,
+            "average": 4.6283784
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2034,8 +2034,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-calculations/",
           "length": "PT57M",
           "ratings": {
-            "count": 103,
-            "average": 4.330097
+            "count": 104,
+            "average": 4.326923
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2136,8 +2136,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 16687,
-        "average": 4.723078
+        "count": 16688,
+        "average": 4.7230945
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2178,8 +2178,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 4786,
-        "average": 4.675303
+        "count": 4787,
+        "average": 4.6753707
       },
       "provider": {
         "name": "Microsoft Learn",
