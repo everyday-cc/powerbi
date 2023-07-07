@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M46S
 publishedDateTime: 2017-12-12T22:19:24Z
-heat: 61
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0y2oJikC6Xc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Embedding with Power BI - What's the difference?"
 
-secured: "ZAgTGMbEj2lB+WJGIc0hBVH7DWOSRU3Tl8VMq0M8iGbkobviuAR/u1I4zQZL6qqVU7lBv86/vPs0ZADeh3UqC1zMkXg51JnjN1SdtAMKWqxR1ETqf1SKkgHvOFISkcMcVRPdtQ170HsPDEofux9IuX/bXbtr3bxzDqwGYtYTzrlTmn1jJW/FmQprJCxoU5DxRXuUm4KMAAnFoHbbDGUn9enDoD89wCanUHReJo3VDpaSrK7LGSzEGoQZpCWJPptthDyeNCQRIICrnj7jxThLIg6Ou7yUxF78/+YNLr5NS+J4xhIwCndi0oa+hnZI3ExjXrAmLPY3VmVlvZqEHXcODMM1NdEum3AfXXkDUKKCew2OZ6yL7J6pqt1IWJUyCpGP7jLic3latYCgVRUinlQaGX4y8rPxsrUMu9SeqVlTQVMEImuWE0oWFdrsRedsvSD8;NO19TDc+HinuIl00L2v5hQ=="
+secured: "tKl2be5sXNWvO0fuTCcfFdSyzI4xYdTUqK8V/2FI7GuD1oU/L0a8T4t2pceNVUqgYS4VAmp5M+A18IFB+PMNg/I7D/wsr3QZwNa47aKOUULSd89xrr1WDM6Bdxg4odRJh76jkFV/rxJJ6sVGUkMi863sfX5x9Cm0RbTbXINkOlOvoyAfBwq7Evhyy1kxSZmoNK2VI44g6XWtBtVT9sNoXUGtwyJFOJDOCeoyrv28NVOe6cWsb9tn0mgfQRcE13r97F08238FpeW95ZkXuJhWLLMQpA+PIbr4CA6BW4BQG/WUmtFeenGPPMem51U/jLPA32/bDv/F63TP3byqg48SKBOyIsYcaOCNU+97zzV9Y3f4p3df0Os4lttGcszuTSiAJHLthP4LJbjQ18hJxMbzyMZJqApuvicPux5pYIc0u+rJzb3Mi0u3Z92vwOXLhpkR;Hv4+ZsvGpZwf6geL8d/0Ag=="
 ---
 
