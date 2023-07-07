@@ -627,8 +627,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 425,
-            "average": 4.6847057
+            "count": 426,
+            "average": 4.685446
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1019,8 +1019,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 212,
-        "average": 4.7405663
+        "count": 215,
+        "average": 4.734884
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1187,8 +1187,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 2542,
-        "average": 4.6990557
+        "count": 2543,
+        "average": 4.698781
       },
       "provider": {
         "name": "Microsoft Learn",
