@@ -4,82 +4,6 @@
   "page": 79,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-maps-stories-and-webinars-roundup-60.md",
-      "title": "Maps, stories and webinars - Roundup #60",
-      "excerpt": "This was a bit of a slow week, but we had a few interesting items. David Eldersveld talks about TopoJSON maps and Power BI. Marco Russo had some Q&A follow up to his #24HOP session. I also talked about the Data Stories Gallery and the Power BI Webinars. Lastly, we had some news about Power BI Auditing.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-maps-stories-and-webinars-roundup-60/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-maps-stories-and-webinars-roundup-60/",
-      "originalUrl": "https://youtube.com/watch?v=jU_FLKWTPPY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jU_FLKWTPPY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M8S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-09-15T07:07:47-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jU_FLKWTPPY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-marco-russo-pass-highlights-and-power-bi-azure-ad-b2b-support-adam-and-patrick-unplugged-ep6.md",
-      "title": "Marco Russo, PASS highlights and Power BI / Azure AD B2B support - Adam and Patrick Unplugged [EP6]",
-      "excerpt": "In this video, Adam and Patrick discuss their travels, including PASS Summit 2017. They also discuss the new Azure AD B2B support for Power BI. They sit down with Marco Russo to discuss a little DAX and catch up on things.  Travels: 0:07  PASS Highlight: 3:23  News about Adam: 9:58  Azure AD B2B with",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-marco-russo-pass-highlights-and-power-bi-azure-ad-b2b-support-adam-and-patrick-unplugged-ep6/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-marco-russo-pass-highlights-and-power-bi-azure-ad-b2b-support-adam-and-patrick-unplugged-ep6/",
-      "originalUrl": "https://youtube.com/watch?v=lHvyWVyZ728",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lHvyWVyZ728\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M58S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-11-22T10:39:46-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lHvyWVyZ728/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-mark-as-date-table-in-power-bi-desktop-is-here.md",
       "title": "Mark as Date Table in Power BI Desktop is here!",
       "excerpt": "Mark as Date Table in Power BI Desktop is finally here! In this video, Patrick takes what Adam did with a custom date table and shows you how you can use Mark as Date Table in Power BI Desktop. This feature was introduced in the February 2018 release of Power BI Desktop. Mark as Date Table has been available",
@@ -296,6 +220,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/piv6I5ohH6k/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-microsoft-fabricpower-bi-qa-live-june-24-2023-member-chat-2nd-half.md",
+      "title": "🔴 Microsoft Fabric/Power BI Q&A - LIVE (June 24, 2023) (Member Chat 2nd Half)",
+      "excerpt": "Join us live as we answer your questions about Microsoft Fabric (including Power BI)!  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\" in front of your comment to help us identify questions! 👉 Super chats",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-microsoft-fabricpower-bi-qa-live-june-24-2023-member-chat-2nd-half/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-microsoft-fabricpower-bi-qa-live-june-24-2023-member-chat-2nd-half/",
+      "originalUrl": "https://youtube.com/watch?v=WWvs0Z4zTGw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WWvs0Z4zTGw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "P0D",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-06-23T05:13:48-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WWvs0Z4zTGw/maxresdefault_live.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1132,6 +1094,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/_J9gM9LwbQY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-pass-summit-2016-sqlfamily-montage.md",
+      "title": "PASS Summit 2016 / #SQLFamily Montage",
+      "excerpt": "PASS Summit 2016 is a wrap! Every year it is like a family reunion and I wanted to put together something to try and convey that. From sessions to networking to the SQL Clinic and the nightlife (SQL Karaoke anyone?) It is the highlight of the year!  Special thank you to everyone that helped me with making",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-pass-summit-2016-sqlfamily-montage/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-pass-summit-2016-sqlfamily-montage/",
+      "originalUrl": "https://youtube.com/watch?v=0R2wL1oMFrg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0R2wL1oMFrg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M2S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-10-30T11:19:59-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0R2wL1oMFrg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
