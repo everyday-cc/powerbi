@@ -95,7 +95,7 @@
         "domain": "learnpowerbi.com"
       },
       "publishedDateTime": "2023-06-28T09:00:08-07:00",
-      "heat": 97,
+      "heat": 103,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/CNPtS-2n5yc/maxresdefault.jpg",
@@ -157,7 +157,7 @@
         "domain": "learnpowerbi.com"
       },
       "publishedDateTime": "2023-06-28T09:00:19-07:00",
-      "heat": 84,
+      "heat": 81,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/G8zXyMkb0yc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYciBKKEIwDw==&rs=AOn4CLC32jBmI3dlSLI9ESYdMw0pz-NolQ",
@@ -361,8 +361,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4208,
-            "average": 4.747386
+            "count": 4209,
+            "average": 4.747446
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -632,8 +632,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 9426,
-        "average": 4.711224
+        "count": 9427,
+        "average": 4.7114673
       },
       "provider": {
         "name": "Microsoft Learn",
