@@ -95,7 +95,7 @@
         "domain": "learnpowerbi.com"
       },
       "publishedDateTime": "2023-06-28T09:00:08-07:00",
-      "heat": 103,
+      "heat": 89,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/CNPtS-2n5yc/maxresdefault.jpg",
@@ -439,8 +439,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4214,
-            "average": 4.7475085
+            "count": 4216,
+            "average": 4.747628
           },
           "provider": {
             "name": "Microsoft Learn",
