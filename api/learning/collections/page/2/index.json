@@ -2301,8 +2301,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-power-bi-model-relationships/",
           "length": "PT1H30M",
           "ratings": {
-            "count": 161,
-            "average": 4.8012424
+            "count": 162,
+            "average": 4.7777777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4411,8 +4411,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 3009,
-            "average": 4.7248254
+            "count": 3010,
+            "average": 4.724917
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4453,8 +4453,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4801,
-            "average": 4.6756926
+            "count": 4803,
+            "average": 4.6758275
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4495,8 +4495,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6887,
-            "average": 4.7023377
+            "count": 6888,
+            "average": 4.702381
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4787,8 +4787,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 6409,
-            "average": 4.71462
+            "count": 6410,
+            "average": 4.7145085
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4870,8 +4870,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12793,
-            "average": 4.682795
+            "count": 12794,
+            "average": 4.68282
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4888,7 +4888,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 143,
+          "heat": 63,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
