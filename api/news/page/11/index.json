@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-11-02-create-a-more-data-driven-collaboration-with-the-power-bi-app-for-microsoft-teams-ga.md",
+      "title": "Create a more Data Driven Collaboration with the Power BI app for Microsoft Teams (GA)",
+      "excerpt": "I’m happy to announce that the Power BI App for Microsoft Teams is Generally Available. Learn about the enhancements to the app, how we&#8217;re making it easier to deploy it, and how easy it is to get started using data to make better decisions and take better actions.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-11-02-create-a-more-data-driven-collaboration-with-the-power-bi-app-for-microsoft-teams-ga/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/create-a-more-data-driven-collaboration-with-the-power-bi-app-for-microsoft-teams-ga/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/create-a-more-data-driven-collaboration-with-the-power-bi-app-for-microsoft-teams-ga/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T01:00:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-more-easily-integrate-goals-into-all-your-business-processes.md",
       "title": "More easily integrate goals into all your business processes",
       "excerpt": "We&#8217;re excited to announce new capabilities and improvements for Power BI goals that make it easier than ever to integrate goals into all of your business processes. Learn about the new goals visual, Power Automate integration, goal level permissions, and other experience enhancements.",
@@ -1229,57 +1280,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-power-bi-september-2021-feature-summary.md",
-      "title": "Power BI September 2021 Feature Summary",
-      "excerpt": "Welcome to the September 2021 update! It&#8217;s fall already and we have some fascinating new features to offer! ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-09-21-power-bi-september-2021-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-september-2021-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-september-2021-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],

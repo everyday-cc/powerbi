@@ -54,6 +54,57 @@
       ]
     },
     {
+      "path": "_news/2023-07-10-datasets-are-now-in-power-bi-mobile-apps-you-can-now-refresh-your-datasets-also-when-youre-on-the-go.md",
+      "title": "Datasets are now in Power BI Mobile apps. You can now refresh your datasets also when you᾿re on the go.",
+      "excerpt": "Power BI Mobile apps now support Datasets. So you can view dataset details, refresh status and get notified when something is wrong with the scheduled refresh. And&#8230; you can also trigger a new refresh &#8211; all from your mobile app!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-07-10-datasets-are-now-in-power-bi-mobile-apps-you-can-now-refresh-your-datasets-also-when-youre-on-the-go/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/datasets-are-now-in-power-bi-mobile-apps-refresh-your-datasets-when-youre-on-the-go/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/datasets-are-now-in-power-bi-mobile-apps-refresh-your-datasets-when-youre-on-the-go/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-09T23:36:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-on-premises-data-gateway-june-2023-release.md",
       "title": "On-premises data gateway June 2023 release",
       "excerpt": "We are happy to announce the release of our June on-premises data gateway!",
@@ -1206,57 +1257,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-announcing-now-you-can-use-item-links-to-configure-power-bi-tabs-in-microsoft-teams.md",
-      "title": "Announcing: Now you can use item links to configure Power BI Tabs in Microsoft Teams",
-      "excerpt": "You can now use item links to configure the Power BI tab in Microsoft Teams. Read this blog for all the details.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-05-03-announcing-now-you-can-use-item-links-to-configure-power-bi-tabs-in-microsoft-teams/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-now-you-can-use-item-links-to-configure-power-bi-tabs-in-microsoft-teams/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-now-you-can-use-item-links-to-configure-power-bi-tabs-in-microsoft-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2023/05/pbi-teams-tab-config2.png",
-          "width": 3840,
-          "height": 2053,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T08:32:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

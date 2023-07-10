@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-12-16-asynchronous-refresh-now-available-in-power-bi-for-public-preview.md",
+      "title": "Asynchronous refresh now available in Power BI for public preview",
+      "excerpt": "Asynchronous refresh now available in Power BI for public preview. The asynchronous refresh REST API for Power BI brings built-in features for reliability, such as auto retries and batched commits.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-12-16-asynchronous-refresh-now-available-in-power-bi-for-public-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/asynchronous-refresh-now-available-in-power-bi-for-public-preview/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/asynchronous-refresh-now-available-in-power-bi-for-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T00:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-announcing-public-preview-of-hybrid-tables-in-power-bi-premium.md",
       "title": "Announcing Public Preview of Hybrid Tables in Power BI Premium",
       "excerpt": "We are excited to announce support for Hybrid Tables and Incremental refresh with real-time data in Power BI Premium to strike the right balance between query performance and data freshness. Now you can have blazing fast performance in import mode and the latest data changes in the data warehouse reflected",
@@ -1180,57 +1231,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-11-09T10:17:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-create-a-more-data-driven-collaboration-with-the-power-bi-app-for-microsoft-teams-ga.md",
-      "title": "Create a more Data Driven Collaboration with the Power BI app for Microsoft Teams (GA)",
-      "excerpt": "I’m happy to announce that the Power BI App for Microsoft Teams is Generally Available. Learn about the enhancements to the app, how we&#8217;re making it easier to deploy it, and how easy it is to get started using data to make better decisions and take better actions.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-11-02-create-a-more-data-driven-collaboration-with-the-power-bi-app-for-microsoft-teams-ga/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/create-a-more-data-driven-collaboration-with-the-power-bi-app-for-microsoft-teams-ga/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/create-a-more-data-driven-collaboration-with-the-power-bi-app-for-microsoft-teams-ga/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T01:00:50-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
