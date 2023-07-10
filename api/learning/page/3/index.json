@@ -228,8 +228,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3495,
-            "average": 4.6818314
+            "count": 3496,
+            "average": 4.681922
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -518,8 +518,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 31049,
-        "average": 4.7219234
+        "count": 31056,
+        "average": 4.721954
       },
       "provider": {
         "name": "Microsoft Learn",
