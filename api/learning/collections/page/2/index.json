@@ -1652,7 +1652,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-automate-social.png",
@@ -1861,7 +1861,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-automate-social.png",
@@ -2473,8 +2473,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 448,
-            "average": 4.75
+            "count": 449,
+            "average": 4.750557
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2683,8 +2683,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 448,
-            "average": 4.75
+            "count": 449,
+            "average": 4.750557
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4791,8 +4791,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 6412,
-            "average": 4.7145977
+            "count": 6413,
+            "average": 4.714642
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5041,8 +5041,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 3012,
-            "average": 4.7250996
+            "count": 3013,
+            "average": 4.7248588
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5083,8 +5083,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4807,
-            "average": 4.675681
+            "count": 4809,
+            "average": 4.6754003
           },
           "provider": {
             "name": "Microsoft Learn",
