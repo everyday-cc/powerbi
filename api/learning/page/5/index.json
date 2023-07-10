@@ -265,8 +265,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 293,
-            "average": 4.668942
+            "count": 294,
+            "average": 4.6700683
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1103,8 +1103,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-select/",
           "length": "PT29M",
           "ratings": {
-            "count": 92,
-            "average": 4.847826
+            "count": 93,
+            "average": 4.8494625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1312,8 +1312,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 816,
-            "average": 4.7818627
+            "count": 818,
+            "average": 4.7811737
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1522,8 +1522,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 816,
-            "average": 4.7818627
+            "count": 818,
+            "average": 4.7811737
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3390,8 +3390,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 8124,
-        "average": 4.7635403
+        "count": 8125,
+        "average": 4.7635694
       },
       "provider": {
         "name": "Microsoft Learn",

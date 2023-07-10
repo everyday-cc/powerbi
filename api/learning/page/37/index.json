@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 816,
-        "average": 4.7818627
+        "count": 818,
+        "average": 4.7811737
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -592,8 +592,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/",
       "length": "PT40M",
       "ratings": {
-        "count": 278,
-        "average": 4.683453
+        "count": 279,
+        "average": 4.684588
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -936,8 +936,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
       "length": "PT18M",
       "ratings": {
-        "count": 951,
-        "average": 4.7528915
+        "count": 952,
+        "average": 4.7531514
       },
       "provider": {
         "name": "Microsoft Learn",
