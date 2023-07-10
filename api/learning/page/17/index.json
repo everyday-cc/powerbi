@@ -4,6 +4,45 @@
   "page": 17,
   "value": [
     {
+      "path": "_learning/videos/sqlbi-using-keepfilters-in-dax.md",
+      "title": "Using KEEPFILTERS in DAX",
+      "excerpt": "This video explains how to use KEEPFILTERS to intersect instead of overriding an existing filter context in DAX. Using FEEPFILTERS simplifies the code and improves performance.\r Article and download: https://sql.bi/751682?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-using-keepfilters-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-using-keepfilters-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=AshR4OYdMBg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AshR4OYdMBg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M22S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-06-08T03:00:23-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AshR4OYdMBg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/sqlbi-using-userelationship-in-dax.md",
       "title": "Using USERELATIONSHIP in DAX",
       "excerpt": "This video shows how to use the USERELATIONSHIP function in DAX to change the active relationship in a CALCULATE function. Article and download: https://sql.bi/664175",
@@ -370,8 +409,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 11516,
-        "average": 4.7070165
+        "count": 11517,
+        "average": 4.706868
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -539,8 +578,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 1671,
-        "average": 4.729503
+        "count": 1672,
+        "average": 4.7296653
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1359,44 +1398,6 @@
       "topics": [
         "Power BI",
         "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-a-deep-dive-on-field-parameters-when-how-and-why-you-should-use-them.md",
-      "title": "A deep dive on field parameters: When, how and why you should use them.",
-      "excerpt": "I asked you if you wanted another filed parameters video and you overwhelmingly said yes, so here it is:  Chapters: 00:00 Intro 01:00 First use case: change dimensions 02:55 Pros and cons of first use case 03:55 Second use case: change measures 06:09 Third use case: filter field parameters with another",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-a-deep-dive-on-field-parameters-when-how-and-why-you-should-use-them/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-a-deep-dive-on-field-parameters-when-how-and-why-you-should-use-them/",
-      "originalUrl": "https://youtube.com/watch?v=5vLBnrPyPgc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5vLBnrPyPgc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M47S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-05-19T04:06:35-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5vLBnrPyPgc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],

@@ -4,6 +4,48 @@
   "page": 29,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-architect-analytics.md",
+      "title": "Solution Architect series: Evaluate Power Platform analytics and AI",
+      "excerpt": "Learn about reporting and analytics in Microsoft Power Platform.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-architect-analytics/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/architect-analytics/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 109,
+        "average": 4.761468
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/architect-analytics-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-automate-data-cleaning-power-query.md",
       "title": "Automate data cleaning with Power Query",
       "excerpt": "This module introduces Power Query in Microsoft Excel, a powerful data connection, cleaning, and shaping technology that is a core part of the Microsoft modern analytics suite of business intelligence tools.",
@@ -196,48 +238,6 @@
           "url": "https://learn.microsoft.com/training/achievements/choose-power-bi-model-framework-social.png",
           "width": 1281,
           "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-connect-power-apps-automate-virtual-agent-bi-with-common-data-service.md",
-      "title": "Connect to the Microsoft Dataverse through Microsoft Teams",
-      "excerpt": "Connect to the Microsoft Dataverse through Microsoft Teams",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-connect-power-apps-automate-virtual-agent-bi-with-common-data-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-power-apps-automate-virtual-agent-bi-with-common-data-service/",
-      "length": "PT15M",
-      "ratings": {
-        "count": 4,
-        "average": 4.75
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
           "isCached": true
         }
       ],
@@ -594,8 +594,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 713,
-        "average": 4.6942496
+        "count": 714,
+        "average": 4.691877
       },
       "provider": {
         "name": "Microsoft Learn",

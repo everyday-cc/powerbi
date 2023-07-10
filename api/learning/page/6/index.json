@@ -4,36 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_learning/videos/radacad-kpi-visual-in-power-bi-explained.md",
-      "title": "KPI Visual in Power BI Explained",
-      "excerpt": "If you are showing an important measure value in the report, and you want to compare it with a target and see if it meets the target or not, The KPI visual comes in handy. The KPI Visual’s behavior, however, might be a bit hard to understand, In this article and video, I explained how this visual works,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-kpi-visual-in-power-bi-explained/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-kpi-visual-in-power-bi-explained/",
-      "originalUrl": "https://youtube.com/watch?v=QEIcz9hNVOw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QEIcz9hNVOw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M27S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-11-08T12:17:49-08:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QEIcz9hNVOw/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-lakehouse-vs-warehouse-vs-datamart-the-difference-between-the-three-fabric-objects.md",
       "title": "Lakehouse VS  Warehouse VS  Datamart   The Difference Between The Three Fabric Objects",
       "excerpt": "Three types of objects in the Microsoft Fabric have similarities in what they can do for an analytics system. These three are; Lakehouse, Data Warehouse, and Power BI Datamart. All three objects provide storage for the data, which can be loaded into them using an ETL process and read using something",
@@ -272,8 +242,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7514,
-            "average": 4.7297044
+            "count": 7515,
+            "average": 4.7296076
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -397,8 +367,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 11732,
-            "average": 4.7418175
+            "count": 11733,
+            "average": 4.7418394
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -439,8 +409,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 9445,
-            "average": 4.7118053
+            "count": 9446,
+            "average": 4.711836
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -542,8 +512,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 2973,
-        "average": 4.764211
+        "count": 2974,
+        "average": 4.7642903
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -584,8 +554,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 9445,
-        "average": 4.7118053
+        "count": 9446,
+        "average": 4.711836
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -712,8 +682,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 16715,
-        "average": 4.7233624
+        "count": 16717,
+        "average": 4.7233953
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -754,8 +724,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 7797,
-        "average": 4.763114
+        "count": 7798,
+        "average": 4.7631445
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1328,6 +1298,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/HxZLkmpY6BA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-introducing-window-functions-in-dax.md",
+      "title": "Introducing window functions in DAX",
+      "excerpt": "This video introduces the syntax and functionalities of the new DAX window functions: INDEX, OFFSET, and WINDOW.\r Article and download: https://sql.bi/784024?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-introducing-window-functions-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-introducing-window-functions-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=bxSWQNSQ8rQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bxSWQNSQ8rQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M58S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-01-31T03:00:16-08:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bxSWQNSQ8rQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

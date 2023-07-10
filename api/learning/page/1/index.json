@@ -111,6 +111,36 @@
       ]
     },
     {
+      "path": "_learning/videos/radacad-what-is-microsoft-fabric-and-why-it-is-a-big-deal.md",
+      "title": "What is Microsoft Fabric and Why it is a big deal",
+      "excerpt": "You might have heard the news of the announcement at Microsoft Build by Arun Ulag and the rest of the Microsoft Data and Analytics Platform team. The announcement was about the new service offering named Microsoft Fabric. In this article and video, I want to explain what Fabric is and why you should",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-is-microsoft-fabric-and-why-it-is-a-big-deal/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-is-microsoft-fabric-and-why-it-is-a-big-deal/",
+      "originalUrl": "https://youtube.com/watch?v=8BAeLUywEMM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8BAeLUywEMM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M20S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2023-05-22T23:15:24-07:00",
+      "heat": 146,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8BAeLUywEMM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-make-relative-dates-in-power-bi-start-on-monday-hack-and-a-rant.md",
       "title": "Make relative dates in Power BI start on Monday | Hack and a rant",
       "excerpt": "Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
@@ -136,44 +166,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/y75R5ZVO78w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-why-cant-i-use-microsoft-fabric.md",
-      "title": "Why can't I use Microsoft Fabric?",
-      "excerpt": "You've heard about all the great things with Microsoft Fabric, but you don't see it in the portal. You only see the Power BI items and no persona switcher. What's going on? Adam shows you to enable Fabric for your tenant.  Enable Microsoft Fabric for your organization https://learn.microsoft.com/fabric/admin/fabric-switch",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-why-cant-i-use-microsoft-fabric/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-why-cant-i-use-microsoft-fabric/",
-      "originalUrl": "https://youtube.com/watch?v=zG2yyJzMooM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zG2yyJzMooM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M47S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-05-31T08:00:52-07:00",
-      "heat": 135,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zG2yyJzMooM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -218,52 +210,56 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-what-does-microsoft-fabric-mean-for-guy-in-a-cube.md",
-      "title": "What does Microsoft Fabric mean for Guy in a Cube?",
-      "excerpt": "Very excited that Microsoft Fabic has hit Public preview! But what does that mean for Guy in a Cube? Is Guy in a Cube going to cover Microsoft Fabric?   Blog: https://azure.microsoft.com/blog/introducing-microsoft-fabric-data-analytics-for-the-era-of-ai/  Blog: https://powerbi.microsoft.com/blog/introducing-microsoft-fabric-and-copilot-in-microsoft-power-bi/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-does-microsoft-fabric-mean-for-guy-in-a-cube/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-does-microsoft-fabric-mean-for-guy-in-a-cube/",
-      "originalUrl": "https://youtube.com/watch?v=6QusOchmSXQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6QusOchmSXQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M1S",
+      "path": "_learning/courses/microsoft-learn-connect-power-apps-automate-virtual-agent-bi-with-common-data-service.md",
+      "title": "Connect to the Microsoft Dataverse through Microsoft Teams",
+      "excerpt": "Connect to the Microsoft Dataverse through Microsoft Teams",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-connect-power-apps-automate-virtual-agent-bi-with-common-data-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-power-apps-automate-virtual-agent-bi-with-common-data-service/",
+      "length": "PT15M",
+      "ratings": {
+        "count": 4,
+        "average": 4.75
+      },
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2023-05-25T07:00:05-07:00",
-      "heat": 132,
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/6QusOchmSXQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-the-heart-of-power-bi.md",
-      "title": "The HEART of Power BI",
-      "excerpt": "Remember Analysis Services? Maybe not for some of you. What exactly powers Power BI? What's inside that makes the data go? Adam reveals the mystery and takes a trip down memory lane.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-the-heart-of-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-the-heart-of-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=ZKodkcOb3WI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZKodkcOb3WI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M23S",
+      "path": "_learning/videos/guy-in-a-cube-replay-microsoft-fabric-discussion-may-2023-social-hour.md",
+      "title": "REPLAY Microsoft Fabric Discussion - May 2023 Social Hour",
+      "excerpt": "Join us live as we recap Power BI and Azure Data announcements made at Microsoft Build - May 2023. With special guest, Stephanie Bruno, Jason Himmelstein and John White!  Microsoft Build: https://powerbi.microsoft.com/en-us/blog/microsoft-digital-event-may-24-25/  Connect with Stephanie Bruno https://twitter.com/StephTBruno",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-replay-microsoft-fabric-discussion-may-2023-social-hour/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-replay-microsoft-fabric-discussion-may-2023-social-hour/",
+      "originalUrl": "https://youtube.com/watch?v=tMx3rhl43b4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tMx3rhl43b4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H18M26S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -276,11 +272,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-05-04T08:00:19-07:00",
+      "publishedDateTime": "2023-05-24T16:45:27-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ZKodkcOb3WI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/tMx3rhl43b4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -705,8 +701,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 67315,
-            "average": 4.7959294
+            "count": 67323,
+            "average": 4.7959094
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -747,8 +743,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 95395,
-            "average": 4.7781224
+            "count": 95411,
+            "average": 4.778086
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -807,8 +803,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 95395,
-        "average": 4.7781224
+        "count": 95411,
+        "average": 4.778086
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -927,8 +923,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 67315,
-        "average": 4.7959294
+        "count": 67323,
+        "average": 4.7959094
       },
       "provider": {
         "name": "Microsoft Learn",

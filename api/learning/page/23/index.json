@@ -4,6 +4,44 @@
   "page": 23,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-tracing-with-log-analytics-and-power-bi.md",
+      "title": "Tracing with Log Analytics and Power BI",
+      "excerpt": "With Log Analytics integration in Power BI, you can now capture Analysis Services trace events easily and over a longer period of time. Combined with the Power BI template report, you can gain a lot of insights into usage of your datasets. With more to come down the road!  Announcing long-term usage",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-tracing-with-log-analytics-and-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-tracing-with-log-analytics-and-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=HGpfwpjlMro",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HGpfwpjlMro\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M29S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-07-01T08:00:20-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HGpfwpjlMro/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-understanding-the-timeline-in-dax-studio.md",
       "title": "Understanding the TIMELINE in DAX Studio",
       "excerpt": "We brought Marco in to help explain the TIMELINE update within DAX Studio. This can help you understand performance a bit deeper when optimizing your DAX and models. This is one to watch!  DAX Studio https://daxstudio.org  Marco Russo https://twitter.com/marcorus https://www.linkedin.com/in/sqlbi/ https://sqlbi.com",
@@ -980,44 +1018,6 @@
           "url": "https://i.ytimg.com/vi/U3qeQRwWhRc/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-module-1-power-bi-overview-part-3-of-4-power-bi-developer-in-a-day.md",
-      "title": "Module 1: Power BI Overview (Part 3 of 4) | Power BI Developer in a Day",
-      "excerpt": "In this video, Peter Myers (Microsoft Most Valued Professional, and course developer) commences the series of course demonstrations by setting up the developer environment. It is video 5 of 21.  The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-1-power-bi-overview-part-3-of-4-power-bi-developer-in-a-day/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-1-power-bi-overview-part-3-of-4-power-bi-developer-in-a-day/",
-      "originalUrl": "https://youtube.com/watch?v=rI4e24gIQe8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rI4e24gIQe8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M15S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-11-15T16:13:56-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rI4e24gIQe8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
           "isCached": true
         }
       ],
