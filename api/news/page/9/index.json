@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-02-11-inforiver-no-code-partner-innovation-for-end-user-self-service-inside-power-bi.md",
+      "title": "Inforiver – No-Code Partner Innovation for End-User Self-Service inside Power BI",
+      "excerpt": "No-Code Partner Innovation for End-User Self-Service inside Power BI ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-02-11-inforiver-no-code-partner-innovation-for-end-user-self-service-inside-power-bi/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/inforiver-no-code-partner-innovation-for-end-user-self-service-inside-power-bi/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/inforiver-no-code-partner-innovation-for-end-user-self-service-inside-power-bi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-11T01:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-how-to-jazz-up-your-reports-by-adding-a-background-image-in-microsoft-power-bi.md",
       "title": "How to jazz up your reports by adding a background image in Microsoft Power BI",
       "excerpt": "Image: Mark Kaelin How to jazz up your reports by adding a background image in Microsoft Power BI Your email has been sent Sometimes, a report needs a little extra style to get the message across.",
@@ -1185,57 +1236,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-12-16T00:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-announcing-public-preview-of-hybrid-tables-in-power-bi-premium.md",
-      "title": "Announcing Public Preview of Hybrid Tables in Power BI Premium",
-      "excerpt": "We are excited to announce support for Hybrid Tables and Incremental refresh with real-time data in Power BI Premium to strike the right balance between query performance and data freshness. Now you can have blazing fast performance in import mode and the latest data changes in the data warehouse reflected",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-12-15-announcing-public-preview-of-hybrid-tables-in-power-bi-premium/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-public-preview-of-hybrid-tables-in-power-bi-premium/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-public-preview-of-hybrid-tables-in-power-bi-premium/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T08:16:39-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

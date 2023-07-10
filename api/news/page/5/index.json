@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-09-20-power-bi-metrics-survey.md",
+      "title": "Power BI Metrics survey",
+      "excerpt": "Power BI Metrics survey",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-09-20-power-bi-metrics-survey/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-metrics-survey/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-metrics-survey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T04:15:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-announcing-horizontal-fusion-a-query-performance-optimization-in-power-bi-and-analysis-services.md",
       "title": "Announcing “Horizontal Fusion,” a query performance optimization in Power BI and Analysis Services",
       "excerpt": "We are excited to announce the initial release of a query performance optimization aimed at processing Data Analysis Expressions (DAX) queries more efficiently, known as “Horizontal Fusion”.",
@@ -1204,57 +1255,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-07-27T03:16:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-partners-introducing-a-new-way-to-manage-enforce-and-transact-licenses-for-power-bi-visuals.md",
-      "title": "Partners: Introducing a new way to manage, enforce and transact licenses for Power BI visuals",
-      "excerpt": "Partners have been listing Power BI visuals on AppSource for years, but now we’re excited to introduce e-commerce through our popular commercial marketplace. In order to ease sales, boost revenue, and optimize operations for partners, and to improve the experience for Power BI users!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-20-partners-introducing-a-new-way-to-manage-enforce-and-transact-licenses-for-power-bi-visuals/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/partners-introducing-a-new-way-to-manage-enforce-and-transact-licenses-for-power-bi-visuals/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/partners-introducing-a-new-way-to-manage-enforce-and-transact-licenses-for-power-bi-visuals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T02:37:46-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

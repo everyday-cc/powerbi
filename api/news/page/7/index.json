@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-05-24-composite-models-on-sql-server-analysis-services.md",
+      "title": "Composite models on SQL Server Analysis Services",
+      "excerpt": "SQL Server 2022 Analysis Services will support composite models and it is now ready for you to try out with the CTP2 that has just launched. After you install this CTP for SQL Server 2022 on a server, tabular models are hosted on that server can now be used to create a composite model with.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-24-composite-models-on-sql-server-analysis-services/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/composite-models-on-sql-server-analysis-services/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/composite-models-on-sql-server-analysis-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T03:05:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-democratize-enterprise-analytics-with-microsoft-power-bi.md",
       "title": "Democratize enterprise analytics with Microsoft Power BI",
       "excerpt": "Microsoft Build represents the ultimate developer event. A hundred thousand developers from across the world gather for three days with their peers to learn, engage, and collaborate on the latest innovations and tools from Microsoft. ",
@@ -1197,57 +1248,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-04-13T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-built-in-ai-in-power-bi-new-teams-app-and-real-time-big-data-with-hybrid-tables.md",
-      "title": "Built-in AI in Power BI, New Teams App, and Real-time Big Data with Hybrid Tables",
-      "excerpt": "Integrate Power BI Premium Gen2 inherently with Microsoft&#8217;s collaboration analytics stack — including the new Power BI app for Microsoft Teams that makes it easier to access, share, and act on insights as you work, the latest AI-driven visualization capabilities with Smart Narratives and achieving",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-04-12-built-in-ai-in-power-bi-new-teams-app-and-real-time-big-data-with-hybrid-tables/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/built-in-ai-in-power-bi-new-teams-app-and-real-time-big-data-with-hybrid-tables/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/built-in-ai-in-power-bi-new-teams-app-and-real-time-big-data-with-hybrid-tables/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T01:00:28-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

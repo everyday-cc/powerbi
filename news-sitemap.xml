@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://everyday.cc/powerbi/news/2023-07-10-power-bi-update-july-2023/</loc>
+    <lastmod>2023-07-10T00:00:14-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://everyday.cc/powerbi/news/2023-06-20-i-hacked-the-google-analytics-connector-to-get-ga4-data-in-power-bi-/</loc>
     <lastmod>2023-06-20T05:48:28-07:00</lastmod>
     <changefreq>hourly</changefreq>

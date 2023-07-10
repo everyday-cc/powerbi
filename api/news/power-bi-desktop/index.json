@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-10-power-bi-update-july-2023.md",
+      "title": "Power BI Update - July 2023",
+      "excerpt": "Welcome to the July 2023 update! We are pleased to announce even more updates to On-Object interaction, as well as datasets for Mobile.   Tune in for all of these updates and more in Reporting, Modeling, Data Connectivity, Service, Mobile, Developers, and Visualizations.  Full blog:  Follow us on Twitter",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-07-10-power-bi-update-july-2023/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2023-07-10-power-bi-update-july-2023/",
+      "originalUrl": "https://youtube.com/watch?v=berUCt4EHIk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/berUCt4EHIk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/berUCt4EHIk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T00:00:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-i-hacked-the-google-analytics-connector-to-get-ga4-data-in-power-bi-.md",
       "title": "I hacked the Google Analytics connector to get GA4 data in Power  BI  !!!",
       "excerpt": "Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
@@ -1482,49 +1534,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-power-bi-developer-and-implementation-consultant-east-rand-r650k-per-annum-at-e-merge-it-recruitment.md",
-      "title": "Power BI Developer and Implementation Consultant – East Rand – R650k per annum at e-Merge IT Recruitment",
-      "excerpt": "They are currently looking for a Power BI Developer and Implementation Consultant to join their incredible team. The experienced Power BI Development Consultant will be required to come on board and play a key role in turning data into knowledge for their ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-11-power-bi-developer-and-implementation-consultant-east-rand-r650k-per-annum-at-e-merge-it-recruitment/index.json",
-      "webUrl": "https://it-online.co.za/2022/03/10/power-bi-developer-and-implementation-consultant-east-rand-r650k-per-annum-at-e-merge-it-recruitment-2/",
-      "originalUrl": "https://it-online.co.za/2022/03/10/power-bi-developer-and-implementation-consultant-east-rand-r650k-per-annum-at-e-merge-it-recruitment-2/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6BpiFBCCS5A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T13:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT-Online",
-        "domain": "it-online.co.za",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
