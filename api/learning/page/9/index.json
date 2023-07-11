@@ -1068,8 +1068,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2979,
-            "average": 4.7643504
+            "count": 2980,
+            "average": 4.7644296
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1110,8 +1110,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2560,
-            "average": 4.6972656
+            "count": 2561,
+            "average": 4.697384
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1296,8 +1296,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10567,
-        "average": 4.7597237
+        "count": 10568,
+        "average": 4.7597466
       },
       "provider": {
         "name": "Microsoft Learn",

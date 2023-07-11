@@ -533,8 +533,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 11743,
-            "average": 4.7410374
+            "count": 11744,
+            "average": 4.7410593
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -618,8 +618,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10567,
-            "average": 4.7597237
+            "count": 10568,
+            "average": 4.7597466
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -678,8 +678,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 2979,
-        "average": 4.7643504
+        "count": 2980,
+        "average": 4.7644296
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -848,8 +848,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 16731,
-        "average": 4.723268
+        "count": 16733,
+        "average": 4.7233014
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -890,8 +890,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 7807,
-        "average": 4.763161
+        "count": 7808,
+        "average": 4.7631917
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -932,8 +932,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 4821,
-        "average": 4.675793
+        "count": 4823,
+        "average": 4.6759276
       },
       "provider": {
         "name": "Microsoft Learn",
