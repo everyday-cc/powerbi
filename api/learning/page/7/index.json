@@ -1739,8 +1739,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3540,
-            "average": 4.7124295
+            "count": 3541,
+            "average": 4.7125106
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1781,8 +1781,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 6424,
-            "average": 4.7141967
+            "count": 6425,
+            "average": 4.714241
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1864,8 +1864,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 3022,
-            "average": 4.7246857
+            "count": 3026,
+            "average": 4.7250495
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1906,8 +1906,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 1692,
-            "average": 4.7765956
+            "count": 1693,
+            "average": 4.7767277
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1948,8 +1948,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1330,
-            "average": 4.773684
+            "count": 1331,
+            "average": 4.7731028
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2391,8 +2391,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
       "length": "PT51M",
       "ratings": {
-        "count": 3540,
-        "average": 4.7124295
+        "count": 3541,
+        "average": 4.7125106
       },
       "provider": {
         "name": "Microsoft Learn",
