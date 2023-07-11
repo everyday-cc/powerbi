@@ -943,8 +943,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3536,
-            "average": 4.712387
+            "count": 3537,
+            "average": 4.712468
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1296,8 +1296,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10566,
-        "average": 4.759701
+        "count": 10567,
+        "average": 4.7597237
       },
       "provider": {
         "name": "Microsoft Learn",
