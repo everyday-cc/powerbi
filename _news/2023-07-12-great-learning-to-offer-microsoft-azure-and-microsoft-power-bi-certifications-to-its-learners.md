@@ -1,28 +1,30 @@
 ---
 category: news
 title: "Great Learning to offer Microsoft Azure and Microsoft Power BI Certifications to its learners"
-excerpt: "Great Learning to offer Microsoft Azure and Microsoft Power BI Certifications to its learners - Great Learning, a leading global edtech company for higher education and professional training is"
-publishedDateTime: 2023-07-12T07:00:00Z
-originalUrl: "https://news.siliconindia.com/technology/great-learning-to-offer-microsoft-azure-and-microsoft-power-bi-certifications-to-its-learners-nid-224051-cid-2.html"
-webUrl: "https://news.siliconindia.com/technology/great-learning-to-offer-microsoft-azure-and-microsoft-power-bi-certifications-to-its-learners-nid-224051-cid-2.html"
+excerpt: "Learners can enroll for these Microsoft Certifications with any of the existing programmes offered by Great Learning in Cloud Computing, Data Science and Data Engineering."
+publishedDateTime: 2023-07-12T12:42:00Z
+originalUrl: "https://www.financialexpress.com/education-2/great-learning-to-offer-microsoft-azure-and-microsoft-power-bi-certifications-to-its-learners/3167393/"
+webUrl: "https://www.financialexpress.com/education-2/great-learning-to-offer-microsoft-azure-and-microsoft-power-bi-certifications-to-its-learners/3167393/"
+ampWebUrl: "https://www.financialexpress.com/education-2/great-learning-to-offer-microsoft-azure-and-microsoft-power-bi-certifications-to-its-learners/3167393/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/great-learning-to-offer-microsoft-azure-and-microsoft-power-bi-certifications-to-its-learners/3167393/lite/"
 type: article
-quality: 26
-heat: 26
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: SiliconIndia
-  domain: siliconindia.com
+  name: The Financial Express
+  domain: financialexpress.com
 
 topics:
   - Power BI
 
 images:
-  - url: "https://www.siliconindia.com/news/newsimages/aF60NDs8.jpg"
-    width: 570
-    height: 367
+  - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/asso.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "IF9uvu4syD4qlp30Vj+jdWlLN2Cr14jnNWgSgd0SJRDx+5pZFUbb/nYRcMlTMlXjmRp0SLdMY6tkeLod4I4iLoUaJXJOOIzyABew4KGVd0rIlX1n6S76GriGPJkZd4YTJuDjjxpL/BYNDAOt52SKH1WawDXSUd361RIr9OTALdt4rHyJFAXIwAgG/SgW7kkcoguI/dw9ut6Hsem7R7XMyxsBDB+3zskm0EG8jNCVWFeAEOuaJL7VHem7nGAQFE1DDx8JNffOw8ahgRrIKCrlC11bjzTtHxAH/5tP4R2Iu2d5pPoJLZxTBG/s1v+2aqanp6XbdjKdI5V/Pns3Sxsh4V1lsiTFMJdJfI4a1ZTrCcm3X5L54IXHuZJb/L77FDaUaK+q2zT9CBiZXbEAvfXXyXdL4RcHVcjkZ1Bm/TXa8WPgE03xAEhUfxS5uYhJDcx7ta3Zp2kCAExXUS4nnx9VH8zM34o1g4lEtK9lzTd2+z0JihrmFB8EyRAtvBAvYQXycRMwZSk4qXt4AyZBFS7eaQ==;Gv7GanJcXqL3cQgo1wEQVw=="
+secured: "n22L0/WR+8f+hVAyfdhOtOEmhMQyJKNgSgFdHbyqFS+kPLerw5OlzEvMWjeFKOU282r/dYms7r7CBAX9djnnbcrvn71HaLryga+u6G+2whbRg/i7pjorKsTTZ6ft8XOkzuI1/1v7imzs9sYmbpZuuyXo3GeZiHyuuHlww4c8SqpjlYp5gRX4+tX30P3HMst4DKi60FK3QZwBL71NNBJb+THz/+WoQOJGFhTtYx/piHb/lMvQLbhKQU5POGrp7Jbelm8dxMkVjlB+4VBNUQ3YHAvD4S4FzNNsuALBgTDpKZbuGBwCzSBuxJkdK0xRdYQWj8l6TNJ3vphh/OvLAOYUROn80FEJmXY7VFXQzJ3i+fk=;54zT8WDNHTRasBbuOJYyNw=="
 ---
 
