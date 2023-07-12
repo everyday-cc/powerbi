@@ -751,8 +751,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 6427,
-            "average": 4.71433
+            "count": 6428,
+            "average": 4.7143745
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -962,8 +962,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
           "length": "PT1H21M",
           "ratings": {
-            "count": 224,
-            "average": 4.700893
+            "count": 225,
+            "average": 4.7022223
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4035,8 +4035,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 114,
-            "average": 4.7280703
+            "count": 115,
+            "average": 4.730435
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4829,8 +4829,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4829,
-            "average": 4.6761236
+            "count": 4830,
+            "average": 4.6759834
           },
           "provider": {
             "name": "Microsoft Learn",
