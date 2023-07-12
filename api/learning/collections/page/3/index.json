@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 957,
-            "average": 4.753396
+            "count": 958,
+            "average": 4.7536535
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 805,
-            "average": 4.837267
+            "count": 806,
+            "average": 4.8362284
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -118,8 +118,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 760,
-            "average": 4.8078947
+            "count": 761,
+            "average": 4.808147
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -201,8 +201,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 469,
-            "average": 4.752665
+            "count": 471,
+            "average": 4.7537155
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -285,8 +285,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3726,
-            "average": 4.7203436
+            "count": 3728,
+            "average": 4.720494
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -911,8 +911,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visualize-real-time-data-azure-stream-analytics-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 200,
-            "average": 4.78
+            "count": 201,
+            "average": 4.7810946
           },
           "provider": {
             "name": "Microsoft Learn",
