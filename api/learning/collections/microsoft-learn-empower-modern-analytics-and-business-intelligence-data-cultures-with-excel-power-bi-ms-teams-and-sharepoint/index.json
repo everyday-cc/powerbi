@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
       "length": "PT37M",
       "ratings": {
-        "count": 1182,
-        "average": 4.780034
+        "count": 1183,
+        "average": 4.7802196
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 821,
-        "average": 4.780755
+        "count": 822,
+        "average": 4.781022
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -283,7 +283,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 130,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/modern-analytics-excel-social.png",

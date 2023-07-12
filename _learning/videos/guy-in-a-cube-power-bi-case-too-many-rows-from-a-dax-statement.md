@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT6M40S
 publishedDateTime: 2020-11-25T16:00:01Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3vcKgN8HxjY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 360
     isCached: true
 
-secured: "oy6kwmbw6t67Bo28qFVG1R+Tbi6ctfefqR0ucxwCzRoQwzDFlWfW8ws//EmyJuXC8z6XtzdAq1hXtfk6H5N95KS7WD8gR/kcrBCFYg5cTuUK4RKblmGyI1w+VICLzc48kM4rp1LRLAp3VOvY3qZQuyhoLkWugoeuj2oihUjqyMUo2iojWjJqBrFWyH5mOvm3p6lIHv52Y8mFakirnnE5pfU1OaY+CUs1c5ZTwLeZ8QoSsz+LLEjfwF4ndRbcTmB3Zd4Lg4h1GzeXgipDZYY/HJokcP4UFNPaJksW1B5bjRTLCBBboEe1+QTn+PIR8aoQPhXgku6ZVudmp870EcdcxXBvB3fHuP3NGGzUqtCG7GMLfh/k9ECYtkY3ayeHjunmJ6bzY0EsYGXV4wqQskVIMNb9LkMRonhWWsdPUgyKGlE=;yBTQKjW0bXdYXnLm44LFuA=="
+secured: "HOGY+Ddn5M9RkxVZ99DmsTmdFcd1w5ksdmruOO1twQmtyEg3E0WXDNTfRZOcg5FBqzTDqHnZacPa8oSex5EFXYGg9O5J12cVPcOjr4LHn7Wymf50cIpOlseyj2+7ZhQnewuakxrML48DWDCQ+aNvxKgKlnYstnrv+8e73LJp4Bmbq+YUbIBx/DhxWga8vDtSvGRuF9JhPfH9twny1s6G/euuvHbu3cNQa/p9ZgaiZDAJV8zGLE2sRpHoaV1KMzThIr1r11M8kNoPhHdi/p7hd3N2w47aVABd96gieuHv4w23crugNrf7JjI9CcGvzeCAXc+9cbInn9h29sgNFAq3R0JF1txZVqE34keaW/X7gYnow8TK06aRJuMsxLx/xixqJOlk3CjJ+VGQiNHtqF3q2MO+20NhxkkkNELBp43KkI8=;eRfnJ7pIzako+Gs7BlEALA=="
 ---
 
