@@ -7,7 +7,7 @@ price: Free
 length: PT29M
 ratings:
   count: 4245
-  average: 4.7479386
+  average: 4.747703
 heat: 57
 
 provider:
