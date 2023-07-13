@@ -4,48 +4,6 @@
   "page": 52,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-embedded-intro.md",
-      "title": "Introduction to Power BI embedded analytics",
-      "excerpt": "Learn how developers can programmatically embed analytics in their apps, and about no-code embedding options for simpler requirements.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-intro/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-intro/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 173,
-        "average": 4.884393
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-intro-social.png",
-          "width": 1280,
-          "height": 640,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-power-bi-embedded-permissions-analytics.md",
       "title": "Enforce data permissions for Power BI embedded analytics",
       "excerpt": "Learn how to enforce data permissions for Power BI embedded analytics.",
@@ -117,6 +75,48 @@
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-permissions-content-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-power-bi-embedded-select.md",
+      "title": "Select a Power BI embedded analytics product",
+      "excerpt": "Learn how to select a Power BI embedded analytics product.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-select/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-select/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 93,
+        "average": 4.8494625
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-select-social.png",
           "width": 1280,
           "height": 641,
           "isCached": true
@@ -453,6 +453,48 @@
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-organize-fields-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-power-bi-tableau-visuals.md",
+      "title": "Create Power BI visuals for Tableau users",
+      "excerpt": "This module goes through the basics of creating visuals in Power BI.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-tableau-visuals/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-visuals/",
+      "length": "PT1H9M",
+      "ratings": {
+        "count": 99,
+        "average": 4.646465
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-visuals-social.png",
           "width": 1280,
           "height": 641,
           "isCached": true
@@ -811,48 +853,6 @@
       "ratings": {
         "count": 141,
         "average": 4.8368793
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-visualize-real-time-data-azure-stream-analytics-power-bi.md",
-      "title": "Visualize real-time data with Azure Stream Analytics and Power BI",
-      "excerpt": "By combining the stream processing capabilities of Azure Stream Analytics and the data visualization capabilities of Microsoft Power BI, you can create real-time data dashboards.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visualize-real-time-data-azure-stream-analytics-power-bi/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/visualize-real-time-data-azure-stream-analytics-power-bi/",
-      "length": "PT1H8M",
-      "ratings": {
-        "count": 201,
-        "average": 4.7810946
       },
       "provider": {
         "name": "Microsoft Learn",

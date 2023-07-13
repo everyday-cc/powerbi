@@ -4,6 +4,50 @@
   "page": 51,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-dax-power-bi-calculation-groups.md",
+      "title": "Add DAX calculation groups to Power BI Desktop models",
+      "excerpt": "Learn how you can add many similar measures to your model.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-calculation-groups/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 280,
+        "average": 4.6857142
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-calculation-groups-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-dax-power-bi-modify-filter.md",
       "title": "Modify DAX filter context in Power BI Desktop models",
       "excerpt": "By the end of this module, you'll be able to describe filter context, which is used to evaluate measure formulas. You'll then learn why some calculations need to modify filter context and that it can be achieved by using the CALCULATE function. Additionally, you'll learn how to configure the CALCULATE function with filters and filter modifiers.",
@@ -11,8 +55,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
       "length": "PT37M",
       "ratings": {
-        "count": 683,
-        "average": 4.6412883
+        "count": 684,
+        "average": 4.640351
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -121,48 +165,6 @@
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-discover-trusted-data-use-azure-purview.md",
-      "title": "Discover trusted data using Microsoft Purview",
-      "excerpt": "purview, enterprise data analyst",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-discover-trusted-data-use-azure-purview/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 394,
-        "average": 4.7055836
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/2-discover-data-artifacts-azure-by-using-azure-purview-social.png",
-          "width": 1281,
-          "height": 641,
           "isCached": true
         }
       ],
@@ -406,48 +408,6 @@
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/intelligent-environments-education-transformation-framework-social.png",
-          "width": 1281,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-power-bi-artifacts-use-microsoft-purview.md",
-      "title": "Manage Power BI assets by using Microsoft Purview",
-      "excerpt": "Improve data governance and asset discovery using Power BI and Microsoft Purview integration.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-manage-power-bi-artifacts-use-microsoft-purview/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
-      "length": "PT20M",
-      "ratings": {
-        "count": 270,
-        "average": 4.740741
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/4-manage-power-bi-artifacts-by-using-azure-purview-social.png",
           "width": 1281,
           "height": 641,
           "isCached": true
@@ -1249,6 +1209,48 @@
           "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-integrate-social.png",
           "width": 1280,
           "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-power-bi-embedded-intro.md",
+      "title": "Introduction to Power BI embedded analytics",
+      "excerpt": "Learn how developers can programmatically embed analytics in their apps, and about no-code embedding options for simpler requirements.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-intro/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-intro/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 173,
+        "average": 4.884393
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-intro-social.png",
+          "width": 1280,
+          "height": 640,
           "isCached": true
         }
       ],
