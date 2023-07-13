@@ -73,8 +73,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 394,
-            "average": 4.7055836
+            "count": 396,
+            "average": 4.7045455
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -365,8 +365,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3732,
-            "average": 4.7207932
+            "count": 3733,
+            "average": 4.720868
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -425,8 +425,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 823,
-        "average": 4.781288
+        "count": 824,
+        "average": 4.7803397
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -554,8 +554,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1551,
-        "average": 4.744681
+        "count": 1552,
+        "average": 4.7448454
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -598,8 +598,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
       "length": "PT29M",
       "ratings": {
-        "count": 394,
-        "average": 4.7055836
+        "count": 396,
+        "average": 4.7045455
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -640,8 +640,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 227,
-        "average": 4.704846
+        "count": 228,
+        "average": 4.7061405
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -766,8 +766,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
       "length": "PT45M",
       "ratings": {
-        "count": 672,
-        "average": 4.735119
+        "count": 673,
+        "average": 4.7355127
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -808,8 +808,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
       "length": "PT41M",
       "ratings": {
-        "count": 1334,
-        "average": 4.773613
+        "count": 1336,
+        "average": 4.7717066
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -4,7 +4,7 @@ excerpt: "visualize, data visualization"
 type: collection
 price: Free
 length: PT3H31M
-heat: 60
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -19,8 +19,11 @@ levels:
 
 items:
   - courses/microsoft-learn-power-bi-effective-requirements
-  - courses/microsoft-learn-visuals-power-bi
-  - courses/microsoft-learn-data-driven-story-power-bi
+  - courses/microsoft-learn-power-bi-effective-reports
+  - courses/microsoft-learn-power-bi-effective-filters
+  - courses/microsoft-learn-power-bi-effective-user-experience
+  - courses/microsoft-learn-perform-analytics-power-bi
+  - courses/microsoft-learn-create-paginated-reports-power-bi
 
 topics:
   - Power BI
