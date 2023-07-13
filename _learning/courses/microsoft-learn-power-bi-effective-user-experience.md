@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT59M
 ratings:
-  count: 481
-  average: 4.7172556
+  count: 482
+  average: 4.717842
 heat: 50
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 641
     isCached: true
 
-secured: "S18msoKnlYbkM1s8mMelScvbRy7d89ma7fP2ExRVD/Axs9ExYYWCB3eCKJ3CsuBt6ddnfpzvBd3GXSOXMAiLwesByNNWPYJLReovaE1GpUtAL2hFvub17eCYyQzzspaBrvbjKvJOGJ726Xow7npLca0TSyNGtuR0b+FP5Ygz4RoUH/TDqoX4a0VkqiqaW3kWJIYVv7a0abiYlZjNiKCx1/bOC2vKVjGpPBvc+fMPVgW6f8sgxZa4LKx9v5Tv45/s5TG8FYyTohYmZnjK5kR/M/MClIOnROk8vSwZu16s7Px0r199XX5l4aOgt2BjaDzQI1if3TKsWTWxGPnG9AdI5+m8qsjCHmWCxtI5BjSh8jvD0sB+/K2uYCgsoaMaVfhCVaAf9hYzq+jRJydBIlzyqlIzu4TPgqbHoGSyZ0230qQ=;ru1k2B6u2dOKzRFTKO3fuQ=="
+secured: "fTVITclcD9qJufjb8xesmZnhsKkB8MExm+nL0OagOooAbREChTgmaSn0VBvFemdKpsmih1RvfpRvGePRkODycdGWGVAhuCsnwRmnbeplVuvKhPXYwSYi4SmawnBnG//VALRONiYyV356MLgp4V3yFjBAD5qFyBPSsIcLMH2sp89QXt50SfE1bMa5avmNG3hI/Ak+rqXKRW7HvWk/PlrJDHoAry0RHHaKm05mlf1g+G483PeYLPytTljotErPxTZxwtOddfD9+oiuGRqQx4cYafw9Ve9CXt8pZ+ONXtP7W7357/mAQxS71ZRv3YOb+yPx7RBolEuJ/WVy+PXKfwmNi8JcFm9yVBoWjNyvI9e84u9N3TT7uRfLqdF83U/OVAWz0W3o6QM3D2YjTimba0EibQNDeJSEUq90jW9WgwuC0uk=;3RJl6vzfvfUOej+BYPR1Jw=="
 ---
 
