@@ -4,7 +4,7 @@ excerpt: "Once you have created your Power BI data sets and reports, it’s time
 type: collection
 price: Free
 length: PT1H55M
-heat: 69
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -20,7 +20,6 @@ levels:
 items:
   - courses/microsoft-learn-create-manage-workspaces-power-bi
   - courses/microsoft-learn-manage-datasets-power-bi
-  - courses/microsoft-learn-create-dashboards-power-bi
   - courses/microsoft-learn-row-level-security-power-bi
 
 topics:
