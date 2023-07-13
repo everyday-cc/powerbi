@@ -44,7 +44,7 @@
             ]
           },
           "publishedDateTime": "2020-04-24T04:44:00-07:00",
-          "heat": 54,
+          "heat": 56,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/7CqXdSEN2k4/maxresdefault.jpg",
@@ -83,7 +83,7 @@
             ]
           },
           "publishedDateTime": "2020-04-24T04:44:00-07:00",
-          "heat": 55,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/qUmTxQHr6nY/maxresdefault.jpg",
@@ -1231,8 +1231,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 190,
-            "average": 4.805263
+            "count": 191,
+            "average": 4.8062825
           },
           "provider": {
             "name": "Microsoft Learn",

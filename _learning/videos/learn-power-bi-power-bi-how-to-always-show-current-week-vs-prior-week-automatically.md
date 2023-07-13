@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M57S
 publishedDateTime: 2022-08-10T16:00:17Z
-heat: 63
+heat: 62
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_j6Okp7zQlE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "JUBuR6Ks+8nfg6jHmR9Cu03xDrSaP2sQW604hhLRK1uFBQIKsT5xYPUpoQnuUkWbpghYE3Z8d3DkIZ1baOeRllr8mjpJ/mu+hrUeBaji87/uh2cnkVelXD9zaa/7wslcOw8zBwUH5vOAoC/Ro3qMFI1SihkB88NNlTtKzF6tWiDkD6+Pg8UZkfwvaYNHnYCIjnS04A8RXKF2dyLlai4TyUQg4R2601dk/XQA9dmUhbWyFahsKFo2HHyHCaKII7KgfQAKqV02KjftYsLfd3VV0yWj1pyFYeMJDUEdRCAoMkZMBvfWrGxyggvul4OxtNqiNX8qiPmheK2qF2t7Lvy9jDKQbhlTbjXxlqmywzyuZCQsVXowtWC+MPpIAnjUV9vsmO4N+Cp30c5Cp2iF1/t1mq3O24B5IMuQ0uVObl3dAkc=;Plm2iNSWFCFb1iZ116kYpQ=="
+secured: "stynaSbJsRglzi7zt7WfFAyWi0BhbRdAVMeLAJcuQ+85L/thdxg8iMM93kvWkSQJgcjA1x0H7XKtHHoPGhFbztE93Jm7p97FRU2qyUzcCBwtuIkDE3axwOwt7LNTKgwovx+/zyhar7YiAN8RbSHvT8JjznePV2yMcJ/XIXr8RvpAnDLTxlUcEvg9K3kTu/C1biFfHh7BjV+G3Mj4rHkZr4g9I7kvj1F9giiqVrErTeaT2rzPQX1hrMSxb0YiGLEMTlkEf9sr/9eulXpIu7Jvk2u+vsqUC263LWDE4uA3jLnPSKyKm5yBpVgaki7eLROUeAxyiWde46eyxYtaeg1OACChHHAzMFUfBm3ItrauYS6mWt8VlsFwACCSwmHHKHKHvBLZSqZu+e5o2toWTMRPGpGUN+cGxo8+81iwRVSOnVE=;fdVO9r2Hb3UeEBLY9BIKfQ=="
 ---
 

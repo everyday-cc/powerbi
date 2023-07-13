@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M41S
 publishedDateTime: 2020-04-24T11:44:00Z
-heat: 54
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7CqXdSEN2k4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "BHDP1MZc8rPEwEHq87sqCpmOT2fBqQY41+dv4+wUgQylYV0Ydn3cvSxZu+MH7EsMSW+HoyWDN2r8uvPlDogRl/5L1SK1jIOF7bVFudw8paJ5apPnIWaFXSn2THHPfxVAkQRd4dmqfIrGTelzrjfzg06qPMl+dWw5w9v4k+Rl0IExcwqiBJWBApBhoBVRdwjAG2dqwb1zeiD2ALhxic1u0gZBZbypPjg2idGTWbrrqSXjFwuBv+oWwC9Vp/om6IK7tDkpvEM+b+lsw9LVOpThmXNp8E/LW0JMF80QTKU2DR3EDUNPpQmdUWSds0Zk2tn/ynG3fcohueCVomevBRCrkEcRHkAB/i2JIAtwhb3JzGvAsfl7lfmr20OFRhg5bPOCwwCkoaDbw4LtXtJB1bTTda3E/NIVTKhigBic22PZOdY=;q4C2Ob35n8Z8kAMHAb9l4A=="
+secured: "B8wpK52KONqDXUROhYL/5XHo5PFapZsJy4jmd1QLP1cWOJgVAGgNh0GWHtHL/jslGIS/ZeZ2dLBp/3qssP8pEs0XaSTkFsVReH7htmC4g7vK6zHNxjmotx6KoYqNM0ZalPkMAR9Dyk2esUuZW7qtLjm+0DQYRLOhi1vNST9MRwmX0OIZAA5sF/cCyOgKHDP+1kFj2pc9C36AX0CUwCivASBszaGddGX9apu24hNyYJHAZ5ZMiwzEkph436WmHsrAM6wIwobB+bi8dcpIXvL2ZeuYi6Q+j5ZH7DLH2QK3Ztu4ogSmDFJTD28BVLAf8/C+IfzecVWXkumgw41TmNH4ySLxuY8k8eYb5iHhTnivAMR2dlhMB1QwYiyo8De/I+rzRs4W5N9n1tMl4Z771DifB1jZXYpmkCcjpQvLeWnYzJU=;aWRGGo9ge447CkAGR6UAwQ=="
 ---
 
