@@ -178,8 +178,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 67762,
-            "average": 4.7960806
+            "count": 67771,
+            "average": 4.7960925
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -220,8 +220,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 96041,
-            "average": 4.778001
+            "count": 96050,
+            "average": 4.7780113
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -280,8 +280,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 96041,
-        "average": 4.778001
+        "count": 96050,
+        "average": 4.7780113
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -315,36 +315,6 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-what-is-data-factory-in-microsoft-fabric.md",
-      "title": "What is Data Factory in Microsoft Fabric",
-      "excerpt": "Microsoft Fabric is an end-to-end data analytics solution in the cloud, and one of its workloads is called Data Factory. In this article, you will learn what Data Factory is, how it works with the rest of Microsoft Fabric, and what are elements and functions of Data Factory. Read my article here to learn",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-is-data-factory-in-microsoft-fabric/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-is-data-factory-in-microsoft-fabric/",
-      "originalUrl": "https://youtube.com/watch?v=5hyTWLWNGiw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5hyTWLWNGiw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M44S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2023-05-29T21:50:15-07:00",
-      "heat": 136,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5hyTWLWNGiw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-data-analytics-microsoft.md",
       "title": "Discover data analysis",
       "excerpt": "Would you like to explore the journey of a data analyst and learn how a data analyst tells a story with data? In this module, you will explore the different roles in data and learn the different tasks of a data analyst.",
@@ -352,8 +322,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 67762,
-        "average": 4.7960806
+        "count": 67771,
+        "average": 4.7960925
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -387,14 +357,56 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-dont-miss-out-of-microsoft-build-powerbi.md",
-      "title": "Don’t miss out of Microsoft Build! #powerbi",
-      "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-dont-miss-out-of-microsoft-build-powerbi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-dont-miss-out-of-microsoft-build-powerbi/",
-      "originalUrl": "https://youtube.com/watch?v=TprbclJaSJU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TprbclJaSJU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT53S",
+      "path": "_learning/courses/microsoft-learn-power-bi-embedded-content.md",
+      "title": "Embed Power BI content",
+      "excerpt": "Learn about embedding Power BI content.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-content/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-content/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 54,
+        "average": 4.8333335
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-content-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-microsoft-fabric-discussion-may-2023-social-hour.md",
+      "title": "🔴 Microsoft Fabric Discussion - May 2023 Social Hour",
+      "excerpt": "Join us live as we recap Power BI and Azure Data announcements made at Microsoft Build - May 2023. With special guest, Stephanie Bruno, Jason Himmelstein and John White!  Microsoft Build: https://powerbi.microsoft.com/en-us/blog/microsoft-digital-event-may-24-25/  Connect with Stephanie Bruno https://twitter.com/StephTBruno",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-microsoft-fabric-discussion-may-2023-social-hour/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-microsoft-fabric-discussion-may-2023-social-hour/",
+      "originalUrl": "https://youtube.com/watch?v=tMx3rhl43b4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tMx3rhl43b4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "P0D",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -407,11 +419,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-05-22T14:21:58-07:00",
-      "heat": 131,
+      "publishedDateTime": "2023-05-15T05:04:23-07:00",
+      "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/TprbclJaSJU/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBQKEUwDw==&rs=AOn4CLDwPhQE5ZAAtmTbgSCd6r-KmrkbAw",
+          "url": "https://i.ytimg.com/vi/tMx3rhl43b4/maxresdefault_live.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -425,23 +437,23 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-where-is-the-format-visual-in-the-new-power-bi-desktop.md",
-      "title": "Where is the FORMAT Visual in the new Power BI Desktop",
-      "excerpt": "Where is the Format visual option in the new Power BI Desktop? There is a simple answer to this question, which I explained in this video. This change applied from March 2023 version of Power BI Desktop, and by the time you watch this video, it might be at general availability and the only way to format",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-where-is-the-format-visual-in-the-new-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-where-is-the-format-visual-in-the-new-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=SKzPtk__XSU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SKzPtk__XSU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M54S",
+      "path": "_learning/videos/learn-power-bi-power-bi-calendar-table-challenge-creating-a-film-calendar-shorts.md",
+      "title": "Power BI Calendar Table Challenge: Creating a Film Calendar 🎬 #Shorts",
+      "excerpt": "👉 If you have any questions, just leave us a comment.  👉 Check out our Power BI Tutorial https://youtu.be/AGrl-H87pRU ================================ #PowerBI #PowerBIQuestion #PowerBIPro  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-calendar-table-challenge-creating-a-film-calendar-shorts/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-calendar-table-challenge-creating-a-film-calendar-shorts/",
+      "originalUrl": "https://youtube.com/watch?v=ZrlS0XSyaSA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZrlS0XSyaSA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT50S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2023-05-10T15:12:54-07:00",
-      "heat": 131,
+      "publishedDateTime": "2023-06-13T23:17:15-07:00",
+      "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/SKzPtk__XSU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZrlS0XSyaSA/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYciBKKDwwDw==&rs=AOn4CLBIC8h9nqyF-AWK2YuuUkd0mrPGcw",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -451,8 +463,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power BI Desktop"
+        "Power BI"
       ]
     },
     {
@@ -844,8 +855,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 31321,
-        "average": 4.7213054
+        "count": 31323,
+        "average": 4.721323
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -986,8 +997,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 96041,
-            "average": 4.778001
+            "count": 96050,
+            "average": 4.7780113
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1028,8 +1039,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 36221,
-            "average": 4.7275615
+            "count": 36225,
+            "average": 4.7275085
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1071,8 +1082,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16767,
-            "average": 4.723266
+            "count": 16768,
+            "average": 4.7232823
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1113,8 +1124,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 7840,
-            "average": 4.763648
+            "count": 7841,
+            "average": 4.763678
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1196,8 +1207,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 23331,
-            "average": 4.752904
+            "count": 23334,
+            "average": 4.7529354
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1272,8 +1283,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 96041,
-            "average": 4.778001
+            "count": 96050,
+            "average": 4.7780113
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1332,8 +1343,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 23331,
-        "average": 4.752904
+        "count": 23334,
+        "average": 4.7529354
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1478,8 +1489,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 13993,
-            "average": 4.7690988
+            "count": 13995,
+            "average": 4.7691317
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1603,8 +1614,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 13993,
-            "average": 4.7690988
+            "count": 13995,
+            "average": 4.7691317
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1663,8 +1674,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 13993,
-        "average": 4.7690988
+        "count": 13995,
+        "average": 4.7691317
       },
       "provider": {
         "name": "Microsoft Learn",
