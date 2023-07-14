@@ -1738,7 +1738,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-collaboration-social.png",
@@ -2533,8 +2533,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 16769,
-        "average": 4.723299
+        "count": 16770,
+        "average": 4.7233152
       },
       "provider": {
         "name": "Microsoft Learn",
