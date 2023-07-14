@@ -340,8 +340,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3008,
-            "average": 4.764295
+            "count": 3009,
+            "average": 4.764374
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -526,8 +526,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 11807,
-        "average": 4.7402387
+        "count": 11808,
+        "average": 4.740176
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1270,8 +1270,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 12885,
-        "average": 4.683275
+        "count": 12886,
+        "average": 4.6832223
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1781,8 +1781,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 11807,
-            "average": 4.7402387
+            "count": 11808,
+            "average": 4.740176
           },
           "provider": {
             "name": "Microsoft Learn",
