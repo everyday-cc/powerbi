@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-06-power-bi-and-powerpoint-a-powerful-combination-for-data-visualization-is-now-generally-available.md",
+      "title": "Power BI and PowerPoint: A Powerful Combination for Data Visualization is now generally available",
+      "excerpt": "We are happy to announce the general availability of Power BI integration with PowerPoint. This integration makes presentations more engaging and informative by allowing users to create rich, interactive visualizations that can be embedded in PowerPoint slides. The is now available also in national clouds.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-03-06-power-bi-and-powerpoint-a-powerful-combination-for-data-visualization-is-now-generally-available/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/storytellingga/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/storytellingga/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-05T22:05:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-query-parallelization-helps-to-boost-power-bi-dataset-performance-in-directquery-mode.md",
       "title": "Query parallelization helps to boost Power BI dataset performance in DirectQuery mode",
       "excerpt": "We are excited to announce significant query processing improvements in the Power BI engine around query parallelization in DirectQuery mode, which can help to accelerate query response times, specifically for DAX and MDX expressions that generate multiple storage engine (SE) queries. ",
@@ -1226,58 +1277,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-power-bi-update-december-2022.md",
-      "title": "Power BI Update - December 2022",
-      "excerpt": "Welcome to the December 2022 update. This month, we’ve added a variety of new DAX functions, updated slicer type formatting, brought Metrics to the Windows app, and more!  Intro -- 00:00  Reporting                Slicer type formatting moved to Format Pane -- 00:12  Modeling                Making it",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-12-10-power-bi-update-december-2022/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2022-12-10-power-bi-update-december-2022/",
-      "originalUrl": "https://youtube.com/watch?v=2O4EtGlq93k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2O4EtGlq93k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2O4EtGlq93k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T22:53:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],

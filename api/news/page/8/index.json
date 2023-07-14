@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-04-14-power-bi-april-2022-feature-summary.md",
+      "title": "Power BI April 2022 Feature Summary",
+      "excerpt": "Welcome to the April 2022 update. We are excited to announce New format pane and Power BI Goals updates, tooltips drill actions support for more build-in visuals, error bars for clustered column and bar charts preview feature, general availability of Dynamic M query parameters. There is more to explore,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-04-14-power-bi-april-2022-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-april-2022-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-april-2022-feature-summary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-14T06:52:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-heads-up-classic-workspace-upgrade-starts-on-april-27-2022.md",
       "title": "Heads up: Classic Workspace Upgrade Starts on April 27, 2022",
       "excerpt": "Microsoft will begin updating classic workspaces on April 27th, 2022.",
@@ -1209,58 +1260,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-create-stunning-mobile-optimized-power-bi-reports-with-mobile-layouts-new-visual-formatting-pane-preview.md",
-      "title": "Create stunning, mobile-optimized Power BI reports with mobile layout᾿s new visual formatting pane (Preview)",
-      "excerpt": "We are thrilled to announce the public preview of NEW mobile formatting options. Now you can choose to have two separate designs for the same visual, one for each layout.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-02-17-create-stunning-mobile-optimized-power-bi-reports-with-mobile-layouts-new-visual-formatting-pane-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/create-stunning-mobile-optimized-power-bi-reports-with-mobile-layouts-new-visual-formatting-pane-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/create-stunning-mobile-optimized-power-bi-reports-with-mobile-layouts-new-visual-formatting-pane-preview/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vNK4xygN8Xw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-17T02:20:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],
