@@ -2427,8 +2427,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 3049,
-        "average": 4.725156
+        "count": 3050,
+        "average": 4.725246
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2469,8 +2469,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 6430,
-        "average": 4.797045
+        "count": 6432,
+        "average": 4.797108
       },
       "provider": {
         "name": "Microsoft Learn",
