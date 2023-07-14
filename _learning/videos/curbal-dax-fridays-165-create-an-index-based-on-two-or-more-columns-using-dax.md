@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M13S
 publishedDateTime: 2020-04-24T11:44:00Z
-heat: 54
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qUmTxQHr6nY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "4Ugpu+RRubsC7M1f9N5Obv/6+Zf7tqbh24qrQYTiPTaeAezRfHb85q+ICQNLT6MEhcfMmopphNTHgQIx9UlMkzz5JEKyQpCpx4yNObn80vTm/TPCypMnEALCCWC56OI7b+ElLGHGlbMjoIiSys/iotBMaABaOTr4r0r5CETNwJu1qNIch1wBB3mTJgnJMJ5d8zykC1/ZNBLC8+jFKam25nJ2oNTCUr0UhHdLzfQqwNEkQ5l0XuHwAonORBbrWKJI9yX93pl1WFyJKLxafWmKDKdCQECTX6UXFa03RlJ5A5e5RDkYcUeycPYE3htjF5AvJI3kPjngiLM89kqTQJit3w0CfL5IrG/Y0UWJsEnuNLiXpgnd3DasAifDEKmKswQNnn1qc+qWmKnQ+/szoTSloe9S6Ln2zbB/FygVPl5RVO4=;wxq9hW76sRm0sofU7XGjDg=="
+secured: "tvoxmx/cbQPMNZ1dKfirfB4taqqJZ+ekZmR0TWfBbE+eJqlu67P+0hIGvlx5Y3eHfKioIHl6KrYZnVibWG92ZVa2lXXPHMQ2VQrC9V2yHB09c1gLd50Bkvh7ZedDhQolf3awYtifemh9RyV9tRzViEuVZE47JBHwSot6sxsQUqpMoTY4xuPSXT5FUZtS4ilA8xDpi0EN1/SPeJ3ux14SG6Xgqd0gS4nrgMC+cIs8O3bz76sSivnSYDinvZlEaYedwd0Zhft2Kicafj81nLhJ4p9enFAYsclCS4DOrt1u9gs8UCHQpgRarDGg7pd+137GgHzZSK2lEeimUEeuSGCcoKn355W6o3Il4/oNMlzQHeGoxYz9wJN5d6Lui4a2UuUK1Sdi4aERjm1+dW2ozxykD1d/LmdQuBZmdxlD2bZW0u0=;JEo0bbmjE+1CFRx28pJuZw=="
 ---
 

@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT11M4S
 publishedDateTime: 2020-10-28T03:41:38Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xNRtOZae71Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "lzSikDjc/Lh+ps6kC5WmC4GUJDYmjjq3jmKxc2MIqEtHWTKmkpDBo9/0wqMJ7VoEB6aGgwNIbXB+PBw1DNh77etMIMaSOW+6NeYIvzoQ1kNItOj22oJJr6g6VjLnbSq8m+nTM7dMkRoVqHzm08pPuydTelkrmuPpYYzSwoBJ4OihMoBrGl4sFaXpaBKYXN0nQOaAojRBhPAedr4Nh4L7ckbmXUEuNLs7Cc4aH7wB0AIkVhlkKoGI+EqEP+dZuKyjue7GMtQWDyDo2cPz4TKed34Bi2tqAnG5Fw1XVkEpYwc9pNv2XizlCoM1/TitzQGSepR3DkDGD2A6N9waTSx+k2OIWWXeGkeB5t1j+f4mXWCLjnbbVw+PLAJmL6N9ugH5j9Qw+/w0WIZvka2TU33GxA9TSMA3N0sFYjC1q2xG/uE=;RueeHd/TpdLizmxF/PwZwQ=="
+secured: "iMRI+I+FklwQ/5zyWwwLZl1SuOwezTeJQKjsHOYeHsSLCAn+q+avZ9ajYS0KR+zD4qsd2wukSNpBrP7wi4KA9dSIlJsKMVtK5vOJd+4SRgVEJiLQ2F4ng+yOwJdScWPvnwGML5akTjw3D4NybXTRXZTAimp4HX4u05+P2INIIr6VzK7fRqc9+yLUcot9b3mlaGB2wNBYYut3H4eULNpa3wcHZ7mtGKz16nsU6f17Vth7lGmnqG2K+i248ykJwNoxSGqU4uy1Qv3QwyXCD2tIE9cVNpte0WIv98a/nORbrocsQTEGw55HgVFJRBHO2yNOMXtNpQe9in0ZUHKc9OhPIGC9nQfmlPkpA0x0Tlpf4zgBqaNMl9DTtDsa2cgnp9fbGijpQzapn5kInckmAB4SEYmPY6th0pyqCg0ZX4ootRQ=;tpo7ZucjxNA80KXAkLlEkQ=="
 ---
 
