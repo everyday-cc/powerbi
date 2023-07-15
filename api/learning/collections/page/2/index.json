@@ -3237,8 +3237,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3568,
-            "average": 4.713285
+            "count": 3569,
+            "average": 4.713365
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5260,8 +5260,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2356,
-            "average": 4.747029
+            "count": 2357,
+            "average": 4.747136
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5343,8 +5343,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 400,
-            "average": 4.7
+            "count": 401,
+            "average": 4.700748
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5385,8 +5385,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 273,
-            "average": 4.739927
+            "count": 274,
+            "average": 4.7408757
           },
           "provider": {
             "name": "Microsoft Learn",
