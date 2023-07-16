@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/anomaly-detection-preview
 webUrl: "https://powerbi.microsoft.com/en-us/blog/anomaly-detection-preview-is-now-supported-in-power-bi-mobile-apps/"
 type: article
 quality: 189
-heat: 189
+heat: 190
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JC8xM74Bhlo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
