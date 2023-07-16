@@ -148,8 +148,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 67907,
-            "average": 4.7962656
+            "count": 67909,
+            "average": 4.7962713
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -190,8 +190,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 96292,
-            "average": 4.7779045
+            "count": 96297,
+            "average": 4.7779164
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -250,8 +250,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 96292,
-        "average": 4.7779045
+        "count": 96297,
+        "average": 4.7779164
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -285,31 +285,23 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-enabling-drillthrough-with-power-bi-on-object-editing.md",
-      "title": "Enabling Drillthrough with Power BI On-Object Editing",
-      "excerpt": "Using the new On-Object editing in Power BI Desktop? Have you figured out how to enable drillthrough yet? Adam has and is here to show you the clicks!  Power BI April 2023 Feature Summary https://powerbi.microsoft.com/blog/power-bi-april-2023-feature-summary/  On-object Interaction https://learn.microsoft.com/power-bi/create-reports/power-bi-on-object-interaction",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-enabling-drillthrough-with-power-bi-on-object-editing/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-enabling-drillthrough-with-power-bi-on-object-editing/",
-      "originalUrl": "https://youtube.com/watch?v=eYxRHJ0hB_E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eYxRHJ0hB_E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M34S",
+      "path": "_learning/videos/radacad-microsoft-fabric-licensing-an-ultimate-guide.md",
+      "title": "Microsoft Fabric Licensing   An Ultimate Guide",
+      "excerpt": "Microsoft Fabric is an end-to-end data analytics Saas solution product of Microsoft. It brings many workloads in the analytics area, including Data Integration, Warehousing, Engineering, Business Intelligence, Data Science, and Real-time Analytics. It is often a question of how the pricing of this platform",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-microsoft-fabric-licensing-an-ultimate-guide/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-microsoft-fabric-licensing-an-ultimate-guide/",
+      "originalUrl": "https://youtube.com/watch?v=Gvt8oesGa3E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gvt8oesGa3E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M17S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "RADACAD",
+        "domain": "radacad.com"
       },
-      "publishedDateTime": "2023-05-17T08:00:34-07:00",
+      "publishedDateTime": "2023-06-05T15:22:53-07:00",
       "heat": 135,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/eYxRHJ0hB_E/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Gvt8oesGa3E/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -323,31 +315,23 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-lets-talk-microsoft-fabric-live-w-amir-netz-june-10-2023.md",
-      "title": "🔴 Let's talk Microsoft Fabric - LIVE w/ Amir Netz (June 10, 2023)",
-      "excerpt": "Join us live as we answer your questions about Microsoft Fabric including Power BI with out guest Amir Netz who is a Microsoft Technical Fellow and CTO/Visionary of Microsoft Fabric. You don't want to miss this one!  Connect with Amir: LinkedIn: https://www.linkedin.com/in/amirnetz/ Twitter: https://twitter.com/amirnetz",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-lets-talk-microsoft-fabric-live-w-amir-netz-june-10-2023/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-lets-talk-microsoft-fabric-live-w-amir-netz-june-10-2023/",
-      "originalUrl": "https://youtube.com/watch?v=hUfdMc0GW8s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hUfdMc0GW8s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "P0D",
+      "path": "_learning/videos/radacad-what-is-data-factory-in-microsoft-fabric.md",
+      "title": "What is Data Factory in Microsoft Fabric",
+      "excerpt": "Microsoft Fabric is an end-to-end data analytics solution in the cloud, and one of its workloads is called Data Factory. In this article, you will learn what Data Factory is, how it works with the rest of Microsoft Fabric, and what are elements and functions of Data Factory. Read my article here to learn",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-is-data-factory-in-microsoft-fabric/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-is-data-factory-in-microsoft-fabric/",
+      "originalUrl": "https://youtube.com/watch?v=5hyTWLWNGiw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5hyTWLWNGiw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M44S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "RADACAD",
+        "domain": "radacad.com"
       },
-      "publishedDateTime": "2023-06-09T06:13:36-07:00",
-      "heat": 130,
+      "publishedDateTime": "2023-05-29T21:50:15-07:00",
+      "heat": 133,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/hUfdMc0GW8s/maxresdefault_live.jpg",
+          "url": "https://i.ytimg.com/vi/5hyTWLWNGiw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -361,14 +345,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-synapse-and-data-factory-news-from-microsoft-build-2023-day-2.md",
-      "title": "Power BI, Synapse and Data Factory news from Microsoft Build 2023 (Day 2)",
-      "excerpt": "Learn more about the exciting news for Power BI, Synapse and Data Factory coming out of Microsoft Build 2023 in this two-day digital event.  Blog: https://aka.ms/build-with-analytics \r #PowerBI #AzureSynapse #DataFactory",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-synapse-and-data-factory-news-from-microsoft-build-2023-day-2/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-synapse-and-data-factory-news-from-microsoft-build-2023-day-2/",
-      "originalUrl": "https://youtube.com/watch?v=wdDx0-jvl7w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wdDx0-jvl7w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H56M20S",
+      "path": "_learning/videos/guy-in-a-cube-3-tips-for-the-new-on-object-editing-of-a-power-bi-visual.md",
+      "title": "3 tips for the new On-Object editing of a Power BI visual",
+      "excerpt": "Have you started using the new on-object editing for Power BI visuals? Adam found some hidden gems that you may not be aware of when using it! You need to be aware of these!  Use on-object interaction with visuals in your report (preview) https://learn.microsoft.com/power-bi/create-reports/power-bi-on-object-interaction",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-3-tips-for-the-new-on-object-editing-of-a-power-bi-visual/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-3-tips-for-the-new-on-object-editing-of-a-power-bi-visual/",
+      "originalUrl": "https://youtube.com/watch?v=xL6DvHYjBVs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xL6DvHYjBVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M38S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -381,11 +365,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-05-22T17:30:52-07:00",
-      "heat": 130,
+      "publishedDateTime": "2023-04-19T08:00:44-07:00",
+      "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/wdDx0-jvl7w/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/xL6DvHYjBVs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -444,8 +428,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 67907,
-        "average": 4.7962656
+        "count": 67909,
+        "average": 4.7962713
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -971,8 +955,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 96292,
-            "average": 4.7779045
+            "count": 96297,
+            "average": 4.7779164
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1134,8 +1118,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 96292,
-            "average": 4.7779045
+            "count": 96297,
+            "average": 4.7779164
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1528,8 +1512,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 20925,
-            "average": 4.7576585
+            "count": 20926,
+            "average": 4.75767
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1570,8 +1554,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 14043,
-            "average": 4.7694225
+            "count": 14044,
+            "average": 4.7694387
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1653,8 +1637,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 20925,
-            "average": 4.7576585
+            "count": 20926,
+            "average": 4.75767
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1695,8 +1679,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 14043,
-            "average": 4.7694225
+            "count": 14044,
+            "average": 4.7694387
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1755,8 +1739,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 20925,
-        "average": 4.7576585
+        "count": 20926,
+        "average": 4.75767
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1835,8 +1819,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 14043,
-        "average": 4.7694225
+        "count": 14044,
+        "average": 4.7694387
       },
       "provider": {
         "name": "Microsoft Learn",
