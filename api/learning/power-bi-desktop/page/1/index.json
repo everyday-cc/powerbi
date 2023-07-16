@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 83,
+      "heat": 82,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/get-data-power-bi-desktop-social.png",
@@ -77,8 +77,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4259,
-            "average": 4.7473583
+            "count": 4261,
+            "average": 4.7472425
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -387,8 +387,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 4259,
-        "average": 4.7473583
+        "count": 4261,
+        "average": 4.7472425
       },
       "provider": {
         "name": "Microsoft Learn",
