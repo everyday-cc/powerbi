@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT26M36S
 publishedDateTime: 2017-04-05T19:20:14Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rohXtAlIgqY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "bj4CEBEo0zFjx+qOZzaHhu9jc/yTuSN2OSL4yio4ATrc22YwG6heb52ul4Z1qkAcJJrNwxLmhaUIvXLDBWlGwuWb4TPX6oqnvqiftj7BDbKDHCRD+zQDhLC2/UH7SMn48Bm6EawjzwiuF/tB7Tig4/i3ltEXBqN9CMA9zgW/JHkb5I3GuOmC0sYlvS4L2dXR6u4mCu2awCFZzg6Hi2OhGhraoYUTK0cA2fZYaL8owFUa3BIz0la6MV9593ZoV7VklPzaWqPnHYmH+92JheJPgv4WylTdUqcC/mpVllJXrCs6sxWIFx6wVDp9s0+NGzPltIIwiRQ3nf2XFkjDwJr1v5U7nGfcKQKsdltFOxWkIXeR/63M9Y5GKlnunl3bH7UfRfvc/S8cDaZYuoGRfq863x7sKj/xJXm/8u0cGVVhqHc=;DvOI2bNP+MQ2RlJJTKJKNQ=="
+secured: "geot1vIvzgOGA54rkH8hL32tu9D6Izc/0Un05aEvTr0KGgN6TkESTpqp38wIdjCGcDvt4pwe/tsSmHMfD2a6xxq0mNrVgB9t1/AFGbzQeY5QM9ceeyEygZg1WLnJGkhibjumgdL4BIFNpiXv3BIMgfNmK6m1+WdtqhjMYXwV8hdWkmRF2GGSGal/chBqw3E46aiRMOWyGvRJG/r5Xoc8pHuNX2hKzboRTWUToTxbqCJR1cgxwOAP8ii0j3R/NfwAaPRMLuBr28X90BRs+BAqo/zuocoAexi9CaJAmWCqvhgKRxaj/3sbI7KB7CFYxh10MnX0Lu3pq7dOaP25E+AMkUp20kUKaos/8hgEVi1jdtTqlVm1xl4ud4bzgrGX+gM1yWBcP+CcP5UlUlkMT9hqFsNAuIbtsSncFZJ7Kskt2Wg=;YgeeO6zv4gypvnv4GQ4qJg=="
 ---
 
