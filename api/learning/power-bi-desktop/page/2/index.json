@@ -814,8 +814,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 1684,
-        "average": 4.730404
+        "count": 1685,
+        "average": 4.7305636
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -901,8 +901,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 721,
-        "average": 4.6920943
+        "count": 722,
+        "average": 4.6925206
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -945,8 +945,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
       "length": "PT37M",
       "ratings": {
-        "count": 687,
-        "average": 4.6375546
+        "count": 688,
+        "average": 4.6366277
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1033,8 +1033,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-interactive-experiences/",
       "length": "PT56M",
       "ratings": {
-        "count": 313,
-        "average": 4.677316
+        "count": 314,
+        "average": 4.678344
       },
       "provider": {
         "name": "Microsoft Learn",
