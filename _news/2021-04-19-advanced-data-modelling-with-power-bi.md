@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itmagazine.ch/veranstaltungen/1905/Smart_Manufacturing_D
 cdnAmpWebUrl: "https://www-itmagazine-ch.cdn.ampproject.org/c/s/www.itmagazine.ch/veranstaltungen/1905/Smart_Manufacturing_Digital_Summit.html"
 type: article
 quality: 139
-heat: 140
+heat: 141
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G4QzWDv4s6M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
