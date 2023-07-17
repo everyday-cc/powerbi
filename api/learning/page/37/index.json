@@ -210,8 +210,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 11540,
-        "average": 4.7069325
+        "count": 11542,
+        "average": 4.706983
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -877,8 +877,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/",
       "length": "PT40M",
       "ratings": {
-        "count": 281,
-        "average": 4.686833
+        "count": 282,
+        "average": 4.6879435
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -921,8 +921,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 720,
-        "average": 4.6916666
+        "count": 721,
+        "average": 4.6920943
       },
       "provider": {
         "name": "Microsoft Learn",
