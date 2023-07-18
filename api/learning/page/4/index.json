@@ -94,8 +94,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3025,
-            "average": 4.764959
+            "count": 3027,
+            "average": 4.765114
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -178,8 +178,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3566,
-            "average": 4.6831183
+            "count": 3568,
+            "average": 4.6821747
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1380,8 +1380,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 8294,
-        "average": 4.76272
+        "count": 8296,
+        "average": 4.7626567
       },
       "provider": {
         "name": "Microsoft Learn",
