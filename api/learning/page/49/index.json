@@ -4,6 +4,124 @@
   "page": 49,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-fit-gap-analysis.md",
+      "title": "Perform fit gap analysis",
+      "excerpt": "Learn about performing a fit gap analysis as a solution architect for Dynamics 365 and Microsoft Power Platform.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-fit-gap-analysis/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fit-gap-analysis/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 479,
+        "average": 4.7473903
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-gain-insights-into-usage-performance-of-your-power-bi-reports-to-increase-adopti.md",
+      "title": "Gain insights into usage and performance of your Power BI reports to increase adoption and reduce costs",
+      "excerpt": "Gain insights into usage and performance of your Power BI reports to increase adoption and reduce costs",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-gain-insights-into-usage-performance-of-your-power-bi-reports-to-increase-adopti/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/gain-insights-into-usage-performance-of-power-bi-reports-to-increase-adopti/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 3,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intelligent-environments-education-transformation-framework.md",
+      "title": "Intelligent environments - Education Transformation Framework",
+      "excerpt": "Develop safe and secure onsite and online environments. Use data analytics to optimize student outcomes and to create efficient, responsive, and sustainable processes and resources allocation.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-intelligent-environments-education-transformation-framework/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/intelligent-environments-education-transformation-framework/",
+      "length": "PT60M",
+      "ratings": {
+        "count": 413,
+        "average": 4.818402
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/intelligent-environments-education-transformation-framework-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-mapping-learning-to-power-bi.md",
       "title": "Prepare to teach the module: Map learning to Power BI",
       "excerpt": "Prepare to teach the module: Map learning to Power BI",
@@ -95,8 +213,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-interactive-experiences/",
       "length": "PT56M",
       "ratings": {
-        "count": 314,
-        "average": 4.678344
+        "count": 315,
+        "average": 4.679365
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -138,8 +256,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-publish-share/",
       "length": "PT49M",
       "ratings": {
-        "count": 248,
-        "average": 4.71371
+        "count": 249,
+        "average": 4.7148595
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -222,8 +340,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
       "length": "PT48M",
       "ratings": {
-        "count": 456,
-        "average": 4.747807
+        "count": 457,
+        "average": 4.7483587
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1126,132 +1244,6 @@
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-select-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-excel-better-together.md",
-      "title": "Prepare to teach the module: Power BI & Excel better together",
-      "excerpt": "Prepare to teach the module: Power BI & Excel better together",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-excel-better-together/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-excel-better-together/",
-      "length": "PT54M",
-      "ratings": {
-        "count": 0,
-        "average": 0.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-office-better-together.md",
-      "title": "Prepare to teach the module: Power BI & Office better together",
-      "excerpt": "Prepare to teach the module: Power BI & Office better together",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-office-better-together/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-office-better-together/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 0,
-        "average": 0.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-tableau-analytics.md",
-      "title": "Perform analytics in Power BI for Tableau users",
-      "excerpt": "This module provides guidance on how to apply analytics to data to gain greater insight.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-tableau-analytics/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-analytics/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 82,
-        "average": 4.597561
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-analytics-social.png",
           "width": 1280,
           "height": 641,
           "isCached": true

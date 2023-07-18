@@ -4,6 +4,239 @@
   "page": 37,
   "value": [
     {
+      "path": "_learning/videos/curbal-map-locations-using-power-bi-shape-maps-part-1.md",
+      "title": "Map locations using Power BI shape maps (Part 1)",
+      "excerpt": "In this video I will show you how to use Power BI visual: Shape maps.  Have you created a country json file? Give it to David!  Link to David's blog post: https://dataveld.wordpress.com/2016/09/12/topojson-map-files-for-power-bi-shape-map/ LInk to David's github library: https://github.com/deldersveld/topojson",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-map-locations-using-power-bi-shape-maps-part-1/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-map-locations-using-power-bi-shape-maps-part-1/",
+      "originalUrl": "https://youtube.com/watch?v=Hzy1YbTjDaA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Hzy1YbTjDaA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M1S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-06T02:26:35-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Hzy1YbTjDaA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-normalizing-data-the-what-why-and-how.md",
+      "title": "Normalizing data: The what, why and how",
+      "excerpt": "Normalizing data in Power BI: The what, why and how  When analyzing data by population, plotting the row data against the geographical location will fail to reveal important patterns when comparing countries with big differences in population and this is when it is useful to normalize the data. Let me",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-normalizing-data-the-what-why-and-how/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-normalizing-data-the-what-why-and-how/",
+      "originalUrl": "https://youtube.com/watch?v=5YGgqzQadwM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5YGgqzQadwM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M8S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-25T05:40:27-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5YGgqzQadwM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-open-your-power-bi-desktop-model-in-excel-with-just-one-click-two-methods.md",
+      "title": "Open your Power BI Desktop model in Excel with just one click (two methods)",
+      "excerpt": "It is now possible to download your Power BI desktop data into Excel with a simple click and I am going to show you two methods in this video. Enjoy!  Erik Svensen tool: https://eriksvensen.wordpress.com/2020/07/27/powerbi-external-tool-to-connect-excel-to-the-current-pbix-file/  Changes in Power Shell",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-open-your-power-bi-desktop-model-in-excel-with-just-one-click-two-methods/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-open-your-power-bi-desktop-model-in-excel-with-just-one-click-two-methods/",
+      "originalUrl": "https://youtube.com/watch?v=CjwEKSKlSyI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CjwEKSKlSyI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M52S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-08-11T04:10:41-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CjwEKSKlSyI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-power-bi-power-query-privacy-levels-explained.md",
+      "title": "Power Bi / Power Query Privacy Levels explained",
+      "excerpt": "You have probably got this error before right? [Unable to combine data] is accessing data sources that have privacy levels, privacy levels power bi or you have been asked to set privacy levels to your sources and dont know what that is. In todays video we are going to talk about data privacy in power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-power-bi-power-query-privacy-levels-explained/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-power-bi-power-query-privacy-levels-explained/",
+      "originalUrl": "https://youtube.com/watch?v=kqYtrwXmpVc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kqYtrwXmpVc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M23S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-04-25T10:23:05-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kqYtrwXmpVc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-power-bi-tips-tricks-02-create-a-custom-calendar-in-power-bi.md",
+      "title": "Power BI Tips & Tricks #02: Create a custom calendar in Power BI",
+      "excerpt": "Here I show you how to create a custom calendar in Power BI.  Download the calendar file: https://curbal.com/blog/create-power-bi-custom-calendars   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-power-bi-tips-tricks-02-create-a-custom-calendar-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-power-bi-tips-tricks-02-create-a-custom-calendar-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=wHn968f1E58",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wHn968f1E58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M42S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-02-03T10:52:32-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wHn968f1E58/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-quick-guide-to-create-new-dataflows-in-power-bi.md",
+      "title": "Quick guide to create new Dataflows in Power BI",
+      "excerpt": "Are you confused by the four options available on the create Power BI dataflows welcome screen? In this video I will go through each of them and give you at the end the business user guide to it.  Chapters: 00:00 Intro 00:40 Add new entities 01:28 Add linked entities 02:50 Import model 04:00 Attach a",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-quick-guide-to-create-new-dataflows-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-quick-guide-to-create-new-dataflows-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=cC_vr5Z5qVg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cC_vr5Z5qVg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M47S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-11-18T03:43:43-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cC_vr5Z5qVg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query",
+        "Dataflows"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-remove-duplicates-on-multiple-columns-5-magic-mondays.md",
       "title": "Remove duplicates on multiple columns -#5 (M)agic (M)ondays",
       "excerpt": "In today's video I will show you how to remove duplicates from multiple columns in Power Query.  It is very easy to use and it will save you some steps and workarounds.  Link to PowerBI file: http://gofile.me/2kEOD/IQIaYrz8k   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center",
@@ -875,186 +1108,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/KE5ekuzzvxY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-conditional-formatting-on-total-and-sub-totals-column-for-table-and-matrix-visualization-in-power-bi.md",
-      "title": "Conditional Formatting on Total and Sub Totals Column for Table And Matrix Visualization in Power BI",
-      "excerpt": "In this session, we will discuss – How to Apply Conditional Formatting for Totals and Sub Totals columns of Table and Matrix Visualization in Power BI.  This new feature has been rolled out by Microsoft during April 2020 update. Now, we can apply conditional formatting only on Total and Subtotal in Table",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-conditional-formatting-on-total-and-sub-totals-column-for-table-and-matrix-visualization-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-conditional-formatting-on-total-and-sub-totals-column-for-table-and-matrix-visualization-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=2alAHvYNx5M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2alAHvYNx5M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M9S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-05-11T05:32:11-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2alAHvYNx5M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-copy-a-visual-as-an-image-on-clipboard-in-power-bi.md",
-      "title": "Copy a Visual as an Image on Clipboard in Power BI",
-      "excerpt": "In this video, we will discuss the newly rolled out feature for Power BI Service – Copy visual as an Image.  In this video, we will be discussing the following features: • How to Copy a Visual as an Image for Power BI Report? • The properties and metadata which are copied using Copy a visual as an Image",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-copy-a-visual-as-an-image-on-clipboard-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-copy-a-visual-as-an-image-on-clipboard-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=7Bi7v1G_e0o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7Bi7v1G_e0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M4S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-04-16T23:22:18-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7Bi7v1G_e0o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-create-line-chart-with-dual-y-axis-in-power-bi.md",
-      "title": "Create Line Chart with Dual Y Axis in Power BI",
-      "excerpt": "In this vLog, we will learn, how we can create a line chart with the dual Y-axis in Power BI.  This feature has been rolled out in March 2020 Power BI Desktop Update.  Here, first, we will learn how we can create a normal Line Chart and then add second Y-axis to represent the Sales data by Units with",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-create-line-chart-with-dual-y-axis-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-create-line-chart-with-dual-y-axis-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=z73dmBN26RA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z73dmBN26RA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M58S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:52:50-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/z73dmBN26RA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-develop-microsoft-teams-attendance-report-using-power-bi.md",
-      "title": "Develop Microsoft Teams Attendance Report Using Power BI",
-      "excerpt": "During this session, we will discuss how we can develop Power BI report for our Meeting Attendance.  This session is dedicated to the developers who wanted to know how we can develop Power BI report for Meeting attendance. What’s the logic is used to generate the report? I will explain each individual",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-develop-microsoft-teams-attendance-report-using-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-develop-microsoft-teams-attendance-report-using-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=zYneaAGzEIs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zYneaAGzEIs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M8S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-08-01T08:01:11-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zYneaAGzEIs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-display-selected-value-from-slicer-to-power-bi-report.md",
-      "title": "Display selected value from slicer to Power BI Report",
-      "excerpt": "Sometimes, there is a situation where we need to display the selected slicer value in the title of our Power BI visualization. Meaning, we need to set the Dynamic value for our Title column based on the slicer selection. How can we achieve this? How can we set dynamic title value for our Power BI visualization?",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-display-selected-value-from-slicer-to-power-bi-report/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-display-selected-value-from-slicer-to-power-bi-report/",
-      "originalUrl": "https://youtube.com/watch?v=jra61Nf78Ec",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jra61Nf78Ec\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M10S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-11-09T20:42:56-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jra61Nf78Ec/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-draw-x-axis-constant-line-with-dynamic-value-for-power-bi-line-chart.md",
-      "title": "Draw X Axis Constant Line with Dynamic Value for Power BI Line Chart",
-      "excerpt": "Welcome to Power BI August 2021 Power BI Desktop Update. During this session, we will learn how we can draw X-Axis Constant Line with Power BI Line Charts using Dynamic value. Earlier with existing functionality Power BI supports static value for X-Axis constant Line chart. Now, with the August 2021",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-draw-x-axis-constant-line-with-dynamic-value-for-power-bi-line-chart/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-draw-x-axis-constant-line-with-dynamic-value-for-power-bi-line-chart/",
-      "originalUrl": "https://youtube.com/watch?v=xla7M2Pv6v4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xla7M2Pv6v4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M16S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-08-19T04:21:28-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xla7M2Pv6v4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

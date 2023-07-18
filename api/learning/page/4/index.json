@@ -94,8 +94,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3018,
-            "average": 4.765076
+            "count": 3020,
+            "average": 4.7645698
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -136,8 +136,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2594,
-            "average": 4.6981497
+            "count": 2596,
+            "average": 4.698382
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -178,8 +178,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3561,
-            "average": 4.6826735
+            "count": 3563,
+            "average": 4.6828513
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -220,8 +220,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 6451,
-            "average": 4.796621
+            "count": 6452,
+            "average": 4.7966523
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1373,6 +1373,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-explore-fundamentals-of-data-visualization.md",
+      "title": "Explore fundamentals of data visualization",
+      "excerpt": "Learn the fundamental principles of analytical data modeling and data visualization, using Microsoft Power BI as a platform to explore these principles in action.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-fundamentals-of-data-visualization/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 8288,
+        "average": 4.7625484
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/5-explore-fundamentals-of-data-visualization-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-get-started-lakehouses.md",
       "title": "Get started with lakehouses in Microsoft Fabric",
       "excerpt": "Get started with lakehouses in Microsoft Fabric",
@@ -1407,40 +1449,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-power-bi-service.md",
-      "title": "Explore what Power BI can do for you",
-      "excerpt": "As a consumer, you'll work in the Power BI service to review and interact with content that has been shared with you. This module provides the foundational information that you need to work effectively in the Power BI service.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-intro-to-power-bi-service/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
-      "length": "PT1H9M",
-      "ratings": {
-        "count": 12917,
-        "average": 4.683673
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 65,
       "content": "\r\n",
       "type": "course",
       "price": "Free",

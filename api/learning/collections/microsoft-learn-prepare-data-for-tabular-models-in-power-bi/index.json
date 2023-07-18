@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 53,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/choose-power-bi-model-framework-social.png",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-scalability-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 146,
-        "average": 4.7945204
+        "count": 147,
+        "average": 4.7959185
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 53,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
@@ -95,8 +95,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 195,
-        "average": 4.8102565
+        "count": 196,
+        "average": 4.8112245
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -113,7 +113,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 52,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
