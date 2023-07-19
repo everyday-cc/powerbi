@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT2M11S
 publishedDateTime: 2020-04-14T15:00:01Z
-heat: 54
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1Y0T_KkeWyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "R55jB1h5Ogyl4HLHPbpJLL9dQaY2psyt2gcvGO9am3yRosVp58aIM0nLcGii5SfQFkxKGdEq/gs6OxKit8PZajpynxfZvd3X0aJl9fbI40bHpCGm1r00F5FtVxbUFe8uxQyBDRWaEW4so9bUnxKl8whQUUSi5ZU9m2X4Gv7NU+JyrfEZZ5VOfnBCHfl+JwdzvQt5bXcBW0SeKoB1UwmThftyvU+UAWh2ZdXYdcXm0J8/jN4KXmZB8HN1pKnudj90Cpsg7pJ1NhkaEBHY2KOAYdQzBdtBnpuv9CJNrPSxOd3vKhgheetkj/GTaGgRPo5PQzvg/OxoSgc6l4LhlW/aolynZ7DkIyc18e8VMW02RW/8/Y/eL4O83VJywf+mOm4HeZSvYySS8n/K5o/Op29tU7M/iRwrsm4+Kp7IUdPBPNY=;T/zDsT4s/rzDyMI6/LURGA=="
+secured: "IyqmLCnb/HLHe/dZEXp83iewoRDeIRXlZB0it+iTpnvn9C0EOMVk1x/ay5iyKCKdrMVhu6K2fh9RqFTjplpzTx+Qxie6ElbT5oI5eTSEkQLclwl25QQxl0+J8H9KGQeiFbBzKvjfWNBCXnn8vd5poT9zwtR8S+gB6PsmEDEtX9ZV32MkOI2MsX+NrTetKE1VM5fdg0mhSusAOnvuduXWAnQ9rQdaDkJXv3IeqawsZFEibIn4SOfZNlY0cZgYF1aK0ooAWo0HOrbneRac9XwHS+XFm2sZtylyJyaHSBU4BsxXrwqLc3q+Rxt4+adlYj4mV+jOIUFpAhoDhpuCcZuPploesQDf/5cEQYavbDt5H0/XdpRAzsaCIR6BC8ivD0OVzT4TK7Um6yPoE+2CaQArwOHFadG3imjmhlC8Rd2BKiA=;d7uxezJKykDPGlbek/Aq6w=="
 ---
 
