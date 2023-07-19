@@ -312,8 +312,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10641,
-        "average": 4.759797
+        "count": 10642,
+        "average": 4.7597256
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -354,8 +354,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 239,
-        "average": 4.6778245
+        "count": 240,
+        "average": 4.679167
       },
       "provider": {
         "name": "Microsoft Learn",
