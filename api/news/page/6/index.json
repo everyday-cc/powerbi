@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-02-analysis-services-server-properties-in-power-bi-premium-are-now-in-public-preview.md",
+      "title": "Analysis Services server properties in Power BI Premium are now in public preview",
+      "excerpt": "Join the public preview to enable additional settings for workspaces in Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-02-analysis-services-server-properties-in-power-bi-premium-are-now-in-public-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/analysis-services-server-properties-in-power-bi-premium-are-now-in-public-preview/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/analysis-services-server-properties-in-power-bi-premium-are-now-in-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T02:03:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-08-01-on-premises-data-gateway-july-2022-update-is-now-available.md",
       "title": "On-premises data gateway July 2022 update is now available",
       "excerpt": "On-premises data gateway July 2022 update",
@@ -1193,57 +1244,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-05-25T10:55:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-announcing-general-availability-of-the-executequeries-rest-api.md",
-      "title": "Announcing general availability of the ExecuteQueries REST API",
-      "excerpt": "We are happy to announce that the ExecuteQueries REST API is now GA. By using this REST API, you can query datasets in Power BI from practically any modern environment on any platform, as long as you can authenticate with Azure Active Directory (AAD) and construct a Web request. The query functionality",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-25-announcing-general-availability-of-the-executequeries-rest-api/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-of-the-executequeries-rest-api/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-of-the-executequeries-rest-api/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T04:59:52-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
