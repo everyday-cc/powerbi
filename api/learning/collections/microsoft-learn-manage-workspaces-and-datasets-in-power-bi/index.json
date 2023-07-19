@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 2601,
-        "average": 4.6985774
+        "count": 2602,
+        "average": 4.6986933
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -95,8 +95,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 3577,
-        "average": 4.682695
+        "count": 3579,
+        "average": 4.6828723
       },
       "provider": {
         "name": "Microsoft Learn",
