@@ -268,7 +268,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 142,
+          "heat": 62,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-reports-with-power-bi-desktop-social.png",
@@ -292,8 +292,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3580,
-            "average": 4.682961
+            "count": 3581,
+            "average": 4.6827703
           },
           "provider": {
             "name": "Microsoft Learn",
