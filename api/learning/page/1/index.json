@@ -4,6 +4,36 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-.md",
+      "title": "Copilot AI 🤖 in Power BI: How to Enable & Use + Impact on Power BI Professionals 🤔",
+      "excerpt": "👉 LearnPowerBI Training: https://www.LearnPowerBI.com/training 👉 Power BI Consultant Launchpad 🚀: https://web.learnpowerbi.com/consultant-launchpad/ 👉 Power BI Consultant Program: https://www.LearnPowerBI.com/pro Let me show you how you can enable and use the very exciting copilot AI technology within",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-/",
+      "originalUrl": "https://youtube.com/watch?v=yo5fbDxSJAE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yo5fbDxSJAE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M24S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2023-07-19T09:00:57-07:00",
+      "heat": 235,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yo5fbDxSJAE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/sqlbi-filtering-calculation-items-in-a-slicer.md",
       "title": "Filtering calculation items in a slicer",
       "excerpt": "Choose between many-to-many relationships and DAX code to filter the most relevant items using another slicer. Indeed, calculation groups cannot use relationships!\r \r Article and download: https://sql.bi/805830?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide",
@@ -178,8 +208,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 68323,
-            "average": 4.7959547
+            "count": 68333,
+            "average": 4.7959256
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -220,8 +250,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 97029,
-            "average": 4.7778807
+            "count": 97040,
+            "average": 4.777865
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -280,8 +310,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 97029,
-        "average": 4.7778807
+        "count": 97040,
+        "average": 4.777865
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -315,14 +345,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-enabling-drillthrough-with-power-bi-on-object-editing.md",
-      "title": "Enabling Drillthrough with Power BI On-Object Editing",
-      "excerpt": "Using the new On-Object editing in Power BI Desktop? Have you figured out how to enable drillthrough yet? Adam has and is here to show you the clicks!  Power BI April 2023 Feature Summary https://powerbi.microsoft.com/blog/power-bi-april-2023-feature-summary/  On-object Interaction https://learn.microsoft.com/power-bi/create-reports/power-bi-on-object-interaction",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-enabling-drillthrough-with-power-bi-on-object-editing/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-enabling-drillthrough-with-power-bi-on-object-editing/",
-      "originalUrl": "https://youtube.com/watch?v=eYxRHJ0hB_E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eYxRHJ0hB_E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M34S",
+      "path": "_learning/videos/guy-in-a-cube-create-your-first-lakehouse-in-microsoft-fabric.md",
+      "title": "Create your FIRST Lakehouse in Microsoft Fabric",
+      "excerpt": "You started your journey into Microsoft Fabric. Ted wants to help you understand how to create your first Lakehouse and start getting data into OneLake!   What is a lakehouse in Microsoft Fabric? https://learn.microsoft.com/fabric/data-engineering/lakehouse-overview  Create a lakehouse in Microsoft Fabric",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-create-your-first-lakehouse-in-microsoft-fabric/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-create-your-first-lakehouse-in-microsoft-fabric/",
+      "originalUrl": "https://youtube.com/watch?v=SFta1_70T_U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SFta1_70T_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M39S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -335,11 +365,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-05-17T08:00:34-07:00",
-      "heat": 143,
+      "publishedDateTime": "2023-06-13T08:00:32-07:00",
+      "heat": 151,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/eYxRHJ0hB_E/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/SFta1_70T_U/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -353,31 +383,23 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-what-does-tooltip-auto-scale-actually-do-in-your-power-bi-report.md",
-      "title": "What does Tooltip Auto-scale actually do in your Power BI Report?",
-      "excerpt": "Is your tooltip going off the page of your Power BI report? Maybe it looks weird on an iPad or smaller device. Adam shows how the new tooltip auto-scale feature can help.  April 2023 Update reference https://powerbi.microsoft.com/blog/power-bi-april-2023-feature-summary/#post-23001-_Toc1599845071  Documentation:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-does-tooltip-auto-scale-actually-do-in-your-power-bi-report/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-does-tooltip-auto-scale-actually-do-in-your-power-bi-report/",
-      "originalUrl": "https://youtube.com/watch?v=pM7LUBfkpDs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pM7LUBfkpDs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M36S",
+      "path": "_learning/videos/dhruvin-shah-power-bi-dynamic-format-string-for-measures.md",
+      "title": "Power BI: Dynamic Format String for Measures",
+      "excerpt": "Recently Microsoft launched new Power BI feature - \"Dynamic Format String for Measures\". With dynamic format strings for measures, you can determine how measures appear in visuals by conditionally applying a format string with a separate DAX expression.  Dynamic format strings overcome an inherent disadvantage",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-dynamic-format-string-for-measures/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-dynamic-format-string-for-measures/",
+      "originalUrl": "https://youtube.com/watch?v=hI7zkOdKrig",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hI7zkOdKrig\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M56S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2023-05-18T08:00:41-07:00",
-      "heat": 133,
+      "publishedDateTime": "2023-05-04T03:21:29-07:00",
+      "heat": 134,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/pM7LUBfkpDs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hI7zkOdKrig/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -391,44 +413,14 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-.md",
-      "title": "Copilot AI 🤖 in Power BI: How to Enable & Use + Impact on Power BI Professionals 🤔",
-      "excerpt": "👉 LearnPowerBI Training: https://www.LearnPowerBI.com/training 👉 Power BI Consultant Launchpad 🚀: https://web.learnpowerbi.com/consultant-launchpad/ 👉 Power BI Consultant Program: https://www.LearnPowerBI.com/pro Let me show you how you can enable and use the very exciting copilot AI technology within",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-/",
-      "originalUrl": "https://youtube.com/watch?v=yo5fbDxSJAE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yo5fbDxSJAE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M24S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2023-07-19T09:00:57-07:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yo5fbDxSJAE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-controlling-cost-with-azure-synapse-serverless-pools.md",
-      "title": "Controlling cost with Azure Synapse Serverless Pools",
-      "excerpt": "Curious how to save cost when using Azure Synapse Serverless Pools? Any way to minimize the amount of data you are processing? Patrick shows you how and has a script for you!  Cost management for serverless SQL pool in Azure Synapse Analytics https://learn.microsoft.com/azure/synapse-analytics/sql/data-processed",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-controlling-cost-with-azure-synapse-serverless-pools/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-controlling-cost-with-azure-synapse-serverless-pools/",
-      "originalUrl": "https://youtube.com/watch?v=AbiYgh9RD2U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AbiYgh9RD2U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M12S",
+      "path": "_learning/videos/guy-in-a-cube-microsoft-build-may-2023-social-hour.md",
+      "title": "🔴 Microsoft Build - May 2023 Social Hour",
+      "excerpt": "Join us live as we recap Power BI and Azure Data announcements made at Microsoft Build - May 2023. With special guest, Stephanie Bruno, Jason Himmelstein and John White!  Microsoft Build: https://powerbi.microsoft.com/en-us/blog/microsoft-digital-event-may-24-25/  Connect with Stephanie Bruno https://twitter.com/StephTBruno",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-microsoft-build-may-2023-social-hour/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-microsoft-build-may-2023-social-hour/",
+      "originalUrl": "https://youtube.com/watch?v=tMx3rhl43b4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tMx3rhl43b4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "P0D",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -441,11 +433,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-05-09T08:00:07-07:00",
+      "publishedDateTime": "2023-05-15T05:04:23-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/AbiYgh9RD2U/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/tMx3rhl43b4/maxresdefault_live.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -693,8 +685,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 68323,
-        "average": 4.7959547
+        "count": 68333,
+        "average": 4.7959256
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1027,8 +1019,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 97029,
-            "average": 4.7778807
+            "count": 97040,
+            "average": 4.777865
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1069,8 +1061,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 36395,
-            "average": 4.7276826
+            "count": 36397,
+            "average": 4.7276974
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1154,8 +1146,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 7885,
-            "average": 4.7639823
+            "count": 7886,
+            "average": 4.7640123
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1237,8 +1229,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 23619,
-            "average": 4.752318
+            "count": 23626,
+            "average": 4.752307
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1279,8 +1271,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12954,
-            "average": 4.6834955
+            "count": 12955,
+            "average": 4.68352
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1313,8 +1305,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 97029,
-            "average": 4.7778807
+            "count": 97040,
+            "average": 4.777865
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1373,8 +1365,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 23619,
-        "average": 4.752318
+        "count": 23626,
+        "average": 4.752307
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1476,8 +1468,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 21105,
-            "average": 4.7578773
+            "count": 21106,
+            "average": 4.7578416
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1518,8 +1510,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 14203,
-            "average": 4.7689924
+            "count": 14205,
+            "average": 4.7689548
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1601,8 +1593,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 21105,
-            "average": 4.7578773
+            "count": 21106,
+            "average": 4.7578416
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1643,8 +1635,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 14203,
-            "average": 4.7689924
+            "count": 14205,
+            "average": 4.7689548
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1703,8 +1695,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 21105,
-        "average": 4.7578773
+        "count": 21106,
+        "average": 4.7578416
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1783,8 +1775,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 14203,
-        "average": 4.7689924
+        "count": 14205,
+        "average": 4.7689548
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1825,8 +1817,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 31649,
-        "average": 4.7218237
+        "count": 31655,
+        "average": 4.721813
       },
       "provider": {
         "name": "Microsoft Learn",
