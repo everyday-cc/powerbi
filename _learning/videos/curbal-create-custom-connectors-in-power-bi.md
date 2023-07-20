@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT14M57S
 publishedDateTime: 2017-08-28T20:40:40Z
-heat: 53
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eul2fBbtmEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "hfuOT3YJkkBP60M9CnNNgYpikaTSdh0ffJ4gJa5RvoXH7ZmvihGZpSJ19Lr1WkKZIoIBDvvqrCYrtKCohBoPPkVVU0vQxqG9ymQHe8yEU9V/bKDwX3u3jzXC1RiGFtUOhDyoSgsTMWi6batAkuQcKL99fO3hKEuuyGL1wPUhVyP5bFNhbiOLqN0AbAfbQ2i7euznQIAVeFdRGoaPSO4VJ4me4IRpmkkthz5E+Gcw22XYr8vPpb7M9Wyv7CpPUqFl4LINf/foo48vM6gXss4U5AYM+/5cnwGHEPG4393AKNJotOF7TltXM3MBxQqfGxQFtUZ5O1Ve6tBXQzr6+bFFT2QezmN/7N/fS7UK2q996Ebm8URE01l+szI92spVvPqTu9etz+De5q4Ua1lC3/nEGP3ztIRGqEbHHQAe1n00T3A=;RrWoFxiQb8z3L3BYUboIeQ=="
+secured: "gVSXY14xbPwDIg4zES5JPnXX3BTCGEkYOzFT20DaDqQqhaBMiwisLifeVR+vpYdpP47pLii57iaiYx0HtuO3nRF+4Pzx6AE/kKxlvdYKkjgBFUhfRjGbTFWT2W7nXnHTvMJOcXJsu9nUA44JEIYLkva92uPuc1ylsrobrGH76TkqerxZfjPIvGLuZEyZJstFpF90ojyPVyt3ZU36REyAOOz7ljp1H5juT2uYhTIiDL1QYwUGCYbJ74zVkMqpP+fmmrBbDYAoPHSpi+emSLy4TD+oxPnMQ4W7fnFj5V3chxbpDfurYoDC4x7csRsJDqkj6QrE+ATFQfj76tDxi8iPhGcaB+6/Sl+3nPsv3muzEq9jkk8+UsSCpj2WAOR8tYI4GsswRD+NADIqGX3kwHOzLw/bfQUy86Qo+FsQuwHVBiM=;d/eJOF7TIQMCPnE8lvU2HQ=="
 ---
 
