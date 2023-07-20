@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M26S
 publishedDateTime: 2018-06-07T06:47:10Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HLRu9N2rGeo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "dXMU3u1/4A8G5hx2VmIluuyywpdXGgwkTU6xwSE/3ZMlIyymK2G31qLBOe+YYuH7zTm1KuunIyghTmYj/OBFq3e7gQPLZopUFTZs8j7OWbmPHPKPPEEretaUc/Y3LhBLEQTml7y7RdVFIdT9YwMno4CBOHQGUM/AVrxyyqdMVcXn61d8+kgQq93IuQcAKghi+olrGUnPqqDsrFNo8u/DUCCDg4n0ycONSnmeRWxST1g3U5YhUpNnQmMhva+dTmF2s1cwVEjfC0t16mpTsRHz7jMyj2bSZUiFBRmVkkYTAaudNQrR/o8H70+BgqzJPUKTuqg2MNUQcd56kovagjNFMD88tNkJ7ZL6Id7wz8wODblcMk5vg08PtqEXA9mi/hxI6jfWD26/Cw8ylD8OcPxkAEkCudKuo1gbucYLFbi/4Kc=;sQPWYxAHAsn87Sdye/u79A=="
+secured: "NiemZo/BjUyGeaKhTQRIJrmC5lM5Ru6kv0keZzhxH1ZjSIBOKeN00mxsfRdcgupkNSu/woUl42PHeVhTIzalqmxSDzpRqWQbDgshMzRAGBj1qA0QVS0FPP+3y9x95piRJViPUzghGpe5kZXdk3cFaKlawP6g3UZT40D0B25MKcKbqM42f7zFd0/28MyQuYYyCaJu/XZnHJnFIYIV5XY3svc6COXObRLbpF3nuQezs4dV0luXNQaMSze4o5oq5LHxakCxNL4lgiec0LiTDGfxZx8Ju9V4FlcfAzBKMNa+FGrYtRAmuuKhpL0YWulIn3iH0+FP5oTbxh0W3URL33WcYc6/eGtmdcdmA29iK19o9wITsqtXMByjqEPawAWrHObJqwcYJNlJ13b2PSp47dkv6rWgJo72FKsjxi3wBYMXG6g=;T58chEbB57fATSgReENnjg=="
 ---
 
