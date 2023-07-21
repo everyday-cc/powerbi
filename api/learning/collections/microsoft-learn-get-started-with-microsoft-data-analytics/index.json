@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 68441,
-        "average": 4.795912
+        "count": 68447,
+        "average": 4.79593
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,7 +53,7 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 97214,
+        "count": 97223,
         "average": 4.777892
       },
       "provider": {
@@ -71,7 +71,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 155,
+      "heat": 158,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
