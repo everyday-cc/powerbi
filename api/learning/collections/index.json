@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 68433,
-            "average": 4.7959027
+            "count": 68441,
+            "average": 4.795912
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -52,7 +52,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 122,
+          "heat": 127,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
@@ -76,8 +76,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 97197,
-            "average": 4.7779045
+            "count": 97214,
+            "average": 4.777892
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -118,6 +118,131 @@
           "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
           "width": 640,
           "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-govern-data-across-an-enterprise.md",
+      "title": "Govern data across an enterprise",
+      "excerpt": "Govern data across an enterprise",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-govern-data-across-an-enterprise/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-govern-data-across-an-enterprise/",
+      "length": "PT1H48M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-discover-trusted-data-use-azure-purview.md",
+          "title": "Discover trusted data using Microsoft Purview",
+          "excerpt": "purview, enterprise data analyst",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-discover-trusted-data-use-azure-purview/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 409,
+            "average": 4.7041564
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/2-discover-data-artifacts-azure-by-using-azure-purview-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-manage-power-bi-artifacts-use-microsoft-purview.md",
+          "title": "Manage Power BI assets by using Microsoft Purview",
+          "excerpt": "Improve data governance and asset discovery using Power BI and Microsoft Purview integration.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-manage-power-bi-artifacts-use-microsoft-purview/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
+          "length": "PT20M",
+          "ratings": {
+            "count": 279,
+            "average": 4.7311826
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 130,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/4-manage-power-bi-artifacts-by-using-azure-purview-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/2-discover-data-artifacts-azure-by-using-azure-purview-social.png",
+          "width": 1281,
+          "height": 641,
           "isCached": true
         }
       ],
@@ -348,8 +473,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 97197,
-            "average": 4.7779045
+            "count": 97214,
+            "average": 4.777892
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -390,8 +515,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 36425,
-            "average": 4.727687
+            "count": 36426,
+            "average": 4.727667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -558,8 +683,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 23677,
-            "average": 4.7522492
+            "count": 23683,
+            "average": 4.7523117
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -600,8 +725,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12970,
-            "average": 4.683655
+            "count": 12973,
+            "average": 4.6835737
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -634,8 +759,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 97197,
-            "average": 4.7779045
+            "count": 97214,
+            "average": 4.777892
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -717,8 +842,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 21152,
-            "average": 4.758037
+            "count": 21158,
+            "average": 4.7580585
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -759,8 +884,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 14237,
-            "average": 4.7688417
+            "count": 14240,
+            "average": 4.7688904
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -842,8 +967,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 21152,
-            "average": 4.758037
+            "count": 21158,
+            "average": 4.7580585
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -884,8 +1009,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 14237,
-            "average": 4.7688417
+            "count": 14240,
+            "average": 4.7688904
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1244,8 +1369,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3597,
-            "average": 4.683625
+            "count": 3598,
+            "average": 4.683713
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1369,8 +1494,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3042,
-            "average": 4.7656145
+            "count": 3043,
+            "average": 4.7656918
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1453,8 +1578,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3597,
-            "average": 4.683625
+            "count": 3598,
+            "average": 4.683713
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2169,8 +2294,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4300,
-            "average": 4.745814
+            "count": 4301,
+            "average": 4.745873
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2254,8 +2379,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 11902,
-            "average": 4.7408
+            "count": 11903,
+            "average": 4.740822
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2296,8 +2421,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2718,
-            "average": 4.7339954
+            "count": 2719,
+            "average": 4.734093
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2762,8 +2887,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 11902,
-            "average": 4.7408
+            "count": 11903,
+            "average": 4.740822
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2804,8 +2929,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 9567,
-            "average": 4.710777
+            "count": 9569,
+            "average": 4.710837
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2847,8 +2972,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10665,
-            "average": 4.759775
+            "count": 10666,
+            "average": 4.7597976
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3165,8 +3290,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1354,
-            "average": 4.772526
+            "count": 1355,
+            "average": 4.7726936
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3541,8 +3666,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1354,
-            "average": 4.772526
+            "count": 1355,
+            "average": 4.7726936
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3666,8 +3791,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4300,
-            "average": 4.745814
+            "count": 4301,
+            "average": 4.745873
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3709,8 +3834,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2718,
-            "average": 4.7339954
+            "count": 2719,
+            "average": 4.734093
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3796,8 +3921,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1693,
-            "average": 4.731837
+            "count": 1694,
+            "average": 4.731995
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5351,159 +5476,6 @@
       "type": "collection",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/collections/absent-data-channel-become-better-with-dax-no-more-struggles.md",
-      "title": "Become Better with DAX- No More Struggles!",
-      "excerpt": "Learn how to create advanced DAX calculations by mastering the fundamentals.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/absent-data-channel-become-better-with-dax-no-more-struggles/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/absent-data-channel-become-better-with-dax-no-more-struggles/",
-      "provider": {
-        "name": "Absent Data Channel",
-        "domain": "absentdata.com"
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/absent-data-channel-how-to-use-calculate-in-power-bi.md",
-          "title": "How to Use CALCULATE in Power BI",
-          "excerpt": "This is one of the most import function to master in Power BI. You can filter your data and create complex measure such as year over year comparisons with ease with these easy to follow tutorial. More more help this function.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-how-to-use-calculate-in-power-bi/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-how-to-use-calculate-in-power-bi/",
-          "originalUrl": "https://youtube.com/watch?v=B6w0IeLMZok",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B6w0IeLMZok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT7M25S",
-          "provider": {
-            "name": "Absent Data Channel",
-            "domain": "absentdata.com"
-          },
-          "publishedDateTime": "2020-07-25T19:59:10-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/B6w0IeLMZok/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        },
-        {
-          "path": "_learning/videos/absent-data-channel-year-over-year-and-month-over-month-calculations-in-power-bi.md",
-          "title": "Year over Year and Month over Month Calculations in Power BI",
-          "excerpt": "Learn how to quickly produce time intelligence calcution in Power BI using these easy to follow DAX equations. Elevate your time series analysis.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-year-over-year-and-month-over-month-calculations-in-power-bi/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-year-over-year-and-month-over-month-calculations-in-power-bi/",
-          "originalUrl": "https://youtube.com/watch?v=80i8rLQtO3o",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/80i8rLQtO3o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT5M50S",
-          "provider": {
-            "name": "Absent Data Channel",
-            "domain": "absentdata.com"
-          },
-          "publishedDateTime": "2020-07-25T19:59:10-07:00",
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/80i8rLQtO3o/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        },
-        {
-          "path": "_learning/videos/absent-data-channel-dax-table-functions-all-filter-values.md",
-          "title": "DAX Table Functions: ALL, FILTER, & VALUES",
-          "excerpt": "Learn how to incorporate DAX Table functions in Power BI with real world scenarios. Also learn how to quickly add these functions in to dynamic calculations in DAX.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-dax-table-functions-all-filter-values/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-dax-table-functions-all-filter-values/",
-          "originalUrl": "https://youtube.com/watch?v=n-yO6WXE880",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n-yO6WXE880\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT12M39S",
-          "provider": {
-            "name": "Absent Data Channel",
-            "domain": "absentdata.com"
-          },
-          "publishedDateTime": "2020-07-25T20:26:24-07:00",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/n-yO6WXE880/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        },
-        {
-          "path": "_learning/videos/absent-data-channel-calculate-totals-for-mtd-qtd-and-ytd-in-dax.md",
-          "title": "Calculate Totals for  MTD, QTD and YTD in DAX",
-          "excerpt": "Learn how to quickly use the CALCULATE function to get total from year to date, month to date and quarter to date in Power BI using a Calendar table and time intelligence functions in DAX.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-calculate-totals-for-mtd-qtd-and-ytd-in-dax/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-calculate-totals-for-mtd-qtd-and-ytd-in-dax/",
-          "originalUrl": "https://youtube.com/watch?v=qiLjmKoP9ag",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qiLjmKoP9ag\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT10M41S",
-          "provider": {
-            "name": "Absent Data Channel",
-            "domain": "absentdata.com"
-          },
-          "publishedDateTime": "2020-07-25T20:26:24-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/qiLjmKoP9ag/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        }
-      ],
-      "size": 11,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/B6w0IeLMZok/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     }
   ],

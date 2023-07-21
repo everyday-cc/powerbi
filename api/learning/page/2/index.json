@@ -4,6 +4,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-introduction-power-platform.md",
+      "title": "Introduction to Microsoft Power Platform",
+      "excerpt": "Introduction to Microsoft Power Platform",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-introduction-power-platform/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 31696,
+        "average": 4.7214475
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 89,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/introduction-power-platform-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-export-from-power-bi-to-excel-up-to-100k-rows-.md",
       "title": "Export from Power BI to Excel up to 🔥100k rows 🔥!!",
       "excerpt": "In a previous video  (https://www.youtube.com/watch?v=BnTipbooeP0&ab_channel=Curbal) I showed you how to export your data to excel using a button in Power Bi but there was a 1000 item limit.   I found a workaround and now you can export up to 100000 rows or 1000000 values per query!  FourMoo Blog:  https://www.fourmoo.com/2022/06/15/exporting-a-power-bi-visual-data-to-a-csv-file-in-sharepoint/",
@@ -233,8 +275,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 36425,
-        "average": 4.727687
+        "count": 36426,
+        "average": 4.727667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -989,6 +1031,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-understanding-microsoft-fabric-licensing-and-cost-public-preview.md",
+      "title": "Understanding Microsoft Fabric Licensing and Cost (Public Preview)",
+      "excerpt": "Everyone has been asking and now we have some information. Adam breaks down how Microsoft Fabric Licensing and costs work. Helping you get the most out of Fabric!  Announcing Microsoft Fabric capacities are available for purchase https://blog.fabric.microsoft.com/blog/announcing-microsoft-fabric-capacities-are-available-for-purchase",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-understanding-microsoft-fabric-licensing-and-cost-public-preview/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-understanding-microsoft-fabric-licensing-and-cost-public-preview/",
+      "originalUrl": "https://youtube.com/watch?v=6AAeV3bSMso",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6AAeV3bSMso\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M20S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-06-08T08:00:05-07:00",
+      "heat": 76,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6AAeV3bSMso/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi.md",
       "title": "How to create a Export to Excel / CSV button in Power BI",
       "excerpt": "In todays video I will show you how to create and export to excel or CSV button in Power BI!! Take a look!  Chapters: 00:00 Intro 01:30 Export to CSV button 05:15 Apply the flow to the button 05:30 Format the flow button 06:00 Check if the flow run sucessfully 08:00 Export to excel button 09:30 Pre-requisites",
@@ -1247,8 +1327,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3597,
-            "average": 4.683625
+            "count": 3598,
+            "average": 4.683713
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1367,75 +1447,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/XSIbRNXGgPQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-date-table-create-using-dax.md",
-      "title": "Power BI date table: create using DAX",
-      "excerpt": "In this video, Adam looks at how to create a Power BI date table using DAX. The end result uses a combination of the GENERATE(), ROW() and CALENDARAUTO() DAX functions to create a calculated table resulting in a Power BI date table.  Using GENERATE and ROW instead of ADDCOLUMNS in DAX https://www.sqlbi.com/articles/using-generate-and-row-instead-of-addcolumns-in-dax/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-date-table-create-using-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-date-table-create-using-dax/",
-      "originalUrl": "https://youtube.com/watch?v=gyvhM5eiT0U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gyvhM5eiT0U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M44S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-02-13T07:18:28-08:00",
-      "heat": 74,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gyvhM5eiT0U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-3-easy-ways-to-create-your-power-bi-calendar-table-date-table.md",
-      "title": "3 Easy Ways to Create Your Power BI Calendar Table 🗓️ / Date Table",
-      "excerpt": "👉 Watch the Ultimate Calendar YouTube Playlist https://www.LearnPowerBI.com/calendar  👉 Download the Ultimate Calendar File https://www.LearnPowerBI.com/download  ==Table of Contents==   00:00 Intro: 3 Easy Ways to Create a Power BI Calendar Table 00:45 Use Auto Date/Time to Create Calendar Table",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-3-easy-ways-to-create-your-power-bi-calendar-table-date-table/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-3-easy-ways-to-create-your-power-bi-calendar-table-date-table/",
-      "originalUrl": "https://youtube.com/watch?v=X2aMi_Ekfyw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X2aMi_Ekfyw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M55S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2022-08-17T09:00:16-07:00",
-      "heat": 74,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/X2aMi_Ekfyw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
