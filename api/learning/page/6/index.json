@@ -922,8 +922,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 3094,
-            "average": 4.725598
+            "count": 3095,
+            "average": 4.7253633
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1131,8 +1131,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3622,
-            "average": 4.713418
+            "count": 3623,
+            "average": 4.713497
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1256,8 +1256,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 3094,
-            "average": 4.725598
+            "count": 3095,
+            "average": 4.7253633
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1552,8 +1552,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 2000,
-            "average": 4.713
+            "count": 2001,
+            "average": 4.7131433
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2044,8 +2044,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
       "length": "PT51M",
       "ratings": {
-        "count": 3622,
-        "average": 4.713418
+        "count": 3623,
+        "average": 4.713497
       },
       "provider": {
         "name": "Microsoft Learn",
