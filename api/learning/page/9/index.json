@@ -1500,8 +1500,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 301,
-            "average": 4.6710963
+            "count": 302,
+            "average": 4.6721854
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3855,8 +3855,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 16829,
-        "average": 4.7234535
+        "count": 16831,
+        "average": 4.7233677
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3897,8 +3897,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10662,
-        "average": 4.7597075
+        "count": 10663,
+        "average": 4.75973
       },
       "provider": {
         "name": "Microsoft Learn",
