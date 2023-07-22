@@ -96,8 +96,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 11909,
-        "average": 4.7407002
+        "count": 11910,
+        "average": 4.740722
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -372,7 +372,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 131,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/enforce-power-bi-model-security-social.png",

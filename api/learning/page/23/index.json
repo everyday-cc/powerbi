@@ -782,8 +782,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3814,
-            "average": 4.7168326
+            "count": 3815,
+            "average": 4.716907
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1419,48 +1419,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-enforce-power-bi-model-security.md",
-      "title": "Enforce Power BI model security",
-      "excerpt": "Enforce model security in Power BI using row-level security and object-level security.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-enforce-power-bi-model-security/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
-      "length": "PT1H21M",
-      "ratings": {
-        "count": 251,
-        "average": 4.673307
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/enforce-power-bi-model-security-social.png",
-          "width": 1281,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-get-started-data-science-fabric.md",
       "title": "Get started with data science in Microsoft Fabric",
       "excerpt": "Get started with data science in Microsoft Fabric by learning how to train a model in a notebook, and track your metrics with MLflow and experiments.",
@@ -1668,6 +1626,49 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-modern-analytics-interactive-experiences.md",
+      "title": "Design interactive data experiences with Power BI Desktop",
+      "excerpt": "Power BI enables report authors to produce interactive reports using visuals, slicers, bookmarks, and more.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-interactive-experiences/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-interactive-experiences/",
+      "length": "PT56M",
+      "ratings": {
+        "count": 320,
+        "average": 4.68125
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/modern-analytics-interactive-experiences-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
       ]
     }
   ],
