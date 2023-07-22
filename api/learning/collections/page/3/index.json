@@ -396,8 +396,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3811,
-            "average": 4.71661
+            "count": 3812,
+            "average": 4.7166843
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1190,8 +1190,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-deployment-pipelines/",
           "length": "PT42M",
           "ratings": {
-            "count": 182,
-            "average": 4.769231
+            "count": 183,
+            "average": 4.7704916
           },
           "provider": {
             "name": "Microsoft Learn",
