@@ -3142,7 +3142,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/enforce-power-bi-model-security-social.png",
@@ -4897,8 +4897,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7614,
-            "average": 4.729446
+            "count": 7615,
+            "average": 4.72935
           },
           "provider": {
             "name": "Microsoft Learn",
