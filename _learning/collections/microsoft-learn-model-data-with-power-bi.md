@@ -4,7 +4,7 @@ excerpt: "Model data with Power BI"
 type: collection
 price: Free
 length: PT3H10M
-heat: 72
+heat: 66
 
 provider:
   name: Microsoft Learn
