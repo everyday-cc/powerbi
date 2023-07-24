@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M5S
 publishedDateTime: 2019-05-15T15:47:43Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3edQe2tSq7g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ZESMqgXSJioJiKwXcIVzniH1ofDIPEA9XyM8Dc3BhY3Pf9CCgaNpoCbFQTrdNwZUPeq9a6MKB2MVwSKspMnXomg4/5EZMzrIhCjrqmqtBfDs1GmWu3XI3M76At7VECK5Mx3fAEoueE75ajqkcGLuFt4/8YAV3+5scAGH78LtUG5XjH0yaF8TKGJhYYjQFJYrLriT9EggkfeR5xg5LAk+nAJ01mkPqS2PuZ1HgFt+bS97jyBHNpuJIM7VjbE4ZW6xWG84rDqVN4C0U5LCHDYIoQQlnn4zaBNAyqFd6gnrYzqSl0XBYMTYRaZnrD1sbOON+P3wNkJhN+6GOeFDRkdDu+LjlRYVJnUEPebi5ZKrgErhSiuyPb8Gkk5koE2Bj20vNipGh/fSDcHXwkmF8S0YYV/cVfUrRRkg9zpOvlEfmJI=;U4uPdHmIATMuQGlWGfeH5Q=="
+secured: "Koil+9LvBzk7XIruxyRqATQoZXPfueFBqCwPrT9wxzhwG2l9b1rvMNiTXKW6HYVkNtRFmwpgk7YZwre29OEdi1RlpH3zsaryrV2u4XlscsjDFKFLT/cOWIJXy0vNSAK0WUdo6uw9m8SKBPVzfIw87ld1tJFF+vlWiItR4Z4aZQANrxQOo7R89tvdzhbsMN00pmySvoEzgH6gucBV9ERJxLXwwgxYUt1w9m+uuJXPbEMTCeii9Fb9RUsHcThjrK0FxZNRhhj/lzL0AEmSETwTwce4+YXVO81ouXlxdERaaGTpIT+i0FxozLnntJiKZ3aWOvPdeZpPJAeKk9IWH4uRIwV4+pFoa77fqBxNusktV1JT4R3t/dYfG0leS3GCXOmBl6SblKcwJiIZs0SeC9LJZ8TRn4rqCP7N4366kzOKyf4=;4Dp8GgC4Mwl9U5WSgKrR8Q=="
 ---
 
