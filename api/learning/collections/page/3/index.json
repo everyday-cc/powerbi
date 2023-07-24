@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 411,
-            "average": 4.705596
+            "count": 412,
+            "average": 4.7063107
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -729,8 +729,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3819,
-            "average": 4.716942
+            "count": 3821,
+            "average": 4.7165666
           },
           "provider": {
             "name": "Microsoft Learn",

@@ -2590,7 +2590,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-select-social.png",
@@ -4974,8 +4974,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 11923,
-            "average": 4.740753
+            "count": 11924,
+            "average": 4.7404394
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5016,8 +5016,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 9582,
-            "average": 4.7112293
+            "count": 9583,
+            "average": 4.7112594
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5059,8 +5059,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10679,
-            "average": 4.76009
+            "count": 10680,
+            "average": 4.7601123
           },
           "provider": {
             "name": "Microsoft Learn",
