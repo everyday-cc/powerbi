@@ -110,45 +110,57 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-lakehouse-vs-warehouse-vs-datamart-the-difference-between-the-three-fabric-objects.md",
-      "title": "Lakehouse VS  Warehouse VS  Datamart   The Difference Between The Three Fabric Objects",
-      "excerpt": "Three types of objects in the Microsoft Fabric have similarities in what they can do for an analytics system. These three are; Lakehouse, Data Warehouse, and Power BI Datamart. All three objects provide storage for the data, which can be loaded into them using an ETL process and read using something",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-lakehouse-vs-warehouse-vs-datamart-the-difference-between-the-three-fabric-objects/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-lakehouse-vs-warehouse-vs-datamart-the-difference-between-the-three-fabric-objects/",
-      "originalUrl": "https://youtube.com/watch?v=7bd7aG0s3uQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7bd7aG0s3uQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M19S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+      "path": "_learning/courses/microsoft-learn-intro-to-power-bi-mobile-apps.md",
+      "title": "Get to your data on the go with the Power BI Mobile apps",
+      "excerpt": "As a consumer, you'll use the Power BI mobile app to review and interact with the content that is available to you in the Power BI service while you're on the go. This module provides the information that you need to work effectively with the Power BI mobile apps.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-intro-to-power-bi-mobile-apps/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
+      "length": "PT1H29M",
+      "ratings": {
+        "count": 2383,
+        "average": 4.7486362
       },
-      "publishedDateTime": "2023-06-08T15:22:09-07:00",
-      "heat": 146,
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/7bd7aG0s3uQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://learn.microsoft.com/training/achievements/intro-to-power-bi-mobile-apps-social.png",
+          "width": 1282,
+          "height": 642,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-design-model-power-bi.md",
-      "title": "Design a data model in Power BI ",
-      "excerpt": "The process of creating a complicated data model in Power BI is straightforward. If your data is coming in from more than one transactional system, before you know it, you can have dozens of tables that you have to work with. Building a great data model is about simplifying the disarray. A star schema is one way to simplify a data model, and you’ll learn about the terminology and implementation of them in this module. You will also learn about why choosing the correct data granularity is important for performance and usability of your Power BI reports. Finally, you’ll learn about improving performance with your Power BI data models.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-design-model-power-bi/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
-      "length": "PT1H23M",
+      "path": "_learning/courses/microsoft-learn-understand-advanced-data-visualization-concepts.md",
+      "title": "Understand advanced data visualization concepts",
+      "excerpt": "Create cohesive, inclusive, and efficient Power BI reports to effectively communicate results.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-understand-advanced-data-visualization-concepts/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
+      "length": "PT25M",
       "ratings": {
-        "count": 11921,
-        "average": 4.74071
+        "count": 476,
+        "average": 4.7563024
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -165,12 +177,12 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 138,
+      "heat": 130,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/design-a-data-model-in-power-bi-social.png",
-          "width": 643,
-          "height": 322,
+          "url": "https://learn.microsoft.com/training/achievements/understand-advanced-data-visualization-concepts-social.png",
+          "width": 1280,
+          "height": 641,
           "isCached": true
         }
       ],
@@ -182,14 +194,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-microsoft-fabricpower-bi-qa-live-june-17-2023-member-chat-2nd-half.md",
-      "title": "🔴 Microsoft Fabric/Power BI Q&A - LIVE (June 17, 2023) (Member Chat 2nd Half)",
-      "excerpt": "Join us live as we answer your questions about Microsoft Fabric (including Power BI)!  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\" in front of your comment to help us identify questions! 👉 Super chats",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-microsoft-fabricpower-bi-qa-live-june-17-2023-member-chat-2nd-half/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-microsoft-fabricpower-bi-qa-live-june-17-2023-member-chat-2nd-half/",
-      "originalUrl": "https://youtube.com/watch?v=piv6I5ohH6k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/piv6I5ohH6k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "P0D",
+      "path": "_learning/videos/guy-in-a-cube-are-you-using-your-licenses-correct-see-where-azure-hybrid-benefits-can-help.md",
+      "title": "Are you using your licenses correct? See where Azure Hybrid Benefits can help!",
+      "excerpt": "If you are moving your on-premises SQL Servers to the cloud, and/or if you have a mix of Azure SQL, Managed Instance and on-prem, make sure you are licensing correctly with Azure Hybrid Benefits. Shashank shows us how!  Azure Hybrid Benefit https://azure.microsoft.com/pricing/hybrid-benefit/  Azure Hybrid",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-are-you-using-your-licenses-correct-see-where-azure-hybrid-benefits-can-help/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-are-you-using-your-licenses-correct-see-where-azure-hybrid-benefits-can-help/",
+      "originalUrl": "https://youtube.com/watch?v=m2lYsQ9t-5k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m2lYsQ9t-5k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M15S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -202,11 +214,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-06-16T05:23:13-07:00",
+      "publishedDateTime": "2023-05-16T08:00:28-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/piv6I5ohH6k/maxresdefault_live.jpg",
+          "url": "https://i.ytimg.com/vi/m2lYsQ9t-5k/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -364,8 +376,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 68593,
-            "average": 4.7960725
+            "count": 68596,
+            "average": 4.7960815
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -406,8 +418,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 97425,
-            "average": 4.7778597
+            "count": 97435,
+            "average": 4.7778416
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -466,8 +478,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 97425,
-        "average": 4.7778597
+        "count": 97435,
+        "average": 4.7778416
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -852,8 +864,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 68593,
-        "average": 4.7960725
+        "count": 68596,
+        "average": 4.7960815
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1139,8 +1151,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 97425,
-            "average": 4.7778597
+            "count": 97435,
+            "average": 4.7778416
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1181,8 +1193,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 36468,
-            "average": 4.7276244
+            "count": 36470,
+            "average": 4.727639
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1266,8 +1278,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 7908,
-            "average": 4.7635307
+            "count": 7909,
+            "average": 4.7635603
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1365,8 +1377,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 31755,
-        "average": 4.721367
+        "count": 31756,
+        "average": 4.7213755
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1468,8 +1480,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 23753,
-            "average": 4.7521577
+            "count": 23756,
+            "average": 4.7521887
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1510,8 +1522,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12985,
-            "average": 4.6834807
+            "count": 12986,
+            "average": 4.6835055
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1544,8 +1556,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 97425,
-            "average": 4.7778597
+            "count": 97435,
+            "average": 4.7778416
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1813,8 +1825,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 23753,
-        "average": 4.7521577
+        "count": 23756,
+        "average": 4.7521887
       },
       "provider": {
         "name": "Microsoft Learn",

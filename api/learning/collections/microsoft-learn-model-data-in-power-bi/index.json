@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 138,
+      "heat": 58,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/design-a-data-model-in-power-bi-social.png",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 9579,
-        "average": 4.7111387
+        "count": 9581,
+        "average": 4.7111993
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -96,8 +96,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10677,
-        "average": 4.760045
+        "count": 10679,
+        "average": 4.76009
       },
       "provider": {
         "name": "Microsoft Learn",

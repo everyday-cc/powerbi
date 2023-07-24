@@ -473,8 +473,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 21197,
-            "average": 4.7579846
+            "count": 21199,
+            "average": 4.7579603
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -515,8 +515,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 14279,
-            "average": 4.7688913
+            "count": 14283,
+            "average": 4.768746
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -598,8 +598,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4314,
-            "average": 4.7459435
+            "count": 4315,
+            "average": 4.746002
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -641,8 +641,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 452,
-            "average": 4.676991
+            "count": 453,
+            "average": 4.6754966
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -701,7 +701,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 138,
+          "heat": 58,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/design-a-data-model-in-power-bi-social.png",
@@ -810,8 +810,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 21197,
-            "average": 4.7579846
+            "count": 21199,
+            "average": 4.7579603
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -852,8 +852,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 14279,
-            "average": 4.7688913
+            "count": 14283,
+            "average": 4.768746
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -912,8 +912,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 14279,
-        "average": 4.7688913
+        "count": 14283,
+        "average": 4.768746
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -954,8 +954,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 21197,
-        "average": 4.7579846
+        "count": 21199,
+        "average": 4.7579603
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1014,6 +1014,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/TnyRsO4NJPc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-lakehouse-vs-warehouse-vs-datamart-the-difference-between-the-three-fabric-objects.md",
+      "title": "Lakehouse VS  Warehouse VS  Datamart   The Difference Between The Three Fabric Objects",
+      "excerpt": "Three types of objects in the Microsoft Fabric have similarities in what they can do for an analytics system. These three are; Lakehouse, Data Warehouse, and Power BI Datamart. All three objects provide storage for the data, which can be loaded into them using an ETL process and read using something",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-lakehouse-vs-warehouse-vs-datamart-the-difference-between-the-three-fabric-objects/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-lakehouse-vs-warehouse-vs-datamart-the-difference-between-the-three-fabric-objects/",
+      "originalUrl": "https://youtube.com/watch?v=7bd7aG0s3uQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7bd7aG0s3uQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M19S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2023-06-08T15:22:09-07:00",
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7bd7aG0s3uQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1532,8 +1562,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 6476,
-            "average": 4.7963247
+            "count": 6477,
+            "average": 4.796356
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2496,8 +2526,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1360,
-            "average": 4.7735295
+            "count": 1361,
+            "average": 4.773696
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2747,8 +2777,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1360,
-            "average": 4.7735295
+            "count": 1361,
+            "average": 4.773696
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2872,8 +2902,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4314,
-            "average": 4.7459435
+            "count": 4315,
+            "average": 4.746002
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3097,49 +3127,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-get-data-power-bi.md",
-      "title": "Get data with Power BI Desktop",
-      "excerpt": "How can you find, collect, and clean data from different sources? Power BI is a tool for making sense of your data. You will learn tricks to make data-gathering easier.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data-power-bi/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
-      "length": "PT1H15M",
-      "ratings": {
-        "count": 36468,
-        "average": 4.7276244
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/get-data-power-bi-desktop-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],
