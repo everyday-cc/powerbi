@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1568,
-        "average": 4.7461734
+        "count": 1569,
+        "average": 4.746335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -55,8 +55,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 2727,
-        "average": 4.73414
+        "count": 2728,
+        "average": 4.7342377
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -947,8 +947,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 727,
-        "average": 4.6946354
+        "count": 728,
+        "average": 4.695055
       },
       "provider": {
         "name": "Microsoft Learn",
