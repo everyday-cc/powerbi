@@ -140,99 +140,65 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-leverage-the-microsoft-fabric-trial.md",
-      "title": "Leverage the Microsoft Fabric Trial",
-      "excerpt": "Did you know that Microsoft Fabric comes with a 60-day free Fabric Capacity trial? Adam shows you how to get it and the reason why you may not be able to use it.  Microsoft Fabric (Preview) trial https://learn.microsoft.com/fabric/get-started/fabric-trial  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-leverage-the-microsoft-fabric-trial/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-leverage-the-microsoft-fabric-trial/",
-      "originalUrl": "https://youtube.com/watch?v=VdwsJ-Ix-oc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VdwsJ-Ix-oc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M2S",
+      "path": "_learning/courses/microsoft-learn-create-calculation-groups.md",
+      "title": "Create calculation groups",
+      "excerpt": "Power BI, calculation groups, enterprise data analyst",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-calculation-groups/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-calculation-groups/",
+      "length": "PT1H3M",
+      "ratings": {
+        "count": 150,
+        "average": 4.786667
+      },
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2023-06-01T08:00:18-07:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VdwsJ-Ix-oc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
+      "levels": [
+        "Intermediate"
       ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-what-is-data-factory-in-microsoft-fabric.md",
-      "title": "What is Data Factory in Microsoft Fabric",
-      "excerpt": "Microsoft Fabric is an end-to-end data analytics solution in the cloud, and one of its workloads is called Data Factory. In this article, you will learn what Data Factory is, how it works with the rest of Microsoft Fabric, and what are elements and functions of Data Factory. Read my article here to learn",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-is-data-factory-in-microsoft-fabric/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-is-data-factory-in-microsoft-fabric/",
-      "originalUrl": "https://youtube.com/watch?v=5hyTWLWNGiw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5hyTWLWNGiw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M44S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2023-05-29T21:50:15-07:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5hyTWLWNGiw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-understanding-the-timeline-in-dax-studio.md",
-      "title": "Understanding the TIMELINE in DAX Studio",
-      "excerpt": "We brought Marco in to help explain the TIMELINE update within DAX Studio. This can help you understand performance a bit deeper when optimizing your DAX and models. This is one to watch!  DAX Studio https://daxstudio.org  Marco Russo https://twitter.com/marcorus https://www.linkedin.com/in/sqlbi/ https://sqlbi.com",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-understanding-the-timeline-in-dax-studio/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-understanding-the-timeline-in-dax-studio/",
-      "originalUrl": "https://youtube.com/watch?v=Q8NfZCFKCmw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q8NfZCFKCmw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M54S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-06-14T08:00:16-07:00",
       "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Q8NfZCFKCmw/maxresdefault.jpg",
+          "url": "https://learn.microsoft.com/training/achievements/create-calculation-groups-social.png",
+          "width": 1282,
+          "height": 642,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-power-bi-dynamic-format-string-for-measures.md",
+      "title": "Power BI: Dynamic Format String for Measures",
+      "excerpt": "Recently Microsoft launched new Power BI feature - \"Dynamic Format String for Measures\". With dynamic format strings for measures, you can determine how measures appear in visuals by conditionally applying a format string with a separate DAX expression.  Dynamic format strings overcome an inherent disadvantage",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-dynamic-format-string-for-measures/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-dynamic-format-string-for-measures/",
+      "originalUrl": "https://youtube.com/watch?v=hI7zkOdKrig",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hI7zkOdKrig\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M56S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2023-05-04T03:21:29-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hI7zkOdKrig/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -242,8 +208,45 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-are-you-using-your-licenses-correct-see-where-azure-hybrid-benefits-can-help.md",
+      "title": "Are you using your licenses correct? See where Azure Hybrid Benefits can help!",
+      "excerpt": "If you are moving your on-premises SQL Servers to the cloud, and/or if you have a mix of Azure SQL, Managed Instance and on-prem, make sure you are licensing correctly with Azure Hybrid Benefits. Shashank shows us how!  Azure Hybrid Benefit https://azure.microsoft.com/pricing/hybrid-benefit/  Azure Hybrid",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-are-you-using-your-licenses-correct-see-where-azure-hybrid-benefits-can-help/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-are-you-using-your-licenses-correct-see-where-azure-hybrid-benefits-can-help/",
+      "originalUrl": "https://youtube.com/watch?v=m2lYsQ9t-5k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m2lYsQ9t-5k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M15S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-05-16T08:00:28-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/m2lYsQ9t-5k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -430,8 +433,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 68652,
-            "average": 4.796102
+            "count": 68668,
+            "average": 4.796106
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -472,8 +475,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 97536,
-            "average": 4.7777643
+            "count": 97547,
+            "average": 4.777779
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -532,8 +535,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 97536,
-        "average": 4.7777643
+        "count": 97547,
+        "average": 4.777779
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -879,8 +882,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 68652,
-        "average": 4.796102
+        "count": 68668,
+        "average": 4.796106
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1204,8 +1207,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 97536,
-            "average": 4.7777643
+            "count": 97547,
+            "average": 4.777779
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1246,8 +1249,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 36490,
-            "average": 4.7274594
+            "count": 36495,
+            "average": 4.7274694
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1289,8 +1292,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16854,
-            "average": 4.7233295
+            "count": 16858,
+            "average": 4.7233953
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1331,8 +1334,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 7911,
-            "average": 4.7636204
+            "count": 7912,
+            "average": 4.76365
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1430,8 +1433,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 31787,
-        "average": 4.7213326
+        "count": 31790,
+        "average": 4.721359
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1534,8 +1537,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 23790,
-            "average": 4.7517023
+            "count": 23795,
+            "average": 4.7517548
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1576,8 +1579,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12990,
-            "average": 4.683449
+            "count": 12991,
+            "average": 4.6833963
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1610,8 +1613,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 97536,
-            "average": 4.7777643
+            "count": 97547,
+            "average": 4.777779
           },
           "provider": {
             "name": "Microsoft Learn",

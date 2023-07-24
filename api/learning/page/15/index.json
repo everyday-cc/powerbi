@@ -491,8 +491,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12990,
-            "average": 4.683449
+            "count": 12991,
+            "average": 4.6833963
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -525,8 +525,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11571,
-            "average": 4.706767
+            "count": 11572,
+            "average": 4.706706
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -567,8 +567,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2386,
-            "average": 4.748114
+            "count": 2387,
+            "average": 4.7482195
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -650,8 +650,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 995,
-            "average": 4.7517586
+            "count": 996,
+            "average": 4.752008
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -734,8 +734,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 788,
-            "average": 4.8096447
+            "count": 789,
+            "average": 4.809886
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -794,8 +794,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 11571,
-        "average": 4.706767
+        "count": 11572,
+        "average": 4.706706
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -913,8 +913,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
       "length": "PT29M",
       "ratings": {
-        "count": 788,
-        "average": 4.8096447
+        "count": 789,
+        "average": 4.809886
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1039,8 +1039,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 3106,
-        "average": 4.724726
+        "count": 3107,
+        "average": 4.724493
       },
       "provider": {
         "name": "Microsoft Learn",
