@@ -3057,8 +3057,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3644,
-            "average": 4.7129526
+            "count": 3645,
+            "average": 4.712757
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5049,8 +5049,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7631,
-            "average": 4.7296553
+            "count": 7632,
+            "average": 4.7296906
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5091,8 +5091,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 6523,
-            "average": 4.7361646
+            "count": 6525,
+            "average": 4.736245
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5174,8 +5174,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12999,
-            "average": 4.6834373
+            "count": 13001,
+            "average": 4.683486
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5208,8 +5208,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11573,
-            "average": 4.706645
+            "count": 11574,
+            "average": 4.7066703
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5250,8 +5250,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2389,
-            "average": 4.7480116
+            "count": 2390,
+            "average": 4.748117
           },
           "provider": {
             "name": "Microsoft Learn",
