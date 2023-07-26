@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M6S
 publishedDateTime: 2020-03-25T15:00:11Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VPTpRyzV2-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Using Precedence to force Power BI Aggregations"
 
-secured: "VnqP9ieK+S+3tE/pT0/v0NT+CWWVgdgfuVjy+KnMQ5Nit8QM8v/9hKJWR3QDtg/DCFXnTsAoDz+eOrxjdVduSanDIfyh15dCwB9RowVNn8EjHU2PMyfkmiUqoheeFIHx9Sdfi2aex6kpBNvM4SbQJYde2s43RJf8MmhfnrVAcTDD6UEk6aysDXXV2hlpnDJ/KRN2+RTvMLmqSrCeY5MeVJBus0ApKZFwEIIcGik6IWlV9UzjRGeEZ/2lFOGKVAPZ63qDA7+6ifZa+pmqTWVxNO5/8JvjLMIFirCHUXdZlxRZk0w9jZnZkB28D1PUUZdBEDrqfnb8bStHCfPrQSyd7SQY9f+w7MXj5bvB6qKWpKK3od7NApd0eaeEHU1VoLNaOCu/16pcxmFjn5sD6R8J/vmPENGMWoPCmXWseJbnk/w=;w/F799RmZOaX4GA5QK5rfw=="
+secured: "j9FcYHecgBvPvu9mooEQqFiRx/U4dMdqyYukcuPTPy/Qo1X/o07wtId7qEFwAYIq5pdAsGsRQoO2elBVC/KffbX3tZZ6VGUmfrxSZuquicqsOetbA/awnCD4M7CdLy+hlcQ0V8KzxVUBNjfz0cL/nXP/Thiv7nhOL8yIROWY2KyQsGI0wP7Pvts9zr1h5GU20XgSTri4Jl0iJ9j1mwjo2dK73guOJdYmw/YPb2+wloA+byJKGskezrukP77cwj6gFkXdsSTCS24yqjEt70YnJa4r2aJcdPEKbfWeyIEs5mW56Y/4PoxkrAIpwjqabg2xXRpEVdGTf4qVlp12qdgXHVErT6WK78oqQDC61zSO2d1KVXUSR5N6xExG8ZUDZoR5VXRoLh9xo/f235unWU6dOTc1X4PszQvLKhu57yMW/0o=;pmFVbO4nxeaN6cmMqHUbWQ=="
 ---
 
