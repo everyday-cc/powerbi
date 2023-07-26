@@ -1358,8 +1358,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 727,
-            "average": 4.7675376
+            "count": 728,
+            "average": 4.767857
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1475,8 +1475,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1573,
-            "average": 4.7463446
+            "count": 1574,
+            "average": 4.7465057
           },
           "provider": {
             "name": "Microsoft Learn",

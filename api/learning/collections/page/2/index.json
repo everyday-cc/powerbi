@@ -741,8 +741,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 727,
-            "average": 4.7675376
+            "count": 728,
+            "average": 4.767857
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -858,8 +858,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1573,
-            "average": 4.7463446
+            "count": 1574,
+            "average": 4.7465057
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5046,8 +5046,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 6538,
-            "average": 4.7366166
+            "count": 6539,
+            "average": 4.736657
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5129,8 +5129,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13034,
-            "average": 4.6835966
+            "count": 13038,
+            "average": 4.683617
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5288,8 +5288,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 417,
-            "average": 4.7026377
+            "count": 418,
+            "average": 4.703349
           },
           "provider": {
             "name": "Microsoft Learn",
