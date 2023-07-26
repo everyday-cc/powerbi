@@ -3205,8 +3205,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3656,
-            "average": 4.713074
+            "count": 3657,
+            "average": 4.713153
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3666,8 +3666,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 465,
-            "average": 4.748387
+            "count": 466,
+            "average": 4.7467813
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3876,8 +3876,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 465,
-            "average": 4.748387
+            "count": 466,
+            "average": 4.7467813
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5129,8 +5129,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13030,
-            "average": 4.6835766
+            "count": 13033,
+            "average": 4.6835723
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5205,8 +5205,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2398,
-            "average": 4.7481236
+            "count": 2399,
+            "average": 4.7482285
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5330,8 +5330,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 283,
-            "average": 4.7349825
+            "count": 284,
+            "average": 4.7359157
           },
           "provider": {
             "name": "Microsoft Learn",
