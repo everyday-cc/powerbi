@@ -228,8 +228,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 418,
-            "average": 4.703349
+            "count": 419,
+            "average": 4.699284
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -437,8 +437,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3844,
-            "average": 4.716441
+            "count": 3846,
+            "average": 4.7163286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -771,8 +771,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 202,
-            "average": 4.811881
+            "count": 203,
+            "average": 4.807882
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1001,8 +1001,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 202,
-        "average": 4.811881
+        "count": 203,
+        "average": 4.807882
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1122,8 +1122,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
       "length": "PT29M",
       "ratings": {
-        "count": 418,
-        "average": 4.703349
+        "count": 419,
+        "average": 4.699284
       },
       "provider": {
         "name": "Microsoft Learn",
