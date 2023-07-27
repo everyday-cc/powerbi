@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 1003,
-            "average": 4.7497506
+            "count": 1004,
+            "average": 4.75
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -118,8 +118,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 795,
-            "average": 4.810063
+            "count": 796,
+            "average": 4.8103013
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -243,8 +243,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 285,
-            "average": 4.733333
+            "count": 286,
+            "average": 4.734266
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -660,8 +660,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 466,
-            "average": 4.665236
+            "count": 467,
+            "average": 4.6638117
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1204,8 +1204,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 303,
-            "average": 4.6732674
+            "count": 304,
+            "average": 4.674342
           },
           "provider": {
             "name": "Microsoft Learn",

@@ -651,8 +651,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 303,
-            "average": 4.6732674
+            "count": 304,
+            "average": 4.674342
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -944,8 +944,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-automate/",
           "length": "PT12M",
           "ratings": {
-            "count": 142,
-            "average": 4.5985913
+            "count": 143,
+            "average": 4.6013985
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1153,8 +1153,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-automate/",
           "length": "PT12M",
           "ratings": {
-            "count": 142,
-            "average": 4.5985913
+            "count": 143,
+            "average": 4.6013985
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2827,8 +2827,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 4362,
-        "average": 4.7469053
+        "count": 4365,
+        "average": 4.747079
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2870,8 +2870,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10710,
-        "average": 4.7603173
+        "count": 10711,
+        "average": 4.7603397
       },
       "provider": {
         "name": "Microsoft Learn",
