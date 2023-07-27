@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3M55S
 publishedDateTime: 2023-01-03T16:00:14Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XkjJo7J8CyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "yjuT4hRnVs+GErdS+FuLq9BjbC1M2qyBKUyih4qw9EJP90BmGZXRQo9WEP8M6zlwpkySorEyBEFXJIySEJYia+ySnxopRQ6mYTM6oLwzBLsIrRCLvce0l+g0cEhUROEU7VshHrfuu8l5VH3QKmOYEyiJI21I0JxkqWGJRjXV9JMIiBBJ5k3lZQoDycK2AhM6z4Gd+tYiOl5H7KNrXBJYmzu+REcgur54uVZ7pDdHrcToTuAoKrOc7N8uTfXImmnZShrYlcMuzHCnwBjudHipAGpnVCyf8iEJkKmGKd4z44QJyrvd47vJKU3bR41Dred0mBpUaNurV+p1MU6hCk5Ee2yfp7J4Lh/+51QKzMOlh3c9PIEEy3Pv+ttpcyNxgDTGlmw+9qoH6KOnuDHijLw4fv4j0tDODexsVZxcYqSN0Ys=;PMmUV0nfm2f2S/Wv/lqrpg=="
+secured: "ejw2OLnCdXooY1Z/C+l/uzA0sZv0clIWsZ/pH6GqNs5TBuvWutv5QwtFKBdWOCwji3xRIOzaRalatM3MmHT5c5LQNEqj0V5GooQO2ct2EriP2aEfD+yvhXCZOOrPkxSm1RZN4ddys37E40b1PppNrZPxYHzyA+QxpRLuOC3AEiJBjPlFPSEhukVUUTWmPT+FaUD1RmxUVBezoRHDJD1V4PhJ1TAvrkJ5i+DiN7cQvgo1x0T/14SuiZxxtnB0dquV6EaA3CWtTEO/aZTH02mK/kWD/EG2va9PST64hs+dvP5gqBAxBlC2VMZuF+DNRubBN2Zcdwe+j1D+4m8hh5Wc/tsZasPxsYn85RirRH4kOEgpjEA+BcAWub2R7OBjkyktDXghxLTy2Wu0zR0zGPxr608szSTAPx+QgT2jgLDQ0lc=;5AfU+Nu5qGg9J2dWGbh4FA=="
 ---
 
