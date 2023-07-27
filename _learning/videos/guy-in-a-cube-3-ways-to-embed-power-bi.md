@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "3 ways to embed Power BI"
 
-secured: "OYjaif453NOFZc8qmUOOAJXBcfLUr+7uauKdmr125RM/VyyELjwADzQ1XUmnkicmd+i0Jm/AFF+qS/hB2kWMZctzPceqS+JbpsXMqYMoouZjIoLzfxf/LzvreXKpJZeE6xaJ5exHbxy/Gwq4G4uG9lCreoYJkSkpwyzGaxwXYUnpvHb+FL7VY00JjAjjflb/jwgf+f7Aj4PzuUcXjYRjCUcNQ75SM4UBCP1vDOzU+qighOayx6Gj3QOc/TXqfAIiqkUYYmeUSwn4hD3SaBSH7LoSbxsdQFIiVHZO7+3MXc/AsWb5rIzd3duNWfA32y+Z/fe+8DBrcUuMcbDBQ+Zsz/tw3av4G7JlK0l8sLp/uBFoR24sL0JVvoqcrw/oR65kC8QQm54XGIAIhvRlxCrQ/7F0dzl6tBSCKp4qC/n8t+eGrLlngmzCn2rZZ7XHQP4P;ET9tIrYUiudCU6ac0+4B6g=="
+secured: "P5+tKHQ1qEWOl/BG0XL1A2gTM9vB9ww/eG/aD+x8gYHvd5pS03twfpRVnUlzA6O5eRoqRoSRQ5iGg7J7UkyLLG4alcDlgfHk0/LMBuRAEWTqLEi9OxMs1jceNdT/pju8hQhHWu1yv+txxUqaL8Vx9qPMs+VPxqPljt2xyRJJcbWI5HCjATTBZ1KKusdaIQ4D579RZHpesfKtTD4gsp5UI8A0xGRACIzhl68BkW5ciXfTK6zUts3t2drsuCEICsmmasil/+EtYt6EL4U0UhIflDtJJ/0zwRw3MBmeyrGjBJWLww/qhK2sUu9aRrjBDgExniJbB3IskBBjgah7AC012ETqEgCf0UardE1/SZ+K2fKcMoOdkYIh/M3PLhh53Woko/WuMv6zRS+WarsbjYxFN3RCrEo8FduiNhW+3TTxSExxi0NFDFuoLCuMxtKa3t8P;N6A35IEYfJBH3nWAVSQqug=="
 ---
 
