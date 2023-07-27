@@ -3380,8 +3380,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3660,
-            "average": 4.713388
+            "count": 3663,
+            "average": 4.712804
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4258,8 +4258,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-organize-fields/",
           "length": "PT52M",
           "ratings": {
-            "count": 85,
-            "average": 4.5176473
+            "count": 86,
+            "average": 4.523256
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5077,8 +5077,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13048,
-            "average": 4.683553
+            "count": 13049,
+            "average": 4.683577
           },
           "provider": {
             "name": "Microsoft Learn",
