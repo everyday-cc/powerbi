@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M59S
 publishedDateTime: 2020-04-22T15:00:02Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5wn6vUgSRXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "VmyS/BT+wD2SbfoTvW9SialffwT6wPFYABIl8yzDlC1BHZOaV7t3Fm8PQmlJtKC89lGIZGnRS1Umkltdrn+mAvzEvveH8o4JYiAk/vaw9gsgoU6IPj5q7R7VCQ1YeMu1hVeuYlaEaPFU3usuiYbOCUJZJQXvI8TPm8Cf/rYx41DzwIZGni+8BbJccHQtCBqjqeIHAGoopOU6qcJ0057y+SdNN0zHgOHYeDnoY4q89fG4rX1NorcNjv+VuPUart1ODV3ecxZKjwWCWgPB3ix4ad/3rtPsuXeZTXSpLJJ6p4rMO1hpjzwFPX+L0gkmKt9sP/uWdi6H8G8qebriz+Pcp7yxuhCV8UPtRq4phghMxrED+mWqYv4P0l+ahAkt0PrGUsnfwbUvPJwoCpxsvlWcR4m4Y25zJn1EUGlmSmNX+wc=;uowoj28kB0U05+Gc8di8vA=="
+secured: "bT7khTW+MMOCMDK18sgSZUDhqOb9FakSG3nxGQtGRX8IeUTzgXBcAnzTM9sdTiF3/b8nfAVzy1J4C16gYb6z8KonLX9D7Ae7dDpEUOScBbHhfdDJz1DPhoAEtaz6f9vySNJqHvhMmJaeNZtRn1bZoqcpJ0F5dqjezd/QrOlB/IAsj8DqihfaSeEUXzg7Vlf+RprzLwWCfrRVIonIHOg3vcBn4kwwip3dyPuI2vhv/cG2FWkByaWcOZZVIMkZ25dTnaNpo51v0RXPFayhg0loZaUIZDOm8DjzDfF2+fjb4FaZngkxcTXv1YRvuQpS3LMXNvh5RbP0y+t9fXWmNuTh54QfCHOP6XLWFWOs5e+902Qmnflgv1+jC9o4ksXPEg57D5GjQKUwOAfwp2gllIyAYYTmv2bVl+XluqEoGnjng5I=;uAHolmJ64rCmOUB5HWkFog=="
 ---
 

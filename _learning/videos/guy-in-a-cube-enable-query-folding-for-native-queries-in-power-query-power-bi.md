@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M41S
 publishedDateTime: 2021-05-06T15:00:11Z
-heat: 62
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8hjdOCni_ZY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "22NgAdJtNJFZS+Apbb5vXMNxnmlgzTjVVin08LW/V+vBSjzb6JqpP1DVl8L2KYlw0CcCEoPI5FsxtMGQc8xvap0DcMMc8EDz8UKM+16zuezin6YeTHAsXbkNhVYvLxVNPyjM2wIVdYcp+0DzKdy/tY0oZ9I8FwiTfEuk/px8YajWFXvtBfEfHBAUVffBmrvZniiqRrFao/NoBuWr194AojS+K9QfCg5jLqYuSneIpKfnx2/Ra3J+bvMDBmTYULRmlSsxUF0FPDNPMx+YGZ0jFefIwQ/JEUD4yAvoxjDSVSGzYMnKb/Eug5ygGoGMocIRHgpiXs5Ijw2gQoA9pZagk11ZsrVFodS0YHKTP/PuLaxgPOnXPYAxbsRtVduS7hYFS8IC28Z3gU3l3AN64HqlP4FW78mOeOUE6tISkmQbwU8=;gfhrl+ZD9Bh43BcYtY4BAQ=="
+secured: "cjXJYcEiQS/iOT/etGbTN84Qd+ivqD5W9dUBrSZMjlzWfsisLEcpT/V5lc98cno6OKKWV3S2A9278bFNItVI4+hd6qJNHapSQOYFNvbwsbNKSCELWXk1DGDvTdVn+xL2f78uSeaeI38OeZbqF6zBV8oajxpyzwoLEUSFdezal5P1dYT2xHrDb70n22pRgZ7+vH/r57gxyXMb9LqQUHkIWHK+vC/KaecNfHE1nBVLzak3Ykz/kDIX5jCZ37MlQWNkG5Oq64GCCkkV1MZYn2IYR8pT0kMVPC+kd3RxrOua3+fwJZSAyVSnA/8fDRvmDDhMk0BXhu1cRhVyxClQKPlHeUG06kZlDz/G1oy0rgY3oeedPscFZTeUP0qFUGtMkpo0I5mDVvUHJ5e2a//6PSRU2HMUUkmczNLRogkatw291Pg=;Is5Bn/oFD/oawjBLnSDPSA=="
 ---
 
