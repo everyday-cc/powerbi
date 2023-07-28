@@ -72,7 +72,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 53,
+      "heat": 62,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/choose-power-bi-model-framework-social.png",
@@ -96,8 +96,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 12002,
-        "average": 4.7402935
+        "count": 12003,
+        "average": 4.740315
       },
       "provider": {
         "name": "Microsoft Learn",
