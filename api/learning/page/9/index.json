@@ -1642,7 +1642,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-governance-social.png",
@@ -2728,7 +2728,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-governance-social.png",
@@ -3565,8 +3565,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 4371,
-        "average": 4.7471976
+        "count": 4372,
+        "average": 4.7472553
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3608,8 +3608,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10711,
-        "average": 4.7603397
+        "count": 10712,
+        "average": 4.7602687
       },
       "provider": {
         "name": "Microsoft Learn",
