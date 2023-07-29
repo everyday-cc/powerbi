@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/datasets-are-now-in-power
 webUrl: "https://powerbi.microsoft.com/en-us/blog/datasets-are-now-in-power-bi-mobile-apps-refresh-your-datasets-when-youre-on-the-go/"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:
