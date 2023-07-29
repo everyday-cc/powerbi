@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M1S
 publishedDateTime: 2020-03-19T15:00:21Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sPFRLy6XL1s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "What the HECK is a Power BI Gateway Cluster?"
 
-secured: "sOIY1Cd8ENRe0VmwSI2ABUTg+MCtVpOyU45kg84TE5LfQ+2NsLSAgsSRxOnz+xToud459ptxDNzb7i8QT8+Kp31Zzv6Q7FeW4inrx7kYtlWtRm7qFKxcVLMRAud/vzM80lBCyVWwJrueuIbYDpY3uVnQ+PCV0qvW7FZNfh8H1NR3kGFw162bg5vBxeWPJUyJEHjf23I6E7xMRl3cFEOm/YpIRXn3MKjOT9g9fH3b1cia6oSjvK7Rq/fNEA4gNIwGv3uY6WCaBEqiV8UtJzWUarFNIhPCp/BwsK5swItJTBfjZU1/tIY/qNPT+VrK3oczme0qfV/6YC04QC0j3whCVq//1gjubE6sz25EsWGK0BflTDCGKM/psptJVpr9PaTphh7PHwO+qYRG2G75r8gT5Lf6QvldK2qEQbG2TZXrg1E=;jE9fpKjHpg3iWOIumnv3JQ=="
+secured: "yeQlJ4wAc9uLialu6J/GTNvzlKNHUSoRAYZVMM66mN3IH1BDtJtCbEODw5BFcvNyBUdPzM2lLLxpVv5ZXc7BkeY4/E7T+gogXKetJ0nvHgdeRpYLCV92ufaz3LnWR/26LB97h55dRkTpDb2ftQrH9knmBEUwaJWDQBPaOO4Rpph89KOu5U5R64XNCngX2JN50tuIV1wGpQcT/lu4O/05EJzsGExuhI+SYPj1Q3g4j1XYWWy/nwSCv7Ze3rfijtDaMdVEBK9KGXVZD8PDZhLbH9a/DbCM2vVF8SKACYMCwQZxqa9eCAaGcQs6llarJIwFLam33R2YMKy0WPg/9I0kknN51hu+o0JUurG9hHw4N7Qulzi1bS4qhUhZUzz1QIFSG9+RZAa5fdF0utZiHaNuNfnYYodXuojZ/DtiTvptTq8=;TauTOx+rR3i269khSKCH3g=="
 ---
 
