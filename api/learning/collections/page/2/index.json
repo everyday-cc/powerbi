@@ -4953,8 +4953,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7671,
-            "average": 4.730283
+            "count": 7672,
+            "average": 4.730318
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5246,8 +5246,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13079,
-            "average": 4.6835384
+            "count": 13081,
+            "average": 4.683587
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5280,8 +5280,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11594,
-            "average": 4.7063136
+            "count": 11595,
+            "average": 4.706339
           },
           "provider": {
             "name": "Microsoft Learn",
