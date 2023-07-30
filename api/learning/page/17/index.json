@@ -1085,8 +1085,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 1713,
-        "average": 4.733217
+        "count": 1714,
+        "average": 4.733372
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1162,8 +1162,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
       "length": "PT29M",
       "ratings": {
-        "count": 800,
-        "average": 4.81
+        "count": 801,
+        "average": 4.8102374
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1330,8 +1330,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 2645,
-        "average": 4.699433
+        "count": 2646,
+        "average": 4.6995463
       },
       "provider": {
         "name": "Microsoft Learn",
