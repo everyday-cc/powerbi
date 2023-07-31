@@ -1006,8 +1006,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3083,
-            "average": 4.7664614
+            "count": 3084,
+            "average": 4.766213
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1048,8 +1048,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2650,
-            "average": 4.7
+            "count": 2651,
+            "average": 4.7001133
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1090,8 +1090,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3648,
-            "average": 4.6864033
+            "count": 3650,
+            "average": 4.6865754
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1132,8 +1132,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 6520,
-            "average": 4.796319
+            "count": 6522,
+            "average": 4.7963815
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1215,8 +1215,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4409,
-            "average": 4.746201
+            "count": 4411,
+            "average": 4.746543
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1258,8 +1258,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2752,
-            "average": 4.7358284
+            "count": 2754,
+            "average": 4.7360206
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1345,8 +1345,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1717,
-            "average": 4.732673
+            "count": 1718,
+            "average": 4.732829
           },
           "provider": {
             "name": "Microsoft Learn",

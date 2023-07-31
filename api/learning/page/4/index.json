@@ -2518,8 +2518,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 422,
-            "average": 4.64218
+            "count": 423,
+            "average": 4.643026
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2560,8 +2560,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 305,
-            "average": 4.67541
+            "count": 306,
+            "average": 4.6764708
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3145,8 +3145,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3683,
-            "average": 4.7132773
+            "count": 3684,
+            "average": 4.713355
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3312,8 +3312,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1583,
-            "average": 4.7479467
+            "count": 1584,
+            "average": 4.748106
           },
           "provider": {
             "name": "Microsoft Learn",
