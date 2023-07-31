@@ -2614,8 +2614,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
           "length": "PT1H21M",
           "ratings": {
-            "count": 269,
-            "average": 4.6728625
+            "count": 271,
+            "average": 4.6752768
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4264,7 +4264,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -5016,8 +5016,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7680,
-            "average": 4.7304688
+            "count": 7682,
+            "average": 4.730539
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5058,8 +5058,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 6557,
-            "average": 4.7366176
+            "count": 6558,
+            "average": 4.7366576
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5309,8 +5309,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13090,
-            "average": 4.683728
+            "count": 13092,
+            "average": 4.6837764
           },
           "provider": {
             "name": "Microsoft Learn",
