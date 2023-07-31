@@ -2096,7 +2096,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-automate-social.png",
@@ -2305,7 +2305,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-automate-social.png",
@@ -2370,8 +2370,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3676,
-            "average": 4.7127314
+            "count": 3677,
+            "average": 4.7128096
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3795,8 +3795,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-data-connectivity/",
           "length": "PT50M",
           "ratings": {
-            "count": 153,
-            "average": 4.640523
+            "count": 154,
+            "average": 4.642857
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3813,7 +3813,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-data-connectivity-social.png",
@@ -5025,8 +5025,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7675,
-            "average": 4.7302933
+            "count": 7676,
+            "average": 4.730328
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5352,8 +5352,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11596,
-            "average": 4.706364
+            "count": 11597,
+            "average": 4.7063894
           },
           "provider": {
             "name": "Microsoft Learn",
