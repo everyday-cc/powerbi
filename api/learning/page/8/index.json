@@ -820,8 +820,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 212,
-            "average": 4.6320753
+            "count": 213,
+            "average": 4.633803
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1029,8 +1029,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 212,
-            "average": 4.6320753
+            "count": 213,
+            "average": 4.633803
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1196,8 +1196,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3690,
-            "average": 4.713821
+            "count": 3691,
+            "average": 4.7138987
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3146,8 +3146,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 2764,
-        "average": 4.735528
+        "count": 2766,
+        "average": 4.7357197
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3232,8 +3232,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
       "length": "PT51M",
       "ratings": {
-        "count": 3690,
-        "average": 4.713821
+        "count": 3691,
+        "average": 4.7138987
       },
       "provider": {
         "name": "Microsoft Learn",
