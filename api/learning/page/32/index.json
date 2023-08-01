@@ -931,8 +931,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 289,
-            "average": 4.7370243
+            "count": 290,
+            "average": 4.7310343
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1181,8 +1181,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 803,
-            "average": 4.81071
+            "count": 804,
+            "average": 4.8109455
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1264,8 +1264,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 507,
-            "average": 4.678501
+            "count": 508,
+            "average": 4.679134
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1536,8 +1536,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 735,
-        "average": 4.697959
+        "count": 736,
+        "average": 4.6983695
       },
       "provider": {
         "name": "Microsoft Learn",
