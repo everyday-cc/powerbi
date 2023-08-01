@@ -118,8 +118,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3867,
-            "average": 4.7170935
+            "count": 3868,
+            "average": 4.7166495
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -712,8 +712,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/architect-analytics/",
       "length": "PT41M",
       "ratings": {
-        "count": 113,
-        "average": 4.761062
+        "count": 114,
+        "average": 4.763158
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -923,8 +923,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/connect-power-platform-to-sap-azure/",
       "length": "PT33M",
       "ratings": {
-        "count": 47,
-        "average": 4.787234
+        "count": 48,
+        "average": 4.7916665
       },
       "provider": {
         "name": "Microsoft Learn",
