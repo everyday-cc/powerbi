@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 57,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/create-manage-workspaces-power-bi-social.png",
@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 57,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/manage-datasets-in-power-bi-social.png",
@@ -113,7 +113,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 52,
+      "heat": 58,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/create-dashboards-power-bi-social.png",
@@ -137,8 +137,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 6526,
-        "average": 4.7965064
+        "count": 6527,
+        "average": 4.7965374
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -155,7 +155,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 52,
+      "heat": 59,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/row-level-security-power-bi-social.png",
