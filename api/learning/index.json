@@ -42,44 +42,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-what-does-microsoft-fabric-mean-for-power-bi.md",
-      "title": "What does Microsoft Fabric mean for Power BI?",
-      "excerpt": "You've heard the news about Microsoft Fabric but what about Power BI? How does Power BI fit in? Do you need to migrate anything? Can you still do what you were doing? Adam tells you what you need to know!  Direct Lake (PREVIEW) https://learn.microsoft.com/power-bi/enterprise/directlake-overview  Microsoft",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-does-microsoft-fabric-mean-for-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-does-microsoft-fabric-mean-for-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=fvuL8Nk_gxU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fvuL8Nk_gxU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M56S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-06-15T08:00:36-07:00",
-      "heat": 160,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fvuL8Nk_gxU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-power-bi-tutorial-from-beginner-to-pro-desktop-to-dashboard-in-60-minutes-.md",
       "title": "Power BI Tutorial From Beginner to Pro ⚡ Desktop to Dashboard in 60 Minutes ⏰",
       "excerpt": "This Complete Power BI Tutorial takes you Step-by-Step as you use Power BI Desktop to create a beautiful Power BI Dashboard. 👉 Download Power BI Files in Video at https://web.learnpowerbi.com/download?content=20190501  ✅ Subscribe to always get my latest videos: https://www.youtube.com/powerbipro?sub_confirmation=1",
@@ -178,8 +140,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 69303,
-            "average": 4.796661
+            "count": 69318,
+            "average": 4.7966475
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -220,8 +182,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 98567,
-            "average": 4.7775826
+            "count": 98589,
+            "average": 4.7775717
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -238,7 +200,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 136,
+          "heat": 139,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -256,7 +218,7 @@
         }
       ],
       "size": 2,
-      "heat": 136,
+      "heat": 139,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
@@ -280,8 +242,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 98567,
-        "average": 4.7775826
+        "count": 98589,
+        "average": 4.7775717
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -298,7 +260,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 136,
+      "heat": 139,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -315,23 +277,73 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-how-to-write-any-dax-measure-in-just-3-easy-steps-.md",
-      "title": "Power BI: How to Write any DAX Measure In Just 3 Easy Steps 👣",
-      "excerpt": "Are you struggling to write DAX Measures? In this video I explain 3 Simple Steps that Non-Techie Business Users can take to write any DAX Measure. 👉 Get Power BI Training: https://www.LearnPowerBI.com/training 👉 Get Power BI Advanced Training: https://www.LearnPowerBI.com/advance  ==Table of Contents==",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-how-to-write-any-dax-measure-in-just-3-easy-steps-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-how-to-write-any-dax-measure-in-just-3-easy-steps-/",
-      "originalUrl": "https://youtube.com/watch?v=CNPtS-2n5yc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CNPtS-2n5yc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M17S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+      "path": "_learning/courses/microsoft-learn-power-bi-effective-user-experience.md",
+      "title": "Enhance Power BI report designs for the user experience",
+      "excerpt": "Enhance Power BI report designs for the user experience",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-user-experience/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-user-experience/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 502,
+        "average": 4.7211156
       },
-      "publishedDateTime": "2023-06-28T09:00:08-07:00",
-      "heat": 136,
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/CNPtS-2n5yc/maxresdefault.jpg",
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-user-experience-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-controlling-cost-with-azure-synapse-serverless-pools.md",
+      "title": "Controlling cost with Azure Synapse Serverless Pools",
+      "excerpt": "Curious how to save cost when using Azure Synapse Serverless Pools? Any way to minimize the amount of data you are processing? Patrick shows you how and has a script for you!  Cost management for serverless SQL pool in Azure Synapse Analytics https://learn.microsoft.com/azure/synapse-analytics/sql/data-processed",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-controlling-cost-with-azure-synapse-serverless-pools/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-controlling-cost-with-azure-synapse-serverless-pools/",
+      "originalUrl": "https://youtube.com/watch?v=AbiYgh9RD2U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AbiYgh9RD2U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M12S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-05-09T08:00:07-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AbiYgh9RD2U/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -341,36 +353,27 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-optimizing-text-search-in-dax.md",
-      "title": "Optimizing text search in DAX",
-      "excerpt": "How to optimize a text search operation in DAX that uses the contains condition in the filter pane or the filter mode of the Smart Filter Pro custom visual.\r Article and download: https://sql.bi/797173?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-optimizing-text-search-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-optimizing-text-search-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=dUoiyTMZYaE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dUoiyTMZYaE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M13S",
+      "path": "_learning/videos/learn-power-bi-power-bi-how-to-write-any-dax-measure-in-just-3-easy-steps-shorts.md",
+      "title": "Power BI: How to Write any DAX Measure In Just 3 Easy Steps 👣 Shorts",
+      "excerpt": "👉 If you have any questions, just leave us a comment.  👉 Check out our Power BI Tutorial https://youtu.be/AGrl-H87pRU ================================ #PowerBI #PowerBIQuestion #PowerBIPro  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-how-to-write-any-dax-measure-in-just-3-easy-steps-shorts/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-how-to-write-any-dax-measure-in-just-3-easy-steps-shorts/",
+      "originalUrl": "https://youtube.com/watch?v=G8zXyMkb0yc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G8zXyMkb0yc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26S",
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2023-05-09T03:00:19-07:00",
-      "heat": 133,
+      "publishedDateTime": "2023-06-28T09:00:19-07:00",
+      "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/dUoiyTMZYaE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/G8zXyMkb0yc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYciBKKEIwDw==&rs=AOn4CLC32jBmI3dlSLI9ESYdMw0pz-NolQ",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -657,8 +660,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 69303,
-        "average": 4.796661
+        "count": 69318,
+        "average": 4.7966475
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1021,8 +1024,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 24212,
-            "average": 4.7517757
+            "count": 24221,
+            "average": 4.7517443
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1063,8 +1066,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13105,
-            "average": 4.683327
+            "count": 13107,
+            "average": 4.683299
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1097,8 +1100,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 98567,
-            "average": 4.7775826
+            "count": 98589,
+            "average": 4.7775717
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1115,7 +1118,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 136,
+          "heat": 139,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -1157,8 +1160,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 24212,
-        "average": 4.7517757
+        "count": 24221,
+        "average": 4.7517443
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1444,8 +1447,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 98567,
-            "average": 4.7775826
+            "count": 98589,
+            "average": 4.7775717
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1462,7 +1465,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 136,
+          "heat": 139,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -1486,8 +1489,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 36687,
-            "average": 4.727751
+            "count": 36688,
+            "average": 4.727731
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1571,8 +1574,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 7954,
-            "average": 4.763892
+            "count": 7955,
+            "average": 4.763922
           },
           "provider": {
             "name": "Microsoft Learn",
