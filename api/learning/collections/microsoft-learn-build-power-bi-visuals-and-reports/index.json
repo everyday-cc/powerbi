@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 3163,
-        "average": 4.7249446
+        "count": 3165,
+        "average": 4.7251186
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -155,7 +155,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 132,
+      "heat": 52,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-user-experience-social.png",
@@ -221,8 +221,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
       "length": "PT15M",
       "ratings": {
-        "count": 3862,
-        "average": 4.7167273
+        "count": 3864,
+        "average": 4.7168736
       },
       "provider": {
         "name": "Microsoft Learn",

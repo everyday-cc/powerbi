@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13107,
-            "average": 4.683299
+            "count": 13109,
+            "average": 4.683347
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -110,8 +110,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2421,
-            "average": 4.74969
+            "count": 2422,
+            "average": 4.7497935
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -568,8 +568,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 509,
-            "average": 4.6797643
+            "count": 510,
+            "average": 4.67451
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -986,8 +986,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 482,
-            "average": 4.759336
+            "count": 483,
+            "average": 4.7598343
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1028,8 +1028,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 535,
-            "average": 4.6971965
+            "count": 536,
+            "average": 4.697761
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1070,8 +1070,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3862,
-            "average": 4.7167273
+            "count": 3864,
+            "average": 4.7168736
           },
           "provider": {
             "name": "Microsoft Learn",
