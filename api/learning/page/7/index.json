@@ -800,8 +800,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 4416,
-        "average": 4.7466035
+        "count": 4419,
+        "average": 4.746549
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -885,8 +885,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 13095,
-        "average": 4.6836195
+        "count": 13098,
+        "average": 4.6836157
       },
       "provider": {
         "name": "Microsoft Learn",
