@@ -2161,8 +2161,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 190,
-            "average": 4.705263
+            "count": 191,
+            "average": 4.706806
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2847,7 +2847,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-select-social.png",
@@ -3667,8 +3667,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 190,
-            "average": 4.705263
+            "count": 191,
+            "average": 4.706806
           },
           "provider": {
             "name": "Microsoft Learn",
