@@ -42,44 +42,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-want-a-beautiful-power-bi-report-start-here.md",
-      "title": "Want a BEAUTIFUL Power BI Report? Start here!",
-      "excerpt": "If you are like us, creating beautiful Power BI reports doesn't come easy. Mara Pereira joins us to show us where to start to get amazing and beautiful Power BI reports even with no designer background.  Dribbble https://dribbble.com/  Freepik https://www.freepik.com/  Figma https://www.figma.com/  Adobe",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-want-a-beautiful-power-bi-report-start-here/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-want-a-beautiful-power-bi-report-start-here/",
-      "originalUrl": "https://youtube.com/watch?v=pKkav_W-jiQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pKkav_W-jiQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M21S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-05-11T08:00:36-07:00",
-      "heat": 189,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pKkav_W-jiQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-gorgeous-backgrounds-for-power-bi-in-minutes-with-this-free-tool.md",
       "title": "GORGEOUS backgrounds for Power BI in minutes with this FREE tool",
       "excerpt": "Do you want to create stunning backgrounds for Power BI in minutes?   Let me show you this amazing tool that is easy to use and Free!! :)  Links mentioned: Storytelling by data viz techniques https://youtu.be/0pcTpIC6uFk  Eye picker for windows: https://youtu.be/skPTyaEmyws  Here you can download all",
@@ -105,6 +67,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/C7szTkb84hc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-what-does-microsoft-fabric-mean-for-power-bi.md",
+      "title": "What does Microsoft Fabric mean for Power BI?",
+      "excerpt": "You've heard the news about Microsoft Fabric but what about Power BI? How does Power BI fit in? Do you need to migrate anything? Can you still do what you were doing? Adam tells you what you need to know!  Direct Lake (PREVIEW) https://learn.microsoft.com/power-bi/enterprise/directlake-overview  Microsoft",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-does-microsoft-fabric-mean-for-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-does-microsoft-fabric-mean-for-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=fvuL8Nk_gxU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fvuL8Nk_gxU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M56S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-06-15T08:00:36-07:00",
+      "heat": 160,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fvuL8Nk_gxU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -178,8 +178,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 69375,
-            "average": 4.796699
+            "count": 69379,
+            "average": 4.7966676
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -220,8 +220,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 98694,
-            "average": 4.7775955
+            "count": 98704,
+            "average": 4.7775774
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -280,8 +280,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 98694,
-        "average": 4.7775955
+        "count": 98704,
+        "average": 4.7775774
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -315,31 +315,23 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-sql-server-in-microsoft-fabric-use-cetas-to-move-data.md",
-      "title": "SQL Server in Microsoft Fabric? Use CETaS to move data!",
-      "excerpt": "People have been asking \"What about SQL Server?\" with regards to Microsoft Fabric. Bob Ward joins us to show a way you can get your SQL data into Fabric with CETaS and the power of shortcuts in OneLake. And, then use that data in Power BI!  CREATE EXTERNAL TABLE AS SELECT (CETAS) (Transact-SQL) https://learn.microsoft.com/sql/t-sql/statements/create-external-table-as-select-transact-sql?view=sql-server-ver16&tabs=powershell",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-sql-server-in-microsoft-fabric-use-cetas-to-move-data/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-sql-server-in-microsoft-fabric-use-cetas-to-move-data/",
-      "originalUrl": "https://youtube.com/watch?v=DB8zujLjzVo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DB8zujLjzVo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M15S",
+      "path": "_learning/videos/radacad-getting-started-with-data-pipelines-in-fabric-data-factory.md",
+      "title": "Getting Started with Data Pipelines in Fabric Data Factory",
+      "excerpt": "Microsoft Fabric comes with many objects that can enhance your data analytics experience. One of those objects which comes from the Azure Data Factory is Pipeline. For those using Power Query Dataflows, you may think you already have everything you wanted there, but Pipeline certainly has more to offer",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-getting-started-with-data-pipelines-in-fabric-data-factory/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-getting-started-with-data-pipelines-in-fabric-data-factory/",
+      "originalUrl": "https://youtube.com/watch?v=Qw229FBlnJA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Qw229FBlnJA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M32S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "RADACAD",
+        "domain": "radacad.com"
       },
-      "publishedDateTime": "2023-06-27T08:00:13-07:00",
-      "heat": 137,
+      "publishedDateTime": "2023-05-26T14:37:23-07:00",
+      "heat": 138,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/DB8zujLjzVo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Qw229FBlnJA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -353,14 +345,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-synapse-and-data-factory-news-from-microsoft-build-2023-day-1.md",
-      "title": "Power BI, Synapse and Data Factory news from Microsoft Build 2023 (Day 1)",
-      "excerpt": "Learn more about the exciting news for Power BI, Synapse and Data Factory coming out of Microsoft Build 2023 in this two-day digital event.  Blog: https://aka.ms/build-with-analytics\r \r #PowerBI #AzureSynapse #DataFactory",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-synapse-and-data-factory-news-from-microsoft-build-2023-day-1/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-synapse-and-data-factory-news-from-microsoft-build-2023-day-1/",
-      "originalUrl": "https://youtube.com/watch?v=5jlP0wdEsls",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5jlP0wdEsls\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3H20M46S",
+      "path": "_learning/videos/guy-in-a-cube-get-the-most-as-a-data-scientist-with-microsoft-fabric-public-preview.md",
+      "title": "Get the most as a Data Scientist with Microsoft Fabric (Public Preview)",
+      "excerpt": "Going down the DATA SCIENCE path can be hard when trying to get all the right data. Microsoft Fabric breaks down barriers and allows for easy reuse of data with OneLake. Nellie joins to talk about how data scientists can take advantage!  What is Data Science in Microsoft Fabric? https://learn.microsoft.com/fabric/data-science/data-science-overview",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-get-the-most-as-a-data-scientist-with-microsoft-fabric-public-preview/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-get-the-most-as-a-data-scientist-with-microsoft-fabric-public-preview/",
+      "originalUrl": "https://youtube.com/watch?v=LDZL0gyHQbs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LDZL0gyHQbs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M14S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -373,11 +365,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-05-22T17:23:39-07:00",
-      "heat": 130,
+      "publishedDateTime": "2023-06-21T08:00:22-07:00",
+      "heat": 135,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/5jlP0wdEsls/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/LDZL0gyHQbs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -663,8 +655,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 69375,
-        "average": 4.796699
+        "count": 69379,
+        "average": 4.7966676
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -754,6 +746,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/yo5fbDxSJAE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-want-a-beautiful-power-bi-report-start-here.md",
+      "title": "Want a BEAUTIFUL Power BI Report? Start here!",
+      "excerpt": "If you are like us, creating beautiful Power BI reports doesn't come easy. Mara Pereira joins us to show us where to start to get amazing and beautiful Power BI reports even with no designer background.  Dribbble https://dribbble.com/  Freepik https://www.freepik.com/  Figma https://www.figma.com/  Adobe",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-want-a-beautiful-power-bi-report-start-here/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-want-a-beautiful-power-bi-report-start-here/",
+      "originalUrl": "https://youtube.com/watch?v=pKkav_W-jiQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pKkav_W-jiQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M21S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-05-11T08:00:36-07:00",
+      "heat": 109,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pKkav_W-jiQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1027,8 +1057,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 24265,
-            "average": 4.7510405
+            "count": 24270,
+            "average": 4.7510505
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1069,8 +1099,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13121,
-            "average": 4.6834083
+            "count": 13122,
+            "average": 4.6834326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1103,8 +1133,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 98694,
-            "average": 4.7775955
+            "count": 98704,
+            "average": 4.7775774
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1163,8 +1193,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 24265,
-        "average": 4.7510405
+        "count": 24270,
+        "average": 4.7510505
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1450,8 +1480,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 98694,
-            "average": 4.7775955
+            "count": 98704,
+            "average": 4.7775774
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1492,8 +1522,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 36704,
-            "average": 4.727659
+            "count": 36705,
+            "average": 4.727639
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1624,48 +1654,6 @@
       ],
       "content": "\r\n",
       "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-power-platform.md",
-      "title": "Introduction to Microsoft Power Platform",
-      "excerpt": "Introduction to Microsoft Power Platform",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-introduction-power-platform/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 32114,
-        "average": 4.72143
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 81,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/introduction-power-platform-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
