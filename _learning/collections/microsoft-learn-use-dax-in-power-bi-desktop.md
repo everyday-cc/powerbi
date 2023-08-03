@@ -25,8 +25,6 @@ items:
   - courses/microsoft-learn-dax-power-bi-iterator-functions
   - courses/microsoft-learn-dax-power-bi-modify-filter
   - courses/microsoft-learn-dax-power-bi-time-intelligence
-  - courses/microsoft-learn-dax-power-bi-calculation-groups
-  - courses/microsoft-learn-dax-power-bi-solve-problems
 
 topics:
   - Power BI
