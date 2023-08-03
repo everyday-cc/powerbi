@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/edit-your-data-model-in-t
 webUrl: "https://powerbi.microsoft.com/en-us/blog/edit-your-data-model-in-the-power-bi-service-public-preview-opt-in/"
 type: article
 quality: 104
-heat: 105
+heat: 106
 published: true
 
 provider:
