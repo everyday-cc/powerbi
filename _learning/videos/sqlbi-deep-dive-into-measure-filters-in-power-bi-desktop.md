@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT23M3S
 publishedDateTime: 2021-09-14T10:00:45Z
-heat: 54
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/miiGlDWeamM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "YrgsRAK3BYOPbQC039q5KGoUvHcFecsHgQh0H4HCM1bHBPzAdDAEnFX4kw+FXkHyJAfdn8MUCHbY6TNx80i+wk9OOmGAp8lhBkDqHOm9NdftTxf9SqaXz0o3V2whbCNfQzcuMxPH1rPPN3YxdAk4h+DW+rYcyyr/CTpSNHBJ/e5digiFafWDK3wTpryR9qQ5zIDpI3EaGHXztMkEeWliVkHIPVYjmuOn6WUjshhr8AIWGht5Zz0mNjqZ+Omf5L4QU3EEiItIveRE6gyqsmbu6Lr7tlWsY1UKUPYLSR03fmueGIti4s2zCYYpMGX94ixHhMS9ncYzlJjwSeIKzuG1N7Ids+kzOUGtRqPIlCLKpeVPifSnRw/4HZ4gVoGQBwAOzDqMXwPxx/M8nl6kqIWFc6Njb1wPRRQzNlYgjPkPzHY=;frMwv42Xfn926sbw00ydbA=="
+secured: "dILIS+AaazpvlNm/94Pbqs/5sq9AjAAAFS4TtJT8XeQa2drwrwMgkrUZ0Or7IGWIwHgd16Qu4I4oQI57/mRGtpAM1MpemyvSLgdHlEH8OfAXZuli35Ex7ghhXNgD3pUxhAWMsjg4+5o7neXFTvpULuUfu9+L/yB6DfDClKVKRJSe8B9rh2Ko8pN+CrCzj4gnKDS5sP+3aFs4aI/FM1Mkx30X5bEbEIz3htu5BTFm49SBiLDA+yFkhUNNwBedv7PtVYTREv89iTLBGQ+bRuu0RQ47yEUDFHj9Vu3TVAO4hQ90KEJByBs4B22QME5PC/gwMhlRjMLfe56nyhCDtdC1eXbHGjzp4M3C+3oNQPcyf95gZozFaHnHiugeQKVhOcwpkHsAupFDbqfkiOckS3vitWvjwQLzkBJ92le9n3aLbzw=;4mNVeR68Nk6RfK6kvMJ+jw=="
 ---
 
