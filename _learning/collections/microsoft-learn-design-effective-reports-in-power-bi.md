@@ -19,9 +19,11 @@ levels:
 
 items:
   - courses/microsoft-learn-power-bi-effective-requirements
+  - courses/microsoft-learn-power-bi-effective-structure
   - courses/microsoft-learn-power-bi-effective-reports
   - courses/microsoft-learn-power-bi-effective-filters
   - courses/microsoft-learn-power-bi-effective-user-experience
+  - courses/microsoft-learn-power-bi-effective-ui
 
 topics:
   - Power BI
