@@ -3391,8 +3391,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3703,
-            "average": 4.712395
+            "count": 3704,
+            "average": 4.712473
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3850,8 +3850,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1224,
-            "average": 4.7818627
+            "count": 1225,
+            "average": 4.7820406
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4060,8 +4060,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1224,
-            "average": 4.7818627
+            "count": 1225,
+            "average": 4.7820406
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5274,8 +5274,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13157,
-            "average": 4.6834383
+            "count": 13158,
+            "average": 4.6833863
           },
           "provider": {
             "name": "Microsoft Learn",
