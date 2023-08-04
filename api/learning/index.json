@@ -140,8 +140,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 69529,
-            "average": 4.796632
+            "count": 69534,
+            "average": 4.7966175
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -182,8 +182,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 98979,
-            "average": 4.777529
+            "count": 98984,
+            "average": 4.7775297
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -242,8 +242,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 98979,
-        "average": 4.777529
+        "count": 98984,
+        "average": 4.7775297
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -277,23 +277,31 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-microsoft-fabric-licensing-an-ultimate-guide.md",
-      "title": "Microsoft Fabric Licensing   An Ultimate Guide",
-      "excerpt": "Microsoft Fabric is an end-to-end data analytics Saas solution product of Microsoft. It brings many workloads in the analytics area, including Data Integration, Warehousing, Engineering, Business Intelligence, Data Science, and Real-time Analytics. It is often a question of how the pricing of this platform",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-microsoft-fabric-licensing-an-ultimate-guide/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-microsoft-fabric-licensing-an-ultimate-guide/",
-      "originalUrl": "https://youtube.com/watch?v=Gvt8oesGa3E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gvt8oesGa3E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M17S",
+      "path": "_learning/videos/guy-in-a-cube-microsoft-fabric-launch-digital-event-day-2.md",
+      "title": "Microsoft Fabric Launch Digital Event (Day 2)",
+      "excerpt": "Learn more about the exciting news about the launch of Microsoft Fabric in this two-day digital event. From Power BI, to Synapse, and Data Factory, you will be able to learn what’s available to you in this new offering.  Blog: https://aka.ms/build-with-analytics  #MicrosoftFabric",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-microsoft-fabric-launch-digital-event-day-2/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-microsoft-fabric-launch-digital-event-day-2/",
+      "originalUrl": "https://youtube.com/watch?v=wdDx0-jvl7w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wdDx0-jvl7w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H56M20S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2023-06-05T15:22:53-07:00",
-      "heat": 139,
+      "publishedDateTime": "2023-05-22T17:30:52-07:00",
+      "heat": 135,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Gvt8oesGa3E/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wdDx0-jvl7w/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -307,14 +315,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-why-is-there-a-limited-relationship-when-using-the-same-data-source.md",
-      "title": "Why is there a limited relationship when using the same data source?",
-      "excerpt": "Using Power BI Desktop and notice that you have some limited relationships in your model? Patrick discovered an interesting issue that threw him off at first. Learn how he solved it!  Model relationships in Power BI Desktop https://learn.microsoft.com/power-bi/transform-model/desktop-relationships-understand",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-why-is-there-a-limited-relationship-when-using-the-same-data-source/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-why-is-there-a-limited-relationship-when-using-the-same-data-source/",
-      "originalUrl": "https://youtube.com/watch?v=8vGwBedcXQA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8vGwBedcXQA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M23S",
+      "path": "_learning/videos/guy-in-a-cube-controlling-cost-with-azure-synapse-serverless-pools.md",
+      "title": "Controlling cost with Azure Synapse Serverless Pools",
+      "excerpt": "Curious how to save cost when using Azure Synapse Serverless Pools? Any way to minimize the amount of data you are processing? Patrick shows you how and has a script for you!  Cost management for serverless SQL pool in Azure Synapse Analytics https://learn.microsoft.com/azure/synapse-analytics/sql/data-processed",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-controlling-cost-with-azure-synapse-serverless-pools/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-controlling-cost-with-azure-synapse-serverless-pools/",
+      "originalUrl": "https://youtube.com/watch?v=AbiYgh9RD2U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AbiYgh9RD2U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M12S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -327,49 +335,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-05-10T08:00:05-07:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8vGwBedcXQA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-replay-lets-talk-microsoft-fabric-live-w-amir-netz-june-10-2023.md",
-      "title": "REPLAY Let's talk Microsoft Fabric - LIVE w/ Amir Netz (June 10, 2023)",
-      "excerpt": "Join us live as we answer your questions about Microsoft Fabric including Power BI with out guest Amir Netz who is a Microsoft Technical Fellow and CTO/Visionary of Microsoft Fabric. You don't want to miss this one!  Connect with Amir: LinkedIn: https://www.linkedin.com/in/amirnetz/ Twitter: https://twitter.com/amirnetz",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-replay-lets-talk-microsoft-fabric-live-w-amir-netz-june-10-2023/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-replay-lets-talk-microsoft-fabric-live-w-amir-netz-june-10-2023/",
-      "originalUrl": "https://youtube.com/watch?v=hUfdMc0GW8s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hUfdMc0GW8s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H13M17S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-06-10T08:41:06-07:00",
+      "publishedDateTime": "2023-05-09T08:00:07-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/hUfdMc0GW8s/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/AbiYgh9RD2U/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -380,6 +350,37 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-combining-hotel-price-sheets-using-power-query.md",
+      "title": "Power BI: Combining Hotel Price Sheets 💲 Using Power Query",
+      "excerpt": "👉 Download the Power BI files https://www.LearnPowerBI.com/download 👉 Ask Power BI Questions: https://www.LearnPowerBI.com/question 👉 Get Power BI Training: https://www.LearnPowerBI.com/training 👉 Get Power Advance BI Training: https://www.LearnPowerBI.com/advance  ================================",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-combining-hotel-price-sheets-using-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-combining-hotel-price-sheets-using-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=jli55mHeyo0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jli55mHeyo0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M20S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2023-05-24T09:00:35-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jli55mHeyo0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
       ]
     },
     {
@@ -655,8 +656,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 69529,
-        "average": 4.796632
+        "count": 69534,
+        "average": 4.7966175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -836,8 +837,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 24379,
-            "average": 4.751097
+            "count": 24384,
+            "average": 4.751148
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -878,8 +879,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13156,
-            "average": 4.6834145
+            "count": 13157,
+            "average": 4.6834383
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -912,8 +913,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 98979,
-            "average": 4.777529
+            "count": 98984,
+            "average": 4.7775297
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -972,8 +973,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 24379,
-        "average": 4.751097
+        "count": 24384,
+        "average": 4.751148
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1167,8 +1168,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 32178,
-        "average": 4.7214866
+        "count": 32180,
+        "average": 4.7214727
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1308,8 +1309,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 98979,
-            "average": 4.777529
+            "count": 98984,
+            "average": 4.7775297
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1350,8 +1351,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 36763,
-            "average": 4.7274976
+            "count": 36765,
+            "average": 4.727485
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1393,8 +1394,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16953,
-            "average": 4.7232347
+            "count": 16954,
+            "average": 4.7232513
           },
           "provider": {
             "name": "Microsoft Learn",

@@ -626,8 +626,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 3185,
-            "average": 4.724961
+            "count": 3186,
+            "average": 4.725047
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -835,8 +835,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 3185,
-            "average": 4.724961
+            "count": 3186,
+            "average": 4.725047
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -857,48 +857,6 @@
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-requirements-social.png",
-              "width": 1281,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-power-bi-effective-structure.md",
-          "title": "Structure analytical report designs in Power BI",
-          "excerpt": "Designing an analytical report involves understanding the requirements and its audience. However, designing a compelling analytical report requires understanding the automatic and unconscious processes that occur when report consumers comprehend what they see. When you have the knowledge of how to structure and apply report design principles, you can raise the level of your report designs to produce relevant, intuitive, and visually pleasing experiences for your report consumers.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-structure/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
-          "length": "PT21M",
-          "ratings": {
-            "count": 1695,
-            "average": 4.7769914
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-structure-social.png",
               "width": 1281,
               "height": 641,
               "isCached": true
@@ -994,9 +952,51 @@
           "topics": [
             "Power BI"
           ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-power-bi-effective-user-experience.md",
+          "title": "Enhance Power BI report designs for the user experience",
+          "excerpt": "Enhance Power BI report designs for the user experience",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-user-experience/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-user-experience/",
+          "length": "PT59M",
+          "ratings": {
+            "count": 512,
+            "average": 4.7226562
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-user-experience-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
         }
       ],
-      "size": 6,
+      "size": 4,
       "heat": 67,
       "images": [
         {
