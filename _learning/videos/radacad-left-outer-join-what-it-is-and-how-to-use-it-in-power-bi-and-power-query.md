@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT8M33S
 publishedDateTime: 2020-11-03T22:25:55Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NXaK6aCouoY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "JcL8zSMsrvHonBMhmFfi1j01ZZiWHmWcOZHqwherMpxnvKrh97OyX+q4urJ6zYlUzRLsSqk8Y6guXoHnUtibETABw3P3pN9x3kV1Ho5koLJdLJUF/xzSlWGx6I7mYsiBNPj4WH4te2V+OVbtrP4gmaekiK5Tmnkh+7B5ZP4wW7gjJMwnd1l6T3kKUXzgNdfFzJ2NqhNGILL8kAcBCiQpLmVywJwkB2m0mp/g1e0MUEFrmqbEnpR4xfbzc/mwRl4PQ0me4KwwPDia8++gwUM0dPVFnfC/Qw0cu8Ql4yBVldoMaEP03mb5vwlvXKVbLkZP2iCNPpxJG0LL09cr0eMjS5WOQzyw4HSe0QxBHTsHTUrnZ+9A5Z45cDlN2luGqgW7GTuwcbGJ1hOzBi5a9mKFxMSEBZilm0WBQmuZ8eefrPc=;3/K29gAUGXO0pUwMizEs8g=="
+secured: "ViajaAYGwpyP8Kl83sNwM6T8wTNY1uW0fkDAB73yQLSVIb0marL/oixM6N2vcqfs2HWxPk4BcNAsrS5AkwcjRYl46dg5LCQ+5Zz0ZkB/kiFHHyEs8uX0Ri17gXTfLoCelTVYPKCGFoUoBFktoA7na9bzw+hHyY/3lHezysVr65UJWq4L0jK2985DmnTWlSXzaqrrsnIO6sDPFZzupj1g+MAj+VcaFdUjW6OmETe4vdQYdXx8rUGqmWORl0J21cQu47GYUhr6Sk84p64+XrFrJFNOL1WIBVPQBhQVAgALRQhMHbfdF/JFW5uPHBC//f4hqxnK67Iu1zc5eEbg01Q6ZeUD7dnB4ng8DFBENhV8pZQtVcRF69FmkGIdBvGwRkNb4MjjMPlj1Q9vbf3WNkKbqs8EVCQVbaP1NQ19TQR4Xy0=;SLxySfdOtgxw3FOyl6osEA=="
 ---
 
