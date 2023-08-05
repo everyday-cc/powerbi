@@ -581,8 +581,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 32229,
-        "average": 4.721369
+        "count": 32230,
+        "average": 4.7213774
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -950,8 +950,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 36778,
-        "average": 4.727527
+        "count": 36780,
+        "average": 4.727433
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1261,8 +1261,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1760,
-            "average": 4.7272725
+            "count": 1762,
+            "average": 4.7275825
           },
           "provider": {
             "name": "Microsoft Learn",
