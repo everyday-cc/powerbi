@@ -581,8 +581,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 32223,
-        "average": 4.7213173
+        "count": 32224,
+        "average": 4.721326
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -804,8 +804,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 547,
-            "average": 4.6745887
+            "count": 548,
+            "average": 4.6751823
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -888,8 +888,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2804,
-            "average": 4.732168
+            "count": 2805,
+            "average": 4.732264
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -950,8 +950,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 36777,
-        "average": 4.72752
+        "count": 36778,
+        "average": 4.727527
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1174,8 +1174,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2804,
-            "average": 4.732168
+            "count": 2805,
+            "average": 4.732264
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1751,7 +1751,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 142,
+          "heat": 62,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-reports-with-power-bi-desktop-social.png",
