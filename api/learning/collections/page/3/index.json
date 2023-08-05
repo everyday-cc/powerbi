@@ -479,8 +479,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 550,
-            "average": 4.6745453
+            "count": 551,
+            "average": 4.675136
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -647,8 +647,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visualize-real-time-data-azure-stream-analytics-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 222,
-            "average": 4.788288
+            "count": 223,
+            "average": 4.7892375
           },
           "provider": {
             "name": "Microsoft Learn",
