@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/low-code-authoring-of-pag
 webUrl: "https://powerbi.microsoft.com/en-us/blog/low-code-authoring-of-paginated-reports/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
