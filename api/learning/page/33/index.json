@@ -1389,8 +1389,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
       "length": "PT15M",
       "ratings": {
-        "count": 3880,
-        "average": 4.717268
+        "count": 3881,
+        "average": 4.7170835
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1431,8 +1431,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-power-bi-model-relationships/",
       "length": "PT1H30M",
       "ratings": {
-        "count": 178,
-        "average": 4.764045
+        "count": 180,
+        "average": 4.7611113
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1689,8 +1689,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1611,
-        "average": 4.749845
+        "count": 1612,
+        "average": 4.75
       },
       "provider": {
         "name": "Microsoft Learn",
