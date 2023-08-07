@@ -2885,8 +2885,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3713,
-            "average": 4.712631
+            "count": 3714,
+            "average": 4.7124395
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3112,7 +3112,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-permissions-content-social.png",
@@ -4909,8 +4909,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12084,
-            "average": 4.7398214
+            "count": 12085,
+            "average": 4.739843
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5119,8 +5119,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 6581,
-            "average": 4.737122
+            "count": 6583,
+            "average": 4.73705
           },
           "provider": {
             "name": "Microsoft Learn",
