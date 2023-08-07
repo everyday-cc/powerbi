@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Ragged Hierarchies in Analysis Services with Power BI and Excel"
 
-secured: "zW2YEKqNhEV1YEe5XJm96W9u96AUREKt++mJrV62ne5fSQBwy6WPEctnaCcQCWWsxw3e09l+V82NwpH2zHrgAd+Fo1Oqa00lKPutxR5UdRjHtY+8bCWTzminnmSQ1l+7rSZIfGIkEku8Alk2zvrP+owC5txkvl1kc89etl9sS8OE6PwtwNtvBNiYupwc0ewom74rhWljlzY7KkVgjYEdoRUMPv0OnaTAZFVRXlC3x2qtKihaTRhJxm3ilW82bHrF2QFOdfU1ThdmPf1UMcMeEDQS3iJLXUUVg1vjlyxgRuRH1XFRcfDRRR1uYCs3XtKCaK4n9NhfqLlHKywuwWE/zLe8WeLqonlg7NUPSYbaeR3SdE10dJ5LlkTMv3zvACk+RBAQ++X9cq+NYp62vFtBMHIpUQTiZK28geUTCOOaBNo=;Pb7fox9q46wAnLsecBp0uQ=="
+secured: "sq0eLnS62nA0lRa5B9GFXcyuE0IVskHss+g6+5vmI+qPNP+DNyxC0Kn5AxJWkhZ+DBpbG5559kAm7TGCr5uOWu4Yw6O/YY+IAdxpo9oA0M73Dm5dyF2W+pzMjwLAokDndWFqRtqqDgLQl5LtT3N7GRLY+o+QAmb8LxTEGT4DPcMRYuaEJeePobRZPAGRFAVnb75dA7ZKBszKfVGxWudDwNo7Ka48Gke/IAds8SBMzHzzst2GkpZs/KoFZ9MY4IIA7mmCMJVNqfBKhk03XnTMPy2WWa12Q3quoMl9zXkpG8aNeQ+ENgEDaa6vvKqSuO+TQXdiyD/6skY5Ou9EYW7fD+J+AtPGTN0UT7I8/gjsiXq+VwWkP2+AxYcpBbaB0qz+ALjf7c+GXphCBTRoaa75NXgd8LC/Od4oKlIjAKoalqM=;V/KM/L7h404pLe715J3lLg=="
 ---
 
