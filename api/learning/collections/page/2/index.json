@@ -3419,7 +3419,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 52,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/perform-analytics-power-bi-social.png",
@@ -5141,8 +5141,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7739,
-            "average": 4.730327
+            "count": 7740,
+            "average": 4.730362
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5266,8 +5266,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13187,
-            "average": 4.683552
+            "count": 13188,
+            "average": 4.683576
           },
           "provider": {
             "name": "Microsoft Learn",
