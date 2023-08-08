@@ -3210,7 +3210,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3568,8 +3568,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 121,
-            "average": 4.7438016
+            "count": 122,
+            "average": 4.7459016
           },
           "provider": {
             "name": "Microsoft Learn",
