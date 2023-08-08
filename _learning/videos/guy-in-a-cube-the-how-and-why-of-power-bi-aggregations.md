@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M1S
 publishedDateTime: 2020-03-04T16:00:04Z
-heat: 52
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EhGF372t0sU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "The How and Why of Power BI Aggregations"
 
-secured: "6ekbKTM2Fab55Qwm8xpd31qBSDWq2/Wvn61DDMG/PH/W4HyVurx80doQGtKpVct9cJqBfZYRMlCHs449PP8YWbzzxFVOf07Fd7j1HVph4Tu1IDV3Syd5Gw7axWLyQ2Ul3wYpyr3brWF9NqKYshl/UFAZnrnPCaVqgVQI2cz6BTaZzhRm5wgeHLPK4neCHgI3JIQbb8Mcrk6ESTsPCWLVRWuLhgCbdxSR0DKP7EfTmEobVICBkZ+YpTIT/EG45jMIh64N+3m3gM3EDWJ7y2Bt1rCk5pmGYzmuGhvTZBu+0AqkmObldAsXXXzlSYL9LPW2WJpooGlSu84LNtcIXBx6AVkOxIYheOzBJy9dRGgcdn6gfQHUnFt1Y7GKdW59Zjoe7IEyFdiORVb9HWhy8At/ye4JT4/7YfSBrAjApQYabN4=;Ad8n/6PhUQk4QREC5OY0sg=="
+secured: "3O3EnGP/pyXuKZLquWFrxhRpvyvPCX2+dexiQpRn3UyUIqL60fbBRrgmHk5vOchIO+denP3aWVp+D4mn2wnQgdSfgqkwezpK90Thcz3Cu9f1MwZ4oGgCzDFkJnhT9VTvy+s1dr0A5aDxJ5mOCCN/6idu3LpBAr33Ir2bRJ/OyktAjHOli2m1JbNPekAMGt9Uqumn7Q1s4kJDdPA9GI/ZKUY3NB64X/lRA9ZcSesoGZde1MlaT21/+5oi9RNmqgJndAktOXVUnCX4bDCpgqsPdV6uY353L9ecDGoNkzQqQ3+mre2ugxS2/yicGOP3V4czLblN1Sfv5KUFH5xVmqjEvd1ep9rabIfUBisxBuOR/rdYLcrYELFcW+sbMotnFS77kNQPXeEVKnj6xSm+PWkfTzZf5Vk9EIwsbFq5PuMenIU=;NhnoxbBqsR+5F30lD1XATw=="
 ---
 
