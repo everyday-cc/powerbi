@@ -42,6 +42,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-what-does-microsoft-fabric-mean-for-power-bi.md",
+      "title": "What does Microsoft Fabric mean for Power BI?",
+      "excerpt": "You've heard the news about Microsoft Fabric but what about Power BI? How does Power BI fit in? Do you need to migrate anything? Can you still do what you were doing? Adam tells you what you need to know!  Direct Lake (PREVIEW) https://learn.microsoft.com/power-bi/enterprise/directlake-overview  Microsoft",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-does-microsoft-fabric-mean-for-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-does-microsoft-fabric-mean-for-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=fvuL8Nk_gxU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fvuL8Nk_gxU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M56S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-06-15T08:00:36-07:00",
+      "heat": 155,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fvuL8Nk_gxU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-power-bi-tutorial-from-beginner-to-pro-desktop-to-dashboard-in-60-minutes-.md",
       "title": "Power BI Tutorial From Beginner to Pro ⚡ Desktop to Dashboard in 60 Minutes ⏰",
       "excerpt": "This Complete Power BI Tutorial takes you Step-by-Step as you use Power BI Desktop to create a beautiful Power BI Dashboard. 👉 Download Power BI Files in Video at https://web.learnpowerbi.com/download?content=20190501  ✅ Subscribe to always get my latest videos: https://www.youtube.com/powerbipro?sub_confirmation=1",
@@ -72,14 +110,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-digging-into-dynamic-format-strings-for-dax-measures-in-power-bi.md",
-      "title": "Digging into DYNAMIC format strings for DAX Measures in Power BI",
-      "excerpt": "DYNAMIC format strings recently were made available for DAX Measures in Power BI Desktop! Zoe walks us through how you can use these to enhance your reports!  Create dynamic format strings for measures https://learn.microsoft.com/power-bi/create-reports/desktop-dynamic-format-strings  Zoe Douglas https://www.linkedin.com/in/zoedouglas-data/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-digging-into-dynamic-format-strings-for-dax-measures-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-digging-into-dynamic-format-strings-for-dax-measures-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=N11LneTF8-4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N11LneTF8-4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M41S",
+      "path": "_learning/videos/guy-in-a-cube-create-meaningful-data-labels-with-measures-in-power-bi.md",
+      "title": "Create MEANINGFUL data labels with measures in Power BI",
+      "excerpt": "Tired of the usual text data labels that only have one value? Looking for something different? Patrick shows you how to customize your data labels using DAX in your Power BI reports!   📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-create-meaningful-data-labels-with-measures-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-create-meaningful-data-labels-with-measures-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=RaHAoZD2mZE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RaHAoZD2mZE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M10S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -92,11 +130,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-06-22T08:00:13-07:00",
-      "heat": 135,
+      "publishedDateTime": "2023-06-29T08:00:14-07:00",
+      "heat": 139,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/N11LneTF8-4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/RaHAoZD2mZE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -104,49 +142,6 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-tableau-data-connectivity.md",
-      "title": "Connect data to Power BI for Tableau users",
-      "excerpt": "This module provides the foundational information needed to connect to your data confidently with the new platform.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-tableau-data-connectivity/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-data-connectivity/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 156,
-        "average": 4.6282053
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-data-connectivity-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -252,8 +247,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 69921,
-            "average": 4.796613
+            "count": 69936,
+            "average": 4.796614
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -294,8 +289,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 99601,
-            "average": 4.7776327
+            "count": 99613,
+            "average": 4.7776194
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -354,8 +349,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 99601,
-        "average": 4.7776327
+        "count": 99613,
+        "average": 4.7776194
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -701,8 +696,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 69921,
-        "average": 4.796613
+        "count": 69936,
+        "average": 4.796614
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -820,8 +815,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 32474,
-        "average": 4.7207613
+        "count": 32484,
+        "average": 4.7207546
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1151,8 +1146,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 24651,
-            "average": 4.750558
+            "count": 24654,
+            "average": 4.7504663
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1227,8 +1222,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 99601,
-            "average": 4.7776327
+            "count": 99613,
+            "average": 4.7776194
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1287,8 +1282,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 24651,
-        "average": 4.750558
+        "count": 24654,
+        "average": 4.7504663
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1451,8 +1446,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 99601,
-            "average": 4.7776327
+            "count": 99613,
+            "average": 4.7776194
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1493,8 +1488,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 36867,
-            "average": 4.7276154
+            "count": 36869,
+            "average": 4.727603
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1536,8 +1531,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16994,
-            "average": 4.7227845
+            "count": 16995,
+            "average": 4.7228007
           },
           "provider": {
             "name": "Microsoft Learn",
