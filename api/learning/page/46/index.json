@@ -616,8 +616,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3894,
-            "average": 4.717514
+            "count": 3895,
+            "average": 4.7175865
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -969,7 +969,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
