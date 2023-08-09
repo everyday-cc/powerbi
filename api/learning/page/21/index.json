@@ -401,8 +401,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 863,
-            "average": 4.835458
+            "count": 864,
+            "average": 4.8333335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -503,8 +503,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 3693,
-        "average": 4.6845384
+        "count": 3694,
+        "average": 4.6846237
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -545,8 +545,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 3122,
-        "average": 4.765535
+        "count": 3124,
+        "average": 4.765685
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -672,8 +672,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
       "length": "PT28M",
       "ratings": {
-        "count": 863,
-        "average": 4.835458
+        "count": 864,
+        "average": 4.8333335
       },
       "provider": {
         "name": "Microsoft Learn",
