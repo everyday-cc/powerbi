@@ -661,7 +661,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 132,
+          "heat": 52,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -3690,8 +3690,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3731,
-            "average": 4.7129455
+            "count": 3732,
+            "average": 4.7124867
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5069,8 +5069,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7758,
-            "average": 4.7308583
+            "count": 7759,
+            "average": 4.730893
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5362,8 +5362,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13224,
-            "average": 4.683681
+            "count": 13225,
+            "average": 4.6837053
           },
           "provider": {
             "name": "Microsoft Learn",
