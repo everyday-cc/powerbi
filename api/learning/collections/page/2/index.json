@@ -787,8 +787,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 740,
-            "average": 4.7716217
+            "count": 741,
+            "average": 4.7719297
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4583,7 +4583,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -5025,8 +5025,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 6602,
-            "average": 4.7364435
+            "count": 6603,
+            "average": 4.736332
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5108,8 +5108,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12113,
-            "average": 4.7400312
+            "count": 12116,
+            "average": 4.7400956
           },
           "provider": {
             "name": "Microsoft Learn",
