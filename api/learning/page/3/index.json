@@ -285,8 +285,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4629,
-            "average": 4.7455173
+            "count": 4630,
+            "average": 4.7453566
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -412,8 +412,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2849,
-            "average": 4.734995
+            "count": 2850,
+            "average": 4.735088
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -683,8 +683,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 4629,
-        "average": 4.7455173
+        "count": 4630,
+        "average": 4.7453566
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1480,8 +1480,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 3261,
-            "average": 4.725851
+            "count": 3262,
+            "average": 4.725935
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1689,8 +1689,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 3261,
-            "average": 4.725851
+            "count": 3262,
+            "average": 4.725935
           },
           "provider": {
             "name": "Microsoft Learn",
