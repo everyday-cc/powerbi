@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13253,
-            "average": 4.6837697
+            "count": 13254,
+            "average": 4.6837935
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -818,8 +818,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 487,
-            "average": 4.7597537
+            "count": 488,
+            "average": 4.760246
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -860,8 +860,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 542,
-            "average": 4.699262
+            "count": 543,
+            "average": 4.6998158
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -902,8 +902,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3899,
-            "average": 4.7173634
+            "count": 3900,
+            "average": 4.717436
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1320,8 +1320,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 607,
-            "average": 4.6688633
+            "count": 608,
+            "average": 4.669408
           },
           "provider": {
             "name": "Microsoft Learn",
