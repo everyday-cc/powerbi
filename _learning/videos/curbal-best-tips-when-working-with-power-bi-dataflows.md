@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT18M36S
 publishedDateTime: 2021-04-26T10:25:51Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5fHsRwEM7SY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "eUstyvHRqHkp18VRFVj+I5pXL3Akt8UUUEsk/FohmchySIIk4DviEWy1wLZK1Vb16bDlloKqw+qUNYjkVyw74gY+psodlBUq8OnI0NWRn4+uxq3iBCzx+e8YYJIcOEepAWm1E2ed2gFAy6JcsDde9Us/DiRAO0nSkI4KaaSgDuAXGPMPTwutjS+ajD/eRxwNM9WElj/1r9s+O8NWV2QQVgHLLMt1xCCJsdppIPJ6z8Gbb31DTy4XX/SfDmEDRfcr3H4IUXSLFJT4KLa8i5vfKuDfISDJ2q88wfw3dDQE5WnjdS9j9rDw876EXvx/ZNawVKhZKz4ZzltDTtSbgJUqsFmKV+m/XN+CHVOMLnhmVQSQFlhCJHCtLrJJ61gNi21+B/aC+N7vTOnbFrJS1oCm1tk6y8QPyYoW5qNIU7vjc2M=;sbQ28C5PbadxRFDT4qP1mQ=="
+secured: "auAOoqigkIf6WJkjBZYeMy76vbMUPEoOFSZiUtm5x9Gr8eIiSDOREM7lkCs/C4m/Law/6+PBEwIZaxVYp2roY4IdytgpLDf6nsv7kp2wQVmWcIOhrFqUEJ2+8JT5lMgYu7PKBGLoMwSXuI4JgiLx6k3px/wCVP03Zgl3Px3vxaFXYnntUaJgqiY+6YI4fNWd1XDynHzS3kdJVS6kZyMxm/QG3AQXRxpzFNIfBiEjisD5ibWkSEFZ/JaOc3p55QbRrQ+37C4L6Gbjp+3GBu1j67rOloLlBSpxUnAcRWF+Fexx9e1/OHS8xMqO++hmyYk0SzOAGI0Aw/0rvgUTwZXlgMEObM6zOXUbBR/FixLv+/slzZJZYttmqRcIj3x0V8RHrmOv7iNFpoHY+nocQSG1jhd90qLmaBcNrNlvjn5FbDU=;JD1bnwRwrt0eVBYV7hFHpQ=="
 ---
 
