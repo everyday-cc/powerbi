@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/easily-label-your-data-th
 webUrl: "https://powerbi.microsoft.com/en-us/blog/easily-label-your-data-the-new-sensitivity-bar-for-power-bi-and-fabric/"
 type: article
 quality: 86
-heat: 88
+heat: 86
 published: true
 
 provider:
