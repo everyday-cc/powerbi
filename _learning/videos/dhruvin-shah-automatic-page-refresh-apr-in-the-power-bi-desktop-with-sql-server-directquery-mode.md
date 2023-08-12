@@ -4,9 +4,9 @@ excerpt: "In this session, we will discuss the new rolled out feature in the Pow
 originalUrl: https://youtube.com/watch?v=MhK-I2Xksaw
 type: video
 price: Free
-length: PT6M3S
+length: PT6M4S
 publishedDateTime: 2020-03-25T11:50:52Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MhK-I2Xksaw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Sap1YMx60ZMLCbak6Ud5O3p875RfH/rIm//ojuzbfbx79jl5Eczcr9L9onPG/230miufW2vT74b3KV6rnXu4Jk57d/q18b2SYtKaiDC2SOJKY7uULnWsNE5te/pRx139AgzIo12hhPpn/gjVeM6J3aooE5LUQMrhajr70ab8dvUVLy0H87JNMK+5MtwhVEssW2IKMxw6Ctb12QsLE2HwZeyhQHCXm1jQYyjsp0nzz0U9PIK90KB/bMbZdeUfthOWH8P18/E7R25pPdk+GQmRjx0Q/9UnQRqLNTWjlSD+1opV+M8TJNqvP5v33sSQ50ujNz6qwkjEaVuHZEnBQFnwh44xX5yPOhO+xnJo77J0nB8SdHXnliHLIqtbMGtlBDQhlZR5CqL3zCpeg0W6whMMfaw0qgoOaXprOwic45BR0vs=;upFM8cM5i2O/k04puyp69g=="
+secured: "XwPHbdqKKl6zqznG6PixflAGa20c1AqVhNdY51URqd0Jeu3XRtIsjjEi7rkOi3l+1IHwy1ZyiE5DFHdEKRy2AIm1/23J96yHQpHjKaDv+DXV4M/BguZSg98OVYEdYOlqqIRSODoDLSJcG8jJiWORQOf51LQMQTdNRUhwBAYNr8oVjV3uoa0NxueydVZ77F1fXctWLgQ/F6uVvmgWQTBEpFwNhlZvNMPu6RV47JxURpFRj7QsY9lr8hMhT5N3VXPgzKVIhsK0L5Yyn/fT59fnaNZEsghdsBdoOp1slytrbL0YEEOFqX9dVtDc6Dm1z16v+FmsMtxJF/+RQXmlHdowlO8DQsa4acTfNpvbQFbj8lpAYgzM7hUg1CE3WHHbzvdEiY5ZGuLi7W/4C/q9+E4afRmj4aH2961LK7XdCfg+Smo=;rPPC/g+W9Pe9pllvrGjbLQ=="
 ---
 

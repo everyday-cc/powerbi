@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M36S
 publishedDateTime: 2020-08-11T10:00:12Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0peKz7XjEdw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "t5C7/ceHYNXq0M7dvxeqiHUc7c6EzXKTN7gfDG8Eyu7XSWxBtmFxiDccavcW65foPxsdDR7JBFI0ZcR4MZ4grBrFixBiIwibhNFxDr1iEI5kQv2RKcVqP+FKaIJhtM99a6NCF08YVEHtw/EilBrYlMMrjru1nMTe3lMR30Qr+uuQ57TcfBwCMzjGeDomfHhBzhZByN4F4usqQc2F8k2B1owNmsgZYNUOK4XAMyVCtxC8hZ7K51FjWy0ifUgbVztSY3cehDAw3h4zxFgpxuY4AuyAUy1NVzeJFCzIP1UN02mTK7oPfyw46bRCxrXwKqO52pXliP3pmHVULnUc00fJj8nJtucLBPTgQj7nSwB2qbRS2CfT31zxW8HMq5V6KyEOMQw9oQ4UUeOU0wxecYi9y+Ch/Y3gqdyT193kfrV/Th0=;G+ENTmzsOfqIc62+Y2twsg=="
+secured: "LdSmp8UhUjyh8DYp+2gqwyZaS3Sw1khFnOXD76dRh2z12I9fIPZ5g0hQ+HDJI+PqS9BLWd5RfnHD7yGYxwYPJbpY7R+Bh5denJ0LXxLHJ/hhiT7PN120KoFcIfmbHBvUU77oijr5btoTc2bwH98JAdC60ojNKmmIf182UV0AjGusKGcRFRBhpOT7QBl6Hmjz0TlY/P5Iturnlci/SeLH2SBdV7Xm008avrNPHSucPGuXlg0HEdErXpFuqyDvg2Lqt16Ysh7d9lumXybZ8E5r6FGVyigr3wj4yhN4hGCk6XnhCXYStJ9CuBEGK1bnuTpfRFThbQnrx8o9ji6xSCE583fo5smL1mV4bbP6pjd5rU2+FldJd552MrETXiTy5JmmjvhrtbAv0DqD8EV1YzGoy2dZponU6y702O2SCy4CaeA=;RhaOk0WsAr52qnh6afeWbg=="
 ---
 
