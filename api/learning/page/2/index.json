@@ -4,48 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-clean-data-power-bi.md",
-      "title": "Clean, transform, and load data in Power BI",
-      "excerpt": "Power Query has an incredible amount of features that are dedicated to helping you clean and prepare your data for analysis. You will learn how to simplify a complicated model, change data types, rename objects, and pivot data. You will also learn how to profile columns so that you know which columns have the valuable data that you’re seeking for deeper analytics.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-clean-data-power-bi/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
-      "length": "PT2H1M",
-      "ratings": {
-        "count": 14934,
-        "average": 4.769854
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 77,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/clean-transform-and-load-data-in-power-bi-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-vaccination-tracker-part1-get-data-from-github-and-schedule-refresh-it.md",
       "title": "Vaccination Tracker Part1: Get data from github and schedule refresh it",
       "excerpt": "This video is part 1 of the upcoming series: How to create a Vaccine tracker.  In Part 1 we will get the data from Github, publish it to a PPU workspace (we will need that later) and show you how to schedule refresh it and what to do if the option is not available.  To get the files go to Curbal Download",
@@ -340,8 +298,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 21872,
-        "average": 4.755898
+        "count": 21873,
+        "average": 4.755909
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -528,8 +486,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12140,
-            "average": 4.7397037
+            "count": 12141,
+            "average": 4.7396426
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -742,8 +700,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 2112,
-            "average": 4.714962
+            "count": 2113,
+            "average": 4.715097
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -891,8 +849,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 36953,
-        "average": 4.7273564
+        "count": 36954,
+        "average": 4.7273636
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2178,8 +2136,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 8793,
-        "average": 4.7661777
+        "count": 8796,
+        "average": 4.766144
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2673,6 +2631,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/fvuL8Nk_gxU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-what-is-microsoft-fabric-and-why-it-is-a-big-deal.md",
+      "title": "What is Microsoft Fabric and Why it is a big deal",
+      "excerpt": "You might have heard the news of the announcement at Microsoft Build by Arun Ulag and the rest of the Microsoft Data and Analytics Platform team. The announcement was about the new service offering named Microsoft Fabric. In this article and video, I want to explain what Fabric is and why you should",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-is-microsoft-fabric-and-why-it-is-a-big-deal/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-is-microsoft-fabric-and-why-it-is-a-big-deal/",
+      "originalUrl": "https://youtube.com/watch?v=8BAeLUywEMM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8BAeLUywEMM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M20S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2023-05-22T23:15:24-07:00",
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8BAeLUywEMM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
