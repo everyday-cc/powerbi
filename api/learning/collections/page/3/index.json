@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7768,
-            "average": 4.7299175
+            "count": 7769,
+            "average": 4.729695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1272,8 +1272,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 610,
-            "average": 4.6704917
+            "count": 611,
+            "average": 4.6693945
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1290,7 +1290,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 59,
+          "heat": 55,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/choose-power-bi-model-framework-social.png",
