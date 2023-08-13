@@ -786,8 +786,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 613,
-            "average": 4.670473
+            "count": 614,
+            "average": 4.6710095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1628,8 +1628,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dataverse-teams-power-bi/",
       "length": "PT35M",
       "ratings": {
-        "count": 628,
-        "average": 4.778662
+        "count": 629,
+        "average": 4.779014
       },
       "provider": {
         "name": "Microsoft Learn",
