@@ -3626,7 +3626,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-monitor-social.png",
@@ -5005,8 +5005,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12141,
-            "average": 4.7396426
+            "count": 12142,
+            "average": 4.739664
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5090,8 +5090,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10788,
-            "average": 4.760011
+            "count": 10789,
+            "average": 4.759848
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5173,8 +5173,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13272,
-            "average": 4.68377
+            "count": 13273,
+            "average": 4.683794
           },
           "provider": {
             "name": "Microsoft Learn",

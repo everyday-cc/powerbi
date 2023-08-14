@@ -172,7 +172,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 142,
+          "heat": 62,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-reports-with-power-bi-desktop-social.png",
@@ -298,8 +298,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 21881,
-        "average": 4.755587
+        "count": 21883,
+        "average": 4.7556095
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -401,8 +401,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4660,
-            "average": 4.7448497
+            "count": 4662,
+            "average": 4.7449594
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -444,8 +444,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 614,
-            "average": 4.6710095
+            "count": 615,
+            "average": 4.6715446
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -486,8 +486,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12141,
-            "average": 4.7396426
+            "count": 12142,
+            "average": 4.739664
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -528,8 +528,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2862,
-            "average": 4.7337527
+            "count": 2863,
+            "average": 4.7338457
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -613,8 +613,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4660,
-            "average": 4.7448497
+            "count": 4662,
+            "average": 4.7449594
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -656,8 +656,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2862,
-            "average": 4.7337527
+            "count": 2863,
+            "average": 4.7338457
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -700,8 +700,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 2113,
-            "average": 4.715097
+            "count": 2114,
+            "average": 4.715232
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -743,8 +743,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1811,
-            "average": 4.7266703
+            "count": 1812,
+            "average": 4.7268214
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -806,8 +806,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 36960,
-        "average": 4.727408
+        "count": 36963,
+        "average": 4.7274303
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1272,8 +1272,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 3279,
-            "average": 4.725831
+            "count": 3280,
+            "average": 4.7259145
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1481,8 +1481,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 3279,
-            "average": 4.725831
+            "count": 3280,
+            "average": 4.7259145
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1667,8 +1667,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 4660,
-        "average": 4.7448497
+        "count": 4662,
+        "average": 4.7449594
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1898,6 +1898,36 @@
       ]
     },
     {
+      "path": "_learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-.md",
+      "title": "Copilot AI 🤖 in Power BI: How to Enable & Use + Impact on Power BI Professionals 🤔",
+      "excerpt": "👉 LearnPowerBI Training: https://www.LearnPowerBI.com/training 👉 Power BI Consultant Launchpad 🚀: https://web.learnpowerbi.com/consultant-launchpad/ 👉 Power BI Consultant Program: https://www.LearnPowerBI.com/pro Let me show you how you can enable and use the very exciting copilot AI technology within",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-/",
+      "originalUrl": "https://youtube.com/watch?v=yo5fbDxSJAE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yo5fbDxSJAE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M24S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2023-07-19T09:00:57-07:00",
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yo5fbDxSJAE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-power-bi-paginated-reports-in-a-day.md",
       "title": "Power BI Paginated Reports in a Day",
       "excerpt": "The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend you watch the videos in the recorded sequence, starting with video 1 and ending with video 24.",
@@ -2098,8 +2128,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 8805,
-        "average": 4.766042
+        "count": 8807,
+        "average": 4.7656407
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2631,36 +2661,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/fvuL8Nk_gxU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-what-is-microsoft-fabric-and-why-it-is-a-big-deal.md",
-      "title": "What is Microsoft Fabric and Why it is a big deal",
-      "excerpt": "You might have heard the news of the announcement at Microsoft Build by Arun Ulag and the rest of the Microsoft Data and Analytics Platform team. The announcement was about the new service offering named Microsoft Fabric. In this article and video, I want to explain what Fabric is and why you should",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-is-microsoft-fabric-and-why-it-is-a-big-deal/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-is-microsoft-fabric-and-why-it-is-a-big-deal/",
-      "originalUrl": "https://youtube.com/watch?v=8BAeLUywEMM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8BAeLUywEMM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M20S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2023-05-22T23:15:24-07:00",
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8BAeLUywEMM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

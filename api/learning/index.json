@@ -80,15 +80,45 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-data-driven-story-power-bi.md",
-      "title": "Create a data-driven story with Power BI reports",
-      "excerpt": "Power BI helps you create vibrant, highly useful reports that form a cohesive, data-driven story. You’ll learn how to use buttons, bookmarks, and other navigation techniques. Additionally, you’ll learn how to integrate Power BI reports with other applications. Power BI visuals can interact with each other, letting the user see exactly which data is appealing to them. You’ll also explore Power BI report themes to create a unified reporting experience across all reports.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-driven-story-power-bi/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
-      "length": "PT1H44M",
+      "path": "_learning/videos/radacad-microsoft-fabric-lakehouse.md",
+      "title": "Microsoft Fabric Lakehouse",
+      "excerpt": "Microsoft Fabric is an end-to-end Data and Analytics software-as-a-service cloud offering by Microsoft. One of the important objects of Microsoft Fabric is Lakehouse. In this article and video, you will learn what Microsoft Fabric Lakehouse is and how to create it, load data into it, and read data from",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-microsoft-fabric-lakehouse/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-microsoft-fabric-lakehouse/",
+      "originalUrl": "https://youtube.com/watch?v=qNoOQzMjrfk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qNoOQzMjrfk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M39S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2023-05-24T20:41:58-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qNoOQzMjrfk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-ml-model-with-azure-stream-analytics.md",
+      "title": "Track wild polar bears with AI",
+      "excerpt": "Detect and track polar bears through photos using AI, and then use Power BI to show where cameras spot polar bears.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-build-ml-model-with-azure-stream-analytics/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-ml-model-with-azure-stream-analytics/",
+      "length": "PT1H22M",
       "ratings": {
-        "count": 6922,
-        "average": 4.7028317
+        "count": 373,
+        "average": 4.697051
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -103,12 +133,12 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
-      "heat": 142,
+      "heat": 130,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/create-reports-with-power-bi-desktop-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/student-evangelism/build-ml-model-with-azure-stream-analytics-badge-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -122,56 +152,14 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-admin-monitor.md",
-      "title": "Monitor and audit usage",
-      "excerpt": "Learn how to use activity logs and auditing with Power BI to monitor and inspect user activity in a Power BI environment.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-monitor/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-monitor/",
-      "length": "PT11M",
-      "ratings": {
-        "count": 181,
-        "average": 4.762431
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-monitor-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-dont-miss-out-of-microsoft-build-powerbi.md",
-      "title": "Don’t miss out of Microsoft Build! #powerbi",
-      "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-dont-miss-out-of-microsoft-build-powerbi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-dont-miss-out-of-microsoft-build-powerbi/",
-      "originalUrl": "https://youtube.com/watch?v=TprbclJaSJU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TprbclJaSJU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT53S",
+      "path": "_learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-june-17-2023.md",
+      "title": "REPLAY Microsoft Fabric/Power BI Q&A - LIVE (June 17, 2023)",
+      "excerpt": "Join us live as we answer your questions about Microsoft Fabric (including Power BI)!  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\" in front of your comment to help us identify questions! 👉 Super chats",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-june-17-2023/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-june-17-2023/",
+      "originalUrl": "https://youtube.com/watch?v=piv6I5ohH6k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/piv6I5ohH6k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H13M8S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -184,11 +172,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-05-22T14:21:58-07:00",
+      "publishedDateTime": "2023-06-17T08:45:20-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/TprbclJaSJU/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBQKEUwDw==&rs=AOn4CLDwPhQE5ZAAtmTbgSCd6r-KmrkbAw",
+          "url": "https://i.ytimg.com/vi/piv6I5ohH6k/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -308,8 +296,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 70306,
-            "average": 4.796063
+            "count": 70314,
+            "average": 4.7960863
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -350,8 +338,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 100226,
-            "average": 4.777423
+            "count": 100236,
+            "average": 4.7774453
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -410,8 +398,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 100226,
-        "average": 4.777423
+        "count": 100236,
+        "average": 4.7774453
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -787,8 +775,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 70306,
-        "average": 4.796063
+        "count": 70314,
+        "average": 4.7960863
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1036,8 +1024,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 100226,
-            "average": 4.777423
+            "count": 100236,
+            "average": 4.7774453
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1078,8 +1066,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 36960,
-            "average": 4.727408
+            "count": 36963,
+            "average": 4.7274303
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1223,8 +1211,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 32716,
-        "average": 4.720259
+        "count": 32720,
+        "average": 4.7202935
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1326,8 +1314,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 24852,
-            "average": 4.7506037
+            "count": 24854,
+            "average": 4.7506237
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1368,8 +1356,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13272,
-            "average": 4.68377
+            "count": 13273,
+            "average": 4.683794
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1402,8 +1390,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 100226,
-            "average": 4.777423
+            "count": 100236,
+            "average": 4.7774453
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1462,8 +1450,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 24852,
-        "average": 4.7506037
+        "count": 24854,
+        "average": 4.7506237
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1565,8 +1553,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 21881,
-            "average": 4.755587
+            "count": 21883,
+            "average": 4.7556095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1607,8 +1595,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 14943,
-            "average": 4.769792
+            "count": 14947,
+            "average": 4.7697864
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1690,8 +1678,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 21881,
-            "average": 4.755587
+            "count": 21883,
+            "average": 4.7556095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1732,8 +1720,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 14943,
-            "average": 4.769792
+            "count": 14947,
+            "average": 4.7697864
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1815,8 +1803,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 21881,
-            "average": 4.755587
+            "count": 21883,
+            "average": 4.7556095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1857,8 +1845,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 14943,
-            "average": 4.769792
+            "count": 14947,
+            "average": 4.7697864
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1917,8 +1905,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 14943,
-        "average": 4.769792
+        "count": 14947,
+        "average": 4.7697864
       },
       "provider": {
         "name": "Microsoft Learn",
