@@ -761,8 +761,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7777,
-            "average": 4.729716
+            "count": 7779,
+            "average": 4.7297854
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1067,8 +1067,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 315,
-        "average": 4.6349206
+        "count": 316,
+        "average": 4.629747
       },
       "provider": {
         "name": "Microsoft Learn",
