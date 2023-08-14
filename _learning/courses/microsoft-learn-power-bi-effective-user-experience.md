@@ -8,7 +8,7 @@ length: PT59M
 ratings:
   count: 554
   average: 4.7220216
-heat: 52
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 641
     isCached: true
 
-secured: "OxA3gt8AyAHs4TSNoxXQ0r2i6iZr7ZRjRokJshA3+fXvX6LvlHgNlbJw8oQZH3vW6JjbSFNVPir0rVfeevkwLEW7u5c4nX/hadFTGe25VbwW2ERCQXHcGrruRKoYP5zAbfwUthLlEcOQKBPwS5JJcXj4sF1enBEkmWHTgDB8GG34615m0igaOCozDe4QkYQSOWM7AONn0H2ujIyI/hq9RWKS6rQ8Ti6vYNXkwdLsBVV2XVb/vz9O3E7v+ozn0gB5NeNnZtmeycmLTrqLs0gPj6GuBK+de08UKVdt7/VqpdY2eAzJysnQjfs4qrH1QfOAszGC/gqMqs/a+choBAGHdjcIUC6LtMT2vr1r/DFA7wBjwZAEzCCXgwUifMVeHb/Dttm7uKtuCtwTNmIQNWFhC9be3bmMeTA1cKKsGaC4suw=;Jymc7GVmPHrbh5mZL3rVfA=="
+secured: "9jfCuulR5qYkNrrOLfM2LNGBNxJARBQIW+F4bAG/FFB1Iaig2n7Bb0mIBrhu13ApRXKlSkjg1NjBW8PlLDl+u7qpvrZFsil2yjhymk4JPFcDLgHbVu9neXaUDa+w/Glna/77U2J1YQMwDRPjWuBoPdVRS2yJI0wPtEsFJmT9EdhG2qgeCfnXlE8Dt+5kI6U0+mO7cnZy6yflyUU6GDLqcRcjj7v5ozrO4vtiJxoKCAohRiVOd5KuekkXazIQlFd1UYeOJZwLd2JyOtHFYYfL6EpIS+iXfpuG0ERTS8fu/fSiROTmcpdjYvIc5MViif6Qo128g6CDeXQgwpm2HAvwq4Yxk0dWxfcGi9Wp8+DIGfdzEkisFRG6aAKotZ2lmDyeRz9o+y/mRXUlWQHcygwhQwsgwcgIWJSHOdJ19CJdpog=;QoP/bfqJdye/E42Jcj6RUw=="
 ---
 
