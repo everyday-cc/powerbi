@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/how-to-use-power-bi-in-outloo
 webUrl: "https://www.techrepublic.com/article/how-to-use-power-bi-in-outlook-and-office/"
 type: article
 quality: 77
-heat: 77
+heat: 78
 published: true
 
 provider:
