@@ -479,8 +479,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 298,
-            "average": 4.728188
+            "count": 299,
+            "average": 4.729097
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -896,8 +896,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 839,
-            "average": 4.8104887
+            "count": 840,
+            "average": 4.8107142
           },
           "provider": {
             "name": "Microsoft Learn",
