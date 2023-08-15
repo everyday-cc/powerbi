@@ -162,8 +162,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
           "length": "PT1H21M",
           "ratings": {
-            "count": 316,
-            "average": 4.629747
+            "count": 317,
+            "average": 4.6309147
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1984,8 +1984,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 221,
-            "average": 4.723982
+            "count": 222,
+            "average": 4.716216
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3490,8 +3490,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 221,
-            "average": 4.723982
+            "count": 222,
+            "average": 4.716216
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4261,7 +4261,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -5096,8 +5096,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12150,
-            "average": 4.7396708
+            "count": 12151,
+            "average": 4.739692
           },
           "provider": {
             "name": "Microsoft Learn",
