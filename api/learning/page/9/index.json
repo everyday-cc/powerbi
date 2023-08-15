@@ -4,36 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/videos/dhruvin-shah-display-0-instead-of-blank-in-card-visualization-in-power-bi-power-bi-trick.md",
-      "title": "Display “0” instead of “(Blank)” in Card Visualization in Power BI – Power BI Trick",
-      "excerpt": "In this vLog, we will talk about how we can deal with “(Blank)”  value in a card visualization. Sometimes, Power BI measure or default summarization shows Blank instead of 0. In this video, I will show you a trick to replace Blank with Zero.  In this video, we will talk about following points. How to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-display-0-instead-of-blank-in-card-visualization-in-power-bi-power-bi-trick/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-display-0-instead-of-blank-in-card-visualization-in-power-bi-power-bi-trick/",
-      "originalUrl": "https://youtube.com/watch?v=ML7VdHb6494",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ML7VdHb6494\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M12S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:52:50-07:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ML7VdHb6494/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-checking-out-the-new-power-bi-rls-editor.md",
       "title": "Checking out the new Power BI RLS Editor",
       "excerpt": "Take a look at the new Row-Level Security (RLS) editor within Power BI Desktop! Patrick explores how it works and what to look out for in the Preview.  Power BI February 2023 Feature Summary https://powerbi.microsoft.com/en-us/blog/power-bi-february-2023-feature-summary/  Documentation https://learn.microsoft.com/power-bi/enterprise/service-admin-rls#define-roles-and-rules-in-power-bi-desktop-using-enhanced-row-level-security-editor-preview",
@@ -944,8 +914,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13281,
-            "average": 4.6837587
+            "count": 13282,
+            "average": 4.6837826
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -978,8 +948,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11657,
-            "average": 4.706614
+            "count": 11658,
+            "average": 4.7066393
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1190,6 +1160,48 @@
           "url": "https://learn.microsoft.com/training/achievements/intro-to-power-bi-mobile-apps-social.png",
           "width": 1282,
           "height": 642,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-visuals-in-power-bi.md",
+      "title": "Use visuals in Power BI",
+      "excerpt": "Create and customize visuals to present data in compelling and insightful ways.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visuals-in-power-bi/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
+      "length": "PT1H16M",
+      "ratings": {
+        "count": 8029,
+        "average": 4.7637315
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/create-visuals-power-bi-desktop-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
