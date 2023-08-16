@@ -149,8 +149,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 21949,
-            "average": 4.75557
+            "count": 21951,
+            "average": 4.755592
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -191,8 +191,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15014,
-            "average": 4.769748
+            "count": 15016,
+            "average": 4.7697787
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -274,8 +274,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 21949,
-            "average": 4.75557
+            "count": 21951,
+            "average": 4.755592
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -316,8 +316,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15014,
-            "average": 4.769748
+            "count": 15016,
+            "average": 4.7697787
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -399,8 +399,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 21949,
-            "average": 4.75557
+            "count": 21951,
+            "average": 4.755592
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -441,8 +441,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15014,
-            "average": 4.769748
+            "count": 15016,
+            "average": 4.7697787
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -501,8 +501,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 15014,
-        "average": 4.769748
+        "count": 15016,
+        "average": 4.7697787
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -754,6 +754,49 @@
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-get-data-power-bi.md",
+      "title": "Get data with Power BI Desktop",
+      "excerpt": "How can you find, collect, and clean data from different sources? Power BI is a tool for making sense of your data. You will learn tricks to make data-gathering easier.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data-power-bi/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
+      "length": "PT1H15M",
+      "ratings": {
+        "count": 37009,
+        "average": 4.7275257
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 76,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/get-data-power-bi-desktop-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
       ]
     },
     {
@@ -1026,49 +1069,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-get-data-power-bi.md",
-      "title": "Get data with Power BI Desktop",
-      "excerpt": "How can you find, collect, and clean data from different sources? Power BI is a tool for making sense of your data. You will learn tricks to make data-gathering easier.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data-power-bi/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
-      "length": "PT1H15M",
-      "ratings": {
-        "count": 37008,
-        "average": 4.7275186
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 75,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/get-data-power-bi-desktop-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-how-to-get-a-date-table-easily-in-power-bi.md",
       "title": "How to get a DATE TABLE easily in Power BI",
       "excerpt": "Do you use a central date table for your Power BI datasets? There is a LOT of POWER in having one. Adam shows you different ways to create one including a really simple easy option that's BANANAS!  REDUCE Power BI dataset size by 60% with ONE CHECKBOX??? https://www.youtube.com/watch?v=RnDdDlozcdo  Bravo",
@@ -1152,8 +1152,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 21949,
-        "average": 4.75557
+        "count": 21951,
+        "average": 4.755592
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1294,8 +1294,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4688,
-            "average": 4.7457337
+            "count": 4689,
+            "average": 4.745788
           },
           "provider": {
             "name": "Microsoft Learn",
