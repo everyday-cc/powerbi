@@ -354,8 +354,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 1047,
-            "average": 4.7526264
+            "count": 1048,
+            "average": 4.7528625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -438,8 +438,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 841,
-            "average": 4.8109393
+            "count": 842,
+            "average": 4.811164
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -856,8 +856,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-deployment-pipelines/",
           "length": "PT42M",
           "ratings": {
-            "count": 195,
-            "average": 4.7641025
+            "count": 196,
+            "average": 4.7602043
           },
           "provider": {
             "name": "Microsoft Learn",

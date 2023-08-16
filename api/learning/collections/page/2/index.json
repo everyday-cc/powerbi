@@ -1403,8 +1403,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 195,
-            "average": 4.707692
+            "count": 196,
+            "average": 4.7091837
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4929,8 +4929,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7797,
-            "average": 4.7296395
+            "count": 7798,
+            "average": 4.7296743
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5222,8 +5222,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13310,
-            "average": 4.684072
+            "count": 13312,
+            "average": 4.6841197
           },
           "provider": {
             "name": "Microsoft Learn",

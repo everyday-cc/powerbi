@@ -4,6 +4,83 @@
   "page": 7,
   "value": [
     {
+      "path": "_learning/videos/curbal-show-numbers-in-thousands-or-millions-in-same-column-with-the-new-dynamic-formatting-in-power-bi.md",
+      "title": "Show numbers in Thousands or Millions in same column with the new Dynamic formatting in Power BI",
+      "excerpt": "If you want to be able to conditional format a number in Power BI as k for thousands and M for millions in the same column, the new Dynamic Formatting can do that for you.  Check this video to learn how. Download the sample file at the download center , number 079.  Join this channel membership to get",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-show-numbers-in-thousands-or-millions-in-same-column-with-the-new-dynamic-formatting-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-show-numbers-in-thousands-or-millions-in-same-column-with-the-new-dynamic-formatting-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=ROyVkQ9vTjc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ROyVkQ9vTjc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M58S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-04-17T03:43:45-07:00",
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ROyVkQ9vTjc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-you-are-getting-files-from-folders-the-wrong-way-in-power-bi-here-is-how-to-fix-it.md",
+      "title": "You are getting files from folders the WRONG way in Power BI!! Here is how to fix it.",
+      "excerpt": "...and of course also how to do it \"properly\".  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1  Our PLAYLISTS: - Join our DAX Fridays! Series: https://goo.gl/FtUWUX",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-you-are-getting-files-from-folders-the-wrong-way-in-power-bi-here-is-how-to-fix-it/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-you-are-getting-files-from-folders-the-wrong-way-in-power-bi-here-is-how-to-fix-it/",
+      "originalUrl": "https://youtube.com/watch?v=UY3hIV-THcg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UY3hIV-THcg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M28S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-01-14T04:28:28-08:00",
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UY3hIV-THcg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-can-you-use-power-query-dynamic-m-parameters-for-multi-select.md",
       "title": "Can you use Power Query Dynamic M Parameters for multi-select?",
       "excerpt": "Dynamic M parameters in Power Query isn't anything new. However, Patrick was challenged with using them to allow for multi-select and \"select all\" with a slicer in a Power BI report. Will he succeed?   Dynamic M query parameters in Power BI Desktop https://learn.microsoft.com/power-bi/connect-data/desktop-dynamic-m-query-parameters",
@@ -350,36 +427,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/mCUfmanCpIQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-what-is-microsoft-fabric-and-why-it-is-a-big-deal.md",
-      "title": "What is Microsoft Fabric and Why it is a big deal",
-      "excerpt": "You might have heard the news of the announcement at Microsoft Build by Arun Ulag and the rest of the Microsoft Data and Analytics Platform team. The announcement was about the new service offering named Microsoft Fabric. In this article and video, I want to explain what Fabric is and why you should",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-is-microsoft-fabric-and-why-it-is-a-big-deal/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-is-microsoft-fabric-and-why-it-is-a-big-deal/",
-      "originalUrl": "https://youtube.com/watch?v=8BAeLUywEMM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8BAeLUywEMM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M20S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2023-05-22T23:15:24-07:00",
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8BAeLUywEMM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -3034,215 +3081,6 @@
         }
       ],
       "size": 7,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-prepare-to-teach-the-course-modern-excel-analyst-in-a-day.md",
-      "title": "Prepare to teach the course: Modern Excel Analyst in a day",
-      "excerpt": "Prepare to teach the course: Modern Excel Analyst in a day",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-prepare-to-teach-the-course-modern-excel-analyst-in-a-day/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-prepare-to-teach-the-course-modern-excel-analyst-in-a-day/",
-      "length": "PT5H16M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-analytics-excel.md",
-          "title": "Prepare to teach the module: Analytics in Excel",
-          "excerpt": "Prepare to teach the module: Analytics in Excel",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-analytics-excel/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analytics-excel/",
-          "length": "PT2H6M",
-          "ratings": {
-            "count": 1,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-mapping-learning-to-power-bi.md",
-          "title": "Prepare to teach the module: Map learning to Power BI",
-          "excerpt": "Prepare to teach the module: Map learning to Power BI",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-mapping-learning-to-power-bi/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/map-learning-to-power-bi/",
-          "length": "PT1H15M",
-          "ratings": {
-            "count": 0,
-            "average": 0.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-power-bi-excel-better-together.md",
-          "title": "Prepare to teach the module: Power BI & Excel better together",
-          "excerpt": "Prepare to teach the module: Power BI & Excel better together",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-excel-better-together/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-excel-better-together/",
-          "length": "PT54M",
-          "ratings": {
-            "count": 0,
-            "average": 0.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-power-bi-office-better-together.md",
-          "title": "Prepare to teach the module: Power BI & Office better together",
-          "excerpt": "Prepare to teach the module: Power BI & Office better together",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-office-better-together/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-office-better-together/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 0,
-            "average": 0.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 5,
       "heat": 60,
       "images": [
         {
