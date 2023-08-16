@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/even-more-multitasking-im
 webUrl: "https://powerbi.microsoft.com/en-us/blog/even-more-multitasking-improvements-for-power-bi-in-microsoft-teams/"
 type: article
 quality: 87
-heat: 88
+heat: 89
 published: true
 
 provider:
