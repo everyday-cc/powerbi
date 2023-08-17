@@ -312,8 +312,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visualize-real-time-data-azure-stream-analytics-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 235,
-            "average": 4.795745
+            "count": 236,
+            "average": 4.7966104
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -563,8 +563,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 1050,
-            "average": 4.7533336
+            "count": 1051,
+            "average": 4.751665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -605,8 +605,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 879,
-            "average": 4.8327646
+            "count": 880,
+            "average": 4.8329544
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -647,8 +647,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 847,
-            "average": 4.811098
+            "count": 849,
+            "average": 4.811543
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1231,8 +1231,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3912,
-            "average": 4.7190695
+            "count": 3914,
+            "average": 4.719213
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1356,8 +1356,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-scalability-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 158,
-            "average": 4.8037972
+            "count": 159,
+            "average": 4.8050313
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1398,8 +1398,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 221,
-            "average": 4.8099546
+            "count": 222,
+            "average": 4.810811
           },
           "provider": {
             "name": "Microsoft Learn",
