@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT15M1S
 publishedDateTime: 2020-02-06T10:26:35Z
-heat: 54
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Hzy1YbTjDaA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "wdcRJvgFmcEsJoTrLUNNf2nCusocGREjwreaFQ2CkNw2AgtQ/zRRU9tY1YnY50wcI78qhNZU8dMXGsc1eu/KLYx336Yi61qoQ86XTAw+A32oLJB9puQuz57DyIRLO10n9VOToUaBWAMKPdUIMpmFV4JlROcuNhkv1nYtE2Z7U04QEX0br3ukxXUbwUn+O2Q8zWIdw7buOUmbaYlJysvWBpc9jIuLX7Hnp3+PlzqdK1JsSZkiGhaclvfIAfTftIcx6CQlNwYsOOFi/pO06HN+NcnCAzcmLZjCZpz7FPB6GJo5rU7OCHnyUvZVO6WulXixoTdwdwpj51rwjPZ7TqA1Pq3p+u5f3L1D0RjrIfATBjX5rORFQjEyigmdTkHh+Qp/gVow7nkzpaFBIk/h0UVYCkIwoaMmQRAO5uJq6E/nOd8=;Umt3VHeF1dIQTZ0TBNggFQ=="
+secured: "Gzym+sXmSXa4ujSdRUTa3PM5yEt/IrtVFT7Pi1shgVAgsOT+WDLZDlv5CMTa8L0652Sg5k1eEDYCv/TUAMyhsXLn+ckerduPWZn+DdkiDScuRbpTXfJf64dpkHnaWNeB8XVCcc7US3C4mkXtaaCi42spA9Hctx951LURo7Bkoe3AlSlFMWsDXzQuOZJ4xcAxYR1Fux7B+idFgs1rIcVhgaZ6ZHi+NvPA5F+O0Bu3zeeSay62q+TegfVu/t+PXInN4kHmGep7xF0xWjPY9fA6k1VvzlOjtBZ4QtgeMSo0aabJFs9HiL1HgGPIlEeTASJbgTm4IOrByK6nZPHJn+x3VE5jgl30o4jFmjCDUm6QzrDeQ/n4qdmYcNtZMkwQFd0ndF0M5+svBW/wE89PSoptl8fSWNhNzQXjjTkHJ8dr3RI=;FM2BhR9Njh/xtMK/wQztLA=="
 ---
 
