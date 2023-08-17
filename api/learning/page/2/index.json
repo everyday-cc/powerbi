@@ -4,44 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/curbal-export-from-power-bi-to-excel-up-to-100k-rows-.md",
-      "title": "Export from Power BI to Excel up to 🔥100k rows 🔥!!",
-      "excerpt": "In a previous video  (https://www.youtube.com/watch?v=BnTipbooeP0&ab_channel=Curbal) I showed you how to export your data to excel using a button in Power Bi but there was a 1000 item limit.   I found a workaround and now you can export up to 100000 rows or 1000000 values per query!  FourMoo Blog:  https://www.fourmoo.com/2022/06/15/exporting-a-power-bi-visual-data-to-a-csv-file-in-sharepoint/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-export-from-power-bi-to-excel-up-to-100k-rows-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-export-from-power-bi-to-excel-up-to-100k-rows-/",
-      "originalUrl": "https://youtube.com/watch?v=WsbIXJDhC_o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WsbIXJDhC_o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M39S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-06-15T04:32:30-07:00",
-      "heat": 89,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WsbIXJDhC_o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-what-is-power-bi-2021.md",
       "title": "What is Power BI? (2021)",
       "excerpt": "You have heard of Power BI, but not quite sure what it actually is. You probably come from Excel land and want to know more about how you can take your data to the next level.   Adam summarizes the Power BI platform to help you understand how it fits into your business and work flow. Whether you are",
@@ -179,8 +141,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 21989,
-            "average": 4.7556505
+            "count": 21994,
+            "average": 4.755524
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -221,8 +183,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15057,
-            "average": 4.769941
+            "count": 15060,
+            "average": 4.7699866
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -304,8 +266,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 21989,
-            "average": 4.7556505
+            "count": 21994,
+            "average": 4.755524
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -346,8 +308,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15057,
-            "average": 4.769941
+            "count": 15060,
+            "average": 4.7699866
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -429,8 +391,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 21989,
-            "average": 4.7556505
+            "count": 21994,
+            "average": 4.755524
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -471,8 +433,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15057,
-            "average": 4.769941
+            "count": 15060,
+            "average": 4.7699866
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -531,8 +493,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 21989,
-        "average": 4.7556505
+        "count": 21994,
+        "average": 4.755524
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -919,8 +881,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 15057,
-        "average": 4.769941
+        "count": 15060,
+        "average": 4.7699866
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -961,8 +923,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 37047,
-        "average": 4.7276974
+        "count": 37049,
+        "average": 4.727685
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1118,8 +1080,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 8879,
-        "average": 4.76619
+        "count": 8881,
+        "average": 4.76613
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1407,6 +1369,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/WybnTHDl-AM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-understanding-onelake-within-microsoft-fabric.md",
+      "title": "Understanding OneLake within Microsoft Fabric",
+      "excerpt": "The key to Microsoft Fabric is definitely OneLake! OneLake enables the reuse of data within Fabric to help drive all of the engines. One copy of the data! Josh Caplan joins us to help get an understanding of the power of OneLake.  OneLake, the OneDrive for data https://learn.microsoft.com/fabric/onelake/onelake-overview",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-understanding-onelake-within-microsoft-fabric/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-understanding-onelake-within-microsoft-fabric/",
+      "originalUrl": "https://youtube.com/watch?v=wEcRTSNhtLg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wEcRTSNhtLg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M29S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-06-06T08:00:50-07:00",
+      "heat": 75,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wEcRTSNhtLg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
