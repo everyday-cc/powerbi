@@ -781,8 +781,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 439,
-            "average": 4.6332574
+            "count": 440,
+            "average": 4.634091
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1009,8 +1009,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 17060,
-        "average": 4.7222157
+        "count": 17062,
+        "average": 4.7221894
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1051,8 +1051,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 3314,
-        "average": 4.7272177
+        "count": 3316,
+        "average": 4.7267795
       },
       "provider": {
         "name": "Microsoft Learn",
