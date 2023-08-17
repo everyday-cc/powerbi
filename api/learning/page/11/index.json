@@ -4,122 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-getting-started-with-power-bi-desktop-in-5-steps.md",
-      "title": "Getting Started with Power BI Desktop in 5 steps",
-      "excerpt": "Getting started with Power BI Desktop is easy! Patrick looks at 5 steps to get you up and running quickly with Power BI Desktop. From downloading, to getting data, and then building your report visuals.  Getting started with Power BI Desktop https://docs.microsoft.com/power-bi/desktop-getting-started",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-getting-started-with-power-bi-desktop-in-5-steps/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-getting-started-with-power-bi-desktop-in-5-steps/",
-      "originalUrl": "https://youtube.com/watch?v=BIlyRxHwp8E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BIlyRxHwp8E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M3S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-04-01T08:00:04-07:00",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BIlyRxHwp8E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-tutorial-dynamically-filter-by-todays-date.md",
-      "title": "Power BI Tutorial: Dynamically Filter By Today's Date",
-      "excerpt": "In this Power BI Tutorial, Patrick looks at how to dynamically filter by today's date. Using a date table, you can create a DAX measure that can then be used as a Power BI report-level filter to dynamically filter by today's date within Power BI Desktop.be  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-tutorial-dynamically-filter-by-todays-date/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-tutorial-dynamically-filter-by-todays-date/",
-      "originalUrl": "https://youtube.com/watch?v=lkHFpmA4SJ4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lkHFpmA4SJ4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M50S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-08-08T06:13:25-07:00",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lkHFpmA4SJ4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-the-how-and-why-of-power-bi-aggregations.md",
-      "title": "The How and Why of Power BI Aggregations",
-      "excerpt": "Learn the how and why Power BI Aggregations can help your data model be more efficient. This video is part of a Power BI Aggregations series.  Aggregations Documentation: https://docs.microsoft.com/power-bi/desktop-aggregations  📢 Become a member: https://guyinacu.be/membership   *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-the-how-and-why-of-power-bi-aggregations/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-the-how-and-why-of-power-bi-aggregations/",
-      "originalUrl": "https://youtube.com/watch?v=EhGF372t0sU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EhGF372t0sU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M1S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-04T08:00:04-08:00",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EhGF372t0sU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "The How and Why of Power BI Aggregations",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-use-conditional-formatting-to-format-another-column-in-power-bi.md",
       "title": "Use Conditional Formatting to format another column in Power BI",
       "excerpt": "Did you know you could use conditional formatting to format one column by another in Power BI? Patrick shows you how!  Download sample file: https://guyinacu.be/columnformatsample  *******************  Want to take your Power BI skills to the next level? We have training courses available to help you",
@@ -1240,6 +1124,121 @@
           "url": "https://i.ytimg.com/vi/2f7dYB1l84g/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-dos-and-dont-with-cascading-slicers-in-power-bi.md",
+      "title": "Do's and Don't with cascading slicers in Power BI",
+      "excerpt": "Trying to get your slicers to filter right in Power BI? Patrick looks at some do's and don'ts with cascading slicers to get you in the right spot.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training courses",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-dos-and-dont-with-cascading-slicers-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-dos-and-dont-with-cascading-slicers-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=1yv5srlqgmI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1yv5srlqgmI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M28S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-06-09T08:00:02-07:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1yv5srlqgmI/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-dynamic-filtering-with-power-bi.md",
+      "title": "Dynamic filtering with Power BI",
+      "excerpt": "In this video, Patrick looks at taking URL filtering to the next level. He shows how to use dynamic filtering with Power BI reports. He also shows a neat trick of setting a link image for Web URL fields.  Filtering in Power BI: https://powerbi.microsoft.com/en-us/blog/filter-a-report-with-a-url-query-string-parameter/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-dynamic-filtering-with-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-dynamic-filtering-with-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=EXObcA9G9Vw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EXObcA9G9Vw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-04-04T05:43:10-07:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EXObcA9G9Vw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-embed-a-dashboard-from-power-bi-into-your-application.md",
+      "title": "Embed a dashboard from Power BI into your application",
+      "excerpt": "In this video, I go over the embed a dashboard sample and walk you through how to actually embed a dashboard into your application. This uses a combination of the Power BI REST APIs and the JavaScript API.  Embed Dashboards in Your Applications to Monitor Your Business in Context (Blog) - https://powerbi.microsoft.com/en-us/blog/embed-dashboard/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-embed-a-dashboard-from-power-bi-into-your-application/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-embed-a-dashboard-from-power-bi-into-your-application/",
+      "originalUrl": "https://youtube.com/watch?v=XSAHwE21Buk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XSAHwE21Buk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M43S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-02-28T16:37:16-08:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XSAHwE21Buk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Embed a dashboard from Power BI into your application",
           "isCached": true
         }
       ],

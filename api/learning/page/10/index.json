@@ -4,104 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-your-data-is-in-the-lakehouse-but-now-what-microsoft-fabric-public-preview.md",
-      "title": "Your data is in the Lakehouse, but now what? | Microsoft Fabric (Public Preview)",
-      "excerpt": "You've got your data into OneLake and a Lakehouse, but now what? What can you do with that data after you've landed it in Microsoft Fabric? Justyna walks us through different areas where you can leverage your data throughout fabric. From data warehouses to even Power BI!  What is Data engineering in",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-your-data-is-in-the-lakehouse-but-now-what-microsoft-fabric-public-preview/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-your-data-is-in-the-lakehouse-but-now-what-microsoft-fabric-public-preview/",
-      "originalUrl": "https://youtube.com/watch?v=_-rxBAtFFOA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_-rxBAtFFOA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M20S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-06-20T08:00:32-07:00",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_-rxBAtFFOA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-for-mac-learn-how-to-make-it-work-.md",
-      "title": "Power BI for Mac?! Learn How to Make it Work! 🛠️",
-      "excerpt": "Power BI for MAC? Do we have it? Do we not? I will show you step-by-step how you can use Power BI on MAC. What works, what doesn't and the workarounds. Links mentioned in the Video: •Get Power BI Mobile Apps for iOS, Android and Windows: https://powerbi.microsoft.com/en-us/mobile/ •Windows Virtual Machine",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-for-mac-learn-how-to-make-it-work-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-for-mac-learn-how-to-make-it-work-/",
-      "originalUrl": "https://youtube.com/watch?v=9kVsaO0vJFI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9kVsaO0vJFI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M16S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-10-09T23:26:23-07:00",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9kVsaO0vJFI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-year-to-date-comparison-for-current-vs-prior-year-.md",
-      "title": "Power BI: Year to Date Comparison for Current vs. Prior Year 📅",
-      "excerpt": "👉 Do you have a Power BI Question? Get Your Answer at https://www.learnpowerbi.com/question In this Power BI Q&A Episode, we cover a question by Mike M: How do you Compare Sales YTD vs. Sales Prior Year YTD? 👉 Download the Power BI file used in Video: https://web.learnpowerbi.com/download  Do you have",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-year-to-date-comparison-for-current-vs-prior-year-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-year-to-date-comparison-for-current-vs-prior-year-/",
-      "originalUrl": "https://youtube.com/watch?v=VLOHvQyCKWo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VLOHvQyCKWo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M6S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2022-05-11T09:00:15-07:00",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VLOHvQyCKWo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-export-the-data-of-a-power-bi-table-entirely-in-a-few-clicks.md",
       "title": "Export the Data of a Power BI table entirely in a few Clicks",
       "excerpt": "If you want to export the data of a Power BI table, you have options such as copy and paste, or putting it in a visual and export it. However, there is an easier way available too. You can use Power BI Helper (free tool) to export the entire data of the table. The instruction below explains how it is",
@@ -119,6 +21,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/bd_DluFQmEc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-lakehouse-vs-warehouse-vs-datamart-the-difference-between-the-three-fabric-objects.md",
+      "title": "Lakehouse VS  Warehouse VS  Datamart   The Difference Between The Three Fabric Objects",
+      "excerpt": "Three types of objects in the Microsoft Fabric have similarities in what they can do for an analytics system. These three are; Lakehouse, Data Warehouse, and Power BI Datamart. All three objects provide storage for the data, which can be loaded into them using an ETL process and read using something",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-lakehouse-vs-warehouse-vs-datamart-the-difference-between-the-three-fabric-objects/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-lakehouse-vs-warehouse-vs-datamart-the-difference-between-the-three-fabric-objects/",
+      "originalUrl": "https://youtube.com/watch?v=7bd7aG0s3uQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7bd7aG0s3uQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M19S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2023-06-08T15:22:09-07:00",
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7bd7aG0s3uQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -972,45 +904,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-embed-a-dashboard-from-power-bi-into-your-application.md",
-      "title": "Embed a dashboard from Power BI into your application",
-      "excerpt": "In this video, I go over the embed a dashboard sample and walk you through how to actually embed a dashboard into your application. This uses a combination of the Power BI REST APIs and the JavaScript API.  Embed Dashboards in Your Applications to Monitor Your Business in Context (Blog) - https://powerbi.microsoft.com/en-us/blog/embed-dashboard/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-embed-a-dashboard-from-power-bi-into-your-application/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-embed-a-dashboard-from-power-bi-into-your-application/",
-      "originalUrl": "https://youtube.com/watch?v=XSAHwE21Buk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XSAHwE21Buk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M43S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-02-28T16:37:16-08:00",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XSAHwE21Buk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Embed a dashboard from Power BI into your application",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-embedding-with-power-bi-whats-the-difference.md",
       "title": "Embedding with Power BI - What's the difference?",
       "excerpt": "In this video, Adam looks at the differences between the two embedding options with Power BI. We get a lot of questions about what steps need to be taken, what Capacity SKUs are needed and where can they be used.   Power BI App registration https://dev.powerbi.com/apps  App registration - Grant Permissions",
@@ -1077,6 +970,122 @@
           "url": "https://i.ytimg.com/vi/LDZL0gyHQbs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-getting-started-with-power-bi-desktop-in-5-steps.md",
+      "title": "Getting Started with Power BI Desktop in 5 steps",
+      "excerpt": "Getting started with Power BI Desktop is easy! Patrick looks at 5 steps to get you up and running quickly with Power BI Desktop. From downloading, to getting data, and then building your report visuals.  Getting started with Power BI Desktop https://docs.microsoft.com/power-bi/desktop-getting-started",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-getting-started-with-power-bi-desktop-in-5-steps/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-getting-started-with-power-bi-desktop-in-5-steps/",
+      "originalUrl": "https://youtube.com/watch?v=BIlyRxHwp8E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BIlyRxHwp8E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M3S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-01T08:00:04-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BIlyRxHwp8E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-tutorial-dynamically-filter-by-todays-date.md",
+      "title": "Power BI Tutorial: Dynamically Filter By Today's Date",
+      "excerpt": "In this Power BI Tutorial, Patrick looks at how to dynamically filter by today's date. Using a date table, you can create a DAX measure that can then be used as a Power BI report-level filter to dynamically filter by today's date within Power BI Desktop.be  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-tutorial-dynamically-filter-by-todays-date/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-tutorial-dynamically-filter-by-todays-date/",
+      "originalUrl": "https://youtube.com/watch?v=lkHFpmA4SJ4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lkHFpmA4SJ4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M50S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-08T06:13:25-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lkHFpmA4SJ4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-the-how-and-why-of-power-bi-aggregations.md",
+      "title": "The How and Why of Power BI Aggregations",
+      "excerpt": "Learn the how and why Power BI Aggregations can help your data model be more efficient. This video is part of a Power BI Aggregations series.  Aggregations Documentation: https://docs.microsoft.com/power-bi/desktop-aggregations  📢 Become a member: https://guyinacu.be/membership   *******************",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-the-how-and-why-of-power-bi-aggregations/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-the-how-and-why-of-power-bi-aggregations/",
+      "originalUrl": "https://youtube.com/watch?v=EhGF372t0sU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EhGF372t0sU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M1S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-04T08:00:04-08:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EhGF372t0sU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "The How and Why of Power BI Aggregations",
           "isCached": true
         }
       ],
