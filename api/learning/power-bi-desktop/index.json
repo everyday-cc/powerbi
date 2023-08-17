@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 37032,
-        "average": 4.727668
+        "count": 37033,
+        "average": 4.7276754
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 81,
+      "heat": 80,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/get-data-power-bi-desktop-social.png",
@@ -77,8 +77,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4711,
-            "average": 4.7463384
+            "count": 4713,
+            "average": 4.746446
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -95,7 +95,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 68,
+          "heat": 71,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
@@ -120,8 +120,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2887,
-            "average": 4.7343264
+            "count": 2888,
+            "average": 4.7344184
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -263,6 +263,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-dax-power-bi-models.md",
+      "title": "Describe Power BI Desktop models",
+      "excerpt": "In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This module provides a strong foundation on which you can learn to optimize model designs and add model calculations.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-models/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 4713,
+        "average": 4.746446
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 71,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-making-data-source-parameters-easy-in-power-bi-desktop.md",
       "title": "Making data source parameters easy in Power BI Desktop",
       "excerpt": "Patrick shows how you can easily use parameters, for your data source, within Power BI Desktop with minimal clicks. All about reducing the clicks!   Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton --",
@@ -295,49 +338,6 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-models.md",
-      "title": "Describe Power BI Desktop models",
-      "excerpt": "In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This module provides a strong foundation on which you can learn to optimize model designs and add model calculations.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-models/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 4711,
-        "average": 4.7463384
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 68,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI",
@@ -625,8 +625,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 2887,
-        "average": 4.7343264
+        "count": 2888,
+        "average": 4.7344184
       },
       "provider": {
         "name": "Microsoft Learn",

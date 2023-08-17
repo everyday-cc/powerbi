@@ -4,6 +4,44 @@
   "page": 15,
   "value": [
     {
+      "path": "_learning/videos/sqlbi-solving-errors-in-calculate-filter-arguments.md",
+      "title": "Solving errors in CALCULATE filter arguments",
+      "excerpt": "This video explains the more common errors in CALCULATE filter arguments and how to solve them.\r Article and download: https://sql.bi/778253?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-solving-errors-in-calculate-filter-arguments/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-solving-errors-in-calculate-filter-arguments/",
+      "originalUrl": "https://youtube.com/watch?v=jYaSd565GgE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jYaSd565GgE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M55S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-12-08T03:00:35-08:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jYaSd565GgE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-analyze-explore-data-power-bi.md",
       "title": "Analyze data with Power BI",
       "excerpt": "This module goes beyond viewing and exploring your content and explains how to interact with it by working with reports and dashboards to uncover and share new business insights.",
@@ -11,8 +49,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 11667,
-        "average": 4.7068653
+        "count": 11668,
+        "average": 4.7068906
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1098,44 +1136,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/wdDx0-jvl7w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-next-level-power-bi-date-picker.md",
-      "title": "NEXT LEVEL Power BI Date Picker!",
-      "excerpt": "Revisiting the Power BI Date Picker. Patrick takes it to the NEXT LEVEL and makes it more efficient!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-next-level-power-bi-date-picker/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-next-level-power-bi-date-picker/",
-      "originalUrl": "https://youtube.com/watch?v=mXi8sMmOOTU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mXi8sMmOOTU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M22S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-09-09T08:00:23-07:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mXi8sMmOOTU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
