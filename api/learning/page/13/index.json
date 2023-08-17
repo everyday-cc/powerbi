@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13316,
-            "average": 4.6842146
+            "count": 13317,
+            "average": 4.684238
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -212,8 +212,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 3157,
-        "average": 4.7656
+        "count": 3158,
+        "average": 4.765358
       },
       "provider": {
         "name": "Microsoft Learn",
