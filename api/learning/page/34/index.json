@@ -388,8 +388,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3919,
-            "average": 4.719571
+            "count": 3921,
+            "average": 4.719714
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -472,8 +472,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 443,
-            "average": 4.6343117
+            "count": 444,
+            "average": 4.635135
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -819,8 +819,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 3159,
-        "average": 4.7651157
+        "count": 3160,
+        "average": 4.7651896
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -861,8 +861,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 750,
-        "average": 4.7
+        "count": 751,
+        "average": 4.7003994
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -983,8 +983,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 333,
-        "average": 4.6186185
+        "count": 334,
+        "average": 4.6197605
       },
       "provider": {
         "name": "Microsoft Learn",

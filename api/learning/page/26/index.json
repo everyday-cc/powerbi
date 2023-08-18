@@ -679,8 +679,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
       "length": "PT15M",
       "ratings": {
-        "count": 3919,
-        "average": 4.719571
+        "count": 3921,
+        "average": 4.719714
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -721,8 +721,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
       "length": "PT37M",
       "ratings": {
-        "count": 726,
-        "average": 4.6349864
+        "count": 727,
+        "average": 4.6354885
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -933,8 +933,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
       "length": "PT16M",
       "ratings": {
-        "count": 443,
-        "average": 4.6343117
+        "count": 444,
+        "average": 4.635135
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -975,8 +975,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
       "length": "PT45M",
       "ratings": {
-        "count": 748,
-        "average": 4.737968
+        "count": 749,
+        "average": 4.738318
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1059,8 +1059,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-tools-optimize-power-bi-performance/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 162,
-        "average": 4.8209877
+        "count": 163,
+        "average": 4.822086
       },
       "provider": {
         "name": "Microsoft Learn",
