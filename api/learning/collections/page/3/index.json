@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13334,
-            "average": 4.6844907
+            "count": 13335,
+            "average": 4.6845145
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -110,8 +110,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2485,
-            "average": 4.7492957
+            "count": 2486,
+            "average": 4.749397
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -610,8 +610,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 551,
-            "average": 4.702359
+            "count": 552,
+            "average": 4.7028985
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -736,8 +736,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 441,
-            "average": 4.6349206
+            "count": 443,
+            "average": 4.6343117
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -778,8 +778,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 316,
-            "average": 4.6677217
+            "count": 317,
+            "average": 4.662461
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1320,8 +1320,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 648,
-            "average": 4.6743827
+            "count": 649,
+            "average": 4.6733437
           },
           "provider": {
             "name": "Microsoft Learn",
