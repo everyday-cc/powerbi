@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1677,
-        "average": 4.7495527
+        "count": 1679,
+        "average": 4.749851
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -139,8 +139,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 331,
-        "average": 4.6163144
+        "count": 332,
+        "average": 4.61747
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -181,8 +181,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-tools-optimize-power-bi-performance/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 160,
-        "average": 4.81875
+        "count": 161,
+        "average": 4.8198757
       },
       "provider": {
         "name": "Microsoft Learn",
