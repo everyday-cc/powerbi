@@ -3876,7 +3876,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-permissions-content-social.png",
@@ -5028,8 +5028,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7812,
-            "average": 4.7300305
+            "count": 7814,
+            "average": 4.7300997
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5070,8 +5070,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 6641,
-            "average": 4.736184
+            "count": 6642,
+            "average": 4.736224
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5153,8 +5153,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12184,
-            "average": 4.7394943
+            "count": 12185,
+            "average": 4.739516
           },
           "provider": {
             "name": "Microsoft Learn",
