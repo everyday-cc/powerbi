@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT21M56S
 publishedDateTime: 2020-04-28T04:50:24Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ppCwRDV_28o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "GsehlYhExJRGwxZlz6gw8fRgblg9erE7nOhg34m3q80DOWKFJRwf1bnITweW/xtevOOHOLfppEpLIBzvmADDh3TCPerW9OVGQRmvouSMF1mMJARgkAlMGkr8OZvSVasEO/IxhfKUT522jfaA7izyAHStuY47lSiuKsQOqUJHjI5Jo9KN5sUeO41GycM7qGDBPqerBpvahQQDhglBunUXr/lmiWCufazSHOW84h/g1OXC+AgQeqjz6mUl0l5eqw4QW0sVAyxVyneIRHoPkRsYV63rKqWCuiDm4tKlx/yKSiMV8KFR2VY9AeEaLvRw+VDqt+Vsa2I2W3eradad78lAWkM2f0hcAt1Z0WY1CNQwCs96ObhDsIpVmNM/pO0chXVlHjPaiEVvwthur6nQJmhVL3U3yciF7JedZ0TtQu49M3o=;8TIH2QJDb0CmaO8e6D33gg=="
+secured: "V5FeVu68YYWQzAwwVwtiuOdXhyIKH5FgpgBA4Y16/W9t7dS0egx3XyF72arnfwlwTTMamaViaNAXb6wFTFWjbEAU9qqnig0gGcM35nYoNObKwlH9GCV2JHSilOG0yit6O9kAarwjz18qE7ni8EH55m6AsqgTUUBo1wf4lLS5lDAZYRrzJ8n/50hknNl9wZv+25Wgj9jx3o8VF9v4Y28TwFI+bVEba7HhHrOJLLiKWJKBcgIavmzyR1cvudM3KBHRbK+hLfFfSOhrixH9nFqpqwDmenEliiLkxuCX1Q7dApzba3Z0CB9isxrgjtJYgtA5Ui5fQPMNutIex65q7ducvMFMgDDvbzVeDPkCOMVgq+YPDGbVCJ3cxuvlV2ly3p0KhhzmUw0V1HkUb3oAM2fvw3IlEYfo3Z+OaQK0JuceEuI=;6CJkEPtdGF5UX6sHB3KZOg=="
 ---
 
