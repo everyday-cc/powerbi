@@ -119,6 +119,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-replay-lets-talk-microsoft-fabric-live-w-matthew-roche-aug-19-2023.md",
+      "title": "REPLAY Let's talk Microsoft Fabric - LIVE w/ Matthew Roche (Aug 19, 2023)",
+      "excerpt": "Join us live as we answer your questions about Microsoft Fabric including Power BI!  Connect with Matthew: Mastodon: https://techhub.social/@SQLAllFather YouTube: https://www.youtube.com/channel/UCpsilPn-2qFlrYYuvyFkpPQ Website: https://ssbipolar.com/  💥 30 minutes: Open Q&A (Public) 💥 Then... Members",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-replay-lets-talk-microsoft-fabric-live-w-matthew-roche-aug-19-2023/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-replay-lets-talk-microsoft-fabric-live-w-matthew-roche-aug-19-2023/",
+      "originalUrl": "https://youtube.com/watch?v=AWiN_XxvNWY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AWiN_XxvNWY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H15M43S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-08-19T08:36:20-07:00",
+      "heat": 235,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AWiN_XxvNWY/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-enabling-power-bi-paginated-report-drill.md",
       "title": "Enabling Power BI Paginated Report Drill!",
       "excerpt": "Power BI paginated reports support drillthrough! Patrick walks you through how to configure the reports within Report Builder to get them working.  Drillthrough reports in a paginated report (Power BI Report Builder) https://learn.microsoft.com/power-bi/paginated-reports/report-design/drillthrough-reports-report-builder",
@@ -271,23 +309,23 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-what-is-microsoft-fabric-data-warehouse.md",
-      "title": "What is Microsoft Fabric Data Warehouse",
-      "excerpt": "Microsoft Fabric, an end-to-end Saas cloud-based analytics platform, has many workloads and objects. One of the Objects is called Data Warehouse, or in short, Warehouse. In this article, I'll explain what the Data Warehouse in Microsoft Fabric is and how it works, and I will show you an example of it",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-is-microsoft-fabric-data-warehouse/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-is-microsoft-fabric-data-warehouse/",
-      "originalUrl": "https://youtube.com/watch?v=fGsmCGOpiOc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fGsmCGOpiOc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M4S",
+      "path": "_learning/videos/radacad-getting-started-with-dataflow-in-microsoft-fabric-data-factory.md",
+      "title": "Getting Started with Dataflow in Microsoft Fabric Data Factory",
+      "excerpt": "The Dataflow in Microsoft Fabric is an element for getting the data from the source, transforming it, and loading it into a destination. In this article and video, we will go through what Dataflow is and how it works with a simple example of it. Learn more from my article here: https://radacad.com/getting-started-with-dataflow-in-microsoft-fabric-data-factory",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-getting-started-with-dataflow-in-microsoft-fabric-data-factory/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-getting-started-with-dataflow-in-microsoft-fabric-data-factory/",
+      "originalUrl": "https://youtube.com/watch?v=ub9mpvk6xuU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ub9mpvk6xuU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M28S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2023-05-31T22:06:02-07:00",
-      "heat": 135,
+      "publishedDateTime": "2023-05-28T23:02:27-07:00",
+      "heat": 140,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/fGsmCGOpiOc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ub9mpvk6xuU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -361,38 +399,42 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-filtering-calculation-items-in-a-slicer.md",
-      "title": "Filtering calculation items in a slicer",
-      "excerpt": "Choose between many-to-many relationships and DAX code to filter the most relevant items using another slicer. Indeed, calculation groups cannot use relationships!\r \r Article and download: https://sql.bi/805830?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-filtering-calculation-items-in-a-slicer/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-filtering-calculation-items-in-a-slicer/",
-      "originalUrl": "https://youtube.com/watch?v=uvoziKKtWi8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uvoziKKtWi8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M24S",
+      "path": "_learning/courses/microsoft-learn-create-calculation-groups.md",
+      "title": "Create calculation groups",
+      "excerpt": "Power BI, calculation groups, enterprise data analyst",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-calculation-groups/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-calculation-groups/",
+      "length": "PT1H3M",
+      "ratings": {
+        "count": 171,
+        "average": 4.7894735
+      },
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2023-07-18T03:00:16-07:00",
-      "heat": 134,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 133,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/uvoziKKtWi8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://learn.microsoft.com/training/achievements/create-calculation-groups-social.png",
+          "width": 1282,
+          "height": 642,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -424,44 +466,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/8GckHV3PlkM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-dont-miss-out-of-microsoft-build-powerbi.md",
-      "title": "Don’t miss out of Microsoft Build! #powerbi",
-      "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-dont-miss-out-of-microsoft-build-powerbi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-dont-miss-out-of-microsoft-build-powerbi/",
-      "originalUrl": "https://youtube.com/watch?v=TprbclJaSJU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TprbclJaSJU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT53S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-05-22T14:21:58-07:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TprbclJaSJU/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBQKEUwDw==&rs=AOn4CLDwPhQE5ZAAtmTbgSCd6r-KmrkbAw",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -510,6 +514,37 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-how-to-write-any-dax-measure-in-just-3-easy-steps-shorts.md",
+      "title": "Power BI: How to Write any DAX Measure In Just 3 Easy Steps 👣 Shorts",
+      "excerpt": "👉 If you have any questions, just leave us a comment.  👉 Check out our Power BI Tutorial https://youtu.be/AGrl-H87pRU ================================ #PowerBI #PowerBIQuestion #PowerBIPro  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-how-to-write-any-dax-measure-in-just-3-easy-steps-shorts/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-how-to-write-any-dax-measure-in-just-3-easy-steps-shorts/",
+      "originalUrl": "https://youtube.com/watch?v=G8zXyMkb0yc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G8zXyMkb0yc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2023-06-28T09:00:19-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/G8zXyMkb0yc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYciBKKEIwDw==&rs=AOn4CLC32jBmI3dlSLI9ESYdMw0pz-NolQ",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -581,8 +616,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 70798,
-            "average": 4.79563
+            "count": 70805,
+            "average": 4.795622
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -623,8 +658,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 100946,
-            "average": 4.777198
+            "count": 100955,
+            "average": 4.777208
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -683,8 +718,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 100946,
-        "average": 4.777198
+        "count": 100955,
+        "average": 4.777208
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -952,8 +987,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 70798,
-        "average": 4.79563
+        "count": 70805,
+        "average": 4.795622
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1210,8 +1245,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 25138,
-            "average": 4.7508554
+            "count": 25141,
+            "average": 4.750885
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1286,8 +1321,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 100946,
-            "average": 4.777198
+            "count": 100955,
+            "average": 4.777208
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1346,8 +1381,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 25138,
-        "average": 4.7508554
+        "count": 25141,
+        "average": 4.750885
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1449,8 +1484,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 100946,
-            "average": 4.777198
+            "count": 100955,
+            "average": 4.777208
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1491,8 +1526,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 37091,
-            "average": 4.727697
+            "count": 37094,
+            "average": 4.7276917
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1534,8 +1569,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 17084,
-            "average": 4.7221375
+            "count": 17086,
+            "average": 4.7221704
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1623,44 +1658,6 @@
       ],
       "content": "\r\n",
       "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-export-from-power-bi-to-excel-up-to-100k-rows-.md",
-      "title": "Export from Power BI to Excel up to 🔥100k rows 🔥!!",
-      "excerpt": "In a previous video  (https://www.youtube.com/watch?v=BnTipbooeP0&ab_channel=Curbal) I showed you how to export your data to excel using a button in Power Bi but there was a 1000 item limit.   I found a workaround and now you can export up to 100000 rows or 1000000 values per query!  FourMoo Blog:  https://www.fourmoo.com/2022/06/15/exporting-a-power-bi-visual-data-to-a-csv-file-in-sharepoint/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-export-from-power-bi-to-excel-up-to-100k-rows-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-export-from-power-bi-to-excel-up-to-100k-rows-/",
-      "originalUrl": "https://youtube.com/watch?v=WsbIXJDhC_o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WsbIXJDhC_o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M39S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-06-15T04:32:30-07:00",
-      "heat": 89,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WsbIXJDhC_o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
