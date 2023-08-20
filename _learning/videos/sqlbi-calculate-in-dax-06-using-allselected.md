@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3M15S
 publishedDateTime: 2020-10-15T10:00:22Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UehWR5wWWEo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "QQ/SvkGQROHhYudlOiWE0C/0apcqxTjTwbLEgPvV6r6Y1uhrc+5DNwZy95QeBmUnRsvHyRC2IcM5zsFfrBpmMDW9obleq7BK/WQt6bYvnp2fQz3RwBk0wqVvjKd56y3VeWgT1WNuSaKVH8yIA9emtxJdg+rFTM4enP53uJwzSQNxhzzL38TpKG8LSFhDZ16LT5og60sxcSJsqvIxFWM0GElO3g6Ljf1hi+5/M2CqoQ4CH0csA3tL0tSAf0QFtQjxh0zaAvUnMgMSrmpVj6i4VxHUWcMrJtjUOdBlvmbRM24R9ulUOrNoxS/rvnqr/9HHwxwZdtpxZVbMeiUSHhb/Zd3KeQUyaRpGJ8teAReivpuToqPxIzjtC0ANWBWCaMUEcRPaLR2VGEXyp2Fbz5r31WKMQJb1mFd7MaC8117ESGc=;llrBCoatrOvsuxY23ShbfQ=="
+secured: "wrurzaMaig+wjsR29TegnSYh9nHjC1DK3aT8afc4d2T7ebHJk5eHee+81WIglazffJF6WxZDoxteBpoFdyLrcPIW3WQBPQMx6LU1Gv9l7v8aC/0kWqOqJhQ4L/wa+oXGZ9cpeD8l3aItnRNik6fPdAVKQhFX1JVDKtp9OPHOdPmKykrvdAOqWeME5DXcKXvOWYcOCFZZfOBJ9rDffJKHQkM5DQv1CWv1iPVNcKs1Pzy7lsiAYbD2MR5aHRAYA6bqlGxgcd0bb1p2V4/qiclXhRfP1sBlb47hyeY0aUfu/Kl1jqiYnNbUoZn5yuzSfh5GwmJAB/rMPubxloUC7xIHscjPurOkXBhGq27M8guo0pBVFGBVskDuAKhFYnw0dZn2aMGMxfmJJcwRyCEgc0FpsnJOsAA8IbnXh/JmxnX2Mxo=;P7EBGwR320dg/6BGrFT1MQ=="
 ---
 

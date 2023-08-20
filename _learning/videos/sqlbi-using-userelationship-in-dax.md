@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3M24S
 publishedDateTime: 2020-05-22T20:16:53Z
-heat: 54
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zZLH8Y1tO1g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "7bySEAL1U0p7tXXgSlgAfal8gRnlgQQtE5mxl+kS+iXZRsoYVx8O0qBReeGkobj37+a8/e70uEMqc67p6wZ6qm1ADoqUQn0Oh1UOwL+x5PYkYuBq0Llf/rmeArDxUerC5PZjlUdq3MQXWYtcbFx1Y1s0n46NORsnNFdVANAtWF4A5VCVqFVNS2jULC5ht1MqOoOpvOfAsGP3vcURYosQn3rygKHH6OXIFXzC4V+k3q09CPHoUQmvFi2YFIip83hT4K4/E3E/hhtlpev+aaQ6YTcGn9iafKzMiqeLoFwyoZf4Cw4rL8pwygtLXjUolYqPGwApoTUft77uL1Hh2zi0aCo4l9Iz9XhORw2kZZa68gHbIBJowfjJXYrAy7TtCTBePqnq+d/dmSDeLcGPFaM/1AWdcAZpGg0Xqw7E55z0GQU=;qFNqa0pTphDHuylZZhm+vw=="
+secured: "hhkLybetfc+/MKIWooAPsHETY6TZoT/1Sx3iSnlyLzYuoapowoCL6ssDYkWHO9n8HJk23mxuVVgCeX5+kaw91pPqhMZIm0Tre0GZXOsBkGJp9DOwb8NWfTZgjD4PKHoI2DyVJPr1UFZ5KqAvdFah+eyOiIkr1+QcSTxVo4jY/i8FOaUtOYk3k2tBiSxrqScJtvGtlroHrLbL5kdvoWm0NZMuEv4JT9FuBO1KimPLJalgvXAPSZs3TX2C4FSnysfRi6wEpYENaxyGLuwyPC6Yj37WdQKa5c6PwklYE83NZCSiT9ewYiwkRCiqO1HeoS1TcgT/HXdggpAwkBP+8iteusi2TDcKx1nV/gKNsSAvcVKlOBgVUmlBR8e+XnpMzb34c387Hf3toDzL5UA+ojWZ46tGNRPKCodDgbuMAWNTrw4=;4kwtyO+prANGKWQHZSTJ1A=="
 ---
 

@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT9M16S
 publishedDateTime: 2021-02-26T12:20:19Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oozA8REyhUQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "oukp/5tSvcpWWyHl4H0ob7/C6NInKhyTFE9uZOXGyGlKgMEsmnMEeySgmHEcrnSiiQ1G9hUoTf1vk8RHQ+SETxayk4AD++a8F/4xoC5b32ju3qRfhv29fyfJ5wohAh74duWl4X0PYeh9oGyoVvx33frP+AXe4i3t7cvfAVKowR5YKMa3wjWcBumtJXaW794gPzNNcCp9S2d7wkVwRVN0pG6o+YAKZGZgTrVK/dTESl8zZV7L2D6p4yyrKWz08Di/2b/uRS8ZQYEz/N6xc2HOuuGe6bLv7fI37TTL48BAEYQdHvO6duSE9/TbjiNnwR43mAoXcRR0XR1fUDyhkwn7sPmSarIUV5+oh934ETA8KfMY1ZHbMz1wUlmCG3JDfFoT6OHHKj73z4PdCEzVBJC0luYdVH0TNZRj3RZykxh6TJ8=;EL2hsGa4MDjLjwezQIrqAg=="
+secured: "EvMota/xncib8N2btf0jjXzR7eIdTDgu1rvfuD+UicrLcmBK1z1lQpMtGemAWnGRPZu8eo9qRIXykhqc24ebHwH69VB9dbkfNAUQ9lnhugUUiDs/jTMYbiEgPtfxR0tlzPlZLH1bkz/FxJu6ydXi2leUrrxxVS9H7VdI9oreeOpMMoYSyAYuPXhUseYag7AmMFWoJNa3yRh4V9+fxIZgMYRxyFCr7dmO4gysYWpOT+JKi3Dce93K99V/wf2GOnZhKYTdamh3jzF8J4aime9Xx9WA0xFdar+welUnx+8/aafXQeVSNjB+s+H++Sb0IU+8Qzh82d4KOvqO5aF08mZNY76CBy68wgdaoF/Ub3ce8u8Tlrjt4fbes/FLRv4pknlUwhaUtbMuUmmGyRecZo1Llki88KwZckusfCr8OJ/vY/A=;vFUABQIOhiMj/s62kN/uDQ=="
 ---
 
