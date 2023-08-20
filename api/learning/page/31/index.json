@@ -831,8 +831,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 304,
-            "average": 4.7269735
+            "count": 305,
+            "average": 4.727869
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1593,8 +1593,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 868,
-        "average": 4.779954
+        "count": 869,
+        "average": 4.780207
       },
       "provider": {
         "name": "Microsoft Learn",

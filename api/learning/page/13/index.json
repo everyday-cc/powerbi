@@ -4,6 +4,36 @@
   "page": 13,
   "value": [
     {
+      "path": "_learning/videos/radacad-power-bi-design-tip-design-for-mobile-device.md",
+      "title": "Power BI Design Tip   Design for Mobile Device",
+      "excerpt": "Power BI is a mobile-friendly reporting solution. Every report that you generate can be viewed on the Mobile too. However, it doesn’t mean that the report is designed for mobile, or in other words; it doesn’t mean that is it a mobile report page. You have to make some changes, and take some extra considerations",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-design-tip-design-for-mobile-device/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-design-tip-design-for-mobile-device/",
+      "originalUrl": "https://youtube.com/watch?v=Igkqp-UQzJo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Igkqp-UQzJo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M11S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-04-10T15:28:13-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Igkqp-UQzJo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-power-bi-direct-lake-what-is-it-and-why-it-is-important-when-working-with-fabric.md",
       "title": "Power BI Direct Lake - What is it and Why it is Important When Working With Fabric",
       "excerpt": "With the Microsoft Fabric announcement, There are also additional features in Power BI that makes the connection between Power BI and other Microsoft Fabric objects seamless and more profound. One of these features is the Direct Lake connection in Power BI. In this article and video, we'll talk about",
@@ -880,48 +910,6 @@
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-effective-structure.md",
-      "title": "Structure analytical report designs in Power BI",
-      "excerpt": "Designing an analytical report involves understanding the requirements and its audience. However, designing a compelling analytical report requires understanding the automatic and unconscious processes that occur when report consumers comprehend what they see. When you have the knowledge of how to structure and apply report design principles, you can raise the level of your report designs to produce relevant, intuitive, and visually pleasing experiences for your report consumers.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-structure/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 1695,
-        "average": 4.7769914
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-structure-social.png",
-          "width": 1281,
-          "height": 641,
           "isCached": true
         }
       ],
