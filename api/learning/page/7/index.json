@@ -3174,8 +3174,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-calculations/",
           "length": "PT57M",
           "ratings": {
-            "count": 113,
-            "average": 4.371681
+            "count": 114,
+            "average": 4.377193
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4040,8 +4040,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 13366,
-        "average": 4.684872
+        "count": 13368,
+        "average": 4.6848445
       },
       "provider": {
         "name": "Microsoft Learn",
