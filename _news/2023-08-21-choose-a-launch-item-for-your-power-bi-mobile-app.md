@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/choose-a-launch-item-for-
 webUrl: "https://powerbi.microsoft.com/en-us/blog/choose-a-launch-item-for-your-power-bi-mobile-app/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
