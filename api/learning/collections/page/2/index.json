@@ -2844,8 +2844,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1248,
-            "average": 4.7836537
+            "count": 1249,
+            "average": 4.783827
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3054,8 +3054,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1248,
-            "average": 4.7836537
+            "count": 1249,
+            "average": 4.783827
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3826,7 +3826,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-organize-fields-social.png",
@@ -5247,8 +5247,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13357,
-            "average": 4.6848845
+            "count": 13358,
+            "average": 4.684833
           },
           "provider": {
             "name": "Microsoft Learn",
