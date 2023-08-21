@@ -4,6 +4,48 @@
   "page": 34,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-examine-data-visualizations-power-bi.md",
+      "title": "Examine data visualizations with Power BI",
+      "excerpt": "This module introduces you to the capabilities of Microsoft Power BI, how Power BI can be connected to your IoT solution, and how Power BI can be used to develop and share insights.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-examine-data-visualizations-power-bi/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/examine-data-visualizations-power-bi/",
+      "length": "PT17M",
+      "ratings": {
+        "count": 104,
+        "average": 4.798077
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/powerbi-examine-data-visualization-social.png",
+          "width": 1282,
+          "height": 642,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-explore-enterprise-grade-etl-data-preparation-using-dataflows.md",
       "title": "Explore enterprise-grade ETL and data preparation using dataflows",
       "excerpt": "Explore enterprise-grade ETL and data preparation using dataflows",
@@ -509,8 +551,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-automate/",
       "length": "PT12M",
       "ratings": {
-        "count": 146,
-        "average": 4.609589
+        "count": 148,
+        "average": 4.6013513
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -551,8 +593,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
       "length": "PT33M",
       "ratings": {
-        "count": 198,
-        "average": 4.707071
+        "count": 199,
+        "average": 4.708543
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -593,8 +635,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
       "length": "PT18M",
       "ratings": {
-        "count": 317,
-        "average": 4.662461
+        "count": 318,
+        "average": 4.6635222
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -635,8 +677,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
       "length": "PT12M",
       "ratings": {
-        "count": 224,
-        "average": 4.714286
+        "count": 225,
+        "average": 4.7155557
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -677,8 +719,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
       "length": "PT25M",
       "ratings": {
-        "count": 218,
-        "average": 4.642202
+        "count": 219,
+        "average": 4.6438355
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -719,8 +761,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-monitor/",
       "length": "PT11M",
       "ratings": {
-        "count": 182,
-        "average": 4.7582417
+        "count": 183,
+        "average": 4.759563
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -761,8 +803,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
       "length": "PT19M",
       "ratings": {
-        "count": 169,
-        "average": 4.8461537
+        "count": 170,
+        "average": 4.847059
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -803,8 +845,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-reach/",
       "length": "PT19M",
       "ratings": {
-        "count": 157,
-        "average": 4.5414014
+        "count": 158,
+        "average": 4.544304
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -845,8 +887,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-deployment-pipelines/",
       "length": "PT42M",
       "ratings": {
-        "count": 196,
-        "average": 4.7602043
+        "count": 197,
+        "average": 4.761421
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1205,48 +1247,6 @@
           "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-select-social.png",
           "width": 1280,
           "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-excel-better-together.md",
-      "title": "Prepare to teach the module: Power BI & Excel better together",
-      "excerpt": "Prepare to teach the module: Power BI & Excel better together",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-excel-better-together/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-excel-better-together/",
-      "length": "PT54M",
-      "ratings": {
-        "count": 0,
-        "average": 0.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
           "isCached": true
         }
       ],
