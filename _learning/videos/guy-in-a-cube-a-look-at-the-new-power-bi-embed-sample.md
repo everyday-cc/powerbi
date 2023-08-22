@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "A look at the new Power BI embed sample"
 
-secured: "GlB/3jCBr92hZloKt425DcUTnFfMaNTFM/KMlIoVAWFAubBrnWhIib/cdrTKBSRyTxKUncaPWsAm4bn+vz8uN1gB+QVaza7Fb3kwk3dM5AzUNOvy6OYJhSBpx1oph7DH/8DQFZ00Cu0EXMlHXPN8mXvc2DRVxyOMfzyA587Kp5Gn/G+2Nzbw+fl/PoRzIutcYsDi20FG2RNyEWHmwmzdXzRoimXQ2VAcMOg+2YaBVcH7ihx/lE4RwRqNppNX9EsNufxSHr1LEM+f6FG3uy59t1iYTCvMoznePSzzRsew9AneaWgelK6/a3QkJfsvDxdR+pq/PXEyFGGuqSD3yHEWkgg4ZPio4VrLGJ1TvFTg8nwnJHJ3am8RzyxNZO2gAQ7ob6HMRH9juu23fLoEXZuIEYJguTmUTvAokOJT3mZkkbo=;6idP9kc5YZ6hWaTH3GJKkQ=="
+secured: "Z+sYFts6m0KcZRR9AM3zNxWPb7vkO+ZkNouzmYCpCjMe50aNGJHsd/Ms+IKUn9F+ItdZdeA/PMWr3uqYRDauhqld5GviEX4/o7Gn8A+9/2PHeZzLK1u1Ows5vPEhVNSSNeCPU2akXmSPzZPAqsOfMZFRh3bq9AiRMIGkk+HCvBkeqF+fG7iSD2Sb2twM7voKCVOB3O1O0tZJtfCT11MOaraGiOoJafYHbDybUBOcrxsVb/AdQDyPRHS1XPgJ4LTM4+uZaBXr8ixfXBYPpDsZjI82EYNlYjrN5u32/eFiqqy0nOHji7l9w4Pmwm6N4/Q+ovAr+eBH3wa1xBYKs0/dsCTxb6ELmuRFdPNsuvqflajHbaHVw+2L+2FRhjaUrYlyUgIv7VeHK2IE1Glce1UOy6XnEF2s5g4tgikPLZ3uMBY=;MLEiwsdE5wVY1t5hbKmBSQ=="
 ---
 
