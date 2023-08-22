@@ -80,83 +80,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-is-data-wrangler-the-power-query-of-python.md",
-      "title": "Is Data Wrangler the Power Query of Python?",
-      "excerpt": "Have you tried Data Wrangler within Microsoft Fabric or Visual Studio Code? It's a great way to start cleaning your data and have it write your python code for you! Really getting the Power Query vibes and we love it!  How to accelerate data prep with Data Wrangler in Microsoft Fabric https://learn.microsoft.com/fabric/data-science/data-wrangler",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-is-data-wrangler-the-power-query-of-python/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-is-data-wrangler-the-power-query-of-python/",
-      "originalUrl": "https://youtube.com/watch?v=Ge0VWZMa50I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ge0VWZMa50I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M58S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-08-15T08:00:10-07:00",
-      "heat": 215,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ge0VWZMa50I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-replay-lets-talk-microsoft-fabric-live-w-matthew-roche-aug-19-2023.md",
-      "title": "REPLAY Let's talk Microsoft Fabric - LIVE w/ Matthew Roche (Aug 19, 2023)",
-      "excerpt": "Join us live as we answer your questions about Microsoft Fabric including Power BI!  Connect with Matthew: Mastodon: https://techhub.social/@SQLAllFather YouTube: https://www.youtube.com/channel/UCpsilPn-2qFlrYYuvyFkpPQ Website: https://ssbipolar.com/  💥 30 minutes: Open Q&A (Public) 💥 Then... Members",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-replay-lets-talk-microsoft-fabric-live-w-matthew-roche-aug-19-2023/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-replay-lets-talk-microsoft-fabric-live-w-matthew-roche-aug-19-2023/",
-      "originalUrl": "https://youtube.com/watch?v=AWiN_XxvNWY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AWiN_XxvNWY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H15M43S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-08-19T08:36:20-07:00",
-      "heat": 179,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AWiN_XxvNWY/maxresdefault_live.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-enabling-power-bi-paginated-report-drill.md",
       "title": "Enabling Power BI Paginated Report Drill!",
       "excerpt": "Power BI paginated reports support drillthrough! Patrick walks you through how to configure the reports within Report Builder to get them working.  Drillthrough reports in a paginated report (Power BI Report Builder) https://learn.microsoft.com/power-bi/paginated-reports/report-design/drillthrough-reports-report-builder",
@@ -182,6 +105,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/k7pZzwgXW-g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-replay-lets-talk-microsoft-fabric-live-w-matthew-roche-aug-19-2023.md",
+      "title": "REPLAY Let's talk Microsoft Fabric - LIVE w/ Matthew Roche (Aug 19, 2023)",
+      "excerpt": "Join us live as we answer your questions about Microsoft Fabric including Power BI!  Connect with Matthew: Mastodon: https://techhub.social/@SQLAllFather YouTube: https://www.youtube.com/channel/UCpsilPn-2qFlrYYuvyFkpPQ Website: https://ssbipolar.com/  💥 30 minutes: Open Q&A (Public) 💥 Then... Members",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-replay-lets-talk-microsoft-fabric-live-w-matthew-roche-aug-19-2023/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-replay-lets-talk-microsoft-fabric-live-w-matthew-roche-aug-19-2023/",
+      "originalUrl": "https://youtube.com/watch?v=AWiN_XxvNWY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AWiN_XxvNWY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H15M43S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-08-19T08:36:20-07:00",
+      "heat": 166,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AWiN_XxvNWY/maxresdefault_live.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -233,14 +194,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-sql-server-in-microsoft-fabric-use-cetas-to-move-data.md",
-      "title": "SQL Server in Microsoft Fabric? Use CETaS to move data!",
-      "excerpt": "People have been asking \"What about SQL Server?\" with regards to Microsoft Fabric. Bob Ward joins us to show a way you can get your SQL data into Fabric with CETaS and the power of shortcuts in OneLake. And, then use that data in Power BI!  CREATE EXTERNAL TABLE AS SELECT (CETAS) (Transact-SQL) https://learn.microsoft.com/sql/t-sql/statements/create-external-table-as-select-transact-sql?view=sql-server-ver16&tabs=powershell",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-sql-server-in-microsoft-fabric-use-cetas-to-move-data/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-sql-server-in-microsoft-fabric-use-cetas-to-move-data/",
-      "originalUrl": "https://youtube.com/watch?v=DB8zujLjzVo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DB8zujLjzVo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M15S",
+      "path": "_learning/videos/guy-in-a-cube-is-data-wrangler-the-power-query-of-python.md",
+      "title": "Is Data Wrangler the Power Query of Python?",
+      "excerpt": "Have you tried Data Wrangler within Microsoft Fabric or Visual Studio Code? It's a great way to start cleaning your data and have it write your python code for you! Really getting the Power Query vibes and we love it!  How to accelerate data prep with Data Wrangler in Microsoft Fabric https://learn.microsoft.com/fabric/data-science/data-wrangler",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-is-data-wrangler-the-power-query-of-python/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-is-data-wrangler-the-power-query-of-python/",
+      "originalUrl": "https://youtube.com/watch?v=Ge0VWZMa50I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ge0VWZMa50I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M58S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -253,11 +214,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-06-27T08:00:13-07:00",
-      "heat": 140,
+      "publishedDateTime": "2023-08-15T08:00:10-07:00",
+      "heat": 165,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/DB8zujLjzVo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Ge0VWZMa50I/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -267,7 +228,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power Query"
       ]
     },
     {
@@ -301,6 +263,79 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-power-bi-effective-requirements.md",
+      "title": "Scope report design requirements",
+      "excerpt": "Gathering appropriate inputs to scope your report design requirements involves identifying your audience, determining the suitable report types, and defining their interface and experience requirements. This module provides you with a strong foundation on which to learn how to plan your report design requirements.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-requirements/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 3370,
+        "average": 4.727003
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 139,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-requirements-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-how-to-write-any-dax-measure-in-just-3-easy-steps-.md",
+      "title": "Power BI: How to Write any DAX Measure In Just 3 Easy Steps 👣",
+      "excerpt": "Are you struggling to write DAX Measures? In this video I explain 3 Simple Steps that Non-Techie Business Users can take to write any DAX Measure. 👉 Get Power BI Training: https://www.LearnPowerBI.com/training 👉 Get Power BI Advanced Training: https://www.LearnPowerBI.com/advance  ==Table of Contents==",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-how-to-write-any-dax-measure-in-just-3-easy-steps-/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-how-to-write-any-dax-measure-in-just-3-easy-steps-/",
+      "originalUrl": "https://youtube.com/watch?v=CNPtS-2n5yc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CNPtS-2n5yc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M17S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2023-06-28T09:00:08-07:00",
+      "heat": 136,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CNPtS-2n5yc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-microsoft-teams-intelligent-meeting-recap-feature-shorts.md",
       "title": "Microsoft Teams Intelligent Meeting Recap Feature 🖥️ #SHORTS",
       "excerpt": "================================ #PowerBI #PowerBIHowTo #PowerBIPro  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files for Video at https://web.learnpowerbi.com/download/ ✅ Subscribe to always get my latest videos: https://www.youtube.com/powerbipro?sub_confirmation=1",
@@ -328,45 +363,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-reading-active-power-bi-security-roles-in-dax.md",
-      "title": "Reading active Power BI security roles in DAX",
-      "excerpt": "How to read the active security roles in a Tabular model for Power BI or Analysis Services by using a DAX measure. This way, you can use measures and calculation groups to customize a report based dynamically on security roles active for the current user.\r Article and download: https://sql.bi/803102?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-reading-active-power-bi-security-roles-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-reading-active-power-bi-security-roles-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=y3qw1vrB9Mo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y3qw1vrB9Mo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M43S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-07-05T03:01:06-07:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/y3qw1vrB9Mo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     },
     {
@@ -408,31 +404,23 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-replay-microsoft-fabric-discussion-may-2023-social-hour.md",
-      "title": "REPLAY Microsoft Fabric Discussion - May 2023 Social Hour",
-      "excerpt": "Join us live as we recap Power BI and Azure Data announcements made at Microsoft Build - May 2023. With special guest, Stephanie Bruno, Jason Himmelstein and John White!  Microsoft Build: https://powerbi.microsoft.com/en-us/blog/microsoft-digital-event-may-24-25/  Connect with Stephanie Bruno https://twitter.com/StephTBruno",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-replay-microsoft-fabric-discussion-may-2023-social-hour/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-replay-microsoft-fabric-discussion-may-2023-social-hour/",
-      "originalUrl": "https://youtube.com/watch?v=tMx3rhl43b4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tMx3rhl43b4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H18M26S",
+      "path": "_learning/videos/learn-power-bi-power-bi-combining-hotel-price-sheets-using-power-query-shorts.md",
+      "title": "Power BI: Combining Hotel Price Sheets 💲 Using Power Query Shorts",
+      "excerpt": "================================ #PowerBI #PowerBIHowTo #PowerBIPro  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files for Video at https://web.learnpowerbi.com/download/ ✅ Subscribe to always get my latest videos: https://www.youtube.com/powerbipro?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-combining-hotel-price-sheets-using-power-query-shorts/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-combining-hotel-price-sheets-using-power-query-shorts/",
+      "originalUrl": "https://youtube.com/watch?v=A8dlRwAdjBQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A8dlRwAdjBQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2023-05-24T16:45:27-07:00",
+      "publishedDateTime": "2023-07-05T09:00:13-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/tMx3rhl43b4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/A8dlRwAdjBQ/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYVyBaKGUwDw==&rs=AOn4CLBk4RI_9He0qQLNAmhUnSBMewk7DQ",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -442,7 +430,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power Query"
       ]
     },
     {
@@ -476,8 +465,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 70974,
-            "average": 4.795531
+            "count": 70982,
+            "average": 4.7955256
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -518,8 +507,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 101217,
-            "average": 4.7769446
+            "count": 101227,
+            "average": 4.7769666
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -578,8 +567,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 101217,
-        "average": 4.7769446
+        "count": 101227,
+        "average": 4.7769666
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -962,8 +951,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 70974,
-        "average": 4.795531
+        "count": 70982,
+        "average": 4.7955256
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1326,8 +1315,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 25240,
-            "average": 4.751109
+            "count": 25246,
+            "average": 4.7511687
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1368,8 +1357,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13374,
-            "average": 4.6849856
+            "count": 13377,
+            "average": 4.685056
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1402,8 +1391,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 101217,
-            "average": 4.7769446
+            "count": 101227,
+            "average": 4.7769666
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1462,8 +1451,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 25240,
-        "average": 4.751109
+        "count": 25246,
+        "average": 4.7511687
       },
       "provider": {
         "name": "Microsoft Learn",

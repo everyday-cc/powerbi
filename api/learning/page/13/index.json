@@ -721,37 +721,6 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-how-to-write-any-dax-measure-in-just-3-easy-steps-.md",
-      "title": "Power BI: How to Write any DAX Measure In Just 3 Easy Steps 👣",
-      "excerpt": "Are you struggling to write DAX Measures? In this video I explain 3 Simple Steps that Non-Techie Business Users can take to write any DAX Measure. 👉 Get Power BI Training: https://www.LearnPowerBI.com/training 👉 Get Power BI Advanced Training: https://www.LearnPowerBI.com/advance  ==Table of Contents==",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-how-to-write-any-dax-measure-in-just-3-easy-steps-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-how-to-write-any-dax-measure-in-just-3-easy-steps-/",
-      "originalUrl": "https://youtube.com/watch?v=CNPtS-2n5yc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CNPtS-2n5yc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M17S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2023-06-28T09:00:08-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CNPtS-2n5yc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-export-the-data-of-a-power-bi-table-entirely-in-a-few-clicks.md",
       "title": "Export the Data of a Power BI table entirely in a few Clicks",
       "excerpt": "If you want to export the data of a Power BI table, you have options such as copy and paste, or putting it in a visual and export it. However, there is an easier way available too. You can use Power BI Helper (free tool) to export the entire data of the table. The instruction below explains how it is",
@@ -1020,8 +989,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
       "length": "PT51M",
       "ratings": {
-        "count": 3777,
-        "average": 4.7132645
+        "count": 3778,
+        "average": 4.7130756
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1133,6 +1102,36 @@
       ],
       "content": "\r\n",
       "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/absent-data-channel-sales-prediction-model-with-python-and-power-bi.md",
+      "title": "Sales Prediction Model with Python and Power BI",
+      "excerpt": "Create a Linear Regression Model with Python and Power BI. Use What IF parameters in Power BI to give the user dynamic investment inputs.   Contact me on LinkedIn  https://www.linkedin.com/in/gaelimholland",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-sales-prediction-model-with-python-and-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-sales-prediction-model-with-python-and-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=0zveIwThlfE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0zveIwThlfE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M54S",
+      "provider": {
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
+      },
+      "publishedDateTime": "2020-07-31T16:30:54-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0zveIwThlfE/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
