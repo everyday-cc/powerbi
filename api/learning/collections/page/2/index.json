@@ -637,8 +637,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3174,
-            "average": 4.7659106
+            "count": 3175,
+            "average": 4.765984
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3380,8 +3380,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3782,
-            "average": 4.712586
+            "count": 3783,
+            "average": 4.7126617
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4385,8 +4385,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-data-connectivity/",
           "length": "PT50M",
           "ratings": {
-            "count": 160,
-            "average": 4.61875
+            "count": 161,
+            "average": 4.621118
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4970,8 +4970,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12220,
-            "average": 4.739689
+            "count": 12221,
+            "average": 4.7397103
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5138,8 +5138,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7833,
-            "average": 4.729861
+            "count": 7835,
+            "average": 4.729802
           },
           "provider": {
             "name": "Microsoft Learn",

@@ -4,6 +4,48 @@
   "page": 50,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-power-bi-admin-reach.md",
+      "title": "Broaden the reach of Power BI",
+      "excerpt": "Learn the various ways to share Power BI reports beyond your Power BI tenant.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-reach/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-reach/",
+      "length": "PT19M",
+      "ratings": {
+        "count": 158,
+        "average": 4.544304
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-reach-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-power-bi-deployment-pipelines.md",
       "title": "Create and manage a Power BI deployment pipeline",
       "excerpt": "The deployment pipelines tool enables Power BI creators to manage the development lifecycle of organizational content.",
@@ -557,8 +599,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-data-connectivity/",
       "length": "PT50M",
       "ratings": {
-        "count": 160,
-        "average": 4.61875
+        "count": 161,
+        "average": 4.621118
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1206,48 +1248,6 @@
         "Advanced"
       ],
       "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-workplace-analytics-business-continuity.md",
-      "title": "Evaluate shifts in work patterns with the Business continuity dashboard in Power BI from Viva Insights",
-      "excerpt": "Learn how to set up and interpret the results from the Business continuity dashboard in Power BI through Viva Insights. Generate insights from the behavioral data to help navigate shifts in employee and team work patterns.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-workplace-analytics-business-continuity/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/workplace-analytics-business-continuity/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 73,
-        "average": 4.767123
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/evaluate-shifts-in-work-patterns-with-the-business-continuity-dashboard-in-workplace-analytics-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
