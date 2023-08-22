@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
       "length": "PT18M",
       "ratings": {
-        "count": 1059,
-        "average": 4.7516527
+        "count": 1060,
+        "average": 4.751887
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 53,
+      "heat": 51,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/understand-concepts-of-data-analytics-social.png",
@@ -113,7 +113,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/explore-data-analytics-at-scale-social.png",

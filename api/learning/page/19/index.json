@@ -237,15 +237,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-iterator-functions.md",
-      "title": "Use DAX iterator functions in Power BI Desktop models",
-      "excerpt": "By the end of this module, you'll learn about what the family of iterator functions can do and how to use them in your DAX calculations. Calculations will include custom summarizations, ranking, and concatenation.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-iterator-functions/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
-      "length": "PT12M",
+      "path": "_learning/courses/microsoft-learn-ingest-dataflows-gen2-fabric.md",
+      "title": "Ingest Data with Dataflows Gen2 in Microsoft Fabric",
+      "excerpt": "Data ingestion is crucial in analytics. Microsoft Fabric's Data Factory offers Dataflows (Gen2) for visually creating multi-step data ingestion and transformation using Power Query Online.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-ingest-dataflows-gen2-fabric/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-dataflow-gen-2-fabric/",
+      "length": "PT48M",
       "ratings": {
-        "count": 757,
-        "average": 4.702774
+        "count": 30,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -265,7 +265,7 @@
       "heat": 53,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/use-dax-iterator-functions-power-bi-desktop-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -276,8 +276,7 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "Power BI Desktop",
-        "DAX"
+        "Dataflows"
       ]
     },
     {
@@ -288,8 +287,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 2722,
-        "average": 4.6961794
+        "count": 2723,
+        "average": 4.696291
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -330,8 +329,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
       "length": "PT45M",
       "ratings": {
-        "count": 755,
-        "average": 4.737748
+        "count": 756,
+        "average": 4.7380953
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -352,48 +351,6 @@
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-filters-social.png",
-          "width": 1281,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-understand-concepts-of-data-analytics.md",
-      "title": "Understand concepts of data analytics",
-      "excerpt": "Explore key concepts of data analytics, including types of analytics, data, and storage. Explore the analytics process and tools used to discover insights.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-understand-concepts-of-data-analytics/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
-      "length": "PT28M",
-      "ratings": {
-        "count": 889,
-        "average": 4.8346457
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/understand-concepts-of-data-analytics-social.png",
           "width": 1281,
           "height": 641,
           "isCached": true
@@ -1272,6 +1229,44 @@
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-incremental-refresh-for-free-in-power-bi.md",
+      "title": "Incremental refresh for free in Power BI",
+      "excerpt": "As you probably are aware, incremental refresh is a premium feature only, but with some DAX magic, you can get incremental refresh for free on Desktop and service!! Watch the video to learn how.  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-incremental-refresh-for-free-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-incremental-refresh-for-free-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=9WLZ9jfoXwA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9WLZ9jfoXwA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M20S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-12-13T06:27:18-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9WLZ9jfoXwA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],

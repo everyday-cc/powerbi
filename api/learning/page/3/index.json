@@ -4,6 +4,44 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/curbal-20-tricks-to-finally-master-the-matrix-visualization-in-power-bi.md",
+      "title": "20 tricks to finally master the Matrix visualization in Power BI!!",
+      "excerpt": "The matrix visualization has over 100 configuration options, and some of the most basic functionality, like hiding subtotals is not so easy to discover.  In today's video, I will show you 20 things you can do on the matrix that will take that visualization to the next level.  Did I miss any? Let me know",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-20-tricks-to-finally-master-the-matrix-visualization-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-20-tricks-to-finally-master-the-matrix-visualization-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=58a2rIV2nYg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/58a2rIV2nYg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M3S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-07-07T08:25:43-07:00",
+      "heat": 71,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/58a2rIV2nYg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-exploring-the-power-automate-visual-in-power-bi-sending-emails.md",
       "title": "Exploring the Power Automate Visual in Power BI | Sending emails",
       "excerpt": "Using Power Automate? Using Power BI? Why not put the two together for some interesting scenarios. Patrick uses the Power Automate visual, in a Power BI report, to send emails out.  Power Automate: https://flow.microsoft.com/  Blog Announcement: https://powerbi.microsoft.com/en-us/blog/announcing-the-new-power-automate-visual-for-power-bi-reports/",
@@ -178,8 +216,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4777,
-            "average": 4.746075
+            "count": 4778,
+            "average": 4.746128
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -221,8 +259,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 671,
-            "average": 4.66766
+            "count": 673,
+            "average": 4.668648
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -263,8 +301,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12211,
-            "average": 4.7397428
+            "count": 12212,
+            "average": 4.739764
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -695,8 +733,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 3363,
-            "average": 4.7267323
+            "count": 3364,
+            "average": 4.7268133
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -737,8 +775,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1516,
-            "average": 4.766491
+            "count": 1517,
+            "average": 4.7666445
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -779,8 +817,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 755,
-            "average": 4.737748
+            "count": 756,
+            "average": 4.7380953
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -904,8 +942,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 3363,
-            "average": 4.7267323
+            "count": 3364,
+            "average": 4.7268133
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -946,8 +984,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1516,
-            "average": 4.766491
+            "count": 1517,
+            "average": 4.7666445
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -988,8 +1026,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 755,
-            "average": 4.737748
+            "count": 756,
+            "average": 4.7380953
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1090,8 +1128,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 37134,
-        "average": 4.727608
+        "count": 37136,
+        "average": 4.727623
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1480,8 +1518,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4777,
-            "average": 4.746075
+            "count": 4778,
+            "average": 4.746128
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1610,8 +1648,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1863,
-            "average": 4.7267847
+            "count": 1864,
+            "average": 4.7263947
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1663,48 +1701,6 @@
         "Power BI",
         "Power BI Desktop",
         "DAX"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-fundamentals-of-data-visualization.md",
-      "title": "Explore fundamentals of data visualization",
-      "excerpt": "Learn the fundamental principles of analytical data modeling and data visualization, using Microsoft Power BI as a platform to explore these principles in action.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-fundamentals-of-data-visualization/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 8999,
-        "average": 4.7656407
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 68,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/5-explore-fundamentals-of-data-visualization-social.png",
-          "width": 1281,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     },
     {
