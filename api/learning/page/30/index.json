@@ -942,8 +942,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 99,
-        "average": 4.707071
+        "count": 100,
+        "average": 4.71
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1110,8 +1110,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
       "length": "PT37M",
       "ratings": {
-        "count": 731,
-        "average": 4.634747
+        "count": 733,
+        "average": 4.6357436
       },
       "provider": {
         "name": "Microsoft Learn",
