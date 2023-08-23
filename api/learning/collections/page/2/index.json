@@ -428,8 +428,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 226,
-            "average": 4.716814
+            "count": 227,
+            "average": 4.7136564
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -679,8 +679,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2728,
-            "average": 4.6964808
+            "count": 2729,
+            "average": 4.6965923
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4970,8 +4970,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12225,
-            "average": 4.7397137
+            "count": 12226,
+            "average": 4.739735
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5055,8 +5055,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10825,
-            "average": 4.759538
+            "count": 10826,
+            "average": 4.759468
           },
           "provider": {
             "name": "Microsoft Learn",

@@ -1771,8 +1771,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 226,
-            "average": 4.716814
+            "count": 227,
+            "average": 4.7136564
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2108,8 +2108,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 4797,
-        "average": 4.7460914
+        "count": 4800,
+        "average": 4.74625
       },
       "provider": {
         "name": "Microsoft Learn",
