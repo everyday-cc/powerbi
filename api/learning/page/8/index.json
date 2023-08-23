@@ -1617,8 +1617,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-organize-fields/",
           "length": "PT52M",
           "ratings": {
-            "count": 92,
-            "average": 4.5434785
+            "count": 93,
+            "average": 4.548387
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2137,8 +2137,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 13388,
-        "average": 4.684643
+        "count": 13389,
+        "average": 4.6846666
       },
       "provider": {
         "name": "Microsoft Learn",
