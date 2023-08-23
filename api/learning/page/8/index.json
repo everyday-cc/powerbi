@@ -713,7 +713,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-select-social.png",
@@ -2137,8 +2137,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 13389,
-        "average": 4.6846666
+        "count": 13390,
+        "average": 4.6846156
       },
       "provider": {
         "name": "Microsoft Learn",
