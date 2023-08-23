@@ -4991,8 +4991,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13400,
-            "average": 4.684627
+            "count": 13401,
+            "average": 4.6846504
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5009,7 +5009,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 66,
+          "heat": 146,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -5150,8 +5150,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7845,
-            "average": 4.7292542
+            "count": 7846,
+            "average": 4.7292886
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5360,8 +5360,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10829,
-            "average": 4.7595344
+            "count": 10830,
+            "average": 4.759557
           },
           "provider": {
             "name": "Microsoft Learn",
