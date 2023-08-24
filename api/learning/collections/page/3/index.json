@@ -312,8 +312,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 893,
-            "average": 4.8353863
+            "count": 894,
+            "average": 4.8355703
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -354,8 +354,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 863,
-            "average": 4.8146005
+            "count": 864,
+            "average": 4.8113427
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -812,8 +812,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 494,
-            "average": 4.763158
+            "count": 495,
+            "average": 4.7636366
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1314,8 +1314,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 699,
-            "average": 4.660944
+            "count": 701,
+            "average": 4.660485
           },
           "provider": {
             "name": "Microsoft Learn",
