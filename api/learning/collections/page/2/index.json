@@ -2565,8 +2565,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 452,
-            "average": 4.6393805
+            "count": 454,
+            "average": 4.6409693
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2900,8 +2900,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-automate/",
           "length": "PT12M",
           "ratings": {
-            "count": 149,
-            "average": 4.5973153
+            "count": 150,
+            "average": 4.6
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3109,8 +3109,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-automate/",
           "length": "PT12M",
           "ratings": {
-            "count": 149,
-            "average": 4.5973153
+            "count": 150,
+            "average": 4.6
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3335,7 +3335,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-intro-social.png",
@@ -3526,8 +3526,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1259,
-            "average": 4.781573
+            "count": 1260,
+            "average": 4.781746
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3653,8 +3653,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 484,
-            "average": 4.7417355
+            "count": 485,
+            "average": 4.7340207
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3736,8 +3736,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1259,
-            "average": 4.781573
+            "count": 1260,
+            "average": 4.781746
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3863,8 +3863,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 484,
-            "average": 4.7417355
+            "count": 485,
+            "average": 4.7340207
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4991,8 +4991,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13412,
-            "average": 4.684611
+            "count": 13414,
+            "average": 4.684658
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5150,8 +5150,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7854,
-            "average": 4.728546
+            "count": 7855,
+            "average": 4.728453
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5192,8 +5192,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 6670,
-            "average": 4.736582
+            "count": 6671,
+            "average": 4.7366214
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5275,8 +5275,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12245,
-            "average": 4.7392406
+            "count": 12246,
+            "average": 4.73918
           },
           "provider": {
             "name": "Microsoft Learn",

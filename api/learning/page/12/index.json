@@ -416,8 +416,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12245,
-            "average": 4.7392406
+            "count": 12246,
+            "average": 4.73918
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -604,8 +604,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
       "length": "PT45M",
       "ratings": {
-        "count": 775,
-        "average": 4.7380643
+        "count": 776,
+        "average": 4.738402
       },
       "provider": {
         "name": "Microsoft Learn",
