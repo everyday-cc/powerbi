@@ -893,8 +893,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
       "length": "PT15M",
       "ratings": {
-        "count": 3936,
-        "average": 4.719004
+        "count": 3938,
+        "average": 4.718639
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -979,8 +979,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 353,
-        "average": 4.6260624
+        "count": 354,
+        "average": 4.6271186
       },
       "provider": {
         "name": "Microsoft Learn",
