@@ -110,8 +110,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4853,
-            "average": 4.745724
+            "count": 4854,
+            "average": 4.7457767
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -153,8 +153,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 708,
-            "average": 4.6596045
+            "count": 710,
+            "average": 4.6605635
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -195,8 +195,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12256,
-            "average": 4.739311
+            "count": 12257,
+            "average": 4.7393327
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -237,8 +237,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2956,
-            "average": 4.732747
+            "count": 2957,
+            "average": 4.732837
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -299,8 +299,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 37232,
-        "average": 4.727546
+        "count": 37233,
+        "average": 4.7275267
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -411,8 +411,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 4853,
-        "average": 4.745724
+        "count": 4854,
+        "average": 4.7457767
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -454,8 +454,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 33152,
-        "average": 4.720952
+        "count": 33156,
+        "average": 4.7209854
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -605,6 +605,36 @@
       ]
     },
     {
+      "path": "_learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-.md",
+      "title": "Copilot AI 🤖 in Power BI: How to Enable & Use + Impact on Power BI Professionals 🤔",
+      "excerpt": "👉 LearnPowerBI Training: https://www.LearnPowerBI.com/training 👉 Power BI Consultant Launchpad 🚀: https://web.learnpowerbi.com/consultant-launchpad/ 👉 Power BI Consultant Program: https://www.LearnPowerBI.com/pro Let me show you how you can enable and use the very exciting copilot AI technology within",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-/",
+      "originalUrl": "https://youtube.com/watch?v=yo5fbDxSJAE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yo5fbDxSJAE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M24S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2023-07-19T09:00:57-07:00",
+      "heat": 74,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yo5fbDxSJAE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi.md",
       "title": "How to create a Export to Excel / CSV button in Power BI",
       "excerpt": "In todays video I will show you how to create and export to excel or CSV button in Power BI!! Take a look!  Chapters: 00:00 Intro 01:30 Export to CSV button 05:15 Apply the flow to the button 05:30 Format the flow button 06:00 Check if the flow run sucessfully 08:00 Export to excel button 09:30 Pre-requisites",
@@ -703,8 +733,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 4853,
-            "average": 4.745724
+            "count": 4854,
+            "average": 4.7457767
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -746,8 +776,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2956,
-            "average": 4.732747
+            "count": 2957,
+            "average": 4.732837
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -833,8 +863,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1886,
-            "average": 4.722163
+            "count": 1888,
+            "average": 4.7224574
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1003,8 +1033,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3756,
-            "average": 4.6861024
+            "count": 3757,
+            "average": 4.686186
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1498,36 +1528,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/XuLnSYjmsJo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-.md",
-      "title": "Copilot AI 🤖 in Power BI: How to Enable & Use + Impact on Power BI Professionals 🤔",
-      "excerpt": "👉 LearnPowerBI Training: https://www.LearnPowerBI.com/training 👉 Power BI Consultant Launchpad 🚀: https://web.learnpowerbi.com/consultant-launchpad/ 👉 Power BI Consultant Program: https://www.LearnPowerBI.com/pro Let me show you how you can enable and use the very exciting copilot AI technology within",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-/",
-      "originalUrl": "https://youtube.com/watch?v=yo5fbDxSJAE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yo5fbDxSJAE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M24S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2023-07-19T09:00:57-07:00",
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yo5fbDxSJAE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 101748,
-        "average": 4.776811
+        "count": 101756,
+        "average": 4.776839
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 37232,
-        "average": 4.727546
+        "count": 37233,
+        "average": 4.7275267
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -138,8 +138,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 8096,
-        "average": 4.7642045
+        "count": 8097,
+        "average": 4.7642336
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -180,8 +180,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 6672,
-        "average": 4.7366605
+        "count": 6673,
+        "average": 4.7367
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -222,8 +222,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 7858,
-        "average": 4.728557
+        "count": 7860,
+        "average": 4.728626
       },
       "provider": {
         "name": "Microsoft Learn",

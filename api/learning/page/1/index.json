@@ -187,6 +187,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-saying-goodbye.md",
+      "title": "Saying goodbye...",
+      "excerpt": "It's time to say goodbye and move on.   📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.\r \r 🎓 Guy in a Cube courses: https://guyinacu.be/courses\r \r *******************",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-saying-goodbye/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-saying-goodbye/",
+      "originalUrl": "https://youtube.com/watch?v=G_v1DyZoP_s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G_v1DyZoP_s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M6S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-08-18T08:00:22-07:00",
+      "heat": 175,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/G_v1DyZoP_s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-gorgeous-backgrounds-for-power-bi-in-minutes-with-this-free-tool.md",
       "title": "GORGEOUS backgrounds for Power BI in minutes with this FREE tool",
       "excerpt": "Do you want to create stunning backgrounds for Power BI in minutes?   Let me show you this amazing tool that is easy to use and Free!! :)  Links mentioned: Storytelling by data viz techniques https://youtu.be/0pcTpIC6uFk  Eye picker for windows: https://youtu.be/skPTyaEmyws  Here you can download all",
@@ -225,14 +263,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-saying-goodbye.md",
-      "title": "Saying goodbye...",
-      "excerpt": "It's time to say goodbye and move on.   📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.\r \r 🎓 Guy in a Cube courses: https://guyinacu.be/courses\r \r *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-saying-goodbye/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-saying-goodbye/",
-      "originalUrl": "https://youtube.com/watch?v=G_v1DyZoP_s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G_v1DyZoP_s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M6S",
+      "path": "_learning/videos/guy-in-a-cube-the-magic-of-power-bi-in-powerpoint.md",
+      "title": "The MAGIC of Power BI in PowerPoint!",
+      "excerpt": "There were some recent updates to the storytelling experience in PowerPoint with Power BI. Patrick walks through how you can use these to make the most of PowerPoint and Power BI!  About storytelling with Power BI in PowerPoint https://learn.microsoft.com/power-bi/collaborate-share/service-power-bi-powerpoint-add-in-about",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-the-magic-of-power-bi-in-powerpoint/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-the-magic-of-power-bi-in-powerpoint/",
+      "originalUrl": "https://youtube.com/watch?v=ZrsrLEY_Gf8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZrsrLEY_Gf8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M16S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -245,11 +283,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-08-18T08:00:22-07:00",
-      "heat": 155,
+      "publishedDateTime": "2023-07-12T08:00:35-07:00",
+      "heat": 146,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/G_v1DyZoP_s/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZrsrLEY_Gf8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -339,6 +377,44 @@
       ]
     },
     {
+      "path": "_learning/videos/sqlbi-implementing-linear-regression-in-power-bi.md",
+      "title": "Implementing linear regression in Power BI",
+      "excerpt": "How to manage the LINESTX function results in DAX to compute linear regression.\r Article and download: https://sql.bi/800442?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-implementing-linear-regression-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-implementing-linear-regression-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=EmsR8lc7w78",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EmsR8lc7w78\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M52S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-06-06T03:01:06-07:00",
+      "heat": 140,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EmsR8lc7w78/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-get-started-with-microsoft-data-analytics.md",
       "title": "Get started with Microsoft data analytics",
       "excerpt": "Businesses need data analysis more than ever. In this learning path, you will learn about the life and journey of a data analyst, the skills, tasks, and processes they go through in order to tell a story with data so trusted business decisions can be made. You will learn how the suite of Power BI tools and services are used by a data analyst to tell a compelling story through reports and dashboards, and the need to true BI in the enterprise.",
@@ -369,7 +445,7 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 71273,
+            "count": 71278,
             "average": 4.795589
           },
           "provider": {
@@ -411,8 +487,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 101748,
-            "average": 4.776811
+            "count": 101756,
+            "average": 4.776839
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -471,8 +547,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 101748,
-        "average": 4.776811
+        "count": 101756,
+        "average": 4.776839
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -536,107 +612,23 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-27-march-2023-update.md",
-      "title": "Power BI Paginated Reports in a Day - 27: March 2023 Update",
-      "excerpt": "In this video, Peter Myers (Microsoft Most Valued Professional - Data Platform, and course developer) describes and demonstrates new capabilities and features added to #Microsoft #PowerBI paginated reports since the last update for December 2021 was recorded.    For more information about the online",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-27-march-2023-update/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-27-march-2023-update/",
-      "originalUrl": "https://youtube.com/watch?v=df1divWTGQ0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/df1divWTGQ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M26S",
+      "path": "_learning/videos/learn-power-bi-power-bi-how-to-write-any-dax-measure-in-just-3-easy-steps-shorts.md",
+      "title": "Power BI: How to Write any DAX Measure In Just 3 Easy Steps 👣 Shorts",
+      "excerpt": "👉 If you have any questions, just leave us a comment.  👉 Check out our Power BI Tutorial https://youtu.be/AGrl-H87pRU ================================ #PowerBI #PowerBIQuestion #PowerBIPro  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-how-to-write-any-dax-measure-in-just-3-easy-steps-shorts/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-how-to-write-any-dax-measure-in-just-3-easy-steps-shorts/",
+      "originalUrl": "https://youtube.com/watch?v=G8zXyMkb0yc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G8zXyMkb0yc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26S",
       "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2023-06-26T01:16:31-07:00",
-      "heat": 133,
+      "publishedDateTime": "2023-06-28T09:00:19-07:00",
+      "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/df1divWTGQ0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-filtering-calculation-items-in-a-slicer.md",
-      "title": "Filtering calculation items in a slicer",
-      "excerpt": "Choose between many-to-many relationships and DAX code to filter the most relevant items using another slicer. Indeed, calculation groups cannot use relationships!\r \r Article and download: https://sql.bi/805830?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-filtering-calculation-items-in-a-slicer/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-filtering-calculation-items-in-a-slicer/",
-      "originalUrl": "https://youtube.com/watch?v=uvoziKKtWi8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uvoziKKtWi8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M24S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-07-18T03:00:16-07:00",
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uvoziKKtWi8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-understanding-the-timeline-in-dax-studio.md",
-      "title": "Understanding the TIMELINE in DAX Studio",
-      "excerpt": "We brought Marco in to help explain the TIMELINE update within DAX Studio. This can help you understand performance a bit deeper when optimizing your DAX and models. This is one to watch!  DAX Studio https://daxstudio.org  Marco Russo https://twitter.com/marcorus https://www.linkedin.com/in/sqlbi/ https://sqlbi.com",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-understanding-the-timeline-in-dax-studio/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-understanding-the-timeline-in-dax-studio/",
-      "originalUrl": "https://youtube.com/watch?v=Q8NfZCFKCmw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q8NfZCFKCmw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M54S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-06-14T08:00:16-07:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Q8NfZCFKCmw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/G8zXyMkb0yc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYciBKKEIwDw==&rs=AOn4CLC32jBmI3dlSLI9ESYdMw0pz-NolQ",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -962,7 +954,7 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 71273,
+        "count": 71278,
         "average": 4.795589
       },
       "provider": {
@@ -1258,8 +1250,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 25434,
-            "average": 4.750963
+            "count": 25438,
+            "average": 4.7510023
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1300,8 +1292,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13422,
-            "average": 4.684846
+            "count": 13424,
+            "average": 4.6848927
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1334,8 +1326,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 101748,
-            "average": 4.776811
+            "count": 101756,
+            "average": 4.776839
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1394,8 +1386,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 25434,
-        "average": 4.750963
+        "count": 25438,
+        "average": 4.7510023
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1497,8 +1489,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 101748,
-            "average": 4.776811
+            "count": 101756,
+            "average": 4.776839
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1539,8 +1531,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 37232,
-            "average": 4.727546
+            "count": 37233,
+            "average": 4.7275267
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1624,8 +1616,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 8096,
-            "average": 4.7642045
+            "count": 8097,
+            "average": 4.7642336
           },
           "provider": {
             "name": "Microsoft Learn",
