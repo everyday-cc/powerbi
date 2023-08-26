@@ -1808,8 +1808,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3798,
-            "average": 4.711427
+            "count": 3799,
+            "average": 4.711503
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2704,7 +2704,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
