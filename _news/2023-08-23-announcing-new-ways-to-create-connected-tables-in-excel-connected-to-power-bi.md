@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-new-ways-to-cr
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-new-ways-to-create-connected-tables-in-excel-connected-to-power-bi/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:
