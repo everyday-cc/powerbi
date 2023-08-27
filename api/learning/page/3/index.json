@@ -206,8 +206,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 22247,
-        "average": 4.755877
+        "count": 22248,
+        "average": 4.755888
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -882,8 +882,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 874,
-            "average": 4.7814646
+            "count": 875,
+            "average": 4.7805715
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -925,8 +925,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 569,
-            "average": 4.752197
+            "count": 570,
+            "average": 4.7526317
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -943,7 +943,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 132,
+          "heat": 52,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/modern-analytics-data-modeling-social.png",
@@ -1092,8 +1092,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 874,
-            "average": 4.7814646
+            "count": 875,
+            "average": 4.7805715
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1135,8 +1135,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 569,
-            "average": 4.752197
+            "count": 570,
+            "average": 4.7526317
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1153,7 +1153,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 132,
+          "heat": 52,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/modern-analytics-data-modeling-social.png",

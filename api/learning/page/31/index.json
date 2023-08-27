@@ -1159,8 +1159,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 227,
-            "average": 4.8105726
+            "count": 228,
+            "average": 4.8114033
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1461,8 +1461,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 874,
-        "average": 4.7814646
+        "count": 875,
+        "average": 4.7805715
       },
       "provider": {
         "name": "Microsoft Learn",
