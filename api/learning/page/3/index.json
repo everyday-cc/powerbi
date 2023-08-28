@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3195,
-            "average": 4.764945
+            "count": 3196,
+            "average": 4.765019
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2747,
-            "average": 4.69676
+            "count": 2748,
+            "average": 4.6965065
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1004,8 +1004,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1267,
-            "average": 4.7821627
+            "count": 1268,
+            "average": 4.7815456
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1046,8 +1046,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 877,
-            "average": 4.7810717
+            "count": 878,
+            "average": 4.781321
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1089,8 +1089,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 571,
-            "average": 4.7530646
+            "count": 572,
+            "average": 4.7534966
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1214,8 +1214,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1267,
-            "average": 4.7821627
+            "count": 1268,
+            "average": 4.7815456
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1256,8 +1256,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 877,
-            "average": 4.7810717
+            "count": 878,
+            "average": 4.781321
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1299,8 +1299,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 571,
-            "average": 4.7530646
+            "count": 572,
+            "average": 4.7534966
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1829,8 +1829,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 4881,
-        "average": 4.7463636
+        "count": 4884,
+        "average": 4.74611
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1872,8 +1872,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 22259,
-        "average": 4.755919
+        "count": 22266,
+        "average": 4.755771
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2840,8 +2840,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1731,
-            "average": 4.7504334
+            "count": 1732,
+            "average": 4.75
           },
           "provider": {
             "name": "Microsoft Learn",

@@ -252,8 +252,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 877,
-        "average": 4.7810717
+        "count": 878,
+        "average": 4.781321
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -379,8 +379,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-your-first-power-bi-report/",
       "length": "PT55M",
       "ratings": {
-        "count": 6679,
-        "average": 4.774068
+        "count": 6681,
+        "average": 4.773986
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -880,8 +880,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
       "length": "PT37M",
       "ratings": {
-        "count": 742,
-        "average": 4.6320753
+        "count": 743,
+        "average": 4.6325707
       },
       "provider": {
         "name": "Microsoft Learn",
