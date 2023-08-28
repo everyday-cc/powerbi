@@ -148,8 +148,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 101929,
-            "average": 4.7767563
+            "count": 101938,
+            "average": 4.776717
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -403,8 +403,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 33196,
-        "average": 4.7211714
+        "count": 33200,
+        "average": 4.7212048
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -706,8 +706,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3764,
-            "average": 4.686238
+            "count": 3766,
+            "average": 4.686139
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1448,8 +1448,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 721,
-            "average": 4.662968
+            "count": 722,
+            "average": 4.663435
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1490,8 +1490,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12273,
-            "average": 4.739265
+            "count": 12274,
+            "average": 4.7392864
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1532,8 +1532,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2970,
-            "average": 4.7329965
+            "count": 2971,
+            "average": 4.7330866
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1659,8 +1659,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15334,
-            "average": 4.770771
+            "count": 15335,
+            "average": 4.770786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1993,8 +1993,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15334,
-            "average": 4.770771
+            "count": 15335,
+            "average": 4.770786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2118,8 +2118,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15334,
-            "average": 4.770771
+            "count": 15335,
+            "average": 4.770786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2178,8 +2178,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 15334,
-        "average": 4.770771
+        "count": 15335,
+        "average": 4.770786
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2286,8 +2286,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2970,
-            "average": 4.7329965
+            "count": 2971,
+            "average": 4.7330866
           },
           "provider": {
             "name": "Microsoft Learn",
