@@ -160,8 +160,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 6650,
-            "average": 4.7981954
+            "count": 6651,
+            "average": 4.798226
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1004,8 +1004,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1266,
-            "average": 4.7819905
+            "count": 1267,
+            "average": 4.7821627
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1214,8 +1214,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1266,
-            "average": 4.7819905
+            "count": 1267,
+            "average": 4.7821627
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1829,8 +1829,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 4877,
-        "average": 4.7461553
+        "count": 4878,
+        "average": 4.746207
       },
       "provider": {
         "name": "Microsoft Learn",
