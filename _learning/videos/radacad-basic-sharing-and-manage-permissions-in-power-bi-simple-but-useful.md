@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M49S
 publishedDateTime: 2019-07-03T00:58:43Z
-heat: 50
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hMEwGmWPTew\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "YvVY3ljA9U+oOlT8xVwwHC+1WBoakjIwlQ+fsmStsVRIBosUFMnbYFhMqp1L9H04xbMhUt5DptdHdgkVcdMRmzpyUmMj6OTtv32RUCW2qffuw/ncN3z5qJWYBDdsR0qguO9uM4JF/StTBlxMxVCdwHs2GUifGtJQd2am2WWEV8jQ0Qo11P2lq6fv8FdWMljACHaHQhZ9q6dcHlme3epfpTxKjFBIJfVszMAbt4a/1yzClceLD+D/6J5Bjlp/QpqdAefjGkNiZ3gfWRlj+CkhahOLH4F7AH7yJjdrgKbRuBVOb3TBY6inY8QhfbaUtbuRZZinPtcThxCCVRiHj/GPzIohlYrwc9pCQ8N00e/QmtCXQfdR7PcRnAUPkwLJtQcFSn/8OreLHRlDCdwyEtJGGi8ceM4oAJh5SSVXqqhJ/2E=;JSlZ1mYDyNLGtRK/D5KeGg=="
+secured: "yorSIZEZyKf4TZu6Q5waki+C4k20qnVnzsXFl9WZjl2x+Ws7O1dekRiFQQW4r5MkmxS1oDP6Rp+E9aHgnWb3QfGNn7/HvyD0NnVSY+fVUPXeZ8b67tcqqvDwulJfSek5XL/TdRs0Ed+01i81xK0FpQcM+msZ1NY/oYE+M18qFphcPKVit2i8KjY1ZIDfyqZKNoPZ4SmY01tvDoCQ2UFF5Qb1OwHsS7kyYHGe8PRmwciXXCQeHLYDloxLEXqrqKwNeVCZTwHFVcgpBY4qVOJ4Js0gTwyv6vwRmU9YEQJi6z2uxaFRZ75VvjYI7hpzNXU+wuWYH4IkpQjAH1tYfjstZ/LsIwC65OYYm+q9Ee8q0Rzpirdx7cupcpLBF+fHL6bMDPNx3dehzkqcIyJSzJX6peVN3n8M8v9nbvullpFnAI4=;e00CZh3bEZwYWXOO3gNfZQ=="
 ---
 

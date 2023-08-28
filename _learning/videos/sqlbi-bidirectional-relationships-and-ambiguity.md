@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT14M2S
 publishedDateTime: 2020-11-17T11:00:19Z
-heat: 56
+heat: 60
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x3m7qzsVJqQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "wmAjVcAVeOFS8MxoQZyAQAuY8qLjSPYujzL6S2AawqBkkTOHMD6xAGUbjswQGGjg4eUEyqA62803h64l9XkKqLP0nbNWZlceklIRYwLnkCzSerqe1KJjsUz0TcnDl0wcuxwyaF5kFya+DT3cKlOD1PL/D9CmUIq2vgFXdiAQFp6yrMVb9gE8f9OJ85wve6+abASD650FQVIDvLghj6TZpyx0M9FHGgKVuq5Urg3B3mDAbvZRtTu5M2Q6rWC7tNz1/gIRKiuJytxd71HTv+WwVqPf7ZsvWloNOr9kkdQ/RdgYOYUztLZABA8EAOSzTyFOodphx+lZD03oxqreGaSmTb06VNr4x5ExwXNl/SydXwF6nREJIpiX2xMXyohaM0D3NwcNK7YQ66qPCxpYve3EEu0e4wYHX1J5nhlkGwcfdvo=;hKgL3HR8D19j9gDBtMP2Eg=="
+secured: "yW5iloX6ARKL6GeZIeknNwzLezDExFMP67MygmSoMNg0pMP0BGvKze0B8P/RLj/Porzanpib/03t95x7iyx9thJ9A7gA+d7OJ5WGqioIXmKbsA7+Lj/X05y53PKq0f97T6rtU7uDIg4mR5K0JN/gHcDmu7sEiT7cyz5w/zmbWxr140jpaZvO2KRgqQ/6t5iovwXeQ62oD3rl+/ZCW7sMMiWmgP6m5qOdkoEYrDdBeKOjiDidmMgx5jugKECNswRgRPUVDZOA//HS72icqX1QXzhHzKD8uNJLcVUofl+awdavImJcdBZypEfKIoKxEIlgoDyaI/ozZS3doCTrO9GkBzNIPAgLOpAu+o6ikUt97ba3lICjBhgrWBcB34+6yxBJASD8UNDHWHYIJwg/4+6RkjwhmYLF7g3ta9Bh52rY8Ds=;quFZnxbwkrpAzvM+6333Dw=="
 ---
 

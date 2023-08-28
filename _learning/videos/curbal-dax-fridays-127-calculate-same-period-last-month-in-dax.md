@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M27S
 publishedDateTime: 2019-05-17T13:30:25Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-xBYtOVyMTs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "3xcP90jpZIckfjsfK/IXtoXaZhqXGxNMgbrQdJtUozfR4HErJhlrd6JfVBkQdTsLfurAUG40e8eggClJo9ZX2kWj4XsX5CZZWdev1y/uwKzUC4whM7BfqxxcOQUKnL/96e16Glch0fnGMEUHt6zLseYrhqEnuzb7RDh4VMhkLjPIVPf439iyvcO5CDErMHiVn00ic6YLJxJ5rUy67ASJfCbXutUI0882X4Qqud5cc0WOKzpBZ2Diehd4WowIfAQkTV7q5+/3GdHX4afDEprnQm+u8yDQ7bASBoiX8t5nBYMFkn+6xgpizOSSsBbN70E2wHZD5H4WWcIWfHzE7i00SQcJAQ5IaRPtjCaZOAQK8NJd6s9NWYNiaz4WYSL1w1g9q+PQHpawsYugjadcG7ECDFq6UZsvg0JL3/5k6cvmdwQ=;bzvmPhO2BECdi3TDAJPotA=="
+secured: "rkAK6/Svik/E9xVsM5t/jEGAXQFXxdqB57HBzyDYR+yXDzk3ZMLolu81QXl4+XGtS9SAMiSooAX/qFGAYtxoUPV+lkY4pwd8BKV3EmkNyo5xXaSM7Lde9VMDS0RmQDVJ7Yg8JHKQfJoduxRwkce0oh2Xoaj23hsg1Afy+0+cvLwGoeMmuf9NWtA2YXkeoYEF03BbGTTREUbcDxfGhYmxz4gQPlhIlIhqnv+E0wlY0sedI4gQDgZeMCiok44On2otoyKZTDxvy6d0IkN8RpERfNktjMgwv0piYUqF2m7xXIfdlOxmEYKMB9sOti3pUPdBEYwxP2HyfI0+f5dl1YDyzjOKDPcKkGKXrgXgPiFYM9IJfZJXwXTgYi6ek1PS3uxv1u6QfA7yTKiQcP+QGqFzJJJAJzQqpxRqoP2QgtxHoZ8=;skrRvvch7Xoi+ryIVAwmGw=="
 ---
 
