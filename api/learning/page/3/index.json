@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3194,
-            "average": 4.7648716
+            "count": 3195,
+            "average": 4.764945
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -119,7 +119,7 @@
           "length": "PT1H8M",
           "ratings": {
             "count": 3766,
-            "average": 4.686139
+            "average": 4.6858735
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1046,8 +1046,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 876,
-            "average": 4.780822
+            "count": 877,
+            "average": 4.7810717
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1256,8 +1256,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 876,
-            "average": 4.780822
+            "count": 877,
+            "average": 4.7810717
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1829,8 +1829,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 4879,
-        "average": 4.7462597
+        "count": 4880,
+        "average": 4.7463117
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1872,8 +1872,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 22256,
-        "average": 4.755931
+        "count": 22258,
+        "average": 4.755908
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2840,8 +2840,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1729,
-            "average": 4.7501445
+            "count": 1730,
+            "average": 4.750289
           },
           "provider": {
             "name": "Microsoft Learn",
