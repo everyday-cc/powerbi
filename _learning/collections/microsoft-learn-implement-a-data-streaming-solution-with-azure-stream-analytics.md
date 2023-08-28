@@ -4,7 +4,7 @@ excerpt: "Implement a Data Streaming Solution with Azure Stream Analytics"
 type: collection
 price: Free
 length: PT3H2M
-heat: 51
+heat: 52
 
 provider:
   name: Microsoft Learn
