@@ -544,8 +544,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
           "length": "PT1H21M",
           "ratings": {
-            "count": 369,
-            "average": 4.6314363
+            "count": 370,
+            "average": 4.6324325
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -627,8 +627,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1269,
-            "average": 4.781718
+            "count": 1270,
+            "average": 4.78189
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -837,8 +837,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1269,
-            "average": 4.781718
+            "count": 1270,
+            "average": 4.78189
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1452,8 +1452,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 2989,
-        "average": 4.7336903
+        "count": 2993,
+        "average": 4.733712
       },
       "provider": {
         "name": "Microsoft Learn",
