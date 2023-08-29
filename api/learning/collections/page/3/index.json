@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13464,
-            "average": 4.6848636
+            "count": 13465,
+            "average": 4.684887
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1171,7 +1171,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
@@ -1320,8 +1320,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 742,
-            "average": 4.665768
+            "count": 744,
+            "average": 4.665323
           },
           "provider": {
             "name": "Microsoft Learn",
