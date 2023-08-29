@@ -622,8 +622,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13469,
-            "average": 4.684906
+            "count": 13471,
+            "average": 4.684879
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -758,8 +758,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 880,
-        "average": 4.7818184
+        "count": 881,
+        "average": 4.782066
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -843,8 +843,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 3200,
-        "average": 4.764375
+        "count": 3201,
+        "average": 4.7644486
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -927,8 +927,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1738,
-        "average": 4.7502875
+        "count": 1740,
+        "average": 4.75
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1140,8 +1140,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10848,
-        "average": 4.7593102
+        "count": 10849,
+        "average": 4.7593327
       },
       "provider": {
         "name": "Microsoft Learn",
