@@ -908,8 +908,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-power-bi-application-lifecycle-management-strategy/",
           "length": "PT25M",
           "ratings": {
-            "count": 124,
-            "average": 4.782258
+            "count": 125,
+            "average": 4.784
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1075,8 +1075,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 744,
-            "average": 4.665323
+            "count": 745,
+            "average": 4.6644297
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1117,8 +1117,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-scalability-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 163,
-            "average": 4.803681
+            "count": 164,
+            "average": 4.804878
           },
           "provider": {
             "name": "Microsoft Learn",
