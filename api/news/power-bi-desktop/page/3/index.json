@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-23-check-out-these-bundles-to-help-master-excel-power-bi-desktop-more.md",
+      "title": "Check out these bundles to help master Excel, Power BI Desktop, more",
+      "excerpt": "You'll get more than 90 hours of instruction to go from basic to advanced in Excel, Power BI, Tableau, VBA and Python. This series of 24 courses and 1,335 lessons will put you well on your way to ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-01-23-check-out-these-bundles-to-help-master-excel-power-bi-desktop-more/index.json",
+      "webUrl": "https://www.bleepingcomputer.com/offer/deals/check-out-these-bundles-to-help-master-excel-power-bi-desktop-more/",
+      "originalUrl": "https://www.bleepingcomputer.com/offer/deals/check-out-these-bundles-to-help-master-excel-power-bi-desktop-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bleepstatic.com/content/posts/2021/01/power-bi-header.jpg",
+          "width": 1600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bleepingcomputer.com/offer/deals/check-out-these-bundles-to-help-master-excel-power-bi-desktop-more/amp/",
+      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/check-out-these-bundles-to-help-master-excel-power-bi-desktop-more/amp/",
+      "publishedDateTime": "2021-01-23T05:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bleeping Computer",
+        "domain": "bleepingcomputer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2021-01-17-dataflows-and-power-query-november-2020-update.md",
       "title": "Dataflows and power query - November 2020 update",
       "excerpt": "Have you seen the new and upcoming features released on November 2020 for Dataflows and Power Query? In today's video, I will go through them so you stay up to date:  Chapters: 00:00 Intro 00:24 New Diagram view 01:36 New schema view 02:16 Add column from example  02:20 Add web from example 03:13 Fuzzy",
@@ -1512,58 +1555,6 @@
         "Power BI",
         "Power BI Desktop",
         "DAX"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-mythbusting-microsoft-mcsa-certification-rumors-this-is-the-new-path-forward.md",
-      "title": "Mythbusting Microsoft MCSA certification rumors | THIS IS THE NEW PATH FORWARD",
-      "excerpt": "Let's bust some Microsoft MCSA certification myths and bring some clarity!!  Link ot the certification pages: https://docs.microsoft.com/en-us/learn/certifications/browse/ Link to DA-100 equivalent of 70-778 exam: https://docs.microsoft.com/en-us/learn/certifications/exams/da-100 Link to New Power BI",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-03-09-mythbusting-microsoft-mcsa-certification-rumors-this-is-the-new-path-forward/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-03-09-mythbusting-microsoft-mcsa-certification-rumors-this-is-the-new-path-forward/",
-      "originalUrl": "https://youtube.com/watch?v=xGIq_K7KWnA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xGIq_K7KWnA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xGIq_K7KWnA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T05:31:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],
