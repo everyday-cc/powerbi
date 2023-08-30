@@ -76,8 +76,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 881,
-            "average": 4.782066
+            "count": 882,
+            "average": 4.7800455
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -604,8 +604,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 2999,
-        "average": 4.7332444
+        "count": 3000,
+        "average": 4.733333
       },
       "provider": {
         "name": "Microsoft Learn",
