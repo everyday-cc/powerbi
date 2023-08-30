@@ -838,7 +838,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
@@ -1154,8 +1154,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 746,
-            "average": 4.6648793
+            "count": 747,
+            "average": 4.665328
           },
           "provider": {
             "name": "Microsoft Learn",
