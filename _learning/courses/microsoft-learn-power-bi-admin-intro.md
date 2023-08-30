@@ -8,7 +8,7 @@ length: PT16M
 ratings:
   count: 455
   average: 4.6417584
-heat: 50
+heat: 130
 
 provider:
   name: Microsoft Learn
