@@ -321,7 +321,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 131,
+          "heat": 51,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -4907,8 +4907,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12301,
-            "average": 4.738964
+            "count": 12302,
+            "average": 4.7389045
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4992,8 +4992,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10854,
-            "average": 4.7593513
+            "count": 10857,
+            "average": 4.759326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5075,8 +5075,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7904,
-            "average": 4.72748
+            "count": 7906,
+            "average": 4.727422
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5117,8 +5117,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 6697,
-            "average": 4.7363
+            "count": 6699,
+            "average": 4.7363787
           },
           "provider": {
             "name": "Microsoft Learn",
