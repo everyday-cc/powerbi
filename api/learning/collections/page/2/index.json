@@ -822,8 +822,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 752,
-            "average": 4.768617
+            "count": 753,
+            "average": 4.768924
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5035,8 +5035,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7900,
-            "average": 4.7273417
+            "count": 7901,
+            "average": 4.7273765
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5160,8 +5160,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13491,
-            "average": 4.685049
+            "count": 13492,
+            "average": 4.6850724
           },
           "provider": {
             "name": "Microsoft Learn",
