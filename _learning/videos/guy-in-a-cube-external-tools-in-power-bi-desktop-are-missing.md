@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M19S
 publishedDateTime: 2020-07-16T15:00:12Z
-heat: 54
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jScicVBrr0s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "WMrUVgzpufUhIOhU3kfQHSH4qZ6oatjIQfLWrQVUiOEVnuXhKr1qB4AKs6YBxi9IV8ozVB7rgDjpXgW/albWEOLiW2lENyvbxsKpJd/hilIdRlsOcvv/MCvpSEmtkjoY1cz6HCEo3AslFBVlbc+5koRcUk0plIoAt0Vg/iIHNnkCHyavhTugtXIIFj3MVfWbwKndWUM+I5RVX+i+PzmTThmHbNTmhe10W20hGu/AAwDVuf+M9JYmSphNxxHbcPGl4EiLs74WIMm9lODwdpQCXnIdAbJQcvqY/Xmt8XYYqONO8h0SIIyxFLJzh9Lru8PCgkqnK2TkcvZ3sKrmWYwM53JY880soO+poHrv2Xva8x+nHdsIYdxjvYNw9OlqNp7SqovWZ1+7isAyYRJJNDuDsCeKZDZBPfUembKDVIBcwBk=;tbv3DPela8lqscUVYhc81w=="
+secured: "aXdiep+RsvfnOTPA2vfnlv8Lfb/wChL+6GX/JLboK5ZXCfkD3K+idR+GW6chR3ma+aJnF5hSpSI4xyA92ME3Ysz6qdrfhpr4q+w0o8hr6ZmY+YdbhamjQ2NHQy5S/eXxtKofqiIf6KxUbWF3WKbMWXsDRrqiSLXeBupXlXbx371UuqV5qObVZoemwf1XU9F0AHuymELdzTRbSPTS1Y2/85hIaMVtVAOHz2P0pZP5KASZrb8D25UjmgXqkHh0pG49I3cnOriOUr1tTi+iN5BrbPIfSS5lPPxx2Cmw3EwMVWTyjMk9iBpOAdCCd2hu0dgDEgqTNTdIGs60oFaxPm2BxWYDkTq4l+6SLQ29mCQdYgEE2Df3JWngp0Lu5xERHPd4mLUGTzdY3Xfgyc4gHxmUg248cDll8wmccS6DH4iATt8=;dJ18sOrRjhQR7odJl0BO1A=="
 ---
 
