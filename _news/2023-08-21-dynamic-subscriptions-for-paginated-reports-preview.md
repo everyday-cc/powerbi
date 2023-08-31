@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/dynamic-subscriptions-for
 webUrl: "https://powerbi.microsoft.com/en-us/blog/dynamic-subscriptions-for-paginated-reports-preview/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
