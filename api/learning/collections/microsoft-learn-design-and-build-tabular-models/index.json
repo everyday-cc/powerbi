@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 131,
+      "heat": 51,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/create-power-bi-model-relationships-social.png",
@@ -139,8 +139,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 383,
-        "average": 4.624021
+        "count": 385,
+        "average": 4.625974
       },
       "provider": {
         "name": "Microsoft Learn",

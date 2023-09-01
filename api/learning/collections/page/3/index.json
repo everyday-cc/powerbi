@@ -354,8 +354,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 498,
-            "average": 4.7650604
+            "count": 499,
+            "average": 4.763527
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -980,8 +980,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 459,
-            "average": 4.640523
+            "count": 460,
+            "average": 4.6413045
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1022,8 +1022,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 321,
-            "average": 4.6666665
+            "count": 322,
+            "average": 4.6677017
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1314,8 +1314,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 763,
-            "average": 4.663172
+            "count": 764,
+            "average": 4.6636124
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1398,8 +1398,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 229,
-            "average": 4.8122272
+            "count": 230,
+            "average": 4.8130436
           },
           "provider": {
             "name": "Microsoft Learn",

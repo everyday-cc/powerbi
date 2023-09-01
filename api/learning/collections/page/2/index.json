@@ -2597,8 +2597,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 459,
-            "average": 4.640523
+            "count": 460,
+            "average": 4.6413045
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2639,8 +2639,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 321,
-            "average": 4.6666665
+            "count": 322,
+            "average": 4.6677017
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3224,8 +3224,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3824,
-            "average": 4.7110357
+            "count": 3825,
+            "average": 4.71085
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5117,8 +5117,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10859,
-            "average": 4.7593703
+            "count": 10862,
+            "average": 4.7593446
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5276,8 +5276,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2530,
-            "average": 4.7501974
+            "count": 2531,
+            "average": 4.750296
           },
           "provider": {
             "name": "Microsoft Learn",
