@@ -1072,15 +1072,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-discover-customer-needs.md",
-      "title": "Discover customer needs as a Solution Architect for Dynamics 365 and Power Platform",
-      "excerpt": "Learn how to ask customers questions about their business processes and feature requirements to create a viable solution.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-discover-customer-needs/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discover-customer-needs/",
-      "length": "PT36M",
+      "path": "_learning/courses/microsoft-learn-get-started-data-science-fabric.md",
+      "title": "Get started with data science in Microsoft Fabric",
+      "excerpt": "Get started with data science in Microsoft Fabric by learning how to train a model in a notebook, and track your metrics with MLflow and experiments.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-started-data-science-fabric/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-data-science-fabric/",
+      "length": "PT1H12M",
       "ratings": {
-        "count": 518,
-        "average": 4.689189
+        "count": 18,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1095,9 +1095,17 @@
         ]
       },
       "levels": [
-        "Advanced"
+        "Beginner"
       ],
       "heat": 51,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -1106,15 +1114,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-get-started-data-science-fabric.md",
-      "title": "Get started with data science in Microsoft Fabric",
-      "excerpt": "Get started with data science in Microsoft Fabric by learning how to train a model in a notebook, and track your metrics with MLflow and experiments.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-started-data-science-fabric/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-data-science-fabric/",
-      "length": "PT1H12M",
+      "path": "_learning/courses/microsoft-learn-get-started-kusto-fabric.md",
+      "title": "Get started with Real-Time Analytics in Microsoft Fabric",
+      "excerpt": "Get started with Real-Time Analytics in Microsoft Fabric",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-started-kusto-fabric/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-kusto-fabric/",
+      "length": "PT53M",
       "ratings": {
-        "count": 18,
-        "average": 5.0
+        "count": 20,
+        "average": 4.85
       },
       "provider": {
         "name": "Microsoft Learn",
