@@ -187,8 +187,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 1086,
-            "average": 4.7550645
+            "count": 1087,
+            "average": 4.7552896
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -771,8 +771,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 465,
-            "average": 4.692473
+            "count": 466,
+            "average": 4.693133
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -813,8 +813,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 313,
-            "average": 4.7284346
+            "count": 314,
+            "average": 4.7292995
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -980,8 +980,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 460,
-            "average": 4.6413045
+            "count": 462,
+            "average": 4.6406927
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1022,8 +1022,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 322,
-            "average": 4.6677017
+            "count": 323,
+            "average": 4.6687307
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1064,8 +1064,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 230,
-            "average": 4.652174
+            "count": 231,
+            "average": 4.65368
           },
           "provider": {
             "name": "Microsoft Learn",
