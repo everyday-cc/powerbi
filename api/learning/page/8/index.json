@@ -1721,8 +1721,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 462,
-            "average": 4.6406927
+            "count": 463,
+            "average": 4.6414685
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3100,8 +3100,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 139,
-            "average": 4.7769785
+            "count": 140,
+            "average": 4.7785716
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3536,7 +3536,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",

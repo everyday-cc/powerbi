@@ -648,8 +648,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3784,
-            "average": 4.686839
+            "count": 3785,
+            "average": 4.686922
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -856,8 +856,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 4974,
-        "average": 4.7448735
+        "count": 4975,
+        "average": 4.744724
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1354,8 +1354,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-user-experience/",
           "length": "PT59M",
           "ratings": {
-            "count": 631,
-            "average": 4.7210774
+            "count": 632,
+            "average": 4.721519
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1563,8 +1563,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-user-experience/",
           "length": "PT59M",
           "ratings": {
-            "count": 631,
-            "average": 4.7210774
+            "count": 632,
+            "average": 4.721519
           },
           "provider": {
             "name": "Microsoft Learn",
