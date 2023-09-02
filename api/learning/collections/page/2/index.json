@@ -4412,7 +4412,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -4907,8 +4907,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7916,
-            "average": 4.727261
+            "count": 7917,
+            "average": 4.7271695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4949,8 +4949,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 6705,
-            "average": 4.736316
+            "count": 6706,
+            "average": 4.7363553
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5200,8 +5200,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13515,
-            "average": 4.6851645
+            "count": 13518,
+            "average": 4.6850867
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5276,8 +5276,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2531,
-            "average": 4.750296
+            "count": 2532,
+            "average": 4.750395
           },
           "provider": {
             "name": "Microsoft Learn",

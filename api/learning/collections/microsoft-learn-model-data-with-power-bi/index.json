@@ -12,7 +12,7 @@
       "length": "PT29M",
       "ratings": {
         "count": 4975,
-        "average": 4.744724
+        "average": 4.7445226
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -54,8 +54,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
       "length": "PT46M",
       "ratings": {
-        "count": 766,
-        "average": 4.6644907
+        "count": 767,
+        "average": 4.6649284
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -182,8 +182,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 1927,
-        "average": 4.7234044
+        "count": 1928,
+        "average": 4.723548
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -354,8 +354,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 386,
-        "average": 4.626943
+        "count": 387,
+        "average": 4.625323
       },
       "provider": {
         "name": "Microsoft Learn",
