@@ -2217,7 +2217,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-infrastructure-social.png",
@@ -2426,7 +2426,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-infrastructure-social.png",
@@ -5178,8 +5178,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7918,
-            "average": 4.727204
+            "count": 7920,
+            "average": 4.7272725
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5388,8 +5388,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10866,
-            "average": 4.7593412
+            "count": 10867,
+            "average": 4.759363
           },
           "provider": {
             "name": "Microsoft Learn",
