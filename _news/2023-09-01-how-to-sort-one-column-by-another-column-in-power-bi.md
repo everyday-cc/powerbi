@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/how-to-sort-by-column-power-b
 webUrl: "https://www.techrepublic.com/article/how-to-sort-by-column-power-bi/?post_id=4007112"
 type: article
 quality: 77
-heat: 79
+heat: 77
 published: true
 
 provider:
