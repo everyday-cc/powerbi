@@ -4,7 +4,7 @@ excerpt: "Now, we can perform Quick Edit for Paginated Report from Power BI Serv
 originalUrl: https://youtube.com/watch?v=fV4UKNFL3MM
 type: video
 price: Free
-length: PT5M33S
+length: PT5M34S
 publishedDateTime: 2021-05-24T04:44:49Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "kooU7iXD3c2a0XcvgP+JrwJIuRRCdDABTJCJzK5DVfFM4GxHculWqGn1p3lNwFXxkJKHQxtPZ5Xk4EWEQiRWmVkQ9Dzsgok7Oi9HvUp1I5YpEg/LdK1XY8Th0QSKHkLJn6WnZp56k1dichbvRtmyNLc1C8mQ7mE2a7VTZI0PJvJYimNRzUmYkRh0ZxYyi5SoEY9FiM0lbULkEQHy+YDsnWNNWEMmjgPYpITNulUUbG+fS8lz39vkq6VC9k/VoNQ0AjXJI5S1ltVr8fRv0KzSTUQ/zmJtb/3gmAEChl6lp5NRVpfKJb2MILngiYumwpWM4cMMtLxZgHQAFC73PmDLHU38tmiU8U/Yq1v4zqLDgrWCQE9ujxqST9iBpVLeFzN9VMeCPk7m7WKKVEg1f3JWazhtIa6UEd7OtrCcrH8QlUQ=;mieVBbtnmlXPnzxIfvOkAw=="
+secured: "872rqAux9B4faqQwZkKOdRXsjWVksLMI7bDVtI4zkz5lTErNWj5Ns+mQ04DloVjg1Czs939Ec8Cko2ifYPACnz2pmtSGiXNLgtMxrWZb007OOAOmu6ldqY5Z5lekyogYBaxoX5IqJ1NRIawgRfKW/SD+0qhI7SzlaKY1dULs12rXpvhWxCjNhx1B1kYV0gAn6VrA4vRVJTOdVKNrP842a+3tllOYIKtl6PuffU8ttq+P7CJPEg3Gx1NPBuniL1CLTRlJQe8PzwgKPAAo374Imy/gF+WC0SYX5AqJaqnfmGrRkGwuzUQbzj6dOGOEUrG0VpvQKCojP67yfK4ATlvC2ibD1m2M6ItAmxgkUOcp9SxOrfyRvydisfZ2grs0TDosnaXmi3+tf50vYSVexvLvmtjLLJ5IUNhLPpjuQ9/X8Ao=;G7xGjeuMs7vyLX34pmZcxQ=="
 ---
 
