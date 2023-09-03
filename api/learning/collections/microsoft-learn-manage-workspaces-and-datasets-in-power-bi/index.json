@@ -95,8 +95,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 3786,
-        "average": 4.6867404
+        "count": 3789,
+        "average": 4.686989
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -137,8 +137,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 6675,
-        "average": 4.798202
+        "count": 6676,
+        "average": 4.7982326
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -155,7 +155,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 54,
+      "heat": 53,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/row-level-security-power-bi-social.png",
