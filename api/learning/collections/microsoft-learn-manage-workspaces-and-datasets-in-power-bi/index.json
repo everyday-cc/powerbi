@@ -137,8 +137,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 6674,
-        "average": 4.798172
+        "count": 6675,
+        "average": 4.798202
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -155,7 +155,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 53,
+      "heat": 54,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/row-level-security-power-bi-social.png",
