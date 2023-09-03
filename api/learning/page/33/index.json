@@ -4,49 +4,6 @@
   "page": 33,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-modern-analytics-interactive-experiences.md",
-      "title": "Design interactive data experiences with Power BI Desktop",
-      "excerpt": "Power BI enables report authors to produce interactive reports using visuals, slicers, bookmarks, and more.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-interactive-experiences/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-interactive-experiences/",
-      "length": "PT56M",
-      "ratings": {
-        "count": 339,
-        "average": 4.675516
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/modern-analytics-interactive-experiences-social.png",
-          "width": 1281,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-modern-analytics-publish-share.md",
       "title": "Secure, publish, and share data in Power BI",
       "excerpt": "This module reviews securing, sharing, and publishing Microsoft Power BI reports as part of Power BI service.",
@@ -306,8 +263,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
       "length": "PT25M",
       "ratings": {
-        "count": 232,
-        "average": 4.6551723
+        "count": 233,
+        "average": 4.6523604
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -390,8 +347,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
       "length": "PT19M",
       "ratings": {
-        "count": 176,
-        "average": 4.846591
+        "count": 177,
+        "average": 4.841808
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -558,8 +515,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-automate/",
       "length": "PT19M",
       "ratings": {
-        "count": 55,
-        "average": 4.890909
+        "count": 56,
+        "average": 4.875
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -600,8 +557,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-content/",
       "length": "PT31M",
       "ratings": {
-        "count": 57,
-        "average": 4.7894735
+        "count": 58,
+        "average": 4.775862
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -726,8 +683,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-permissions-analytics/",
       "length": "PT33M",
       "ratings": {
-        "count": 44,
-        "average": 4.818182
+        "count": 45,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1229,6 +1186,48 @@
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-prepare-to-teach-module-add-interactivity-features/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-to-teach-module-add-interactivity-features/",
       "length": "PT24M",
+      "ratings": {
+        "count": 0,
+        "average": 0.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-prepare-to-teach-module-beyond-report-development.md",
+      "title": "Prepare to teach the module: Beyond report development",
+      "excerpt": "Prepare to teach the module: Beyond report development",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-prepare-to-teach-module-beyond-report-development/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-to-teach-module-beyond-report-development/",
+      "length": "PT30M",
       "ratings": {
         "count": 0,
         "average": 0.0
