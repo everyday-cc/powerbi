@@ -2642,7 +2642,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-automate-social.png",
@@ -2851,7 +2851,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-automate-social.png",
@@ -3250,8 +3250,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1287,
-            "average": 4.780109
+            "count": 1288,
+            "average": 4.7802796
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3460,8 +3460,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1287,
-            "average": 4.780109
+            "count": 1288,
+            "average": 4.7802796
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5212,8 +5212,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13537,
-            "average": 4.685159
+            "count": 13538,
+            "average": 4.6851826
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5371,8 +5371,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12319,
-            "average": 4.739021
+            "count": 12320,
+            "average": 4.7390423
           },
           "provider": {
             "name": "Microsoft Learn",
