@@ -4,7 +4,7 @@ excerpt: "Excel is a Microsoft application that has been in use since 1985. You 
 type: collection
 price: Free
 length: PT7H47M
-heat: 60
+heat: 61
 
 provider:
   name: Microsoft Learn
