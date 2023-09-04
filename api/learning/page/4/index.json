@@ -2452,7 +2452,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-reach-social.png",
@@ -2661,7 +2661,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-reach-social.png",
@@ -3102,8 +3102,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1286,
-            "average": 4.7822704
+            "count": 1287,
+            "average": 4.780109
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3312,8 +3312,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1286,
-            "average": 4.7822704
+            "count": 1287,
+            "average": 4.780109
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5127,8 +5127,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 13534,
-        "average": 4.6850896
+        "count": 13535,
+        "average": 4.6851125
       },
       "provider": {
         "name": "Microsoft Learn",
