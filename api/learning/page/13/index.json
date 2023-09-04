@@ -520,8 +520,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13544,
-            "average": 4.6850266
+            "count": 13547,
+            "average": 4.6850963
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -596,8 +596,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2540,
-            "average": 4.7507873
+            "count": 2541,
+            "average": 4.7508855
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -784,8 +784,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 2540,
-        "average": 4.7507873
+        "count": 2541,
+        "average": 4.7508855
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -826,8 +826,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
       "length": "PT45M",
       "ratings": {
-        "count": 810,
-        "average": 4.7530866
+        "count": 811,
+        "average": 4.753391
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -910,8 +910,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-user-experience/",
       "length": "PT59M",
       "ratings": {
-        "count": 640,
-        "average": 4.7203126
+        "count": 641,
+        "average": 4.720749
       },
       "provider": {
         "name": "Microsoft Learn",
