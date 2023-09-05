@@ -187,14 +187,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-understanding-the-timeline-in-dax-studio.md",
-      "title": "Understanding the TIMELINE in DAX Studio",
-      "excerpt": "We brought Marco in to help explain the TIMELINE update within DAX Studio. This can help you understand performance a bit deeper when optimizing your DAX and models. This is one to watch!  DAX Studio https://daxstudio.org  Marco Russo https://twitter.com/marcorus https://www.linkedin.com/in/sqlbi/ https://sqlbi.com",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-understanding-the-timeline-in-dax-studio/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-understanding-the-timeline-in-dax-studio/",
-      "originalUrl": "https://youtube.com/watch?v=Q8NfZCFKCmw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q8NfZCFKCmw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M54S",
+      "path": "_learning/videos/guy-in-a-cube-the-magic-of-power-bi-in-powerpoint.md",
+      "title": "The MAGIC of Power BI in PowerPoint!",
+      "excerpt": "There were some recent updates to the storytelling experience in PowerPoint with Power BI. Patrick walks through how you can use these to make the most of PowerPoint and Power BI!  About storytelling with Power BI in PowerPoint https://learn.microsoft.com/power-bi/collaborate-share/service-power-bi-powerpoint-add-in-about",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-the-magic-of-power-bi-in-powerpoint/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-the-magic-of-power-bi-in-powerpoint/",
+      "originalUrl": "https://youtube.com/watch?v=ZrsrLEY_Gf8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZrsrLEY_Gf8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M16S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -207,11 +207,49 @@
           }
         ]
       },
-      "publishedDateTime": "2023-06-14T08:00:16-07:00",
+      "publishedDateTime": "2023-07-12T08:00:35-07:00",
+      "heat": 138,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZrsrLEY_Gf8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-reading-active-power-bi-security-roles-in-dax.md",
+      "title": "Reading active Power BI security roles in DAX",
+      "excerpt": "How to read the active security roles in a Tabular model for Power BI or Analysis Services by using a DAX measure. This way, you can use measures and calculation groups to customize a report based dynamically on security roles active for the current user.\r Article and download: https://sql.bi/803102?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-reading-active-power-bi-security-roles-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-reading-active-power-bi-security-roles-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=y3qw1vrB9Mo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y3qw1vrB9Mo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M43S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-07-05T03:01:06-07:00",
       "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Q8NfZCFKCmw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/y3qw1vrB9Mo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -264,44 +302,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-june-17-2023.md",
-      "title": "REPLAY Microsoft Fabric/Power BI Q&A - LIVE (June 17, 2023)",
-      "excerpt": "Join us live as we answer your questions about Microsoft Fabric (including Power BI)!  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\" in front of your comment to help us identify questions! 👉 Super chats",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-june-17-2023/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-june-17-2023/",
-      "originalUrl": "https://youtube.com/watch?v=piv6I5ohH6k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/piv6I5ohH6k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H13M8S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-06-17T08:45:20-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/piv6I5ohH6k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-calendar-table-missing-important-table-shorts.md",
       "title": "Calendar Table: Missing Important Table #Shorts",
       "excerpt": "================================ #PowerBI #PowerBIHowTo #PowerBIPro  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files for Video at https://web.learnpowerbi.com/download/ ✅ Subscribe to always get my latest videos: https://www.youtube.com/powerbipro?sub_confirmation=1",
@@ -332,23 +332,23 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-calendar-table-challenge-creating-a-film-calendar-shorts.md",
-      "title": "Power BI Calendar Table Challenge: Creating a Film Calendar 🎬 #Shorts",
-      "excerpt": "👉 If you have any questions, just leave us a comment.  👉 Check out our Power BI Tutorial https://youtu.be/AGrl-H87pRU ================================ #PowerBI #PowerBIQuestion #PowerBIPro  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-calendar-table-challenge-creating-a-film-calendar-shorts/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-calendar-table-challenge-creating-a-film-calendar-shorts/",
-      "originalUrl": "https://youtube.com/watch?v=ZrlS0XSyaSA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZrlS0XSyaSA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT50S",
+      "path": "_learning/videos/learn-power-bi-power-bi-combining-hotel-price-sheets-using-power-query-shorts.md",
+      "title": "Power BI: Combining Hotel Price Sheets 💲 Using Power Query Shorts",
+      "excerpt": "================================ #PowerBI #PowerBIHowTo #PowerBIPro  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files for Video at https://web.learnpowerbi.com/download/ ✅ Subscribe to always get my latest videos: https://www.youtube.com/powerbipro?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-combining-hotel-price-sheets-using-power-query-shorts/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-combining-hotel-price-sheets-using-power-query-shorts/",
+      "originalUrl": "https://youtube.com/watch?v=A8dlRwAdjBQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A8dlRwAdjBQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31S",
       "provider": {
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2023-06-13T23:17:15-07:00",
+      "publishedDateTime": "2023-07-05T09:00:13-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ZrlS0XSyaSA/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYciBKKDwwDw==&rs=AOn4CLBIC8h9nqyF-AWK2YuuUkd0mrPGcw",
+          "url": "https://i.ytimg.com/vi/A8dlRwAdjBQ/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYVyBaKGUwDw==&rs=AOn4CLBk4RI_9He0qQLNAmhUnSBMewk7DQ",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -358,7 +358,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power Query"
       ]
     },
     {
@@ -687,8 +688,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 71965,
-            "average": 4.795442
+            "count": 71972,
+            "average": 4.7954345
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -729,8 +730,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 102963,
-            "average": 4.776114
+            "count": 102981,
+            "average": 4.7760363
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -789,8 +790,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 102963,
-        "average": 4.776114
+        "count": 102981,
+        "average": 4.7760363
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1017,6 +1018,44 @@
       ]
     },
     {
+      "path": "_learning/videos/sqlbi-managing-hierarchical-organizations-in-power-bi-security-roles.md",
+      "title": "Managing hierarchical organizations in Power BI security roles",
+      "excerpt": "How to apply dynamic security roles in a hierarchical organization to minimize the maintenance effort on the security configuration and obtain the best performance at query time.\r Article and download: https://sql.bi/805866?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-managing-hierarchical-organizations-in-power-bi-security-roles/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-managing-hierarchical-organizations-in-power-bi-security-roles/",
+      "originalUrl": "https://youtube.com/watch?v=V7XWLqdvzYM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V7XWLqdvzYM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M24S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-08-29T03:00:15-07:00",
+      "heat": 102,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/V7XWLqdvzYM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-what-is-power-bi.md",
       "title": "What is Power BI?",
       "excerpt": "In this video, Adam looks at what is Power BI. While people may see bits and pieces of Power BI, they may not understand holistically what Power BI is. From Power BI Desktop to the Power BI service and the mobile app, Power BI is a full suite of tools for your visualization and reporting needs.  Power",
@@ -1056,44 +1095,6 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-managing-hierarchical-organizations-in-power-bi-security-roles.md",
-      "title": "Managing hierarchical organizations in Power BI security roles",
-      "excerpt": "How to apply dynamic security roles in a hierarchical organization to minimize the maintenance effort on the security configuration and obtain the best performance at query time.\r Article and download: https://sql.bi/805866?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-managing-hierarchical-organizations-in-power-bi-security-roles/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-managing-hierarchical-organizations-in-power-bi-security-roles/",
-      "originalUrl": "https://youtube.com/watch?v=V7XWLqdvzYM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V7XWLqdvzYM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M24S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-08-29T03:00:15-07:00",
-      "heat": 98,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/V7XWLqdvzYM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-data-analytics-microsoft.md",
       "title": "Discover data analysis",
       "excerpt": "Would you like to explore the journey of a data analyst and learn how a data analyst tells a story with data? In this module, you will explore the different roles in data and learn the different tasks of a data analyst.",
@@ -1101,8 +1102,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 71965,
-        "average": 4.795442
+        "count": 71972,
+        "average": 4.7954345
       },
       "provider": {
         "name": "Microsoft Learn",

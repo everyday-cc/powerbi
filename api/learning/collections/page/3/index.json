@@ -401,8 +401,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 1100,
-            "average": 4.7545457
+            "count": 1102,
+            "average": 4.7540836
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -736,8 +736,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 782,
-            "average": 4.664962
+            "count": 783,
+            "average": 4.6653895
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1238,8 +1238,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3966,
-            "average": 4.7186084
+            "count": 3967,
+            "average": 4.718427
           },
           "provider": {
             "name": "Microsoft Learn",
