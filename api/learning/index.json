@@ -4,44 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-a-quirky-bookmark-scenario-with-filters-in-power-bi-pay-attention.md",
-      "title": "A quirky Bookmark scenario with Filters in Power BI. Pay Attention!",
-      "excerpt": "A question came up about why bookmarks weren't working and how to solve a particular scenario regarding filters in Power BI. Adam shows how to solve this and uses a little DAX to do it!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-a-quirky-bookmark-scenario-with-filters-in-power-bi-pay-attention/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-a-quirky-bookmark-scenario-with-filters-in-power-bi-pay-attention/",
-      "originalUrl": "https://youtube.com/watch?v=Y63Sj2NSdic",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y63Sj2NSdic\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M42S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-08-31T08:00:22-07:00",
-      "heat": 223,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Y63Sj2NSdic/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-creating-your-first-data-warehouse-in-microsoft-fabric.md",
       "title": "Creating your first Data Warehouse in Microsoft Fabric",
       "excerpt": "It's time to show the Data Warehouse within Microsoft Fabric some love! Patrick walks you through how you can get started with your first Data Warehouse using Data Pipelines.  What is data warehousing in Microsoft Fabric? https://learn.microsoft.com/fabric/data-warehouse/data-warehousing  Microsoft Fabric",
@@ -67,6 +29,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/StIBBb69wDw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-a-quirky-bookmark-scenario-with-filters-in-power-bi-pay-attention.md",
+      "title": "A quirky Bookmark scenario with Filters in Power BI. Pay Attention!",
+      "excerpt": "A question came up about why bookmarks weren't working and how to solve a particular scenario regarding filters in Power BI. Adam shows how to solve this and uses a little DAX to do it!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-a-quirky-bookmark-scenario-with-filters-in-power-bi-pay-attention/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-a-quirky-bookmark-scenario-with-filters-in-power-bi-pay-attention/",
+      "originalUrl": "https://youtube.com/watch?v=Y63Sj2NSdic",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y63Sj2NSdic\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M42S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-08-31T08:00:22-07:00",
+      "heat": 211,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Y63Sj2NSdic/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -207,7 +207,7 @@
         ]
       },
       "publishedDateTime": "2023-08-30T08:00:05-07:00",
-      "heat": 157,
+      "heat": 156,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/1yYYY_yqqZE/maxresdefault.jpg",
@@ -224,23 +224,31 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-data-wrangler-vs-power-query-editor-microsoft-fabric.md",
-      "title": "Data Wrangler VS Power Query Editor   Microsoft Fabric",
-      "excerpt": "Power Query Editor and Data Wrangler are data transformation and preparation tools in Microsoft Fabric. There are similarities between these two tools. However, there are differences, too. It is essential to know the capabilities of each tool to understand which one should be used for what purpose and",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-data-wrangler-vs-power-query-editor-microsoft-fabric/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-data-wrangler-vs-power-query-editor-microsoft-fabric/",
-      "originalUrl": "https://youtube.com/watch?v=wB3-5eQGMBI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wB3-5eQGMBI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M1S",
+      "path": "_learning/videos/guy-in-a-cube-the-magic-of-power-bi-in-powerpoint.md",
+      "title": "The MAGIC of Power BI in PowerPoint!",
+      "excerpt": "There were some recent updates to the storytelling experience in PowerPoint with Power BI. Patrick walks through how you can use these to make the most of PowerPoint and Power BI!  About storytelling with Power BI in PowerPoint https://learn.microsoft.com/power-bi/collaborate-share/service-power-bi-powerpoint-add-in-about",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-the-magic-of-power-bi-in-powerpoint/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-the-magic-of-power-bi-in-powerpoint/",
+      "originalUrl": "https://youtube.com/watch?v=ZrsrLEY_Gf8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZrsrLEY_Gf8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M16S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2023-08-29T18:25:31-07:00",
-      "heat": 146,
+      "publishedDateTime": "2023-07-12T08:00:35-07:00",
+      "heat": 137,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/wB3-5eQGMBI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZrsrLEY_Gf8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -250,8 +258,49 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power Query"
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-power-bi-model-relationships.md",
+      "title": "Create Power BI model relationships",
+      "excerpt": "Power BI model relationships form the basis of a tabular model. Define Power BI model relationships, set up relationships, recognize DAX relationship functions, and describe relationship evaluation.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-power-bi-model-relationships/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-power-bi-model-relationships/",
+      "length": "PT1H30M",
+      "ratings": {
+        "count": 204,
+        "average": 4.754902
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 133,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/create-power-bi-model-relationships-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -280,6 +329,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/FhWEeOgZ_zg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEMgSChyMA8=&rs=AOn4CLD5EO3ztyq5QcOQiXo8YQjHXAAifQ",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-microsoft-fabricpower-bi-qa-live-june-24-2023-member-chat-2nd-half.md",
+      "title": "🔴 Microsoft Fabric/Power BI Q&A - LIVE (June 24, 2023) (Member Chat 2nd Half)",
+      "excerpt": "Join us live as we answer your questions about Microsoft Fabric (including Power BI)!  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\" in front of your comment to help us identify questions! 👉 Super chats",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-microsoft-fabricpower-bi-qa-live-june-24-2023-member-chat-2nd-half/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-microsoft-fabricpower-bi-qa-live-june-24-2023-member-chat-2nd-half/",
+      "originalUrl": "https://youtube.com/watch?v=WWvs0Z4zTGw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WWvs0Z4zTGw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "P0D",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-06-23T05:13:48-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WWvs0Z4zTGw/maxresdefault_live.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -328,121 +415,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-june-17-2023.md",
-      "title": "REPLAY Microsoft Fabric/Power BI Q&A - LIVE (June 17, 2023)",
-      "excerpt": "Join us live as we answer your questions about Microsoft Fabric (including Power BI)!  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\" in front of your comment to help us identify questions! 👉 Super chats",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-june-17-2023/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-june-17-2023/",
-      "originalUrl": "https://youtube.com/watch?v=piv6I5ohH6k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/piv6I5ohH6k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H13M8S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-06-17T08:45:20-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/piv6I5ohH6k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-june-24-2023.md",
-      "title": "REPLAY Microsoft Fabric/Power BI Q&A - LIVE (June 24, 2023)",
-      "excerpt": "Join us live as we answer your questions about Microsoft Fabric (including Power BI)!  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\" in front of your comment to help us identify questions! 👉 Super chats",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-june-24-2023/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-june-24-2023/",
-      "originalUrl": "https://youtube.com/watch?v=WWvs0Z4zTGw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WWvs0Z4zTGw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H13M50S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-06-24T08:41:53-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WWvs0Z4zTGw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-understanding-the-timeline-in-dax-studio.md",
-      "title": "Understanding the TIMELINE in DAX Studio",
-      "excerpt": "We brought Marco in to help explain the TIMELINE update within DAX Studio. This can help you understand performance a bit deeper when optimizing your DAX and models. This is one to watch!  DAX Studio https://daxstudio.org  Marco Russo https://twitter.com/marcorus https://www.linkedin.com/in/sqlbi/ https://sqlbi.com",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-understanding-the-timeline-in-dax-studio/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-understanding-the-timeline-in-dax-studio/",
-      "originalUrl": "https://youtube.com/watch?v=Q8NfZCFKCmw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q8NfZCFKCmw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M54S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-06-14T08:00:16-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Q8NfZCFKCmw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     },
     {
@@ -703,6 +675,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-get-your-measures-organized-in-power-bi.md",
+      "title": "Get your measures organized in Power BI",
+      "excerpt": "As you make more measures in your Power BI Dataset, it can get hard to find the one you need. Sure you can use search...  But you can also organize your measures to make it easier to find them. Patrick shows you how!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-get-your-measures-organized-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-get-your-measures-organized-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=IZDacEcbfog",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IZDacEcbfog\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M22S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-08-23T08:00:12-07:00",
+      "heat": 121,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IZDacEcbfog/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-tips-from-the-pros-live-oct-3-2020-member-chat-2nd-half.md",
       "title": "🔴 Power BI tips from the Pros - LIVE (Oct 3, 2020) (Member Chat 2nd Half)",
       "excerpt": "Join us live as we answer your questions about Power BI!  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\" in front of your comment to help us identify questions! 👉 Super chats take priority 👉 Do NOT re-post",
@@ -771,8 +781,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 72016,
-            "average": 4.795462
+            "count": 72026,
+            "average": 4.7954907
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -813,8 +823,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 103054,
-            "average": 4.7759814
+            "count": 103069,
+            "average": 4.7760043
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -873,8 +883,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 103054,
-        "average": 4.7759814
+        "count": 103069,
+        "average": 4.7760043
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -944,44 +954,6 @@
       "topics": [
         "Power BI",
         "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-get-your-measures-organized-in-power-bi.md",
-      "title": "Get your measures organized in Power BI",
-      "excerpt": "As you make more measures in your Power BI Dataset, it can get hard to find the one you need. Sure you can use search...  But you can also organize your measures to make it easier to find them. Patrick shows you how!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-get-your-measures-organized-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-get-your-measures-organized-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=IZDacEcbfog",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IZDacEcbfog\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M22S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-08-23T08:00:12-07:00",
-      "heat": 107,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IZDacEcbfog/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     },
     {
@@ -1216,6 +1188,37 @@
       ]
     },
     {
+      "path": "_learning/videos/radacad-data-wrangler-vs-power-query-editor-microsoft-fabric.md",
+      "title": "Data Wrangler VS Power Query Editor   Microsoft Fabric",
+      "excerpt": "Power Query Editor and Data Wrangler are data transformation and preparation tools in Microsoft Fabric. There are similarities between these two tools. However, there are differences, too. It is essential to know the capabilities of each tool to understand which one should be used for what purpose and",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-data-wrangler-vs-power-query-editor-microsoft-fabric/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-data-wrangler-vs-power-query-editor-microsoft-fabric/",
+      "originalUrl": "https://youtube.com/watch?v=wB3-5eQGMBI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wB3-5eQGMBI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M1S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2023-08-29T18:25:31-07:00",
+      "heat": 96,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wB3-5eQGMBI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-data-analytics-microsoft.md",
       "title": "Discover data analysis",
       "excerpt": "Would you like to explore the journey of a data analyst and learn how a data analyst tells a story with data? In this module, you will explore the different roles in data and learn the different tasks of a data analyst.",
@@ -1223,8 +1226,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 72016,
-        "average": 4.795462
+        "count": 72026,
+        "average": 4.7954907
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1334,31 +1337,23 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-what-is-power-bi-2021.md",
-      "title": "What is Power BI? (2021)",
-      "excerpt": "You have heard of Power BI, but not quite sure what it actually is. You probably come from Excel land and want to know more about how you can take your data to the next level.   Adam summarizes the Power BI platform to help you understand how it fits into your business and work flow. Whether you are",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-is-power-bi-2021/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-is-power-bi-2021/",
-      "originalUrl": "https://youtube.com/watch?v=Vqz2d7pTOV8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vqz2d7pTOV8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M49S",
+      "path": "_learning/videos/learn-power-bi-power-bi-ultimate-calendar-table-date-table-free-download-.md",
+      "title": "Power BI Ultimate Calendar Table 🗓️ / Date Table 📆 [ FREE DOWNLOAD ]",
+      "excerpt": "👉 Download Ultimate Calendar Table https://www.LearnPowerBI.com/calendar If you don't ❌ have the right Calendar table or Date Table in Power BI, then you would often find yourself struggling to create even simple reports 😰.   Let me show you  ➔ How you can get the Ultimate Power BI calendar table in",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-ultimate-calendar-table-date-table-free-download-/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-ultimate-calendar-table-date-table-free-download-/",
+      "originalUrl": "https://youtube.com/watch?v=CJ2y6v4mQZk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CJ2y6v4mQZk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M59S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2021-01-14T08:21:12-08:00",
-      "heat": 86,
+      "publishedDateTime": "2023-08-23T09:00:15-07:00",
+      "heat": 87,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/CJ2y6v4mQZk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
