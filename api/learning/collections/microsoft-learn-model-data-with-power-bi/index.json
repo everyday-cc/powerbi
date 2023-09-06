@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 5038,
-        "average": 4.7453356
+        "count": 5041,
+        "average": 4.745487
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -96,8 +96,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 12338,
-        "average": 4.7390985
+        "count": 12341,
+        "average": 4.739
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -182,8 +182,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 1949,
-        "average": 4.7224216
+        "count": 1951,
+        "average": 4.7227063
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -225,8 +225,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 2249,
-        "average": 4.7172074
+        "count": 2250,
+        "average": 4.716889
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -268,8 +268,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1773,
-        "average": 4.750141
+        "count": 1774,
+        "average": 4.750282
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -312,8 +312,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10879,
-        "average": 4.7588015
+        "count": 10880,
+        "average": 4.7588234
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -354,8 +354,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 402,
-        "average": 4.616915
+        "count": 403,
+        "average": 4.617866
       },
       "provider": {
         "name": "Microsoft Learn",
