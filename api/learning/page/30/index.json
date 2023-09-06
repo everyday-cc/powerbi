@@ -756,8 +756,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 469,
-            "average": 4.641791
+            "count": 470,
+            "average": 4.6425533
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -798,8 +798,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 328,
-            "average": 4.664634
+            "count": 329,
+            "average": 4.662614
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1068,8 +1068,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 893,
-        "average": 4.781635
+        "count": 894,
+        "average": 4.7818794
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1444,8 +1444,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 6723,
-        "average": 4.735981
+        "count": 6724,
+        "average": 4.73602
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1654,8 +1654,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
       "length": "PT18M",
       "ratings": {
-        "count": 328,
-        "average": 4.664634
+        "count": 329,
+        "average": 4.662614
       },
       "provider": {
         "name": "Microsoft Learn",
