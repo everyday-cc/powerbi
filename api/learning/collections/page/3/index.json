@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13568,
-            "average": 4.6851416
+            "count": 13569,
+            "average": 4.685165
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -68,8 +68,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11739,
-            "average": 4.7078967
+            "count": 11740,
+            "average": 4.7079215
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -778,8 +778,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-scalability-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 167,
-            "average": 4.8023953
+            "count": 168,
+            "average": 4.803571
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1321,8 +1321,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-power-bi-application-lifecycle-management-strategy/",
           "length": "PT25M",
           "ratings": {
-            "count": 127,
-            "average": 4.7874017
+            "count": 128,
+            "average": 4.7890625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1363,8 +1363,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-deployment-pipelines/",
           "length": "PT42M",
           "ratings": {
-            "count": 204,
-            "average": 4.769608
+            "count": 205,
+            "average": 4.770732
           },
           "provider": {
             "name": "Microsoft Learn",
