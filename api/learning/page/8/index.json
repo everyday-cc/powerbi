@@ -2648,8 +2648,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
       "length": "PT46M",
       "ratings": {
-        "count": 800,
-        "average": 4.66125
+        "count": 802,
+        "average": 4.659601
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2690,8 +2690,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 3519,
-        "average": 4.7291846
+        "count": 3520,
+        "average": 4.728977
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2732,8 +2732,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 8172,
-        "average": 4.76395
+        "count": 8173,
+        "average": 4.763979
       },
       "provider": {
         "name": "Microsoft Learn",

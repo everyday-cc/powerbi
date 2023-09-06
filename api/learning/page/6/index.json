@@ -781,8 +781,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 329,
-            "average": 4.662614
+            "count": 330,
+            "average": 4.663636
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3394,8 +3394,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 894,
-            "average": 4.7818794
+            "count": 896,
+            "average": 4.78125
           },
           "provider": {
             "name": "Microsoft Learn",

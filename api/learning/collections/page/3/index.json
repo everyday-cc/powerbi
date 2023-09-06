@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13576,
-            "average": 4.6850324
+            "count": 13580,
+            "average": 4.684978
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -193,8 +193,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 1110,
-            "average": 4.754955
+            "count": 1112,
+            "average": 4.7535973
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -277,8 +277,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 897,
-            "average": 4.8138237
+            "count": 898,
+            "average": 4.814031
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -403,8 +403,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 329,
-            "average": 4.662614
+            "count": 330,
+            "average": 4.663636
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -820,8 +820,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-power-bi-application-lifecycle-management-strategy/",
           "length": "PT25M",
           "ratings": {
-            "count": 128,
-            "average": 4.7890625
+            "count": 129,
+            "average": 4.7906976
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -904,8 +904,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 104,
-            "average": 4.7115383
+            "count": 105,
+            "average": 4.714286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1320,8 +1320,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 800,
-            "average": 4.66125
+            "count": 802,
+            "average": 4.659601
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1404,8 +1404,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 235,
-            "average": 4.8042555
+            "count": 236,
+            "average": 4.8050847
           },
           "provider": {
             "name": "Microsoft Learn",
