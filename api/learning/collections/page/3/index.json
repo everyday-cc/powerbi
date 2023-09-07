@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13596,
-            "average": 4.6850543
+            "count": 13599,
+            "average": 4.6850505
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -68,8 +68,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11744,
-            "average": 4.707851
+            "count": 11747,
+            "average": 4.7079253
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -110,8 +110,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2553,
-            "average": 4.7497063
+            "count": 2554,
+            "average": 4.7494125
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -570,8 +570,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 316,
-            "average": 4.731013
+            "count": 317,
+            "average": 4.725552
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1320,8 +1320,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 804,
-            "average": 4.6579604
+            "count": 805,
+            "average": 4.6571426
           },
           "provider": {
             "name": "Microsoft Learn",
