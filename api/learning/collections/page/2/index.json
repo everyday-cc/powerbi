@@ -811,7 +811,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 51,
+          "heat": 131,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -3297,8 +3297,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3842,
-            "average": 4.710828
+            "count": 3843,
+            "average": 4.710903
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5173,8 +5173,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12350,
-            "average": 4.73919
+            "count": 12351,
+            "average": 4.7392116
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5258,8 +5258,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10884,
-            "average": 4.758912
+            "count": 10885,
+            "average": 4.7588425
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5341,8 +5341,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13600,
-            "average": 4.6850734
+            "count": 13603,
+            "average": 4.6850696
           },
           "provider": {
             "name": "Microsoft Learn",
