@@ -1013,7 +1013,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-intro-social.png",
@@ -2180,8 +2180,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 3528,
-        "average": 4.728458
+        "count": 3529,
+        "average": 4.7282515
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2222,8 +2222,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 8179,
-        "average": 4.7639074
+        "count": 8182,
+        "average": 4.763994
       },
       "provider": {
         "name": "Microsoft Learn",
