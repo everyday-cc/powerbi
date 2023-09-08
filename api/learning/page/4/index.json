@@ -1048,7 +1048,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 132,
+          "heat": 52,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-power-bi-model-relationships-social.png",
@@ -1090,7 +1090,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 55,
+          "heat": 135,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/use-dax-time-intelligence-functions-power-bi-desktop-social.png",
@@ -1158,8 +1158,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
           "length": "PT1H21M",
           "ratings": {
-            "count": 409,
-            "average": 4.613692
+            "count": 410,
+            "average": 4.614634
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1218,8 +1218,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 5065,
-        "average": 4.7447186
+        "count": 5066,
+        "average": 4.744769
       },
       "provider": {
         "name": "Microsoft Learn",
