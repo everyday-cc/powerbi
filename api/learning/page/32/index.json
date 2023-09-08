@@ -381,8 +381,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 473,
-            "average": 4.693446
+            "count": 474,
+            "average": 4.691983
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -590,8 +590,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3970,
-            "average": 4.71864
+            "count": 3971,
+            "average": 4.7187104
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -883,8 +883,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-scalability-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 169,
-            "average": 4.8047338
+            "count": 170,
+            "average": 4.788235
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -925,8 +925,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 237,
-            "average": 4.8059072
+            "count": 238,
+            "average": 4.7983193
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1104,8 +1104,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 237,
-        "average": 4.8059072
+        "count": 238,
+        "average": 4.7983193
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1147,8 +1147,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
       "length": "PT15M",
       "ratings": {
-        "count": 3970,
-        "average": 4.71864
+        "count": 3971,
+        "average": 4.7187104
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1309,8 +1309,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
       "length": "PT29M",
       "ratings": {
-        "count": 473,
-        "average": 4.693446
+        "count": 474,
+        "average": 4.691983
       },
       "provider": {
         "name": "Microsoft Learn",

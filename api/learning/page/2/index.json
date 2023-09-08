@@ -4,44 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-wait-we-can-use-databricks-data-with-microsoft-fabric.md",
-      "title": "Wait! We can use Databricks data with Microsoft Fabric???",
-      "excerpt": "Ready to learn how you can use Databricks with Microsoft Fabric? Patrick shows you how you can integrate the data and enable the MAGIC of Fabric while leveraging your existing Databricks implementation.   Using Azure Databricks with Microsoft Fabric and OneLake https://blog.fabric.microsoft.com/en-us/blog/using-azure-databricks-with-microsoft-fabric-and-onelake",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-wait-we-can-use-databricks-data-with-microsoft-fabric/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-wait-we-can-use-databricks-data-with-microsoft-fabric/",
-      "originalUrl": "https://youtube.com/watch?v=1yYYY_yqqZE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1yYYY_yqqZE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M55S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-08-30T08:00:05-07:00",
-      "heat": 96,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1yYYY_yqqZE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-build-a-slicer-panel-in-power-bi-20222023.md",
       "title": "Build a Slicer Panel in Power BI (2022/2023)",
       "excerpt": "Let's look at how to build a slicer panel in your Power BI Report! This can help to reduce visuals on the canvas and also make for an app like experience. There are some things to think about though.  For a trip down memory lane, here's Adam's 2019 Slicer Panel Video: https://www.youtube.com/watch?v=xy9nmSQeUWg",
@@ -270,8 +232,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 33592,
-        "average": 4.7213025
+        "count": 33594,
+        "average": 4.7212596
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -312,8 +274,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 37525,
-        "average": 4.7276483
+        "count": 37526,
+        "average": 4.7276554
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -447,8 +409,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 22600,
-            "average": 4.75469
+            "count": 22605,
+            "average": 4.754656
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -489,8 +451,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15664,
-            "average": 4.7722163
+            "count": 15665,
+            "average": 4.772231
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -572,8 +534,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 22600,
-            "average": 4.75469
+            "count": 22605,
+            "average": 4.754656
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -614,8 +576,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15664,
-            "average": 4.7722163
+            "count": 15665,
+            "average": 4.772231
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -697,8 +659,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 22600,
-            "average": 4.75469
+            "count": 22605,
+            "average": 4.754656
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -739,8 +701,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15664,
-            "average": 4.7722163
+            "count": 15665,
+            "average": 4.772231
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -799,8 +761,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 15664,
-        "average": 4.7722163
+        "count": 15665,
+        "average": 4.772231
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -841,8 +803,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 22600,
-        "average": 4.75469
+        "count": 22605,
+        "average": 4.754656
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1178,6 +1140,44 @@
       ],
       "content": "\r\n",
       "type": "collection",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-microsoft-fabricpower-bi-qa-live-sept-2-2023-member-chat-2nd-half.md",
+      "title": "🔴 Microsoft Fabric/Power BI Q&A - LIVE (Sept 2, 2023) (Member Chat 2nd Half)",
+      "excerpt": "Join us live as we answer your questions about Microsoft Fabric (including Power BI)! Get your questions in the chat early as we don't get to all of them.  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\"",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-microsoft-fabricpower-bi-qa-live-sept-2-2023-member-chat-2nd-half/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-microsoft-fabricpower-bi-qa-live-sept-2-2023-member-chat-2nd-half/",
+      "originalUrl": "https://youtube.com/watch?v=GLNqNuON3Fc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GLNqNuON3Fc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "P0D",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-09-01T05:24:18-07:00",
+      "heat": 80,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GLNqNuON3Fc/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "Power BI"
       ]
