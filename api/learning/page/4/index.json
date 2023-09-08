@@ -52,7 +52,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 139,
+          "heat": 59,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-requirements-social.png",
@@ -118,8 +118,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 822,
-            "average": 4.751825
+            "count": 823,
+            "average": 4.752126
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -442,8 +442,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 5081,
-        "average": 4.7447352
+        "count": 5082,
+        "average": 4.7447853
       },
       "provider": {
         "name": "Microsoft Learn",

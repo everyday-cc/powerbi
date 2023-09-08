@@ -76,8 +76,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 928,
-            "average": 4.836207
+            "count": 929,
+            "average": 4.8363833
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -118,8 +118,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 904,
-            "average": 4.8152657
+            "count": 906,
+            "average": 4.8134656
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -243,8 +243,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 317,
-            "average": 4.725552
+            "count": 318,
+            "average": 4.726415
           },
           "provider": {
             "name": "Microsoft Learn",
