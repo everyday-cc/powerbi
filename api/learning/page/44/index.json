@@ -223,8 +223,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 779,
-        "average": 4.7021823
+        "count": 780,
+        "average": 4.7025642
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -267,8 +267,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
       "length": "PT37M",
       "ratings": {
-        "count": 759,
-        "average": 4.6258235
+        "count": 760,
+        "average": 4.6263156
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -598,8 +598,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
       "length": "PT20M",
       "ratings": {
-        "count": 319,
-        "average": 4.7272725
+        "count": 320,
+        "average": 4.728125
       },
       "provider": {
         "name": "Microsoft Learn",
