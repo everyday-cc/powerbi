@@ -1302,8 +1302,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1653,
-            "average": 4.7640653
+            "count": 1656,
+            "average": 4.763285
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1511,8 +1511,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1653,
-            "average": 4.7640653
+            "count": 1656,
+            "average": 4.763285
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1877,8 +1877,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 5094,
-        "average": 4.7446017
+        "count": 5095,
+        "average": 4.744652
       },
       "provider": {
         "name": "Microsoft Learn",
