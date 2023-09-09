@@ -422,8 +422,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 810,
-            "average": 4.6567903
+            "count": 812,
+            "average": 4.6539407
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1260,8 +1260,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 13626,
-        "average": 4.685014
+        "count": 13627,
+        "average": 4.6849637
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1827,7 +1827,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 65,
+          "heat": 145,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
@@ -2278,8 +2278,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 3538,
-            "average": 4.727247
+            "count": 3540,
+            "average": 4.726836
           },
           "provider": {
             "name": "Microsoft Learn",

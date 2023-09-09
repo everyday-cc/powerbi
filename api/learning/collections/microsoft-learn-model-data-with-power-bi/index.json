@@ -54,8 +54,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
       "length": "PT46M",
       "ratings": {
-        "count": 810,
-        "average": 4.6567903
+        "count": 812,
+        "average": 4.6539407
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -330,7 +330,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 133,
+      "heat": 53,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/optimize-model-power-bi-social.png",
