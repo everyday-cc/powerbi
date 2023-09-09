@@ -294,8 +294,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 72299,
-            "average": 4.795295
+            "count": 72304,
+            "average": 4.795281
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -312,7 +312,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 119,
+          "heat": 120,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
@@ -336,8 +336,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 103578,
-            "average": 4.7756186
+            "count": 103586,
+            "average": 4.7756066
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -354,7 +354,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 156,
+          "heat": 155,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -372,7 +372,7 @@
         }
       ],
       "size": 2,
-      "heat": 156,
+      "heat": 155,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
@@ -396,8 +396,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 103578,
-        "average": 4.7756186
+        "count": 103586,
+        "average": 4.7756066
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -414,7 +414,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 156,
+      "heat": 155,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -499,31 +499,31 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-introducing-rank-window-function-in-dax.md",
-      "title": "Introducing RANK window function in DAX",
-      "excerpt": "RANK is a new DAX function to rank items based on multiple columns: discover how RANK works and its differences with RANKX.\r \r Article and download: https://sql.bi/801505?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-introducing-rank-window-function-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-introducing-rank-window-function-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=dK82cBUfwK4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dK82cBUfwK4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M24S",
+      "path": "_learning/videos/guy-in-a-cube-sql-server-in-microsoft-fabric-use-cetas-to-move-data.md",
+      "title": "SQL Server in Microsoft Fabric? Use CETaS to move data!",
+      "excerpt": "People have been asking \"What about SQL Server?\" with regards to Microsoft Fabric. Bob Ward joins us to show a way you can get your SQL data into Fabric with CETaS and the power of shortcuts in OneLake. And, then use that data in Power BI!  CREATE EXTERNAL TABLE AS SELECT (CETAS) (Transact-SQL) https://learn.microsoft.com/sql/t-sql/statements/create-external-table-as-select-transact-sql?view=sql-server-ver16&tabs=powershell",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-sql-server-in-microsoft-fabric-use-cetas-to-move-data/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-sql-server-in-microsoft-fabric-use-cetas-to-move-data/",
+      "originalUrl": "https://youtube.com/watch?v=DB8zujLjzVo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DB8zujLjzVo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M15S",
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2023-06-20T06:46:41-07:00",
-      "heat": 137,
+      "publishedDateTime": "2023-06-27T08:00:13-07:00",
+      "heat": 136,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/dK82cBUfwK4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/DB8zujLjzVo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -533,20 +533,19 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-work-delta-lake-tables-fabric.md",
-      "title": "Work with Delta Lake tables in Microsoft Fabric",
-      "excerpt": "Tables in a Microsoft Fabric lakehouse are based on the Delta Lake technology commonly used in Apache Spark. By using the enhanced capabilities of delta tables, you can create advanced analytics solutions.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-work-delta-lake-tables-fabric/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-delta-lake-tables-fabric/",
-      "length": "PT1H3M",
+      "path": "_learning/courses/microsoft-learn-optimize-model-power-bi.md",
+      "title": "Optimize a model for performance in Power BI ",
+      "excerpt": "Performance optimization, also known as performance tuning, involves making changes to the current state of the data model so that it runs more efficiently. Essentially, when your data model is optimized, it performs better.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-optimize-model-power-bi/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
+      "length": "PT1H9M",
       "ratings": {
-        "count": 51,
-        "average": 4.882353
+        "count": 10889,
+        "average": 4.75838
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -563,12 +562,12 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 135,
+      "heat": 133,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://learn.microsoft.com/training/achievements/optimize-model-power-bi-social.png",
+          "width": 643,
+          "height": 321,
           "isCached": true
         }
       ],
@@ -593,7 +592,7 @@
         "domain": "learnpowerbi.com"
       },
       "publishedDateTime": "2023-09-04T09:00:14-07:00",
-      "heat": 134,
+      "heat": 132,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Pnfcg9dQlaQ/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYciBRKD4wDw==&rs=AOn4CLD62SX4iXVCnmW6VKgsZC_aJs4xzQ",
@@ -610,18 +609,16 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-manage-workspaces-power-bi.md",
-      "title": "Create and manage workspaces in Power BI ",
-      "excerpt": "This module explains how you can share reports and datasets with your users and how to create a deployment strategy that makes sense for you and your organization. Furthermore, you will learn about data lineage in Microsoft Power BI.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-manage-workspaces-power-bi/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 3236,
-        "average": 4.763288
-      },
+      "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-27-march-2023-update.md",
+      "title": "Power BI Paginated Reports in a Day - 27: March 2023 Update",
+      "excerpt": "In this video, Peter Myers (Microsoft Most Valued Professional - Data Platform, and course developer) describes and demonstrates new capabilities and features added to #Microsoft #PowerBI paginated reports since the last update for December 2021 was recorded.    For more information about the online",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-27-march-2023-update/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-27-march-2023-update/",
+      "originalUrl": "https://youtube.com/watch?v=df1divWTGQ0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/df1divWTGQ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M26S",
       "provider": {
-        "name": "Microsoft Learn",
+        "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
@@ -632,20 +629,18 @@
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 133,
+      "publishedDateTime": "2023-06-26T01:16:31-07:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/create-manage-workspaces-power-bi-social.png",
-          "width": 643,
-          "height": 321,
+          "url": "https://i.ytimg.com/vi/df1divWTGQ0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -924,8 +919,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 72299,
-        "average": 4.795295
+        "count": 72304,
+        "average": 4.795281
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -942,7 +937,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 119,
+      "heat": 120,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
@@ -1066,8 +1061,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 103578,
-            "average": 4.7756186
+            "count": 103586,
+            "average": 4.7756066
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1084,7 +1079,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 156,
+          "heat": 155,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -1126,7 +1121,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 90,
+          "heat": 89,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-data-power-bi-desktop-social.png",
@@ -1229,7 +1224,7 @@
         }
       ],
       "size": 6,
-      "heat": 108,
+      "heat": 106,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -1391,8 +1386,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 26154,
-            "average": 4.750975
+            "count": 26156,
+            "average": 4.7509556
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1433,8 +1428,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13625,
-            "average": 4.6850643
+            "count": 13626,
+            "average": 4.685014
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1467,8 +1462,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 103578,
-            "average": 4.7756186
+            "count": 103586,
+            "average": 4.7756066
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1485,7 +1480,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 156,
+          "heat": 155,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -1527,8 +1522,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 26154,
-        "average": 4.750975
+        "count": 26156,
+        "average": 4.7509556
       },
       "provider": {
         "name": "Microsoft Learn",
