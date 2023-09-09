@@ -805,7 +805,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-organize-fields-social.png",
@@ -1611,8 +1611,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 9335,
-        "average": 4.764328
+        "count": 9336,
+        "average": 4.7643533
       },
       "provider": {
         "name": "Microsoft Learn",

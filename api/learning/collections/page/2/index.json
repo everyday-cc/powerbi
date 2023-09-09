@@ -4093,7 +4093,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-organize-fields-social.png",
@@ -4880,8 +4880,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12360,
-            "average": 4.7391586
+            "count": 12361,
+            "average": 4.7390985
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5124,8 +5124,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2563,
-            "average": 4.748732
+            "count": 2564,
+            "average": 4.74883
           },
           "provider": {
             "name": "Microsoft Learn",

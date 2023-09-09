@@ -4,23 +4,31 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/radacad-data-wrangler-vs-power-query-editor-microsoft-fabric.md",
-      "title": "Data Wrangler VS Power Query Editor   Microsoft Fabric",
-      "excerpt": "Power Query Editor and Data Wrangler are data transformation and preparation tools in Microsoft Fabric. There are similarities between these two tools. However, there are differences, too. It is essential to know the capabilities of each tool to understand which one should be used for what purpose and",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-data-wrangler-vs-power-query-editor-microsoft-fabric/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-data-wrangler-vs-power-query-editor-microsoft-fabric/",
-      "originalUrl": "https://youtube.com/watch?v=wB3-5eQGMBI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wB3-5eQGMBI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M1S",
+      "path": "_learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-sept-2-2023.md",
+      "title": "REPLAY Microsoft Fabric/Power BI Q&A - LIVE (Sept 2, 2023)",
+      "excerpt": "Join us live as we answer your questions about Microsoft Fabric (including Power BI)! Get your questions in the chat early as we don't get to all of them.  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\"",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-sept-2-2023/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-sept-2-2023/",
+      "originalUrl": "https://youtube.com/watch?v=GLNqNuON3Fc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GLNqNuON3Fc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H14M23S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2023-08-29T18:25:31-07:00",
-      "heat": 92,
+      "publishedDateTime": "2023-09-02T09:01:16-07:00",
+      "heat": 91,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/wB3-5eQGMBI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/GLNqNuON3Fc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -30,8 +38,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power Query"
+        "Power BI"
       ]
     },
     {
@@ -42,8 +49,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 37543,
-        "average": 4.727566
+        "count": 37544,
+        "average": 4.727573
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -237,8 +244,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 33636,
-        "average": 4.7214293
+        "count": 33637,
+        "average": 4.721438
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -371,8 +378,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 22631,
-            "average": 4.754673
+            "count": 22633,
+            "average": 4.7546945
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -413,8 +420,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15692,
-            "average": 4.7721767
+            "count": 15695,
+            "average": 4.7722206
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -496,8 +503,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 22631,
-            "average": 4.754673
+            "count": 22633,
+            "average": 4.7546945
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -538,8 +545,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15692,
-            "average": 4.7721767
+            "count": 15695,
+            "average": 4.7722206
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -621,8 +628,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 22631,
-            "average": 4.754673
+            "count": 22633,
+            "average": 4.7546945
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -663,8 +670,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15692,
-            "average": 4.7721767
+            "count": 15695,
+            "average": 4.7722206
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -723,8 +730,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 15692,
-        "average": 4.7721767
+        "count": 15695,
+        "average": 4.7722206
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -765,8 +772,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 22631,
-        "average": 4.754673
+        "count": 22633,
+        "average": 4.7546945
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1606,8 +1613,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12360,
-            "average": 4.7391586
+            "count": 12361,
+            "average": 4.7390985
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1648,8 +1655,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 3078,
-            "average": 4.730994
+            "count": 3079,
+            "average": 4.7310815
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1776,8 +1783,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 3078,
-            "average": 4.730994
+            "count": 3079,
+            "average": 4.7310815
           },
           "provider": {
             "name": "Microsoft Learn",
