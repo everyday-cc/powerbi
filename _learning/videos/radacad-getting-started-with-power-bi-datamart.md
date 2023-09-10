@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT15M36S
 publishedDateTime: 2022-05-23T02:38:34Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rSDNWv4ck3k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "hY7/8TVKJbaL/J0BLWPunW0D+phOf/VBWtidbc2z2k+F75GhHQQcmm1WWyReh4NGeTeCYn6XoiDpioBxi7XuGxc6H9oa+X0Dbj0gcnzAoZ5sszz483i9LSMLSeDuDDHjtKQuG7x1KrjVglOWUpC4DfWfxhyWb1+ETMOkKItEJSLZTuCk6B+ZISI48G1Mqp3hUAtWPRU5+O8kR7itGzmg8RTVbGUAL1AnIkAqIoVToQetswpXidnoMgXf7Y/GcoSWy6BOrJJXOk6wwSWKM0KHf9SRhkhZSOe3NO5NxNngeD0BBYXVqsRga6PohQHlNVQIjVWAAPT8FzaBC1BNVyNaGHe9mKlN6wpn860SrKPyeMak6vh9fEFr7waB180hqfKvKyzX4y+Slq48QjOSlexkRBfFlkL2NonNKx+N/EGlInw=;/O8df0zDAA/qB7QcBwnIow=="
+secured: "jGCTZNc3Ks7p1h0pxjPojelGPYfunPnetonU0UBr5iFEVxzMNhWnjspKbVfwwikyLnjggLZOyo2MXt2t2mwJStxVBlPwUh8FibPUoKKGWGA0nMPTlchm35iH8J/9KeWftgPU0r+Vkzbnvs62Ejg7j2jCeW0R4/aFH1aWv/LF+aquoF2vxPL4rF735Gk6Ynlmh6/TAiVI+6/LIbr/GXcWpKJD6sp7NRJgqlVLg299WiO9fqBJNmD5ozoQz2Y/hzA/uyqyqmImTKRrtc5gLh5dgRj3QMvWTEZT3V9ETgn9QMog4qOq7/+NGnCQpE3kpbo3U+KjF2r8IbRJ3Qh6MAzPMPuPhuY00h4ml6kgsr6h6wD64PLp6p64BMqfOd05iHDg9rcRrU1wpCK9jFkZV7fZieZHLNCe6l8Rwwn0l0Tcy0E=;Gqh9Buau9YVsd5KirwrQfQ=="
 ---
 
