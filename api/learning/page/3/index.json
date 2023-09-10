@@ -646,8 +646,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 37563,
-        "average": 4.727551
+        "count": 37564,
+        "average": 4.727558
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2661,8 +2661,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
           "length": "PT1H21M",
           "ratings": {
-            "count": 415,
-            "average": 4.60241
+            "count": 416,
+            "average": 4.6033654
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2744,8 +2744,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1298,
-            "average": 4.7804313
+            "count": 1299,
+            "average": 4.7806005
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2954,8 +2954,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1298,
-            "average": 4.7804313
+            "count": 1299,
+            "average": 4.7806005
           },
           "provider": {
             "name": "Microsoft Learn",
