@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 475,
-            "average": 4.6926317
+            "count": 476,
+            "average": 4.6932774
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -242,8 +242,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 1123,
-            "average": 4.7542295
+            "count": 1124,
+            "average": 4.7544484
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -326,8 +326,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 909,
-            "average": 4.812981
+            "count": 910,
+            "average": 4.812088
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -344,7 +344,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 132,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/explore-data-analytics-at-scale-social.png",
@@ -1314,8 +1314,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 821,
-            "average": 4.6540804
+            "count": 822,
+            "average": 4.6545014
           },
           "provider": {
             "name": "Microsoft Learn",

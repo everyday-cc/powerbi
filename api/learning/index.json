@@ -226,15 +226,92 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-ingest-dataflows-gen2-fabric.md",
-      "title": "Ingest Data with Dataflows Gen2 in Microsoft Fabric",
-      "excerpt": "Data ingestion is crucial in analytics. Microsoft Fabric's Data Factory offers Dataflows (Gen2) for visually creating multi-step data ingestion and transformation using Power Query Online.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-ingest-dataflows-gen2-fabric/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-dataflow-gen-2-fabric/",
-      "length": "PT48M",
+      "path": "_learning/videos/guy-in-a-cube-can-you-use-power-query-dynamic-m-parameters-for-multi-select.md",
+      "title": "Can you use Power Query Dynamic M Parameters for multi-select?",
+      "excerpt": "Dynamic M parameters in Power Query isn't anything new. However, Patrick was challenged with using them to allow for multi-select and \"select all\" with a slicer in a Power BI report. Will he succeed?   Dynamic M query parameters in Power BI Desktop https://learn.microsoft.com/power-bi/connect-data/desktop-dynamic-m-query-parameters",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-you-use-power-query-dynamic-m-parameters-for-multi-select/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-you-use-power-query-dynamic-m-parameters-for-multi-select/",
+      "originalUrl": "https://youtube.com/watch?v=ilTeVH2Cwck",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ilTeVH2Cwck\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M16S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-06-28T08:00:36-07:00",
+      "heat": 134,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ilTeVH2Cwck/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-filtering-calculation-items-in-a-slicer.md",
+      "title": "Filtering calculation items in a slicer",
+      "excerpt": "Choose between many-to-many relationships and DAX code to filter the most relevant items using another slicer. Indeed, calculation groups cannot use relationships!\r \r Article and download: https://sql.bi/805830?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-filtering-calculation-items-in-a-slicer/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-filtering-calculation-items-in-a-slicer/",
+      "originalUrl": "https://youtube.com/watch?v=uvoziKKtWi8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uvoziKKtWi8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M24S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-07-18T03:00:16-07:00",
+      "heat": 133,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uvoziKKtWi8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-data-analytics-scale.md",
+      "title": "Explore data analytics at scale",
+      "excerpt": "Describe data analytics at scale and understand the roles of a data team. Learn about the responsibilities of an enterprise data analyst and what tools are available to build scalable solutions.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-data-analytics-scale/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
+      "length": "PT29M",
       "ratings": {
-        "count": 30,
-        "average": 5.0
+        "count": 910,
+        "average": 4.812088
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -251,12 +328,12 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 133,
+      "heat": 132,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://learn.microsoft.com/training/achievements/explore-data-analytics-at-scale-social.png",
+          "width": 1281,
+          "height": 641,
           "isCached": true
         }
       ],
@@ -264,8 +341,7 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Dataflows"
+        "Power BI"
       ]
     },
     {
@@ -304,76 +380,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-combining-hotel-price-sheets-using-power-query-shorts.md",
-      "title": "Power BI: Combining Hotel Price Sheets 💲 Using Power Query Shorts",
-      "excerpt": "================================ #PowerBI #PowerBIHowTo #PowerBIPro  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files for Video at https://web.learnpowerbi.com/download/ ✅ Subscribe to always get my latest videos: https://www.youtube.com/powerbipro?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-combining-hotel-price-sheets-using-power-query-shorts/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-combining-hotel-price-sheets-using-power-query-shorts/",
-      "originalUrl": "https://youtube.com/watch?v=A8dlRwAdjBQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A8dlRwAdjBQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2023-07-05T09:00:13-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/A8dlRwAdjBQ/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYVyBaKGUwDw==&rs=AOn4CLBk4RI_9He0qQLNAmhUnSBMewk7DQ",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-reading-active-power-bi-security-roles-in-dax.md",
-      "title": "Reading active Power BI security roles in DAX",
-      "excerpt": "How to read the active security roles in a Tabular model for Power BI or Analysis Services by using a DAX measure. This way, you can use measures and calculation groups to customize a report based dynamically on security roles active for the current user.\r Article and download: https://sql.bi/803102?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-reading-active-power-bi-security-roles-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-reading-active-power-bi-security-roles-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=y3qw1vrB9Mo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y3qw1vrB9Mo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M43S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-07-05T03:01:06-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/y3qw1vrB9Mo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     },
     {
@@ -445,8 +451,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 72435,
-            "average": 4.7951956
+            "count": 72443,
+            "average": 4.7952185
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -487,8 +493,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 103822,
-            "average": 4.7755485
+            "count": 103842,
+            "average": 4.7755437
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -547,8 +553,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 103822,
-        "average": 4.7755485
+        "count": 103842,
+        "average": 4.7755437
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -734,8 +740,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 72435,
-        "average": 4.7951956
+        "count": 72443,
+        "average": 4.7952185
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1218,8 +1224,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 26229,
-            "average": 4.7509246
+            "count": 26235,
+            "average": 4.750943
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1260,8 +1266,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13644,
-            "average": 4.685063
+            "count": 13645,
+            "average": 4.6850863
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1294,8 +1300,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 103822,
-            "average": 4.7755485
+            "count": 103842,
+            "average": 4.7755437
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1354,8 +1360,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 26229,
-        "average": 4.7509246
+        "count": 26235,
+        "average": 4.750943
       },
       "provider": {
         "name": "Microsoft Learn",

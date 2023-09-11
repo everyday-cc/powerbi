@@ -153,8 +153,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2790,
-            "average": 4.6946235
+            "count": 2791,
+            "average": 4.694733
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -490,8 +490,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 37578,
-        "average": 4.72758
+        "count": 37579,
+        "average": 4.727587
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3366,8 +3366,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 13644,
-        "average": 4.685063
+        "count": 13645,
+        "average": 4.6850863
       },
       "provider": {
         "name": "Microsoft Learn",

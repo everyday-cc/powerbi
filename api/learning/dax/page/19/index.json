@@ -4,45 +4,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_learning/videos/sqlbi-letter-case-sensitivity-in-dax-power-bi-and-analysis-services.md",
-      "title": "Letter case sensitivity in DAX, Power BI and Analysis Services",
-      "excerpt": "Power BI and Analysis Services are case-insensitive by default. Lowercase letters are identical to uppercase letters. This is mostly a good choice, but it also comes with unexpected consequences. In this video, we run through a set of queries to understand what to be aware of when working with a mixture",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-letter-case-sensitivity-in-dax-power-bi-and-analysis-services/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-letter-case-sensitivity-in-dax-power-bi-and-analysis-services/",
-      "originalUrl": "https://youtube.com/watch?v=xnKWYKBuW0E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xnKWYKBuW0E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M28S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-02-16T03:00:30-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xnKWYKBuW0E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/sqlbi-lookup-multiple-values-in-dax.md",
       "title": "Lookup multiple values in DAX",
       "excerpt": "Learn different advanced techniques to retrieve multiple values from a lookup table in DAX, improving code readability and performance in DAX queries. Article and download: https://sql.bi/43801?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
@@ -380,6 +341,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/dUoiyTMZYaE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-reading-active-power-bi-security-roles-in-dax.md",
+      "title": "Reading active Power BI security roles in DAX",
+      "excerpt": "How to read the active security roles in a Tabular model for Power BI or Analysis Services by using a DAX measure. This way, you can use measures and calculation groups to customize a report based dynamically on security roles active for the current user.\r Article and download: https://sql.bi/803102?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-reading-active-power-bi-security-roles-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-reading-active-power-bi-security-roles-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=y3qw1vrB9Mo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y3qw1vrB9Mo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M43S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-07-05T03:01:06-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/y3qw1vrB9Mo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
