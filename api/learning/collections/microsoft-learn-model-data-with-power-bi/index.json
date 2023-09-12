@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 5134,
-        "average": 4.7458124
+        "count": 5136,
+        "average": 4.745911
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -54,8 +54,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
       "length": "PT46M",
       "ratings": {
-        "count": 830,
-        "average": 4.6554217
+        "count": 833,
+        "average": 4.6566625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -200,7 +200,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 56,
+      "heat": 136,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/add-measures-power-bi-desktop-social.png",
@@ -225,8 +225,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 2285,
-        "average": 4.715536
+        "count": 2288,
+        "average": 4.715472
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -268,8 +268,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1797,
-        "average": 4.7479134
+        "count": 1799,
+        "average": 4.7476377
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -312,8 +312,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10901,
-        "average": 4.758646
+        "count": 10903,
+        "average": 4.7586904
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -354,8 +354,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 422,
-        "average": 4.599526
+        "count": 423,
+        "average": 4.591017
       },
       "provider": {
         "name": "Microsoft Learn",

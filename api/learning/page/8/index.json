@@ -1280,8 +1280,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-intro/",
           "length": "PT34M",
           "ratings": {
-            "count": 182,
-            "average": 4.8681316
+            "count": 183,
+            "average": 4.8688526
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2327,8 +2327,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 143,
-            "average": 4.769231
+            "count": 144,
+            "average": 4.7708335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3277,8 +3277,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 5134,
-        "average": 4.7458124
+        "count": 5136,
+        "average": 4.745911
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3320,8 +3320,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 13663,
-        "average": 4.685062
+        "count": 13665,
+        "average": 4.6851077
       },
       "provider": {
         "name": "Microsoft Learn",
