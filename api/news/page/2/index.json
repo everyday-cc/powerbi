@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-10-power-bi-update-july-2023.md",
+      "title": "Power BI Update - July 2023",
+      "excerpt": "Welcome to the July 2023 update! We are pleased to announce even more updates to On-Object interaction, as well as datasets for Mobile.   Tune in for all of these updates and more in Reporting, Modeling, Data Connectivity, Service, Mobile, Developers, and Visualizations.  Full blog:  Follow us on Twitter",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-07-10-power-bi-update-july-2023/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2023-07-10-power-bi-update-july-2023/",
+      "originalUrl": "https://youtube.com/watch?v=berUCt4EHIk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/berUCt4EHIk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/berUCt4EHIk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T00:00:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-datasets-are-now-in-power-bi-mobile-apps-you-can-now-refresh-your-datasets-also-when-youre-on-the-go.md",
       "title": "Datasets are now in Power BI Mobile apps. You can now refresh your datasets also when you᾿re on the go.",
       "excerpt": "Power BI Mobile apps now support Datasets. So you can view dataset details, refresh status and get notified when something is wrong with the scheduled refresh. And&#8230; you can also trigger a new refresh &#8211; all from your mobile app!",
@@ -1205,57 +1257,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-announcing-now-you-can-use-item-links-to-configure-power-bi-tabs-in-microsoft-teams.md",
-      "title": "Announcing: Now you can use item links to configure Power BI Tabs in Microsoft Teams",
-      "excerpt": "You can now use item links to configure the Power BI tab in Microsoft Teams. Read this blog for all the details.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-05-03-announcing-now-you-can-use-item-links-to-configure-power-bi-tabs-in-microsoft-teams/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-now-you-can-use-item-links-to-configure-power-bi-tabs-in-microsoft-teams/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-now-you-can-use-item-links-to-configure-power-bi-tabs-in-microsoft-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2023/05/pbi-teams-tab-config2.png",
-          "width": 3840,
-          "height": 2053,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T08:32:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
