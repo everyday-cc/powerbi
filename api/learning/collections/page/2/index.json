@@ -333,8 +333,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 760,
-            "average": 4.768421
+            "count": 761,
+            "average": 4.767411
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4199,7 +4199,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-organize-fields-social.png",
@@ -4986,8 +4986,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 7993,
-            "average": 4.727136
+            "count": 7994,
+            "average": 4.7271705
           },
           "provider": {
             "name": "Microsoft Learn",
