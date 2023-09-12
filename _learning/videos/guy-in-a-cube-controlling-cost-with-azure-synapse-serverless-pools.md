@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M12S
 publishedDateTime: 2023-05-09T15:00:07Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AbiYgh9RD2U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "/5n6DNlQr6BNGZPcdYxTrZonMlwGv+Q3ho+5KlKJXoMwm1sTCIWJxwrM/2fAMjH6p9Rob3CoFfqGYIgluQ9n8c3Qa52xM6zhEj4OvJpEkrnzLq8s8cZJy9BG7YdzX/IIoO7kchLvwxcbO/OH9LBNDtAQz7tbeocG+/yg6ICO5tlXK/QRnlZ88KX0TtFB4xgnhUaDvP0Tr8XrgkeaWHYa1NGs5WvqYanIx6DHVcrIm0x4z4V4T8WNGbkIoggeNIQXZkePgnfwCYhzDLKIFRkT6kGQyg4vLoQlpFKEDyOOdoJ8MRK150DTZWTWRxAqK9YiXjua8VnL+dkMgP7giqGhZW/M15VtXUNPyi6hJ5tzPRFAV3JRwNP8EZtEbfmgNYp1mBtDpl8LKQ5Lu4WqBI7puZ3Q5ydIEsfjtLr+YJFEAGc=;xcBoUgxwmnLxzW0k6/EIGw=="
+secured: "gCvmPxDZV/Creyxam/juizKf+vk5S2KUTapVpsGvtLxs6j336sgV4uif5oq1Mh8QgC/J1u+HMsZ3Z7BlmMxYkhvhVr9ONRn2pgeqIt/amu74YB71TXYhxsapQAAqZ4Z3EK4KlLFHUiB07Sc7GFiiB/F78KUYZnMrQ2fIJsGsvV7flEyPpwMq0WUBXpIwyFy8HRy2sY4czXczgv6+dlzERe+bZFrLyF0xlkdHWBcpRv3V+JK9Rg/mBl1PlXsnoBY4eK9nmuEJzgXB2mgPnfWkdgmZIA0i2Q+l5bv2/AjiYd02K00m4C/b0bmK/YoU0in2hP3OqpQThaX2GJue5Jt5EKYx86qP5uPki2LaPAitXG0zs5k8hTW12AXsZy9k5Ce5t7vEiVGAl+j98agp9s1Ktqn5zxKDj4MoF1qb3w5Um4A=;MpcsFBjzhg80za/sdN33Dg=="
 ---
 
