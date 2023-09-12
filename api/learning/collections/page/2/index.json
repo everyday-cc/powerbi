@@ -2382,8 +2382,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 206,
-            "average": 4.708738
+            "count": 207,
+            "average": 4.710145
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2883,8 +2883,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3855,
-            "average": 4.709728
+            "count": 3856,
+            "average": 4.709803
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3217,8 +3217,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1303,
-            "average": 4.7805066
+            "count": 1304,
+            "average": 4.780675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3427,8 +3427,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1303,
-            "average": 4.7805066
+            "count": 1304,
+            "average": 4.780675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3888,8 +3888,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 206,
-            "average": 4.708738
+            "count": 207,
+            "average": 4.710145
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4157,7 +4157,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-calculations-social.png",
@@ -5111,8 +5111,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12385,
-            "average": 4.738878
+            "count": 12386,
+            "average": 4.7388988
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5196,8 +5196,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10903,
-            "average": 4.7586904
+            "count": 10904,
+            "average": 4.7587123
           },
           "provider": {
             "name": "Microsoft Learn",
