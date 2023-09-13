@@ -2789,7 +2789,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3986,8 +3986,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 5145,
-        "average": 4.7461615
+        "count": 5147,
+        "average": 4.74626
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4029,8 +4029,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 13671,
-        "average": 4.6848803
+        "count": 13672,
+        "average": 4.68483
       },
       "provider": {
         "name": "Microsoft Learn",

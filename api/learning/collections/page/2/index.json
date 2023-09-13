@@ -679,8 +679,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 762,
-            "average": 4.7677164
+            "count": 763,
+            "average": 4.768021
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3813,7 +3813,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -5201,8 +5201,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10905,
-            "average": 4.7587347
+            "count": 10906,
+            "average": 4.7587566
           },
           "provider": {
             "name": "Microsoft Learn",
