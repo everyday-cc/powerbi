@@ -4,15 +4,15 @@
   "page": 22,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-effective-filters.md",
-      "title": "Configure Power BI report filters",
-      "excerpt": "Report filtering is a complex topic because many techniques are available for filtering a Microsoft Power BI report. However, with complexity comes control, allowing you to design reports that meet requirements and expectations.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-filters/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
-      "length": "PT45M",
+      "path": "_learning/courses/microsoft-learn-understand-concepts-of-data-analytics.md",
+      "title": "Understand concepts of data analytics",
+      "excerpt": "Explore key concepts of data analytics, including types of analytics, data, and storage. Explore the analytics process and tools used to discover insights.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-understand-concepts-of-data-analytics/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
+      "length": "PT28M",
       "ratings": {
-        "count": 834,
-        "average": 4.7517986
+        "count": 937,
+        "average": 4.8335114
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -32,7 +32,7 @@
       "heat": 53,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-filters-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/understand-concepts-of-data-analytics-social.png",
           "width": 1281,
           "height": 641,
           "isCached": true

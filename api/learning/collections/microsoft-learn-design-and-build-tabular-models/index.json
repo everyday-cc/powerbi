@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1804,
-        "average": 4.747228
+        "count": 1808,
+        "average": 4.746128
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -157,7 +157,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 53,
+      "heat": 52,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/enforce-power-bi-model-security-social.png",
