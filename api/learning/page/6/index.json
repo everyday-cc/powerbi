@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 3581,
-        "average": 4.7285676
+        "count": 3584,
+        "average": 4.7285156
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1472,8 +1472,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1808,
-            "average": 4.746128
+            "count": 1809,
+            "average": 4.7462687
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1641,8 +1641,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1307,
-            "average": 4.780413
+            "count": 1308,
+            "average": 4.780581
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1701,7 +1701,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/automate-data-cleaning-power-query-social.png",
@@ -1726,8 +1726,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 590,
-            "average": 4.745763
+            "count": 591,
+            "average": 4.746193
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1851,8 +1851,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1307,
-            "average": 4.780413
+            "count": 1308,
+            "average": 4.780581
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1911,7 +1911,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/automate-data-cleaning-power-query-social.png",
@@ -1936,8 +1936,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 590,
-            "average": 4.745763
+            "count": 591,
+            "average": 4.746193
           },
           "provider": {
             "name": "Microsoft Learn",

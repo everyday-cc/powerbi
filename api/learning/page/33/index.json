@@ -539,8 +539,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 573,
-            "average": 4.69459
+            "count": 575,
+            "average": 4.695652
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -832,8 +832,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 845,
-            "average": 4.648521
+            "count": 846,
+            "average": 4.6489363
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -916,8 +916,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 243,
-            "average": 4.7942386
+            "count": 244,
+            "average": 4.795082
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1061,8 +1061,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 243,
-        "average": 4.7942386
+        "count": 244,
+        "average": 4.795082
       },
       "provider": {
         "name": "Microsoft Learn",

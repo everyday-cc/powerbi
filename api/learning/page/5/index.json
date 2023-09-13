@@ -701,8 +701,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3255,
-            "average": 4.7631335
+            "count": 3256,
+            "average": 4.7628994
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -743,8 +743,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2798,
-            "average": 4.694067
+            "count": 2799,
+            "average": 4.6941767
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -785,8 +785,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3823,
-            "average": 4.6871567
+            "count": 3825,
+            "average": 4.68732
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -827,8 +827,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 6726,
-            "average": 4.797651
+            "count": 6727,
+            "average": 4.797681
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1724,8 +1724,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 9387,
-        "average": 4.7651005
+        "count": 9388,
+        "average": 4.7651258
       },
       "provider": {
         "name": "Microsoft Learn",

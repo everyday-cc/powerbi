@@ -996,8 +996,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12394,
-            "average": 4.7387447
+            "count": 12396,
+            "average": 4.7387867
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1184,8 +1184,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 6726,
-        "average": 4.797651
+        "count": 6727,
+        "average": 4.797681
       },
       "provider": {
         "name": "Microsoft Learn",
