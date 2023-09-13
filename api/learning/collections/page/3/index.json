@@ -772,8 +772,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 849,
-            "average": 4.6489987
+            "count": 850,
+            "average": 4.6494117
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1357,8 +1357,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-deployment-pipelines/",
           "length": "PT42M",
           "ratings": {
-            "count": 210,
-            "average": 4.7761903
+            "count": 211,
+            "average": 4.7772512
           },
           "provider": {
             "name": "Microsoft Learn",
