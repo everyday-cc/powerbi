@@ -410,8 +410,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3260,
-            "average": 4.7631903
+            "count": 3262,
+            "average": 4.763335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -452,8 +452,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2803,
-            "average": 4.694613
+            "count": 2804,
+            "average": 4.6947217
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -494,8 +494,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3827,
-            "average": 4.687484
+            "count": 3829,
+            "average": 4.687647
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -536,8 +536,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 6731,
-            "average": 4.797504
+            "count": 6732,
+            "average": 4.797534
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1355,8 +1355,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 3592,
-        "average": 4.728007
+        "count": 3595,
+        "average": 4.7276773
       },
       "provider": {
         "name": "Microsoft Learn",
