@@ -2505,8 +2505,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3864,
-            "average": 4.709886
+            "count": 3865,
+            "average": 4.7099614
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3484,7 +3484,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3903,8 +3903,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
       "length": "PT41M",
       "ratings": {
-        "count": 1694,
-        "average": 4.7615113
+        "count": 1695,
+        "average": 4.761652
       },
       "provider": {
         "name": "Microsoft Learn",
