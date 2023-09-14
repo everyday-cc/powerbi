@@ -1660,8 +1660,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-permissions-content/",
           "length": "PT33M",
           "ratings": {
-            "count": 76,
-            "average": 4.855263
+            "count": 77,
+            "average": 4.857143
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1702,8 +1702,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-content/",
           "length": "PT31M",
           "ratings": {
-            "count": 60,
-            "average": 4.7166667
+            "count": 61,
+            "average": 4.7213116
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2078,8 +2078,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-monitor/",
           "length": "PT11M",
           "ratings": {
-            "count": 198,
-            "average": 4.742424
+            "count": 199,
+            "average": 4.7336683
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3002,8 +3002,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
       "length": "PT41M",
       "ratings": {
-        "count": 1698,
-        "average": 4.7603064
+        "count": 1701,
+        "average": 4.760729
       },
       "provider": {
         "name": "Microsoft Learn",
