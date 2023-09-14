@@ -4509,7 +4509,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -4909,8 +4909,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 6762,
-            "average": 4.735877
+            "count": 6763,
+            "average": 4.735916
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5160,8 +5160,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13690,
-            "average": 4.6847334
+            "count": 13691,
+            "average": 4.6847563
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5178,7 +5178,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 68,
+          "heat": 67,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
