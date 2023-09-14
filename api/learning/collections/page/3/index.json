@@ -479,8 +479,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 575,
-            "average": 4.695652
+            "count": 576,
+            "average": 4.6961803
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -605,8 +605,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 475,
-            "average": 4.642105
+            "count": 476,
+            "average": 4.642857
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1232,8 +1232,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 322,
-            "average": 4.7298136
+            "count": 323,
+            "average": 4.73065
           },
           "provider": {
             "name": "Microsoft Learn",
