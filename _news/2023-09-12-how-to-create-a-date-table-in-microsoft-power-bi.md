@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/create-date-table-microsoft-p
 webUrl: "https://www.techrepublic.com/article/create-date-table-microsoft-power-bi/"
 type: article
 quality: 77
-heat: 78
+heat: 77
 published: true
 
 provider:
