@@ -659,8 +659,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 578,
-            "average": 4.697232
+            "count": 579,
+            "average": 4.697755
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -701,8 +701,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3980,
-            "average": 4.718342
+            "count": 3981,
+            "average": 4.7184124
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -952,8 +952,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 860,
-            "average": 4.65
+            "count": 861,
+            "average": 4.6504064
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1036,8 +1036,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 247,
-            "average": 4.7975707
+            "count": 248,
+            "average": 4.794355
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1181,8 +1181,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 247,
-        "average": 4.7975707
+        "count": 248,
+        "average": 4.794355
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1224,8 +1224,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
       "length": "PT15M",
       "ratings": {
-        "count": 3980,
-        "average": 4.718342
+        "count": 3981,
+        "average": 4.7184124
       },
       "provider": {
         "name": "Microsoft Learn",
