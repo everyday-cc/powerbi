@@ -4,14 +4,14 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/curbal-export-from-power-bi-to-excel-up-to-100k-rows-.md",
-      "title": "Export from Power BI to Excel up to 🔥100k rows 🔥!!",
-      "excerpt": "In a previous video  (https://www.youtube.com/watch?v=BnTipbooeP0&ab_channel=Curbal) I showed you how to export your data to excel using a button in Power Bi but there was a 1000 item limit.   I found a workaround and now you can export up to 100000 rows or 1000000 values per query!  FourMoo Blog:  https://www.fourmoo.com/2022/06/15/exporting-a-power-bi-visual-data-to-a-csv-file-in-sharepoint/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-export-from-power-bi-to-excel-up-to-100k-rows-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-export-from-power-bi-to-excel-up-to-100k-rows-/",
-      "originalUrl": "https://youtube.com/watch?v=WsbIXJDhC_o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WsbIXJDhC_o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M39S",
+      "path": "_learning/videos/curbal-need-to-hide-column-headers-in-power-bi-ive-got-you-covered-with-the-best-way-to-do-it.md",
+      "title": "Need To Hide Column Headers In Power Bi? I've Got You Covered With The Best Way To Do It!",
+      "excerpt": "Y0u probably are hiding column headers by changing the text color in Power BI, but there is a better way. Check it out on todays video!  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-need-to-hide-column-headers-in-power-bi-ive-got-you-covered-with-the-best-way-to-do-it/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-need-to-hide-column-headers-in-power-bi-ive-got-you-covered-with-the-best-way-to-do-it/",
+      "originalUrl": "https://youtube.com/watch?v=FhWEeOgZ_zg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FhWEeOgZ_zg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M10S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -24,11 +24,11 @@
           }
         ]
       },
-      "publishedDateTime": "2022-06-15T04:32:30-07:00",
+      "publishedDateTime": "2023-09-04T05:01:40-07:00",
       "heat": 89,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/WsbIXJDhC_o/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/FhWEeOgZ_zg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -141,8 +141,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 104420,
-            "average": 4.7756367
+            "count": 104432,
+            "average": 4.775605
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -183,8 +183,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 37669,
-            "average": 4.727654
+            "count": 37671,
+            "average": 4.7276683
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -226,8 +226,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 17286,
-            "average": 4.7211037
+            "count": 17287,
+            "average": 4.72112
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -497,8 +497,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 22794,
-            "average": 4.754716
+            "count": 22795,
+            "average": 4.754727
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -539,8 +539,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15876,
-            "average": 4.7719827
+            "count": 15880,
+            "average": 4.7720404
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -622,8 +622,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 22794,
-            "average": 4.754716
+            "count": 22795,
+            "average": 4.754727
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -664,8 +664,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15876,
-            "average": 4.7719827
+            "count": 15880,
+            "average": 4.7720404
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -747,8 +747,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 22794,
-            "average": 4.754716
+            "count": 22795,
+            "average": 4.754727
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -789,8 +789,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15876,
-            "average": 4.7719827
+            "count": 15880,
+            "average": 4.7720404
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -849,8 +849,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 15876,
-        "average": 4.7719827
+        "count": 15880,
+        "average": 4.7720404
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1325,8 +1325,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 5198,
-            "average": 4.745479
+            "count": 5200,
+            "average": 4.745577
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1368,8 +1368,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 863,
-            "average": 4.6477404
+            "count": 864,
+            "average": 4.648148
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1410,8 +1410,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12417,
-            "average": 4.738987
+            "count": 12418,
+            "average": 4.739008
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1452,8 +1452,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 3135,
-            "average": 4.7301435
+            "count": 3136,
+            "average": 4.729911
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1760,8 +1760,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 5198,
-            "average": 4.745479
+            "count": 5200,
+            "average": 4.745577
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1803,8 +1803,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 3135,
-            "average": 4.7301435
+            "count": 3136,
+            "average": 4.729911
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1890,8 +1890,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 2001,
-            "average": 4.7226386
+            "count": 2002,
+            "average": 4.7227774
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2030,8 +2030,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 22794,
-        "average": 4.754716
+        "count": 22795,
+        "average": 4.754727
       },
       "provider": {
         "name": "Microsoft Learn",
