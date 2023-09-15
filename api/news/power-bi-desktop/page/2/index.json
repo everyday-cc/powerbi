@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-19-summary-power-bi-update-april-2022.md",
+      "title": "Summary Power BI update April 2022",
+      "excerpt": "Here are the highlights for the Power BI update for April 2022.  Links to mentioned resources:  Power BI JSON theme files:  https://curbal.com/product-category/json-theme-for-power-bi  Error bars in Power BI:  https://www.youtube.com/watch?v=W4ODaIQ94vc&ab_channel=Curbal  Here you can download all the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-04-19-summary-power-bi-update-april-2022/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2022-04-19-summary-power-bi-update-april-2022/",
+      "originalUrl": "https://youtube.com/watch?v=ANf1hcyXSXQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ANf1hcyXSXQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T03:20:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2022-04-10-power-bi-update-april-2022.md",
       "title": "Power BI Update - April 2022",
       "excerpt": "Follow us on Twitter - https://twitter.com/mspowerbi\r \r More questions? Try asking the Power BI Community @ https://community.powerbi.com/   #PowerBI #Microsoft",
@@ -1445,58 +1497,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-power-bi-february-2021-feature-summary.md",
-      "title": "Power BI February 2021 Feature Summary",
-      "excerpt": "Welcome to the first feature summary of 2021! This month, we have a couple of updates on ongoing previews, as well as a new color picker that features RGB color selector and a search bar to make discovery of features easier. Additionally, we are introducing new filter operations and enable subscriptions",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-02-23-power-bi-february-2021-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-february-2021-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-february-2021-feature-summary/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h4JL2lITJ7U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T01:56:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
