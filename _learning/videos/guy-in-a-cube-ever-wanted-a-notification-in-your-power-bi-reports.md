@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT7M8S
 publishedDateTime: 2021-03-03T16:00:00Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0eYc-_KKTDs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ygP8S7xJFBynN89sLgybmui4ahy9qXVBWWS+9rywWZTolA/Bqa3aUg28/k+J6iV2PC3RoN3yUyDOLe0/n8lgPJHR22MZ7+ZyVQ+2OGTnVQX34jkDr1EKkUwRJugsieE8DokpnsquIwdA6j/HU+RWA9t+mtxyo64KlaymSvQnZE9XXAXZS1eCDGtrBktY44pcn5vh/xN6lGyAVwVdQAV1EvIZa+qyzP25sCGybhIjXUOcZBbWD0snNIo0wv8IBeuR6vBLSgv+WqJqcfoDgJtaMppidXugKunQwiWUkKzP1gXMDXdeSXwmCeVlO0rdk2aXFmgaTvX+z6cao2I5pyz/UFAb7PYTQWqY7z+pPl9XSDO+YElXtSiqaFWkKOd2PWa7Swbmj6fDI+oAFIt+2mwOeAcldprfbVIHGamghbE6xjA=;gykuQwY3WMHfoJ/dG0Vhfw=="
+secured: "CofryrrA+S+MyDCUAIkWNEeLiLFDdFLeN1aMuD/tLFh2JZljNvyRFiA4CoH6w4jgDe86rFjs15wDk+mlJ0m5XWAjzzv/w8OgqlraGbZiPoSPJCkT9ESj0UnJMIAjRPkSkR5uKEx8H8hzS2ODARrp7u68A5ho67k5KRmbm04ClFnbKtoqHp4mlAoAOSNKAgf7YqkzK7cRN1JAKbjZyt9p89WYRt4ZhDj75gw15QoM3LIF9nINpFvTDPkS0UrBEUKOw1vrGRseoAmDkwRDhGtXS3hixFuHjC5AnMqT990ZMLya1+ho9DX8eOGf7F+4hWYmnCUzgXQSQTDBXdhZZwoiPrO/NgaF84QVf3Y33+AGsgIl+Uj8FoyTMAPG1GI18FmKlynHRdURs8JZuLDEqFgxdDes/b7YLiaXfWzT6hj6Fq8=;aRQ7n/TLqqHR97BD4gNc8A=="
 ---
 
