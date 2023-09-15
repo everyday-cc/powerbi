@@ -944,7 +944,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/explore-azure-data-services-for-modern-analytics-social.png",
@@ -1231,8 +1231,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
       "length": "PT45M",
       "ratings": {
-        "count": 842,
-        "average": 4.7505937
+        "count": 843,
+        "average": 4.75089
       },
       "provider": {
         "name": "Microsoft Learn",
