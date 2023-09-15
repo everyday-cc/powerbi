@@ -678,8 +678,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 505,
-            "average": 4.7623763
+            "count": 506,
+            "average": 4.7608695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -948,8 +948,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 787,
-        "average": 4.703939
+        "count": 788,
+        "average": 4.7043147
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1034,8 +1034,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 2587,
-        "average": 4.7491302
+        "count": 2589,
+        "average": 4.7489376
       },
       "provider": {
         "name": "Microsoft Learn",
