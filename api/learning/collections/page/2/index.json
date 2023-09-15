@@ -4103,8 +4103,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-data-connectivity/",
           "length": "PT50M",
           "ratings": {
-            "count": 170,
-            "average": 4.617647
+            "count": 171,
+            "average": 4.619883
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5160,8 +5160,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13721,
-            "average": 4.6849356
+            "count": 13723,
+            "average": 4.6849813
           },
           "provider": {
             "name": "Microsoft Learn",
