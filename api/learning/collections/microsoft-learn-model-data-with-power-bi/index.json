@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 5218,
-        "average": 4.744921
+        "count": 5219,
+        "average": 4.7449703
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -138,8 +138,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 3143,
-        "average": 4.730512
+        "count": 3144,
+        "average": 4.730598
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -225,8 +225,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 2319,
-        "average": 4.716257
+        "count": 2320,
+        "average": 4.716379
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -312,8 +312,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10919,
-        "average": 4.7583113
+        "count": 10921,
+        "average": 4.7583556
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -354,8 +354,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 443,
-        "average": 4.591422
+        "count": 444,
+        "average": 4.5923424
       },
       "provider": {
         "name": "Microsoft Learn",

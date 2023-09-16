@@ -535,8 +535,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
           "length": "PT1H21M",
           "ratings": {
-            "count": 443,
-            "average": 4.591422
+            "count": 444,
+            "average": 4.5923424
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -983,8 +983,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2812,
-            "average": 4.694879
+            "count": 2814,
+            "average": 4.695096
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1622,8 +1622,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 13725,
-        "average": 4.6849546
+        "count": 13727,
+        "average": 4.6848545
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2037,8 +2037,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 3618,
-        "average": 4.7285795
+        "count": 3619,
+        "average": 4.7286544
       },
       "provider": {
         "name": "Microsoft Learn",
