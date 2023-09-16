@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 72900,
-        "average": 4.7951303
+        "count": 72909,
+        "average": 4.7951283
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 104609,
-        "average": 4.7756696
+        "count": 104615,
+        "average": 4.7756534
       },
       "provider": {
         "name": "Microsoft Learn",
