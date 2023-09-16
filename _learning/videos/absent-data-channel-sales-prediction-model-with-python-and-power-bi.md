@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M54S
 publishedDateTime: 2020-07-31T23:30:54Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0zveIwThlfE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "+i2RTkUeOrvOX/M2LN5SP+2DcYT+J2K2Pof+NTdvzGJxaEjlrlm5fsJIJ8821WXSSn+T2iltb1WXO2f+tcFpwzsvucRFQLXYiwWqiX9PPzBQoxUowQ3CUhbrQ+sJPoGMLTGYgtWFRbYYwtyHivF5kiK5Gfd1+tzav+3T43wTgDvWPNL/dhGOAh6cPQ/lC4UNM/u3lBKlJhLxTo8VLrzVOtYtnAEcI1Lxs8ANmdOShdgTzGihUVr0iPK7tXppDhwWVtTXrl+ZC3XORjs5WZLAjlyyqE5EqGvKqmQYfoRgL5FrrLGyqRzcgvDjm+HN4DVEnT4r/T4YrAVK9ab1MGnaE+N8cCQtS4c3LCVA9w+6dHD8qKfXI9vbl2TRZ4aInBK51aykwG1j2ghbjHSY4yt3H4MKAj0ETU8pC+yShEuxs74=;P30gM2rjdYSErPKHQKwTOQ=="
+secured: "GJaniia/9TlkcAvzyAko4/B+Cx0vDWprQTYYrVRz7AQCPRQOPl/IZ3InyLGMr0Ah37DI7JkSK6N4pu3E06PV7iOuye3sltQz7/2N+uV3/ahFFnR+br3L/WnmmswZtn6pZU0rDjXKbkbKINi7urenIkOX3Sercr9VVUhMigsHVfU2FBtvKjsfORLyO8tzMg0CXR028l71Omuzh6laBtzOYEj/TRsyFgK3+B7yK3SnknWANuC/OSXR8ImpPChNzLSOtPlVoAExxG6uu9+9+CNrqHpQoA32IyqbI4OM2SPFIsNO2ijq1n/ShXBX9+F+iCjObDxnYurFiqBSix5vWdKXU1CA6GB3Nq7uDGSpyK96oG94grMOI9Ol4MY+YRAFsLqwVHnNqov3VEeShX7HEf0oVjWE9znRI+zRT1fa8/e3Mkg=;wihTA32wX7KFaHkaMsg4/w=="
 ---
 
