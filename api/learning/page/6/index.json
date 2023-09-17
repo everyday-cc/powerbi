@@ -653,8 +653,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 237,
-            "average": 4.721519
+            "count": 238,
+            "average": 4.722689
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1590,7 +1590,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -1739,8 +1739,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 237,
-            "average": 4.721519
+            "count": 238,
+            "average": 4.722689
           },
           "provider": {
             "name": "Microsoft Learn",
