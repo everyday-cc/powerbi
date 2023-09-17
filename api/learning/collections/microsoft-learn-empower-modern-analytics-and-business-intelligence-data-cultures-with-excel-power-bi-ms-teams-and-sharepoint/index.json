@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
       "length": "PT37M",
       "ratings": {
-        "count": 1316,
-        "average": 4.780395
+        "count": 1317,
+        "average": 4.780562
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 130,
+      "heat": 50,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/automate-data-cleaning-power-query-social.png",
