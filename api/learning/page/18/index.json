@@ -638,8 +638,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 3270,
-        "average": 4.762691
+        "count": 3271,
+        "average": 4.762458
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1054,8 +1054,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
       "length": "PT16M",
       "ratings": {
-        "count": 480,
-        "average": 4.64375
+        "count": 481,
+        "average": 4.6444907
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1096,8 +1096,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-data-connectivity/",
       "length": "PT50M",
       "ratings": {
-        "count": 171,
-        "average": 4.619883
+        "count": 172,
+        "average": 4.622093
       },
       "provider": {
         "name": "Microsoft Learn",
