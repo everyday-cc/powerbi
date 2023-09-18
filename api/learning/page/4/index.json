@@ -2293,8 +2293,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 483,
-            "average": 4.6459627
+            "count": 485,
+            "average": 4.647423
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2920,8 +2920,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3878,
-            "average": 4.71016
+            "count": 3880,
+            "average": 4.7103095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3045,8 +3045,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 8059,
-            "average": 4.726765
+            "count": 8060,
+            "average": 4.726799
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3859,7 +3859,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
