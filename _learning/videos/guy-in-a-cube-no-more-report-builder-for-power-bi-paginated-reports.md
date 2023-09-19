@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M31S
 publishedDateTime: 2023-09-07T12:50:36Z
-heat: 134
+heat: 133
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gMLwKdfSmu0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "sbSEGA/OjPUzoAXpeN4SfD5X4dcF9vnRIuB1Xz1ePtoVskExnrrDa1Xb8QrqO4PDuWQQWz1A387wRVwcjqHUiK1JcE+HyvVShJjKA2eWyiEsO3IB2OcKbQ1tkkNi5ShpY0Eud6VOplwvPljaxFx5cWvbxsXbJujKWV45UpUnbAl3xpeynlNmhhCNvV48HRnW3kB2W/bp6SPiRdX//N3Ql1QsaD74X4DbYM/4qBA4O+HQ7MFe5VKcC3vusfVS1OH4KQ+7ry7Zhwcazb17OtaahCXckAWeWvS7bm6olhtS0njIVPL39gQDzuUqUES9EGt55PgLqg/6kJVOoWrnnkAK+nyRqGQXtmBqB0PdbArUNzSlRnXPY1MNuv8NoojVbOQvpjs8kR1DYdUkeNOTkKrsE9JYG56B74WBEno0HUqEUZI=;+ZNvi4lL71dtNreRt7wadw=="
+secured: "LvXjQJure2C4KD/2D/HNeBbJsN9datji15thELqqXuXWzYLlDTuQuwzER83Nl4cK85w051dfNR0n/8s9e7Mo1nCEO65xH1jSKpw7jWRL1nEW8IXsjfGSXYvYZFcoPyVXjtSZ3+IBlRrJOV2JS5aeWUEV5heoNtWpN+zXmVK3VBDqGKwEJX+HgyuksevwFWSs8+lMoSVNgzgR0ZpOqwOyg9lzUdqxfJ1TiprDHuqmYhBrMxzwXxw5qmdeRr0Bt4L/apQnR2Pf9msJ4JzADxbLlMQL4MRul/sqBjM+BrsiN8YND4fZRwhWzsoBudh60HydjZuvDuIZ4LoLByiJnhSy9zGNegjbkMVXZo8OQYUdLt+ADayjdhYjLTHoHk/ETpdK4+W0nkc2eyecBdmnQqVp+8tayUp5MH4cApSyn62lA0M=;tmMTFwDGG9xHaE8djTqjvA=="
 ---
 
