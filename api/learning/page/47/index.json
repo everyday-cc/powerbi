@@ -4,6 +4,32 @@
   "page": 47,
   "value": [
     {
+      "path": "_learning/articles/excelerator-bi-do-i-need-a-power-bi-premium-per-user-licence.md",
+      "title": "Do I Need a Power BI Premium Per User Licence?",
+      "excerpt": "As is often the case, the inspiration for many of my blog articles comes from my experiences working with clients. Today I was on a call with a client in the USA who is still very early into his PowerBI.com journey. I noticed that he had a Power BI Premium [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-do-i-need-a-power-bi-premium-per-user-licence/index.json",
+      "webUrl": "https://exceleratorbi.com.au/do-i-need-a-power-bi-premium-per-user-licence/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2021-12-23T15:35:09-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/12/122321_2109_DoINeedaPow1.png",
+          "width": 457,
+          "height": 270,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/articles/excelerator-bi-do-not-build-a-column-chart-like-this-please.md",
       "title": "Do Not Build a Column Chart Like This – Please!",
       "excerpt": "I was inspired into action this week by one of the worst visuals I have seen during the COVID pandemic. Here is the visual below, take a look and see what you think. When I first saw this chart, I simply couldn&#8217;t make sense of it. The first thing I [...]Read More »",
@@ -791,32 +817,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-power-bi-live-embedding-in-powerpoint.md",
-      "title": "Power BI Live Embedding In PowerPoint",
-      "excerpt": "I first blogged about this back in October 2021 when Microsoft announced live Power BI embedding was coming to PowerPoint. Believe it or not, the ability to embed Power Pivot reports into PowerPoint was one of the first features delivered by Microsoft way back in 2014 or 2015. It used [...]Read More",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-power-bi-live-embedding-in-powerpoint/index.json",
-      "webUrl": "https://exceleratorbi.com.au/power-bi-live-embedding-in-powerpoint/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2022-08-15T22:14:04-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/08/081622_0451_PowerBILive5.png",
-          "width": 533,
-          "height": 301,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
       ]
     }
   ],
