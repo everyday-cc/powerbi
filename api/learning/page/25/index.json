@@ -254,8 +254,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 3282,
-        "average": 4.7629495
+        "count": 3283,
+        "average": 4.7630215
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -382,8 +382,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
       "length": "PT37M",
       "ratings": {
-        "count": 774,
-        "average": 4.627907
+        "count": 775,
+        "average": 4.628387
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -830,8 +830,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-power-bi-application-lifecycle-management-strategy/",
           "length": "PT25M",
           "ratings": {
-            "count": 130,
-            "average": 4.792308
+            "count": 131,
+            "average": 4.778626
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -997,8 +997,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 907,
-            "average": 4.646086
+            "count": 910,
+            "average": 4.6472526
           },
           "provider": {
             "name": "Microsoft Learn",
