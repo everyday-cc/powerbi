@@ -296,8 +296,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 8077,
-            "average": 4.7268786
+            "count": 8078,
+            "average": 4.7269125
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -338,8 +338,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 6801,
-            "average": 4.7360682
+            "count": 6803,
+            "average": 4.736146
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -628,8 +628,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 8077,
-        "average": 4.7268786
+        "count": 8078,
+        "average": 4.7269125
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1287,7 +1287,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 132,
+          "heat": 52,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/modern-analytics-data-modeling-social.png",
@@ -1497,7 +1497,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 132,
+          "heat": 52,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/modern-analytics-data-modeling-social.png",
@@ -1581,8 +1581,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 9471,
-        "average": 4.7660227
+        "count": 9473,
+        "average": 4.766072
       },
       "provider": {
         "name": "Microsoft Learn",
