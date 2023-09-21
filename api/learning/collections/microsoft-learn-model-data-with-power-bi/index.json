@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 5307,
-        "average": 4.745242
+        "count": 5309,
+        "average": 4.745338
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 73,
+      "heat": 71,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
@@ -96,8 +96,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 12467,
-        "average": 4.738269
+        "count": 12469,
+        "average": 4.7380705
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -138,8 +138,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 3184,
-        "average": 4.7314696
+        "count": 3185,
+        "average": 4.7312403
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -268,8 +268,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1855,
-        "average": 4.742857
+        "count": 1857,
+        "average": 4.743134
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -312,8 +312,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10939,
-        "average": 4.758022
+        "count": 10940,
+        "average": 4.758044
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -354,8 +354,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 458,
-        "average": 4.59607
+        "count": 459,
+        "average": 4.59695
       },
       "provider": {
         "name": "Microsoft Learn",

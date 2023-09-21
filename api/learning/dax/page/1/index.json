@@ -221,8 +221,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 5307,
-            "average": 4.745242
+            "count": 5309,
+            "average": 4.745338
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -239,7 +239,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 73,
+          "heat": 71,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
@@ -264,8 +264,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 3184,
-            "average": 4.7314696
+            "count": 3185,
+            "average": 4.7312403
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1919,8 +1919,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 3184,
-        "average": 4.7314696
+        "count": 3185,
+        "average": 4.7312403
       },
       "provider": {
         "name": "Microsoft Learn",

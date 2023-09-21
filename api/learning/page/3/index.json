@@ -4,36 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-.md",
-      "title": "Copilot AI 🤖 in Power BI: How to Enable & Use + Impact on Power BI Professionals 🤔",
-      "excerpt": "👉 LearnPowerBI Training: https://www.LearnPowerBI.com/training 👉 Power BI Consultant Launchpad 🚀: https://web.learnpowerbi.com/consultant-launchpad/ 👉 Power BI Consultant Program: https://www.LearnPowerBI.com/pro Let me show you how you can enable and use the very exciting copilot AI technology within",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-/",
-      "originalUrl": "https://youtube.com/watch?v=yo5fbDxSJAE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yo5fbDxSJAE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M24S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2023-07-19T09:00:57-07:00",
-      "heat": 73,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yo5fbDxSJAE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/guy-in-a-cube-using-power-bi-gateways-to-connect-to-data-sources.md",
       "title": "Using Power BI gateways to connect to data sources",
       "excerpt": "Learn all about the On-Premises Data Gateway and how it is used with the Power BI service. The Power BI gateway can be used to refresh imported data as well as allow you to use DirectQuery or connect live to an Analysis Services mode.",
@@ -638,6 +608,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-dax-power-bi-models.md",
+      "title": "Describe Power BI Desktop models",
+      "excerpt": "In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This module provides a strong foundation on which you can learn to optimize model designs and add model calculations.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-models/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 5309,
+        "average": 4.745338
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 71,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-power-bi-effective-requirements.md",
       "title": "Scope report design requirements",
       "excerpt": "Gathering appropriate inputs to scope your report design requirements involves identifying your audience, determining the suitable report types, and defining their interface and experience requirements. This module provides you with a strong foundation on which to learn how to plan your report design requirements.",
@@ -645,8 +658,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 3680,
-        "average": 4.730163
+        "count": 3682,
+        "average": 4.7303095
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1045,8 +1058,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 3680,
-            "average": 4.730163
+            "count": 3682,
+            "average": 4.7303095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1254,8 +1267,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 3680,
-            "average": 4.730163
+            "count": 3682,
+            "average": 4.7303095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1535,44 +1548,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/us0hPFwQ4Zs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-saying-goodbye.md",
-      "title": "Saying goodbye...",
-      "excerpt": "It's time to say goodbye and move on.   📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.\r \r 🎓 Guy in a Cube courses: https://guyinacu.be/courses\r \r *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-saying-goodbye/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-saying-goodbye/",
-      "originalUrl": "https://youtube.com/watch?v=G_v1DyZoP_s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G_v1DyZoP_s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M6S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-08-18T08:00:22-07:00",
-      "heat": 69,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/G_v1DyZoP_s/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1920,6 +1895,215 @@
           "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-manage-workspaces-and-datasets-in-power-bi.md",
+      "title": "Manage workspaces and datasets in Power BI",
+      "excerpt": "Once you have created your Power BI data sets and reports, it’s time to deploy them so the users can take advantage of all of your hard work. In this Learning Path, you will learn how to create workspaces in the Power BI service. You will deploy your Power BI artifacts here and share them to your users. You will also learn how to connect Power BI reports to on-premise data sources. Your users will appreciate seeing the latest data in your reports, so you will configure automatic refresh for your Power BI datasets. Row-level security allows you to create one report, but have users be restricted to see only the data that applies to them. This targets data to users, without having to create multiple reports.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-manage-workspaces-and-datasets-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-manage-workspaces-and-datasets-in-power-bi/",
+      "length": "PT1H55M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-create-manage-workspaces-power-bi.md",
+          "title": "Create and manage workspaces in Power BI ",
+          "excerpt": "This module explains how you can share reports and datasets with your users and how to create a deployment strategy that makes sense for you and your organization. Furthermore, you will learn about data lineage in Microsoft Power BI.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-manage-workspaces-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 3289,
+            "average": 4.761934
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/create-manage-workspaces-power-bi-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-manage-datasets-power-bi.md",
+          "title": "Manage datasets in Power BI ",
+          "excerpt": "With Microsoft Power BI, you can build multiple reports from a single dataset, meaning that if you change the dataset, all reports will be updated with that change. Additionally, you can clean and prep data once rather than repeatedly for each report.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-manage-datasets-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
+          "length": "PT32M",
+          "ratings": {
+            "count": 2828,
+            "average": 4.6948376
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/manage-datasets-in-power-bi-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-dashboards-power-bi.md",
+          "title": "Create dashboards in Power BI",
+          "excerpt": "Microsoft Power BI dashboards are different than Power BI reports. Dashboards allow report consumers to create a single artifact of directed data that is personalized just for them.  Dashboards can be comprised of pinned visuals that are taken from different reports. Where a Power BI report uses data from a single dataset, a Power BI dashboard can contain visuals from different datasets.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-dashboards-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
+          "length": "PT1H8M",
+          "ratings": {
+            "count": 3854,
+            "average": 4.686559
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/create-dashboards-power-bi-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-row-level-security-power-bi.md",
+          "title": "Implement row-level security",
+          "excerpt": "Row-level security (RLS) allows you to create a single or a set of reports that targets data for a specific user. In this module, you will learn how to implement RLS by using either a static or dynamic method and how Microsoft Power BI simplifies testing RLS in Power BI Desktop and Power BI service.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-row-level-security-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
+          "length": "PT9M",
+          "ratings": {
+            "count": 6764,
+            "average": 4.7970138
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/row-level-security-power-bi-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 68,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/create-manage-workspaces-power-bi-social.png",
+          "width": 643,
+          "height": 321,
           "isCached": true
         }
       ],

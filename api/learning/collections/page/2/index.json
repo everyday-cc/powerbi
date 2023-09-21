@@ -1261,8 +1261,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 772,
-            "average": 4.7681346
+            "count": 773,
+            "average": 4.7684345
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5061,8 +5061,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12467,
-            "average": 4.738269
+            "count": 12469,
+            "average": 4.7380705
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5146,8 +5146,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10939,
-            "average": 4.758022
+            "count": 10940,
+            "average": 4.758044
           },
           "provider": {
             "name": "Microsoft Learn",

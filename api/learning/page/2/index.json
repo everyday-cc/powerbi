@@ -141,8 +141,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 22958,
-            "average": 4.754813
+            "count": 22962,
+            "average": 4.7545943
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -183,8 +183,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 16040,
-            "average": 4.7725687
+            "count": 16042,
+            "average": 4.772597
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -266,8 +266,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 22958,
-            "average": 4.754813
+            "count": 22962,
+            "average": 4.7545943
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -308,8 +308,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 16040,
-            "average": 4.7725687
+            "count": 16042,
+            "average": 4.772597
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -391,8 +391,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 22958,
-            "average": 4.754813
+            "count": 22962,
+            "average": 4.7545943
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -433,8 +433,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 16040,
-            "average": 4.7725687
+            "count": 16042,
+            "average": 4.772597
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -493,8 +493,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 16040,
-        "average": 4.7725687
+        "count": 16042,
+        "average": 4.772597
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -573,8 +573,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 22958,
-        "average": 4.754813
+        "count": 22962,
+        "average": 4.7545943
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -730,8 +730,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 37809,
-        "average": 4.7274194
+        "count": 37812,
+        "average": 4.7274146
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1334,8 +1334,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 5307,
-            "average": 4.745242
+            "count": 5309,
+            "average": 4.745338
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1352,7 +1352,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 73,
+          "heat": 71,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
@@ -1419,8 +1419,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12467,
-            "average": 4.738269
+            "count": 12469,
+            "average": 4.7380705
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1461,8 +1461,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 3184,
-            "average": 4.7314696
+            "count": 3185,
+            "average": 4.7312403
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1585,8 +1585,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 5307,
-            "average": 4.745242
+            "count": 5309,
+            "average": 4.745338
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1603,7 +1603,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 73,
+          "heat": 71,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
@@ -1628,8 +1628,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 3184,
-            "average": 4.7314696
+            "count": 3185,
+            "average": 4.7312403
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1771,49 +1771,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-models.md",
-      "title": "Describe Power BI Desktop models",
-      "excerpt": "In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This module provides a strong foundation on which you can learn to optimize model designs and add model calculations.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-models/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 5307,
-        "average": 4.745242
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 73,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-creating-your-first-data-warehouse-in-microsoft-fabric.md",
       "title": "Creating your first Data Warehouse in Microsoft Fabric",
       "excerpt": "It's time to show the Data Warehouse within Microsoft Fabric some love! Patrick walks you through how you can get started with your first Data Warehouse using Data Pipelines.  What is data warehousing in Microsoft Fabric? https://learn.microsoft.com/fabric/data-warehouse/data-warehousing  Microsoft Fabric",
@@ -1915,6 +1872,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/WybnTHDl-AM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-.md",
+      "title": "Copilot AI 🤖 in Power BI: How to Enable & Use + Impact on Power BI Professionals 🤔",
+      "excerpt": "👉 LearnPowerBI Training: https://www.LearnPowerBI.com/training 👉 Power BI Consultant Launchpad 🚀: https://web.learnpowerbi.com/consultant-launchpad/ 👉 Power BI Consultant Program: https://www.LearnPowerBI.com/pro Let me show you how you can enable and use the very exciting copilot AI technology within",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-/",
+      "originalUrl": "https://youtube.com/watch?v=yo5fbDxSJAE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yo5fbDxSJAE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M24S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2023-07-19T09:00:57-07:00",
+      "heat": 73,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yo5fbDxSJAE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
