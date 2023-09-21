@@ -1245,7 +1245,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 54,
+          "heat": 57,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1480,7 +1480,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -5061,8 +5061,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12464,
-            "average": 4.738527
+            "count": 12465,
+            "average": 4.738548
           },
           "provider": {
             "name": "Microsoft Learn",
