@@ -54,8 +54,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 3196,
-        "average": 4.7315392
+        "count": 3198,
+        "average": 4.731707
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -184,8 +184,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 799,
-        "average": 4.6971216
+        "count": 800,
+        "average": 4.69625
       },
       "provider": {
         "name": "Microsoft Learn",
