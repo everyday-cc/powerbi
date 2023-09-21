@@ -1022,8 +1022,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
           "length": "PT1H21M",
           "ratings": {
-            "count": 463,
-            "average": 4.600432
+            "count": 464,
+            "average": 4.601293
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1275,8 +1275,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
       "length": "PT46M",
       "ratings": {
-        "count": 932,
-        "average": 4.6512876
+        "count": 933,
+        "average": 4.6495175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1359,8 +1359,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 12480,
-        "average": 4.738061
+        "count": 12481,
+        "average": 4.738082
       },
       "provider": {
         "name": "Microsoft Learn",
