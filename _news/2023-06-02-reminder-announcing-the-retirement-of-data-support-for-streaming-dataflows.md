@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/reminder-announcing-the-r
 webUrl: "https://powerbi.microsoft.com/en-us/blog/reminder-announcing-the-retirement-of-data-support-for-streaming-dataflows/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
