@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
       "length": "PT41M",
       "ratings": {
-        "count": 1742,
-        "average": 4.76349
+        "count": 1743,
+        "average": 4.763626
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 63,
+      "heat": 58,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-reports-social.png",
