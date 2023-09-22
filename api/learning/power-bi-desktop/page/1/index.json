@@ -52,7 +52,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 73,
+          "heat": 70,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
@@ -227,8 +227,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 37847,
-        "average": 4.7273498
+        "count": 37851,
+        "average": 4.727352
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -288,7 +288,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 73,
+      "heat": 70,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
@@ -583,8 +583,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1873,
-        "average": 4.7399893
+        "count": 1875,
+        "average": 4.740267
       },
       "provider": {
         "name": "Microsoft Learn",

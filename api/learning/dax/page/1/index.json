@@ -200,7 +200,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 73,
+          "heat": 70,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
@@ -1770,8 +1770,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1873,
-        "average": 4.7399893
+        "count": 1875,
+        "average": 4.740267
       },
       "provider": {
         "name": "Microsoft Learn",
