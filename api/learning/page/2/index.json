@@ -4,6 +4,44 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/videos/curbal-get-power-bi-to-quickly-and-easily-visualize-your-forecasted-data.md",
+      "title": "Get Power Bi To Quickly And Easily Visualize Your Forecasted Data!",
+      "excerpt": "Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-get-power-bi-to-quickly-and-easily-visualize-your-forecasted-data/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-get-power-bi-to-quickly-and-easily-visualize-your-forecasted-data/",
+      "originalUrl": "https://youtube.com/watch?v=Kr36CDvgER8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Kr36CDvgER8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M40S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-09-12T02:36:48-07:00",
+      "heat": 88,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Kr36CDvgER8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-power-platform.md",
       "title": "Introduction to Microsoft Power Platform",
       "excerpt": "Introduction to Microsoft Power Platform",
@@ -11,8 +49,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 34230,
-        "average": 4.721706
+        "count": 34234,
+        "average": 4.721739
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -884,8 +922,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 3199,
-            "average": 4.731791
+            "count": 3201,
+            "average": 4.731959
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1012,8 +1050,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 3199,
-            "average": 4.731791
+            "count": 3201,
+            "average": 4.731959
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1056,8 +1094,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 2354,
-            "average": 4.717502
+            "count": 2356,
+            "average": 4.7173176
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1882,8 +1920,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1752,
-            "average": 4.7636986
+            "count": 1753,
+            "average": 4.7638335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2091,8 +2129,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1752,
-            "average": 4.7636986
+            "count": 1753,
+            "average": 4.7638335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2222,45 +2260,6 @@
       ],
       "content": "\r\n",
       "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-get-started-with-the-power-bi-gateway.md",
-      "title": "Get started with the Power BI Gateway",
-      "excerpt": "Get to know what the Power BI Gateway is along with how to get it setup for scheduled refresh of imported data.  Free Gateway Cube Sheet: https://guyinacu.be/gatewaystartpdf  Gateway Documentation: https://docs.microsoft.com/power-bi/service-gateway-onprem  Gateway sizing: https://docs.microsoft.com/power-bi/guidance/gateway-onprem-sizing",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-get-started-with-the-power-bi-gateway/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-get-started-with-the-power-bi-gateway/",
-      "originalUrl": "https://youtube.com/watch?v=Vlv1tbuZNcM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vlv1tbuZNcM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M18S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-05T08:00:04-08:00",
-      "heat": 74,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Vlv1tbuZNcM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Get started with the Power BI Gateway",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"

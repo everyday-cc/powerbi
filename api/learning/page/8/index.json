@@ -1815,8 +1815,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 210,
-            "average": 4.714286
+            "count": 211,
+            "average": 4.7156396
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1940,8 +1940,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 248,
-            "average": 4.641129
+            "count": 249,
+            "average": 4.6425705
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2149,8 +2149,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 248,
-            "average": 4.641129
+            "count": 249,
+            "average": 4.6425705
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2901,8 +2901,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 210,
-            "average": 4.714286
+            "count": 211,
+            "average": 4.7156396
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2943,8 +2943,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-monitor/",
           "length": "PT11M",
           "ratings": {
-            "count": 202,
-            "average": 4.7376237
+            "count": 203,
+            "average": 4.7389164
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3714,8 +3714,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 2354,
-        "average": 4.717502
+        "count": 2356,
+        "average": 4.7173176
       },
       "provider": {
         "name": "Microsoft Learn",

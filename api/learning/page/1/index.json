@@ -186,8 +186,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 73359,
-            "average": 4.795349
+            "count": 73360,
+            "average": 4.7953515
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -228,8 +228,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 105354,
-            "average": 4.7753196
+            "count": 105360,
+            "average": 4.775332
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -288,8 +288,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 105354,
-        "average": 4.7753196
+        "count": 105360,
+        "average": 4.775332
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -323,31 +323,31 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-is-data-wrangler-the-power-query-of-python.md",
-      "title": "Is Data Wrangler the Power Query of Python?",
-      "excerpt": "Have you tried Data Wrangler within Microsoft Fabric or Visual Studio Code? It's a great way to start cleaning your data and have it write your python code for you! Really getting the Power Query vibes and we love it!  How to accelerate data prep with Data Wrangler in Microsoft Fabric https://learn.microsoft.com/fabric/data-science/data-wrangler",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-is-data-wrangler-the-power-query-of-python/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-is-data-wrangler-the-power-query-of-python/",
-      "originalUrl": "https://youtube.com/watch?v=Ge0VWZMa50I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ge0VWZMa50I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M58S",
+      "path": "_learning/videos/sqlbi-differences-between-groupby-and-summarize.md",
+      "title": "Differences between GROUPBY and SUMMARIZE",
+      "excerpt": "GROUPBY and SUMMARIZE seem similar, but they differ in both performance and functionalities. Choose the right one depending on specific scenarios!\r Article and download: https://sql.bi/805881?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-differences-between-groupby-and-summarize/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-differences-between-groupby-and-summarize/",
+      "originalUrl": "https://youtube.com/watch?v=sPJyESLn3cM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sPJyESLn3cM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M30S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2023-08-15T08:00:10-07:00",
-      "heat": 140,
+      "publishedDateTime": "2023-08-15T03:00:18-07:00",
+      "heat": 144,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Ge0VWZMa50I/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/sPJyESLn3cM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -357,8 +357,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power Query"
+        "Power BI"
       ]
     },
     {
@@ -400,23 +399,31 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-how-to-write-any-dax-measure-in-just-3-easy-steps-.md",
-      "title": "Power BI: How to Write any DAX Measure In Just 3 Easy Steps 👣",
-      "excerpt": "Are you struggling to write DAX Measures? In this video I explain 3 Simple Steps that Non-Techie Business Users can take to write any DAX Measure. 👉 Get Power BI Training: https://www.LearnPowerBI.com/training 👉 Get Power BI Advanced Training: https://www.LearnPowerBI.com/advance  ==Table of Contents==",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-how-to-write-any-dax-measure-in-just-3-easy-steps-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-how-to-write-any-dax-measure-in-just-3-easy-steps-/",
-      "originalUrl": "https://youtube.com/watch?v=CNPtS-2n5yc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CNPtS-2n5yc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M17S",
+      "path": "_learning/videos/guy-in-a-cube-can-you-use-power-query-dynamic-m-parameters-for-multi-select.md",
+      "title": "Can you use Power Query Dynamic M Parameters for multi-select?",
+      "excerpt": "Dynamic M parameters in Power Query isn't anything new. However, Patrick was challenged with using them to allow for multi-select and \"select all\" with a slicer in a Power BI report. Will he succeed?   Dynamic M query parameters in Power BI Desktop https://learn.microsoft.com/power-bi/connect-data/desktop-dynamic-m-query-parameters",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-you-use-power-query-dynamic-m-parameters-for-multi-select/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-you-use-power-query-dynamic-m-parameters-for-multi-select/",
+      "originalUrl": "https://youtube.com/watch?v=ilTeVH2Cwck",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ilTeVH2Cwck\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M16S",
       "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2023-06-28T09:00:08-07:00",
-      "heat": 138,
+      "publishedDateTime": "2023-06-28T08:00:36-07:00",
+      "heat": 137,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/CNPtS-2n5yc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ilTeVH2Cwck/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -427,7 +434,7 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "DAX"
+        "Power Query"
       ]
     },
     {
@@ -461,16 +468,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-27-march-2023-update.md",
-      "title": "Power BI Paginated Reports in a Day - 27: March 2023 Update",
-      "excerpt": "In this video, Peter Myers (Microsoft Most Valued Professional - Data Platform, and course developer) describes and demonstrates new capabilities and features added to #Microsoft #PowerBI paginated reports since the last update for December 2021 was recorded.    For more information about the online",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-27-march-2023-update/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-27-march-2023-update/",
-      "originalUrl": "https://youtube.com/watch?v=df1divWTGQ0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/df1divWTGQ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M26S",
+      "path": "_learning/collections/microsoft-learn-implement-a-data-streaming-solution-with-azure-stream-analytics.md",
+      "title": "Implement a Data Streaming Solution with Azure Stream Analytics",
+      "excerpt": "Implement a Data Streaming Solution with Azure Stream Analytics",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-implement-a-data-streaming-solution-with-azure-stream-analytics/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-implement-a-data-streaming-solution-with-azure-stream-analytics/",
+      "length": "PT3H2M",
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -481,18 +486,107 @@
           }
         ]
       },
-      "publishedDateTime": "2023-06-26T01:16:31-07:00",
-      "heat": 133,
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-visualize-real-time-data-azure-stream-analytics-power-bi.md",
+          "title": "Visualize real-time data with Azure Stream Analytics and Power BI",
+          "excerpt": "By combining the stream processing capabilities of Azure Stream Analytics and the data visualization capabilities of Microsoft Power BI, you can create real-time data dashboards.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visualize-real-time-data-azure-stream-analytics-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/visualize-real-time-data-azure-stream-analytics-power-bi/",
+          "length": "PT1H8M",
+          "ratings": {
+            "count": 284,
+            "average": 4.78169
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 130,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 1,
+      "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/df1divWTGQ0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-visualize-real-time-data-azure-stream-analytics-power-bi.md",
+      "title": "Visualize real-time data with Azure Stream Analytics and Power BI",
+      "excerpt": "By combining the stream processing capabilities of Azure Stream Analytics and the data visualization capabilities of Microsoft Power BI, you can create real-time data dashboards.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visualize-real-time-data-azure-stream-analytics-power-bi/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/visualize-real-time-data-azure-stream-analytics-power-bi/",
+      "length": "PT1H8M",
+      "ratings": {
+        "count": 284,
+        "average": 4.78169
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -733,8 +827,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 73359,
-        "average": 4.795349
+        "count": 73360,
+        "average": 4.7953515
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1144,8 +1238,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 105354,
-            "average": 4.7753196
+            "count": 105360,
+            "average": 4.775332
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1426,8 +1520,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13807,
-            "average": 4.685232
+            "count": 13809,
+            "average": 4.685133
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1460,8 +1554,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 105354,
-            "average": 4.7753196
+            "count": 105360,
+            "average": 4.775332
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1618,44 +1712,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/WsbIXJDhC_o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-get-power-bi-to-quickly-and-easily-visualize-your-forecasted-data.md",
-      "title": "Get Power Bi To Quickly And Easily Visualize Your Forecasted Data!",
-      "excerpt": "Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-get-power-bi-to-quickly-and-easily-visualize-your-forecasted-data/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-get-power-bi-to-quickly-and-easily-visualize-your-forecasted-data/",
-      "originalUrl": "https://youtube.com/watch?v=Kr36CDvgER8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Kr36CDvgER8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M40S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-09-12T02:36:48-07:00",
-      "heat": 88,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Kr36CDvgER8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
