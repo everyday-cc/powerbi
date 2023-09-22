@@ -162,7 +162,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 50,
+          "heat": 51,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -3023,8 +3023,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 240,
-            "average": 4.725
+            "count": 241,
+            "average": 4.726141
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3065,8 +3065,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 209,
-            "average": 4.7129188
+            "count": 210,
+            "average": 4.714286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3166,7 +3166,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
@@ -3375,7 +3375,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
@@ -4109,8 +4109,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 240,
-            "average": 4.725
+            "count": 241,
+            "average": 4.726141
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4151,8 +4151,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 209,
-            "average": 4.7129188
+            "count": 210,
+            "average": 4.714286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4193,8 +4193,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-monitor/",
           "length": "PT11M",
           "ratings": {
-            "count": 201,
-            "average": 4.7363186
+            "count": 202,
+            "average": 4.7376237
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4253,7 +4253,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
@@ -4318,8 +4318,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 150,
-            "average": 4.7733335
+            "count": 151,
+            "average": 4.768212
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5070,8 +5070,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12482,
-            "average": 4.738103
+            "count": 12483,
+            "average": 4.738124
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5173,7 +5173,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 58,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/optimize-model-power-bi-social.png",
@@ -5191,7 +5191,7 @@
         }
       ],
       "size": 3,
-      "heat": 57,
+      "heat": 58,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/design-a-data-model-in-power-bi-social.png",
@@ -5332,7 +5332,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 57,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/intro-to-power-bi-mobile-apps-social.png",
@@ -5350,7 +5350,7 @@
         }
       ],
       "size": 3,
-      "heat": 56,
+      "heat": 57,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/analyze-explore-data-power-bi-social.png",

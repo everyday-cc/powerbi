@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 1146,
-            "average": 4.7539268
+            "count": 1147,
+            "average": 4.7541413
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 958,
-            "average": 4.8329854
+            "count": 959,
+            "average": 4.8331594
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -479,8 +479,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 330,
-            "average": 4.730303
+            "count": 331,
+            "average": 4.7311177
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -562,8 +562,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 513,
-            "average": 4.7641325
+            "count": 514,
+            "average": 4.764591
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -604,8 +604,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 584,
-            "average": 4.696918
+            "count": 585,
+            "average": 4.697436
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -646,8 +646,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4002,
-            "average": 4.7173915
+            "count": 4003,
+            "average": 4.717462
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -729,8 +729,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 934,
-            "average": 4.649893
+            "count": 935,
+            "average": 4.649198
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1315,8 +1315,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-power-bi-application-lifecycle-management-strategy/",
           "length": "PT25M",
           "ratings": {
-            "count": 131,
-            "average": 4.778626
+            "count": 132,
+            "average": 4.7727275
           },
           "provider": {
             "name": "Microsoft Learn",
