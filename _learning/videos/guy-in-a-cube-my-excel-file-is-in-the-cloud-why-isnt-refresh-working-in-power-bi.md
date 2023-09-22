@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M23S
 publishedDateTime: 2022-05-04T15:00:11Z
-heat: 65
+heat: 64
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CYSMZxaXNLk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "3+M2HCpGoe31bIb99wDze9Kb42bLhITIGI9gqNM7ZHe5D1xsU8V0xSlq0PK13t0jIDocubN2MNq5oaTd7HPPnTRu6Q1S5T1s0h+IdqJ7mQ8Rlc284BuBZE149KJ/nJ0FpBpmh+UEG1D3R/WFSSsOOv7QuGT5w/CjWx5ONon/jq6yGLr6kNA0CJzJL5Zb7vavnu4WoQzlFiIAS3EswFKjlpdbxNMGYJUVZlhR7ySOxANfEoxwG6mmUcz4OTmnUkUmnEgTj19SNthf7/Libr3GKoLuKn+eqm7jjSKoUn1TKdBxtjqDaEPOJXox+LPBxG68unRfJL0k7mOfHjIeZgxLNlVk8BsnSz7l/6GHFSLknY5ka6OC5VImbTkQ677S2O3iNaKzr61Mhg+ok0YQxh/iUBAsaKsXwNcIkbfMDnjiRpw=;fD5DBUYlIXf8vtQtRKCRpA=="
+secured: "LUct+uneikNnlKO6Mt7T8YvOga++3uT9dNtoVp4U10Ne+yOoMmHjPLBpvrsH/xrwgypbxECq4pZA8ncKYpV+W+JMGhHveAf6Dzu2Rw1cQ449nwtTRC5SvLNJwAhsVNMx53yGt3LpVQ32ngD5rTK+M3YWDOTi54FVLSNa3CmFLJvTorshwZhGe5gn/mueKrqt0EbQnWF4dHuYp++LUDQ6KCEPWSDM859Xx9QmjHTibDIXvfWmp/sJznlCRew18oX6F/FASIcgEQCWHOywkIhqL1hdIetMB0p7PwghwCHeW14oeK1TtQ/abacYCoR0jfwmVL9rb+NcOpoXg1Z4F2CswEkufmEoRmWsBRnHrW8lvvbyM+s/4aiUSZMJMy5y6MCYGH3ftG1ZFD4SxBgsIbNEgusLZ7cwOrvHxcaqjBO03jo=;n9GCGI7AOSLh2OHSIp4Qhg=="
 ---
 
