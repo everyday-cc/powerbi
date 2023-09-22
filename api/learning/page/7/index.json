@@ -1391,8 +1391,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1330,
-            "average": 4.7827067
+            "count": 1331,
+            "average": 4.78287
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1601,8 +1601,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1330,
-            "average": 4.7827067
+            "count": 1331,
+            "average": 4.78287
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2129,8 +2129,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1871,
-        "average": 4.740246
+        "count": 1872,
+        "average": 4.7403846
       },
       "provider": {
         "name": "Microsoft Learn",
