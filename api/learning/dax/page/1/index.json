@@ -182,8 +182,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 5327,
-            "average": 4.7450724
+            "count": 5328,
+            "average": 4.74512
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -200,7 +200,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 70,
+          "heat": 73,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
@@ -225,8 +225,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 3205,
-            "average": 4.7319813
+            "count": 3206,
+            "average": 4.731441
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -269,8 +269,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 2359,
-            "average": 4.717677
+            "count": 2360,
+            "average": 4.717797
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -492,8 +492,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 3205,
-        "average": 4.7319813
+        "count": 3206,
+        "average": 4.731441
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1770,8 +1770,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1872,
-        "average": 4.7403846
+        "count": 1873,
+        "average": 4.7399893
       },
       "provider": {
         "name": "Microsoft Learn",
