@@ -241,7 +241,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
@@ -5156,8 +5156,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12486,
-            "average": 4.7380266
+            "count": 12487,
+            "average": 4.7380476
           },
           "provider": {
             "name": "Microsoft Learn",
