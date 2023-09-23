@@ -1326,9 +1326,18 @@
       "originalUrl": "https://www.itmagazine.ch/veranstaltungen/1905/Smart_Manufacturing_Digital_Summit.html",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G4QzWDv4s6M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "highlight": null,
-      "heat": 139,
+      "heat": 159,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.itmagazine.ch/imgserver/artikel/Personen/2023/small/noname_2309255_100933.jpg",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.itmagazine.ch/veranstaltungen/1905/Smart_Manufacturing_Digital_Summit.html",

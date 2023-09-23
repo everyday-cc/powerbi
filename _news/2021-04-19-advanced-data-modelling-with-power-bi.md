@@ -8,8 +8,8 @@ webUrl: "https://www.itmagazine.ch/veranstaltungen/1905/Smart_Manufacturing_Digi
 ampWebUrl: "https://www.itmagazine.ch/veranstaltungen/1905/Smart_Manufacturing_Digital_Summit.html"
 cdnAmpWebUrl: "https://www-itmagazine-ch.cdn.ampproject.org/c/s/www.itmagazine.ch/veranstaltungen/1905/Smart_Manufacturing_Digital_Summit.html"
 type: article
-quality: 139
-heat: 139
+quality: 159
+heat: 159
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G4QzWDv4s6M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
@@ -26,6 +26,12 @@ topics:
   - Power BI
   - Power BI Desktop
 
-secured: "DjPOFVCHutFsLsPWJmb6Q9XYL2k7AlebylSVP9OuW7fr4wOFQTAtNet14pYHqxgqvLVXeimaqbjbdiVuISGU3MuyQ1SO8g6lPTqaRb85pTJr58/aMWSkIRe9wSgsA0/AA8LUNlIQRtoWeJimZNRvgq2LubJ0OF77V0t9XJkS2ze9XNaIozJmiz1/+oxChtqsqtryFCNwPo5PynM/fJLJ5VjgiTB2ksq5MiVtnMYeUjKbGk4DWubUARwukpg9Vj+GpfjtyKWcPmYyGYUsHXvCNnkVZvo9ezaSeQy9f5u/7gns0c6My9hpiZoc18hZLNL2po8aAY6/R0wwVmWZ3Ui8M/gtG/4omqsdisDKpC2dhfN4qgD1iOFNI41dN3IdzACq4SbC33vZ2GItpoEZ8oM685jSjz+ynGoOtQRqhv/6ZTfdieGcRpnwI/uPqC7uJqFAfb4Zx9/lZlr5N6SvAqZzjA==;emvv8tdnzZP5wm3sar5UFQ=="
+images:
+  - url: "https://www.itmagazine.ch/imgserver/artikel/Personen/2023/small/noname_2309255_100933.jpg"
+    width: 350
+    height: 233
+    isCached: true
+
+secured: "LrBibnzFxRez65qYY04z2F65Ju6NDtxdhRVs94jXKcMqHBmZ8WmRGiUbZsDMQ7KgdrnTLEhB1ItdT6WLtfzlBoWPN3DhrFvx3pXFDauB4KXsWMJAO29Fm8nWbQMUpvsdSkJMosd/xWo1psgnfQssJarYr9mIclUPYmHR6O5HlhVoGsU2YG5amGAHs2ZUj/hLZeCX+omLNLeKGJOWoAUguH491sRizykPWPMGYbMdafBAsYGkn2TR2PB72wmYcg21t0Q/R+1AbdgfHvRETReHR5arBV8Ulgt99+fkeLxpObv/Gm8I2QSwdGhevCVtUAOObZetwqcpgj3E8JRgCCVemFMQj8ncUbK2+0g88iaTV01Rp2YMrCrRF1JhS0pkoEM8IQYbJuHI5WA+ncyopcc3jza8Qd8beRzZnh4aNgf6+Z9ZIYohmelJFtAcWHy2IOePryh/l3nQdccgBtFB28+t0A==;Xifuyoz59JpCm57e7m0tqA=="
 ---
 
