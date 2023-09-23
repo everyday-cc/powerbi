@@ -3617,7 +3617,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-content-social.png",
@@ -5400,8 +5400,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2618,
-            "average": 4.747899
+            "count": 2619,
+            "average": 4.7479954
           },
           "provider": {
             "name": "Microsoft Learn",
