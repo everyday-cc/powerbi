@@ -156,6 +156,36 @@
       ]
     },
     {
+      "path": "_learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-.md",
+      "title": "Copilot AI 🤖 in Power BI: How to Enable & Use + Impact on Power BI Professionals 🤔",
+      "excerpt": "👉 LearnPowerBI Training: https://www.LearnPowerBI.com/training 👉 Power BI Consultant Launchpad 🚀: https://web.learnpowerbi.com/consultant-launchpad/ 👉 Power BI Consultant Program: https://www.LearnPowerBI.com/pro Let me show you how you can enable and use the very exciting copilot AI technology within",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-copilot-ai-in-power-bi-how-to-enable-use-impact-on-power-bi-professionals-/",
+      "originalUrl": "https://youtube.com/watch?v=yo5fbDxSJAE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yo5fbDxSJAE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M24S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2023-07-19T09:00:57-07:00",
+      "heat": 148,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yo5fbDxSJAE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-get-started-with-microsoft-data-analytics.md",
       "title": "Get started with Microsoft data analytics",
       "excerpt": "Businesses need data analysis more than ever. In this learning path, you will learn about the life and journey of a data analyst, the skills, tasks, and processes they go through in order to tell a story with data so trusted business decisions can be made. You will learn how the suite of Power BI tools and services are used by a data analyst to tell a compelling story through reports and dashboards, and the need to true BI in the enterprise.",
@@ -186,8 +216,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 73440,
-            "average": 4.7953024
+            "count": 73443,
+            "average": 4.795297
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -228,8 +258,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 105488,
-            "average": 4.7753396
+            "count": 105495,
+            "average": 4.7753353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -288,8 +318,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 105488,
-        "average": 4.7753396
+        "count": 105495,
+        "average": 4.7753353
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -361,44 +391,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-when-to-use-smoothed-line-chart-dos-a-donts.md",
-      "title": "When to use smoothed line chart | Do's a Don'ts",
-      "excerpt": "Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  On the Power BI  Update for July 2023, the team introduced the possibility to smooth line charts. In this video, we will discuss the issues with",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-when-to-use-smoothed-line-chart-dos-a-donts/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-when-to-use-smoothed-line-chart-dos-a-donts/",
-      "originalUrl": "https://youtube.com/watch?v=8GckHV3PlkM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8GckHV3PlkM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M22S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-08-15T03:41:52-07:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8GckHV3PlkM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-get-and-use-python-libraries-within-microsoft-fabric.md",
       "title": "Get and use Python Libraries within Microsoft Fabric",
       "excerpt": "Sometimes you need python libraries that aren't present by default in Microsoft Fabric. Patrick walks you through how to manage your python libraries, so they are available when you need them.  Manage Python libraries in Microsoft Fabric https://learn.microsoft.com/fabric/data-science/python-guide/python-library-management",
@@ -437,38 +429,42 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-comparing-different-school-terms-in-power-bi.md",
-      "title": "Comparing different school terms in Power BI",
-      "excerpt": "How to implement the comparison between school terms. The same technique can be applied to any arbitrary time periods that do not match regular months or quarters in a calendar, such as seasons or campaigns.\r \r Article and download: https://sql.bi/805847?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-comparing-different-school-terms-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-comparing-different-school-terms-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=Qs1InWp3rKQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Qs1InWp3rKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M7S",
+      "path": "_learning/courses/microsoft-learn-power-bi-admin-premium.md",
+      "title": "Provision Premium capacity in Power BI",
+      "excerpt": "Learn about the differences between Power BI Pro and Power BI Premium, and how Power BI Premium manages capacity resources.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-premium/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
+      "length": "PT19M",
+      "ratings": {
+        "count": 181,
+        "average": 4.8342543
+      },
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2023-08-01T03:00:14-07:00",
+      "levels": [
+        "Intermediate"
+      ],
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Qs1InWp3rKQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
+          "width": 641,
+          "height": 321,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -709,8 +705,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 73440,
-        "average": 4.7953024
+        "count": 73443,
+        "average": 4.795297
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1074,8 +1070,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 26809,
-            "average": 4.7502704
+            "count": 26810,
+            "average": 4.75028
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1150,8 +1146,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 105488,
-            "average": 4.7753396
+            "count": 105495,
+            "average": 4.7753353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1210,8 +1206,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 26809,
-        "average": 4.7502704
+        "count": 26810,
+        "average": 4.75028
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1358,8 +1354,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 34275,
-        "average": 4.7217507
+        "count": 34277,
+        "average": 4.721767
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1454,8 +1450,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 23018,
-            "average": 4.754844
+            "count": 23020,
+            "average": 4.754865
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1496,8 +1492,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 16091,
-            "average": 4.772979
+            "count": 16093,
+            "average": 4.773007
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1579,8 +1575,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 23018,
-            "average": 4.754844
+            "count": 23020,
+            "average": 4.754865
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1621,8 +1617,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 16091,
-            "average": 4.772979
+            "count": 16093,
+            "average": 4.773007
           },
           "provider": {
             "name": "Microsoft Learn",
