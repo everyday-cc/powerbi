@@ -156,44 +156,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-get-your-measures-organized-in-power-bi.md",
-      "title": "Get your measures organized in Power BI",
-      "excerpt": "As you make more measures in your Power BI Dataset, it can get hard to find the one you need. Sure you can use search...  But you can also organize your measures to make it easier to find them. Patrick shows you how!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-get-your-measures-organized-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-get-your-measures-organized-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=IZDacEcbfog",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IZDacEcbfog\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M22S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-08-23T08:00:12-07:00",
-      "heat": 150,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IZDacEcbfog/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-get-started-with-microsoft-data-analytics.md",
       "title": "Get started with Microsoft data analytics",
       "excerpt": "Businesses need data analysis more than ever. In this learning path, you will learn about the life and journey of a data analyst, the skills, tasks, and processes they go through in order to tell a story with data so trusted business decisions can be made. You will learn how the suite of Power BI tools and services are used by a data analyst to tell a compelling story through reports and dashboards, and the need to true BI in the enterprise.",
@@ -224,8 +186,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 73448,
-            "average": 4.795311
+            "count": 73451,
+            "average": 4.7953057
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -266,8 +228,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 105502,
-            "average": 4.775284
+            "count": 105507,
+            "average": 4.7752943
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -326,8 +288,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 105502,
-        "average": 4.775284
+        "count": 105507,
+        "average": 4.7752943
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -399,23 +361,31 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-direct-lake-what-is-it-and-why-it-is-important-when-working-with-fabric.md",
-      "title": "Power BI Direct Lake - What is it and Why it is Important When Working With Fabric",
-      "excerpt": "With the Microsoft Fabric announcement, There are also additional features in Power BI that makes the connection between Power BI and other Microsoft Fabric objects seamless and more profound. One of these features is the Direct Lake connection in Power BI. In this article and video, we'll talk about",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-direct-lake-what-is-it-and-why-it-is-important-when-working-with-fabric/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-direct-lake-what-is-it-and-why-it-is-important-when-working-with-fabric/",
-      "originalUrl": "https://youtube.com/watch?v=eJVYmDq5YCw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eJVYmDq5YCw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M17S",
+      "path": "_learning/videos/guy-in-a-cube-create-meaningful-data-labels-with-measures-in-power-bi.md",
+      "title": "Create MEANINGFUL data labels with measures in Power BI",
+      "excerpt": "Tired of the usual text data labels that only have one value? Looking for something different? Patrick shows you how to customize your data labels using DAX in your Power BI reports!   📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-create-meaningful-data-labels-with-measures-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-create-meaningful-data-labels-with-measures-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=RaHAoZD2mZE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RaHAoZD2mZE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M10S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2023-06-26T13:00:20-07:00",
-      "heat": 135,
+      "publishedDateTime": "2023-06-29T08:00:14-07:00",
+      "heat": 134,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/eJVYmDq5YCw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/RaHAoZD2mZE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -429,31 +399,74 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-sql-server-in-microsoft-fabric-use-cetas-to-move-data.md",
-      "title": "SQL Server in Microsoft Fabric? Use CETaS to move data!",
-      "excerpt": "People have been asking \"What about SQL Server?\" with regards to Microsoft Fabric. Bob Ward joins us to show a way you can get your SQL data into Fabric with CETaS and the power of shortcuts in OneLake. And, then use that data in Power BI!  CREATE EXTERNAL TABLE AS SELECT (CETAS) (Transact-SQL) https://learn.microsoft.com/sql/t-sql/statements/create-external-table-as-select-transact-sql?view=sql-server-ver16&tabs=powershell",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-sql-server-in-microsoft-fabric-use-cetas-to-move-data/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-sql-server-in-microsoft-fabric-use-cetas-to-move-data/",
-      "originalUrl": "https://youtube.com/watch?v=DB8zujLjzVo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DB8zujLjzVo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M15S",
+      "path": "_learning/courses/microsoft-learn-explore-enterprise-grade-etl-data-preparation-using-dataflows.md",
+      "title": "Explore enterprise-grade ETL and data preparation using dataflows",
+      "excerpt": "Explore enterprise-grade ETL and data preparation using dataflows",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-enterprise-grade-etl-data-preparation-using-dataflows/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-enterprise-grade-etl-data-preparation-using-dataflows/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 5,
+        "average": 4.6
+      },
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2023-06-27T08:00:13-07:00",
-      "heat": 134,
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/DB8zujLjzVo/maxresdefault.jpg",
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Dataflows"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-make-relative-dates-in-power-bi-start-on-monday-hack-and-a-rant.md",
+      "title": "Make relative dates in Power BI start on Monday | Hack and a rant",
+      "excerpt": "Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-make-relative-dates-in-power-bi-start-on-monday-hack-and-a-rant/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-make-relative-dates-in-power-bi-start-on-monday-hack-and-a-rant/",
+      "originalUrl": "https://youtube.com/watch?v=y75R5ZVO78w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y75R5ZVO78w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M20S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-07-04T04:51:37-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/y75R5ZVO78w/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -701,8 +714,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 73448,
-        "average": 4.795311
+        "count": 73451,
+        "average": 4.7953057
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1066,8 +1079,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 26812,
-            "average": 4.7502985
+            "count": 26818,
+            "average": 4.7503543
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1142,8 +1155,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 105502,
-            "average": 4.775284
+            "count": 105507,
+            "average": 4.7752943
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1202,8 +1215,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 26812,
-        "average": 4.7502985
+        "count": 26818,
+        "average": 4.7503543
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1350,8 +1363,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 34277,
-        "average": 4.721767
+        "count": 34280,
+        "average": 4.7217326
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1446,8 +1459,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 23021,
-            "average": 4.754876
+            "count": 23023,
+            "average": 4.7548537
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1488,8 +1501,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 16095,
-            "average": 4.773035
+            "count": 16097,
+            "average": 4.773063
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1571,8 +1584,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 23021,
-            "average": 4.754876
+            "count": 23023,
+            "average": 4.7548537
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1613,8 +1626,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 16095,
-            "average": 4.773035
+            "count": 16097,
+            "average": 4.773063
           },
           "provider": {
             "name": "Microsoft Learn",
