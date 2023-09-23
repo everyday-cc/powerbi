@@ -4,6 +4,82 @@
   "page": 87,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-what-are-the-main-tools-for-azure-synapse-and-sql.md",
+      "title": "What are the main tools for Azure Synapse and SQL???",
+      "excerpt": "Getting started with Azure Synapse Analytics or Azure SQL Database? Or even Microsoft SQL Server in general? Patrick shows you how to use some of the common tools and be able to connect to your instance!  Download SQL Server Management Studio https://docs.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-are-the-main-tools-for-azure-synapse-and-sql/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-are-the-main-tools-for-azure-synapse-and-sql/",
+      "originalUrl": "https://youtube.com/watch?v=iBwmMklI2Ac",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iBwmMklI2Ac\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M47S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-06-14T08:00:26-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iBwmMklI2Ac/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-what-do-you-want-to-see-from-guy-in-a-cube-channel-update.md",
+      "title": "What do you want to see from Guy in a Cube? - Channel Update",
+      "excerpt": "It's 2023 and there are amazing things ahead! Adam looks at what will be coming for the Guy in a Cube channel, and more importantly has a question for YOU!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-do-you-want-to-see-from-guy-in-a-cube-channel-update/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-do-you-want-to-see-from-guy-in-a-cube-channel-update/",
+      "originalUrl": "https://youtube.com/watch?v=WQGS48ZcdbE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WQGS48ZcdbE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M2S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-01-26T08:00:17-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WQGS48ZcdbE/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-what-does-power-bi-cost-including-power-bi-report-server.md",
       "title": "What Does Power BI Cost? (Including Power BI Report Server)",
       "excerpt": "What does Power BI cost? Adam has a lot of discussions around that. He will break down the Power BI cost and covers licenses, Power BI Premium and including Power BI Report Server and more! If you have ever asked yourself \"What does Power BI cost?\", this video is for you.  Power BI Pricing: https://powerbi.microsoft.com/pricing/",
@@ -996,66 +1072,6 @@
           "url": "https://i.ytimg.com/vi/xpFreaHLjqE/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-7-habits-of-highly-effective-power-bi-professionals-talk-power-bi-live-subscribe-join.md",
-      "title": "7 Habits of Highly Effective Power BI Professionals 🔴Talk Power BI LIVE (Subscribe & Join)",
-      "excerpt": "What takes a Power BI Consultant from Good to Great? Do all of them have some specific habits in common? Can the rest of us learn and adopt those habits to get the same success? 👉 Learn More about our Pro+ Program: https://www.learnpowerbi.com/proplus  ★ Marianne: https://www.LearnPowerBI.com/about",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-7-habits-of-highly-effective-power-bi-professionals-talk-power-bi-live-subscribe-join/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-7-habits-of-highly-effective-power-bi-professionals-talk-power-bi-live-subscribe-join/",
-      "originalUrl": "https://youtube.com/watch?v=03rokNM5Ahc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/03rokNM5Ahc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H15M49S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2020-02-07T10:55:37-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/03rokNM5Ahc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-against-all-odds-inspiring-power-bi-story-of-jason-baldessari.md",
-      "title": "Against All Odds! Inspiring Power BI Story of Jason Baldessari",
-      "excerpt": "Learn how Jason turned his life around, from rock bottom to a successful Power BI Professional approaching multiple 6 figures. Find out the right kind of investment he made to achieve success in life. Watch till the end.   👉Connect with Jason (LinkedIn): https://www.linkedin.com/in/jason-baldessari-93341611/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-against-all-odds-inspiring-power-bi-story-of-jason-baldessari/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-against-all-odds-inspiring-power-bi-story-of-jason-baldessari/",
-      "originalUrl": "https://youtube.com/watch?v=wIfiUM3ggaM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wIfiUM3ggaM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M59S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2019-10-07T09:00:14-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wIfiUM3ggaM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
           "isCached": true
         }
       ],
