@@ -3025,8 +3025,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3912,
-            "average": 4.7088447
+            "count": 3913,
+            "average": 4.7086635
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4840,8 +4840,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12498,
-            "average": 4.738038
+            "count": 12499,
+            "average": 4.738059
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4925,8 +4925,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10956,
-            "average": 4.757941
+            "count": 10957,
+            "average": 4.757963
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5008,8 +5008,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13831,
-            "average": 4.684911
+            "count": 13832,
+            "average": 4.6849337
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5042,8 +5042,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11814,
-            "average": 4.7084813
+            "count": 11815,
+            "average": 4.708506
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5084,8 +5084,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2623,
-            "average": 4.7483797
+            "count": 2625,
+            "average": 4.7481904
           },
           "provider": {
             "name": "Microsoft Learn",
