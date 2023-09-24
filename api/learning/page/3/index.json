@@ -76,8 +76,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2835,
-            "average": 4.6945324
+            "count": 2836,
+            "average": 4.69464
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -118,8 +118,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3864,
-            "average": 4.6863356
+            "count": 3865,
+            "average": 4.6864166
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -399,8 +399,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1881,
-            "average": 4.7400317
+            "count": 1882,
+            "average": 4.739639
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3135,8 +3135,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1337,
-            "average": 4.7830963
+            "count": 1338,
+            "average": 4.7832584
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3345,8 +3345,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1337,
-            "average": 4.7830963
+            "count": 1338,
+            "average": 4.7832584
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3657,7 +3657,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-monitor-social.png",
