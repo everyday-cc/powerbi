@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M32S
 publishedDateTime: 2019-01-09T14:20:10Z
-heat: 56
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TEIdI5bFCSU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports: Data source, Dataset and parameters"
 
-secured: "t29ggxWN+4Krhp21bRIrzBpFZioXm0SYQYdULEp4qptwTf0TkLiz6jtffysjVmEuw5pIQRyRT699WhRI3mYI3rEuhFrQiZUJFfr7/ZkIeCBpckeRV1eW3NsLgUQL/Bck4xvulCa2DjcJ16pjilP1eQXksfI/5zQMnajP4mqLtxFteg0EakedJ/+ld3OL0sHjVjzuTmkglTfPxzBtUPHliHN5wCOcg5knc01IhKYA9UkbLFkeSLcuYXB+YHyIFjcj/2th3qjM9sbvU8WJ+t+NGFcouSr3WBj+FgB1fHGfe9pZFi0w5KZchcsa9yoP/Oun297MhWuX39HPr3OtHEQjzswqXUkX8VPa/l+87a3p1E0Cmxg2YVLRJ4JByyEjVQDO+G7Xjs4ed9JKfwWtAhlx2yqEXbpn6+mQ1ZQGJ7ODVe8=;9do9hTbPLjL06AhT+r+tmw=="
+secured: "YMY1/kkWCcAh76OWH31VX6tPRXp8bbNCMSfmkM5pkROGRNNmdb/pw5CWxkKu2TkXOZy2w5Qkl9mJ8aSxMjENM1XZ5K98hlUpLQcnVuRuByfrHmjZ9FjSKbGSSuVJ5dcj3BMYiV2zBhRDKKmlTJfkomFZrsgGDy/BRJfyDmHwqKIF8k0FLNPVoT7VQG+cTuuP4GwB4uNW8VVZ/QSt9j+VUjtWATHGFD0BuLi+CZyIeq7Z/MaIVah3/Ab2eyiulbCckmYzba/Yv8s0h1sESsNxk3tIw7sZVJrov8NB/jCkYiQLqTDfG7z61+AXH6sjstdpnC+BOazj4MeUnroFRiW4tFC9CKBCFpzoDMuPUE9226wOaUk+nmAm3oqrg+/VMkowQVgEAzeCoU0Rr1py6rata8NH5QwCf0Yadm2jRIejfA8=;xGsfZ1/xRnuMxpGWY4lzGQ=="
 ---
 
