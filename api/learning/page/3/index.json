@@ -3135,8 +3135,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1336,
-            "average": 4.782934
+            "count": 1337,
+            "average": 4.7830963
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3345,8 +3345,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1336,
-            "average": 4.782934
+            "count": 1337,
+            "average": 4.7830963
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3657,7 +3657,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-monitor-social.png",
