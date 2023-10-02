@@ -712,8 +712,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 529,
-            "average": 4.7561436
+            "count": 530,
+            "average": 4.7566037
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -754,8 +754,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 595,
-            "average": 4.6907563
+            "count": 596,
+            "average": 4.691275
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -796,8 +796,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4038,
-            "average": 4.7159486
+            "count": 4040,
+            "average": 4.7160892
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -963,8 +963,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 264,
-            "average": 4.787879
+            "count": 265,
+            "average": 4.788679
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1024,8 +1024,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 940,
-        "average": 4.7840424
+        "count": 941,
+        "average": 4.784272
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1151,8 +1151,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-your-first-power-bi-report/",
       "length": "PT55M",
       "ratings": {
-        "count": 6741,
-        "average": 4.7712507
+        "count": 6743,
+        "average": 4.7713184
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1269,8 +1269,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 813,
-        "average": 4.694957
+        "count": 814,
+        "average": 4.6953316
       },
       "provider": {
         "name": "Microsoft Learn",

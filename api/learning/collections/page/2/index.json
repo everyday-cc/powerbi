@@ -3184,8 +3184,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3949,
-            "average": 4.707521
+            "count": 3950,
+            "average": 4.707595
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4867,8 +4867,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12561,
-            "average": 4.7376003
+            "count": 12563,
+            "average": 4.7376423
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4952,8 +4952,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10991,
-            "average": 4.757711
+            "count": 10992,
+            "average": 4.757733
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5035,8 +5035,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13947,
-            "average": 4.6853085
+            "count": 13954,
+            "average": 4.685323
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5069,8 +5069,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11847,
-            "average": 4.7084494
+            "count": 11851,
+            "average": 4.7085476
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5111,8 +5111,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2664,
-            "average": 4.747372
+            "count": 2665,
+            "average": 4.747467
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5194,8 +5194,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 8148,
-            "average": 4.726927
+            "count": 8151,
+            "average": 4.7270274
           },
           "provider": {
             "name": "Microsoft Learn",
