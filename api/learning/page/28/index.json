@@ -910,8 +910,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 1009,
-            "average": 4.654113
+            "count": 1010,
+            "average": 4.6544557
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1055,8 +1055,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 939,
-        "average": 4.7838125
+        "count": 940,
+        "average": 4.7840424
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1258,8 +1258,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-power-bi-model-relationships/",
       "length": "PT1H30M",
       "ratings": {
-        "count": 239,
-        "average": 4.761506
+        "count": 240,
+        "average": 4.7625
       },
       "provider": {
         "name": "Microsoft Learn",
