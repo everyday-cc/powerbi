@@ -2599,8 +2599,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 342,
-            "average": 4.6725144
+            "count": 343,
+            "average": 4.6734695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5035,8 +5035,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13954,
-            "average": 4.685323
+            "count": 13955,
+            "average": 4.6853456
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5069,8 +5069,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11851,
-            "average": 4.7085476
+            "count": 11852,
+            "average": 4.7085724
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5111,8 +5111,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2665,
-            "average": 4.747467
+            "count": 2666,
+            "average": 4.747562
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5194,8 +5194,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 8151,
-            "average": 4.7270274
+            "count": 8153,
+            "average": 4.727094
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5236,8 +5236,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 6843,
-            "average": 4.7356424
+            "count": 6844,
+            "average": 4.735681
           },
           "provider": {
             "name": "Microsoft Learn",
