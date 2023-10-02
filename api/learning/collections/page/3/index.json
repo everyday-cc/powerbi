@@ -187,8 +187,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 1171,
-            "average": 4.7557645
+            "count": 1172,
+            "average": 4.755973
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -229,8 +229,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 980,
-            "average": 4.8336735
+            "count": 981,
+            "average": 4.833843
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -271,8 +271,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 978,
-            "average": 4.811861
+            "count": 979,
+            "average": 4.812053
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -438,8 +438,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4036,
-            "average": 4.715808
+            "count": 4038,
+            "average": 4.7159486
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -521,8 +521,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 1010,
-            "average": 4.6544557
+            "count": 1011,
+            "average": 4.654797
           },
           "provider": {
             "name": "Microsoft Learn",
