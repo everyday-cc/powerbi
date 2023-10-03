@@ -271,8 +271,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 979,
-            "average": 4.812053
+            "count": 980,
+            "average": 4.812245
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -521,8 +521,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 1017,
-            "average": 4.6568336
+            "count": 1018,
+            "average": 4.657171
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1064,8 +1064,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visualize-real-time-data-azure-stream-analytics-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 296,
-            "average": 4.7702703
+            "count": 297,
+            "average": 4.771044
           },
           "provider": {
             "name": "Microsoft Learn",
