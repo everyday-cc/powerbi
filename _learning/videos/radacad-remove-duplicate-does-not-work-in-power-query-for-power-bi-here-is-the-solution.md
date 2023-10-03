@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M27S
 publishedDateTime: 2019-03-04T01:17:49Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mkpo6NFb7Io\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "Wt23KKdgPY/0V2Tzz4wDahcEdNWtFk0tpKG8kIRuXjsPthSnZVf4dW5Mga58nZVjM4iONmOXIxQpbJeWS83jXQ1e6cqGQ2KF+Xax2e4Wq6u7rpND3qWNwTKyIxQL99RIbUYb2b0kHpStfpUnlK7so5jP6KL/dgUgSK5p4ppVTXoJOk6ujKb7NcSjwgooaJlOXlRsHsSLZ6dyRwTOmQGUPg8xNztJp2HuRlkNO0lNh9ueon3T2Ye8Z0tDUHOihXet4LFU9ipZOVMIF2C97B6Kgijy8EQWoJsmsNK/aLWkSnNtpXz3++2XRbgkfLHIRibp5qKeSmY6ugXX1QwxUKHigdD4tXn0mzQVzivADdcCB9Pza5LFI1UOgp4QcrWNjs/Zx68CNUDtrIDBs5qqTj6NBT8AfGIExq5hI4ABhWS6tNc=;xyFs6rG6iHDlG9njtGXhIg=="
+secured: "2O/v6xaNnCUoCHwHyUQrI0Q8OlBm+HrXxQS6MchCZokfjh4BF7tYwkXXZB31JJpqId87hgil/Tisler+S5+p+jiELj2SPwIoTkm9zTKkXrV1G3e0WqivY7TA41XGvYk/EIIcCrdGhA/7CNYtycluQEAPURX3wOxeM40epULda2d2RSVkAu9gaWZf/wu8SHujyAKMPcFkWyTMq02Hb8Ow678g55pW0sv70QHWN0/dPMkZfvs8og62bAEXAEs/iu7AyjYU+PZoeZtUhUEbYCyxjtfSlxlSafy7LoubpQRfJANMyipCSjp+cTfJVIzs45ZUknYg0YjfJBgEOKc8FG0REz+h0rIAl9fKa8mDtg8fnoNBpa+y0jtVFxLLQbAEUyohXTey2dWhx+n8iwTxNQHGMBLVVRBGbekSZQKUzhn79v4=;APkoyKPzVmFxQm74K68e2w=="
 ---
 

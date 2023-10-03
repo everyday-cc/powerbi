@@ -4,44 +4,6 @@
   "page": 103,
   "value": [
     {
-      "path": "_learning/videos/sqlbi-custom-date-templates-with-bravo-for-power-bi.md",
-      "title": "Custom Date Templates with Bravo for Power BI",
-      "excerpt": "This video explains how to create a Bravo for Power BI template to customize a Date table and the related Time Intelligence measures created by the tool.\r Article and download: https://sql.bi/779793?aff=yt\r \r Bravo for Power BI: https://bravo.bi/?aff=yt\r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-custom-date-templates-with-bravo-for-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-custom-date-templates-with-bravo-for-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=pkTmJMd06XI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pkTmJMd06XI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT43M35S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-12-20T03:01:15-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pkTmJMd06XI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/sqlbi-dax-puzzle-1.md",
       "title": "DAX Puzzle #1",
       "excerpt": "A small DAX Puzzle to test your DAX knowledge. Be careful, this is a very hard one!",
@@ -197,14 +159,14 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-finding-the-slowest-measure-in-a-dax-query.md",
-      "title": "Finding the slowest measure in a DAX query",
-      "excerpt": "Use DAX Studio to find the slowest measure in a DAX query produced by a Power BI report. How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-finding-the-slowest-measure-in-a-dax-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-finding-the-slowest-measure-in-a-dax-query/",
-      "originalUrl": "https://youtube.com/watch?v=ltO1tDL9HQ0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ltO1tDL9HQ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M43S",
+      "path": "_learning/videos/sqlbi-formula-engine-and-storage-engine-in-dax.md",
+      "title": "Formula engine and storage engine in DAX",
+      "excerpt": "Understanding the differences between the formula engine and the storage engine is the first step to understand the performance metrics and optimize a DAX formula. Article and download: https://sql.bi/684038?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-formula-engine-and-storage-engine-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-formula-engine-and-storage-engine-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=hc-x4DBv0V4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hc-x4DBv0V4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M50S",
       "provider": {
         "name": "SQLBI",
         "domain": "sqlbi.com",
@@ -217,11 +179,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-05-22T13:16:33-07:00",
+      "publishedDateTime": "2020-11-09T11:30:16-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ltO1tDL9HQ0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hc-x4DBv0V4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -261,83 +223,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/HXM76W__0IU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-how-to-debug-a-dax-measure.md",
-      "title": "How to debug a DAX measure",
-      "excerpt": "Use DAX Studio to run and debug a DAX measure: fix a calculation issue in a more productive environment and then copy the right formula back in Power BI. How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/ VertiPaq Analyzer: https://www.sqlbi.com/tools/vertipaq-analyzer/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-how-to-debug-a-dax-measure/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-how-to-debug-a-dax-measure/",
-      "originalUrl": "https://youtube.com/watch?v=fU5EQBJDfOM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fU5EQBJDfOM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M26S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-08-20T03:00:15-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fU5EQBJDfOM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-how-to-return-blank-instead-of-zero.md",
-      "title": "How to return BLANK instead of zero",
-      "excerpt": "How to return BLANK instead of zero in a DAX measure: Using this technique, you can remove rows in a Power BI matrix visual where the result of a measure is zero.\r Article and download: https://sql.bi/745368?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-how-to-return-blank-instead-of-zero/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-how-to-return-blank-instead-of-zero/",
-      "originalUrl": "https://youtube.com/watch?v=awFZlSgZn90",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/awFZlSgZn90\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M30S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-03-15T04:02:25-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/awFZlSgZn90/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -467,6 +352,45 @@
       ]
     },
     {
+      "path": "_learning/videos/sqlbi-introducing-dax-101-videos.md",
+      "title": "Introducing DAX 101 videos",
+      "excerpt": "Introductive concepts and tasks to write DAX. Short and straight to the point!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-introducing-dax-101-videos/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-introducing-dax-101-videos/",
+      "originalUrl": "https://youtube.com/watch?v=VU4uCDQolSE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VU4uCDQolSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-01-30T23:16:16-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VU4uCDQolSE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/sqlbi-introducing-define-column-in-dax-queries.md",
       "title": "Introducing DEFINE COLUMN in DAX queries",
       "excerpt": "Learn the syntax and the use cases of the DEFINE COLUMN statement in DAX. Article and download: https://sql.bi/696234/?aff=yt This syntax has been introduced in DAX since December 2020 and can be used in DAX queries only.  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide",
@@ -584,14 +508,14 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-kpi-in-tabular-models-for-power-bi-and-excel.md",
-      "title": "KPI in Tabular models for Power BI and Excel",
-      "excerpt": "Learn the KPI settings needed to get the best result using Power BI and Excel as clients. Article and download: https://sql.bi/681318?aff=yt Introduction to KPI in Power BI Desktop models:  - video: https://youtu.be/xxh60Sx83zw - article: https://sql.bi/673658?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-kpi-in-tabular-models-for-power-bi-and-excel/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-kpi-in-tabular-models-for-power-bi-and-excel/",
-      "originalUrl": "https://youtube.com/watch?v=Ux-dGDvH0fE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ux-dGDvH0fE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M58S",
+      "path": "_learning/videos/sqlbi-introducing-lookupvalue.md",
+      "title": "Introducing LOOKUPVALUE",
+      "excerpt": "This video shows how to use LOOKUPVALUE, which is a handy function for any developer to have in their toolbelt. Article and download: https://sql.bi/670595?aff=yt Additional resources: Expanded tables (article): https://sql.bi/65647?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-introducing-lookupvalue/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-introducing-lookupvalue/",
+      "originalUrl": "https://youtube.com/watch?v=pmZ-gumL7H0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pmZ-gumL7H0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M",
       "provider": {
         "name": "SQLBI",
         "domain": "sqlbi.com",
@@ -604,11 +528,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-10-26T12:30:17-07:00",
+      "publishedDateTime": "2020-07-06T12:30:11-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Ux-dGDvH0fE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/pmZ-gumL7H0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -895,14 +819,14 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-optimizing-lastnonblank-and-lastnonblankvalue-calculations.md",
-      "title": "Optimizing LASTNONBLANK and LASTNONBLANKVALUE calculations",
-      "excerpt": "Learn LASTNONBLANK, LASTNONBLANKVALUE, and similar DAX functions, including patterns for performance optimization. Article and download: https://sql.bi/626763/?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-optimizing-lastnonblank-and-lastnonblankvalue-calculations/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-optimizing-lastnonblank-and-lastnonblankvalue-calculations/",
-      "originalUrl": "https://youtube.com/watch?v=pyLoeVfAVXU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pyLoeVfAVXU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M28S",
+      "path": "_learning/videos/sqlbi-reading-active-power-bi-security-roles-in-dax.md",
+      "title": "Reading active Power BI security roles in DAX",
+      "excerpt": "How to read the active security roles in a Tabular model for Power BI or Analysis Services by using a DAX measure. This way, you can use measures and calculation groups to customize a report based dynamically on security roles active for the current user.\r Article and download: https://sql.bi/803102?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-reading-active-power-bi-security-roles-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-reading-active-power-bi-security-roles-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=y3qw1vrB9Mo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y3qw1vrB9Mo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M43S",
       "provider": {
         "name": "SQLBI",
         "domain": "sqlbi.com",
@@ -915,11 +839,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-02-24T16:00:29-08:00",
+      "publishedDateTime": "2023-07-05T03:01:06-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/pyLoeVfAVXU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/y3qw1vrB9Mo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -929,7 +853,47 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-rolling-average-with-working-days-in-dax.md",
+      "title": "Rolling average with working days in DAX",
+      "excerpt": "This article shows how to compute a rolling average (useful to smooth out charts) taking into account only the working days.\r \r Article and download: https://sql.bi/757611?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-rolling-average-with-working-days-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-rolling-average-with-working-days-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=mOVDGFyfWYg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mOVDGFyfWYg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M44S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-07-19T03:00:20-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mOVDGFyfWYg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -1164,6 +1128,44 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-understanding-lookupvalue.md",
+      "title": "Understanding LOOKUPVALUE",
+      "excerpt": "This article provides full coverage of the LOOKUPVALUE internals, alongside several performance considerations. Article and download: https://sql.bi/670739?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-understanding-lookupvalue/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-understanding-lookupvalue/",
+      "originalUrl": "https://youtube.com/watch?v=EDqG29flu4Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EDqG29flu4Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M36S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-08-04T22:20:45-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EDqG29flu4Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],
