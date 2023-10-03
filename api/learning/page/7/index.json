@@ -1683,7 +1683,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
@@ -1874,8 +1874,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 184,
-            "average": 4.8369565
+            "count": 185,
+            "average": 4.8378377
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2083,8 +2083,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 184,
-            "average": 4.8369565
+            "count": 185,
+            "average": 4.8378377
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2961,8 +2961,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 184,
-            "average": 4.8369565
+            "count": 185,
+            "average": 4.8378377
           },
           "provider": {
             "name": "Microsoft Learn",
