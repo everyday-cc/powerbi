@@ -687,8 +687,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 504,
-            "average": 4.6468253
+            "count": 505,
+            "average": 4.647525
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -705,7 +705,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
@@ -771,8 +771,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 256,
-            "average": 4.6484375
+            "count": 257,
+            "average": 4.6498055
           },
           "provider": {
             "name": "Microsoft Learn",
