@@ -49,8 +49,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 38091,
-        "average": 4.7271533
+        "count": 38094,
+        "average": 4.7271485
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -272,8 +272,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 1021,
-            "average": 4.6581783
+            "count": 1022,
+            "average": 4.6585126
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -929,8 +929,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 2420,
-            "average": 4.7210746
+            "count": 2421,
+            "average": 4.7211895
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1483,8 +1483,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1826,
-            "average": 4.757941
+            "count": 1828,
+            "average": 4.758206
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1525,8 +1525,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 923,
-            "average": 4.744312
+            "count": 924,
+            "average": 4.742424
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1692,8 +1692,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1826,
-            "average": 4.757941
+            "count": 1828,
+            "average": 4.758206
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1734,8 +1734,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 923,
-            "average": 4.744312
+            "count": 924,
+            "average": 4.742424
           },
           "provider": {
             "name": "Microsoft Learn",
