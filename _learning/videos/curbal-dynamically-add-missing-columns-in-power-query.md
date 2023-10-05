@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M
 publishedDateTime: 2020-10-30T13:27:27Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zUaVpgAdVGs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "5gYGw4Apn3hME6gY7XMT/n6YUrRJy/QNPAgRblHiIWIPN+8oVnQa64/PJrIAvs9fvd/Pa+MDARRNbfd1RWAY3GfHk9sQ6OB+xIiPCqUPx/tZIU822N36QvnzXKMWieRkZHkN3qfDl4r+4+pGt8mWtE2NCIzD8MSCrpn6Ee90rJ+G1KqLhKYtsO7FzrG4GuLVRW9otZDzaYIre59e3Nn2cZc0/c51v6L3wDsCsrh2aZ5reDJMPsZXu72nmtaPEoyg0m+fUkpdTClk3D6gjvmTPBls8b84gKh6m0/sQ6Spm/QRdkTMdAG8Dlt3cQMDAyUiunO5OxWGIatWBRHN2gkjxaf0M+JJKBRYlDGEgmF/m033jRcyrUXj2Sy6ISkRh9ocEWc5MGB+Rz0XonIEaAZ8NDlM5pJN9YgWWb83F0Qg58g=;W/UtpwpfwbMYq20Vw3T4vw=="
+secured: "Oyze8NYC+LXWNcxnGbe6h8ZG5xXwUzKjJj5PwQXutEvZM1gDrWFJMSVocc8gMKSqz5b89H1qNjXXRlH7qdo6x/Rww76ntDDtBCLO1/l1OXj4GWxTOZflmMqGxHScmJc7odOCtx2Qe5vY4HAlvg+MVjWgf7Jt5OLTT3jYMe3EY2AQ76q7weMcQ92/0IgX3Tg9YexqnqKCckNTv1or3s//rWo1Bn4/55aOsBrux2Ay+96FjcePAkFKWYOJyWDxX42/Y4e2dP3hJbrPhkIjwTmr8pA4hDHyfufExYDaXLsSJLIccFTtxOVwawn4wbY+gve6ZXx8l0I5/eZ/Cqm7bYMbWnxNhw3yPYolZZqnkTF/m+74DhOR4ut+2nYTameVrbcuEyzDzpFCpQ0Yyy/rSnq1j3baqUCXwe4/LoSGPC+mozM=;mUr/+JWIbQXuwRKk2k4VlA=="
 ---
 
