@@ -574,8 +574,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2873,
-            "average": 4.6930037
+            "count": 2874,
+            "average": 4.692763
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1368,8 +1368,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-power-bi-model-relationships/",
           "length": "PT1H30M",
           "ratings": {
-            "count": 245,
-            "average": 4.763265
+            "count": 246,
+            "average": 4.764228
           },
           "provider": {
             "name": "Microsoft Learn",
