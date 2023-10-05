@@ -651,8 +651,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 1178,
-            "average": 4.75382
+            "count": 1180,
+            "average": 4.754237
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -795,8 +795,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 506,
-        "average": 4.596838
+        "count": 508,
+        "average": 4.5964565
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -837,8 +837,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
       "length": "PT18M",
       "ratings": {
-        "count": 1178,
-        "average": 4.75382
+        "count": 1180,
+        "average": 4.754237
       },
       "provider": {
         "name": "Microsoft Learn",
