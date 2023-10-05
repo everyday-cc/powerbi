@@ -1951,8 +1951,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-permissions-content/",
           "length": "PT33M",
           "ratings": {
-            "count": 80,
-            "average": 4.8375
+            "count": 81,
+            "average": 4.839506
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1993,8 +1993,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-content/",
           "length": "PT31M",
           "ratings": {
-            "count": 64,
-            "average": 4.734375
+            "count": 65,
+            "average": 4.7384615
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2805,7 +2805,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2930,7 +2930,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3291,8 +3291,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
       "length": "PT46M",
       "ratings": {
-        "count": 1039,
-        "average": 4.657363
+        "count": 1040,
+        "average": 4.6576924
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3375,8 +3375,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 3822,
-        "average": 4.7284145
+        "count": 3824,
+        "average": 4.7285566
       },
       "provider": {
         "name": "Microsoft Learn",
