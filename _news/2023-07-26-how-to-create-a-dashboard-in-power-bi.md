@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/how-to-create-dashboard-power
 webUrl: "https://www.techrepublic.com/article/how-to-create-dashboard-power-bi/"
 type: article
 quality: 77
-heat: 79
+heat: 78
 published: true
 
 provider:
