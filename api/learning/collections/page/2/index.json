@@ -2977,8 +2977,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 345,
-            "average": 4.675362
+            "count": 346,
+            "average": 4.6763005
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3747,7 +3747,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -5329,8 +5329,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 14012,
-            "average": 4.6854124
+            "count": 14013,
+            "average": 4.685435
           },
           "provider": {
             "name": "Microsoft Learn",

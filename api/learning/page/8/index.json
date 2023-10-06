@@ -1757,8 +1757,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 345,
-            "average": 4.675362
+            "count": 346,
+            "average": 4.6763005
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2527,7 +2527,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
