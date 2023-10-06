@@ -4105,8 +4105,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 159,
-            "average": 4.7798743
+            "count": 160,
+            "average": 4.78125
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5161,8 +5161,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12599,
-            "average": 4.737995
+            "count": 12600,
+            "average": 4.7380157
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5246,8 +5246,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11007,
-            "average": 4.757609
+            "count": 11008,
+            "average": 4.757631
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5329,8 +5329,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 14008,
-            "average": 4.6853943
+            "count": 14010,
+            "average": 4.6853676
           },
           "provider": {
             "name": "Microsoft Learn",

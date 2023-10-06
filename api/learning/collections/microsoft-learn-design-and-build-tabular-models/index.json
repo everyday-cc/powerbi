@@ -115,7 +115,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 131,
+      "heat": 51,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/create-calculation-groups-social.png",
@@ -139,8 +139,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 508,
-        "average": 4.5964565
+        "count": 509,
+        "average": 4.5972495
       },
       "provider": {
         "name": "Microsoft Learn",
