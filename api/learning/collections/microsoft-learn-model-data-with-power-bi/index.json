@@ -243,7 +243,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 53,
+      "heat": 133,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-add-calculated-tables-social.png",
@@ -268,8 +268,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1930,
-        "average": 4.7393785
+        "count": 1931,
+        "average": 4.7395134
       },
       "provider": {
         "name": "Microsoft Learn",

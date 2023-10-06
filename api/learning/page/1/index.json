@@ -149,44 +149,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-using-figma-to-wireframe-your-power-bi-reports.md",
-      "title": "Using Figma to wireframe your Power BI reports",
-      "excerpt": "You care about how your Power BI reports look. Sekou joins us to explore using Figma to wireframe your report design and get that look you want before doing all the hard work in Power BI Desktop!  Figma https://www.figma.com/  Connect with Sekou Tyler https://www.youtube.com/@SQLSekou https://www.linkedin.com/in/sekoutyler/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-using-figma-to-wireframe-your-power-bi-reports/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-using-figma-to-wireframe-your-power-bi-reports/",
-      "originalUrl": "https://youtube.com/watch?v=QV6b8CKNhzU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QV6b8CKNhzU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M1S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-08-17T08:00:16-07:00",
-      "heat": 148,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QV6b8CKNhzU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-the-secret-whereabouts-of-adam-patrick-revealed.md",
       "title": "The secret whereabouts of Adam & Patrick revealed!",
       "excerpt": "Conference season is in full swing, and you have an opportunity to come meet Adam and Patrick in person! From Microsoft Power Platform Conference, to dataMinds Connect, PASS Data Community Summit and the Microsoft Data & AI conferences, now is a great time to take part in the community.  We will be bringing",
@@ -293,8 +255,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 74327,
-            "average": 4.7953234
+            "count": 74332,
+            "average": 4.795324
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -335,8 +297,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 107027,
-            "average": 4.7746267
+            "count": 107035,
+            "average": 4.774644
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -395,8 +357,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 107027,
-        "average": 4.7746267
+        "count": 107035,
+        "average": 4.774644
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -430,6 +392,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables.md",
+      "title": "Add calculated tables and columns to Power BI Desktop models",
+      "excerpt": "By the end of this module, you'll be able to add calculated tables and calculated columns to your data model. You'll also be able to describe row context, which is used to evaluated calculated column formulas. Because it's possible to add columns to a table by using Power Query, you'll also learn when it's best to create calculated columns instead of Power Query custom columns.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
+      "length": "PT19M",
+      "ratings": {
+        "count": 2428,
+        "average": 4.7215815
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 133,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-add-calculated-tables-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-calendar-table-can-your-calendar-table-do-this-shorts.md",
       "title": "Calendar Table: Can Your Calendar Table Do This? #Shorts",
       "excerpt": "================================ #PowerBI #PowerBIHowTo #PowerBIPro  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files for Video at https://web.learnpowerbi.com/download/ ✅ Subscribe to always get my latest videos: https://www.youtube.com/powerbipro?sub_confirmation=1",
@@ -443,48 +448,10 @@
         "domain": "learnpowerbi.com"
       },
       "publishedDateTime": "2023-10-02T09:00:16-07:00",
-      "heat": 135,
+      "heat": 133,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/MeAi7NRF3-o/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYSSBSKGUwDw==&rs=AOn4CLBMUl3s6X6pIEZVPBIELtrZMWHJaQ",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-sept-2-2023.md",
-      "title": "REPLAY Microsoft Fabric/Power BI Q&A - LIVE (Sept 2, 2023)",
-      "excerpt": "Join us live as we answer your questions about Microsoft Fabric (including Power BI)! Get your questions in the chat early as we don't get to all of them.  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\"",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-sept-2-2023/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-sept-2-2023/",
-      "originalUrl": "https://youtube.com/watch?v=GLNqNuON3Fc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GLNqNuON3Fc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H14M23S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-09-02T09:01:16-07:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GLNqNuON3Fc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -528,42 +495,76 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-enhance-your-business-intelligence-solutions-with-artificial-intelligence.md",
-      "title": "Enhance your business intelligence solutions with artificial intelligence",
-      "excerpt": "Enhance your business intelligence solutions with artificial intelligence",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-enhance-your-business-intelligence-solutions-with-artificial-intelligence/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enhance-business-intelligence-solutions-with-artificial-intelligence/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 3,
-        "average": 4.6666665
-      },
+      "path": "_learning/videos/guy-in-a-cube-join-us-at-pass-data-community-summit-2023.md",
+      "title": "Join us at PASS Data Community Summit 2023",
+      "excerpt": "Join us at the PASS Data Community Summit 2023 in Seattle, Washington in November! We will be delivering a Microsoft Fabric Pre-con and ready to meet up with the community!   PASS Data Community Summit 2023 https://passdatacommunitysummit.com/  Pre-Conference session from Adam and Patrick -  Harnessing",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-join-us-at-pass-data-community-summit-2023/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-join-us-at-pass-data-community-summit-2023/",
+      "originalUrl": "https://youtube.com/watch?v=JDFhipHmxMA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JDFhipHmxMA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M19S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Beginner"
-      ],
+      "publishedDateTime": "2023-08-25T08:00:22-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://i.ytimg.com/vi/JDFhipHmxMA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-were-back-lets-answer-your-microsoft-fabric-and-power-bi-questions-august-12-2023.md",
+      "title": "🔴 We're back! Let's answer your Microsoft Fabric and Power BI questions... (August 12, 2023)",
+      "excerpt": "Join us live as we answer your questions about Microsoft Fabric (including Power BI)!  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\" in front of your comment to help us identify questions! 👉 Super chats",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-were-back-lets-answer-your-microsoft-fabric-and-power-bi-questions-august-12-2023/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-were-back-lets-answer-your-microsoft-fabric-and-power-bi-questions-august-12-2023/",
+      "originalUrl": "https://youtube.com/watch?v=JNfQJe-ruxM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JNfQJe-ruxM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "P0D",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-08-11T04:52:47-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JNfQJe-ruxM/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -920,8 +921,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 74327,
-        "average": 4.7953234
+        "count": 74332,
+        "average": 4.795324
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1140,8 +1141,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 27359,
-            "average": 4.749589
+            "count": 27361,
+            "average": 4.749607
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1182,8 +1183,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 14011,
-            "average": 4.68539
+            "count": 14012,
+            "average": 4.6854124
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1216,8 +1217,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 107027,
-            "average": 4.7746267
+            "count": 107035,
+            "average": 4.774644
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1276,8 +1277,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 27359,
-        "average": 4.749589
+        "count": 27361,
+        "average": 4.749607
       },
       "provider": {
         "name": "Microsoft Learn",
