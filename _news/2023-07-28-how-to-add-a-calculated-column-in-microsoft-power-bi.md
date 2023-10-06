@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/microsoft-power-bi-calculated
 webUrl: "https://www.techrepublic.com/article/microsoft-power-bi-calculated-column/"
 type: article
 quality: 77
-heat: 79
+heat: 77
 published: true
 
 provider:
