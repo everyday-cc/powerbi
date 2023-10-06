@@ -221,8 +221,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 5550,
-            "average": 4.745045
+            "count": 5553,
+            "average": 4.745183
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -239,7 +239,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 148,
+          "heat": 68,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
@@ -308,8 +308,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 2434,
-            "average": 4.7210355
+            "count": 2435,
+            "average": 4.7207394
           },
           "provider": {
             "name": "Microsoft Learn",
