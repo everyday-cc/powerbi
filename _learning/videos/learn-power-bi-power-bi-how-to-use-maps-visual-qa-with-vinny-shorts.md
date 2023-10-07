@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT1M
 publishedDateTime: 2022-04-14T00:03:26Z
-heat: 54
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BBt5w3mWpYg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Ideelxh5HNbEmfW75YQ1UW9ixmgAdYQv33UiBA9qScSzufsZ2WtacumubckmSg/AlkBLDzKOdgT8fm6+nkY+gd9RJpOxdH3b3fVO2vw6sblQiEAmF2c0emK5X8gheJCi+oSAg4haahi3YCdlCJCo+s6rd7ufRM6gkDH/Ibuxo09vhDuVQUm/JXv4xzty/rI71IMU3wYFtH/cqBDWh94ZKnD8QaVvxWerRdJUGyMuOiurRMfcXtG/e/D9PxvYvJKitX7KVxSIjgk+U0yBfNnuDSffiNvJyYYHAiE01XY9atHCdsk5e8Sg9IjiKx2CFwOTu1W3LnK3v8wcQhfGlEiQBy7r7wPsN0DjABsvAYb2LL94uk73xXHNpZJqg1m0ovKrdb//hir5UVDMmokYDT7rb2TQ1ISMLF7av4qk+EgD8Ug=;v6qXCQiITvJDcOD4L3Zzhw=="
+secured: "SGP+nacIch9aLcKa23hWFzqZpomNVuZhU9sUHZ8ql2PS7uJLVCu3QRD3n35hVO+KEvwwzElGFM554jzcdMmGVWh/+2y1yjpMslDDhuFERPXz4i0KOC6SOPHiRDPw0yDxGwzbNZVRABjICM05OE/N+A+8rvsy8KbghRZqcOrixynpejTPrteGG7XQ5j+oiy+WYX/hIM1sBSaCd9mS9sb24yeC8534lV5BiljsQN5aVwxLNAhQxt/ZRS0f/4bohEy6S6K/eS2C2Mg0BDIPdxxsXhcRWl8CEsQ5gHn/HgGz6H5xRCVsPn9qjqc0htyw3D4l5/DuLQxQdcZrftVUYc3k5KwW5hjmeqzsU5edCi81vC2QYTbPzHX1jpzdEIlabonisHP2TqP4pIzW3md9I/RGUqW+WPKreX+G4Iy4VY43ZvY=;Tv0l09QoJL8q/HPyd0RQ+A=="
 ---
 
