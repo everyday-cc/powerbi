@@ -282,8 +282,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 5577,
-        "average": 4.7461
+        "count": 5578,
+        "average": 4.7461457
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -325,8 +325,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 38161,
-        "average": 4.7271037
+        "count": 38163,
+        "average": 4.727118
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1587,8 +1587,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-automate/",
           "length": "PT12M",
           "ratings": {
-            "count": 159,
-            "average": 4.6037736
+            "count": 160,
+            "average": 4.60625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1796,8 +1796,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-automate/",
           "length": "PT12M",
           "ratings": {
-            "count": 159,
-            "average": 4.6037736
+            "count": 160,
+            "average": 4.60625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3035,8 +3035,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 9712,
-        "average": 4.767916
+        "count": 9713,
+        "average": 4.76794
       },
       "provider": {
         "name": "Microsoft Learn",
