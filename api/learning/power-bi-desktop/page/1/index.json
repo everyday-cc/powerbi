@@ -25,7 +25,7 @@
         ]
       },
       "publishedDateTime": "2023-10-04T08:00:34-07:00",
-      "heat": 269,
+      "heat": 219,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/W7Ab1PIAwGk/maxresdefault.jpg",
@@ -242,8 +242,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 2145,
-            "average": 4.7249417
+            "count": 2146,
+            "average": 4.72507
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -907,8 +907,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 2145,
-        "average": 4.7249417
+        "count": 2146,
+        "average": 4.72507
       },
       "provider": {
         "name": "Microsoft Learn",
