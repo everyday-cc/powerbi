@@ -1107,14 +1107,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-lets-talk-microsoft-fabric-live-w-matthew-roche-aug-19-2023-member-chat-2nd-half.md",
-      "title": "🔴 Let's talk Microsoft Fabric - LIVE w/ Matthew Roche (Aug 19, 2023) (Member Chat 2nd Half)",
-      "excerpt": "Join us live as we answer your questions about Microsoft Fabric including Power BI!  Connect with Matthew: Mastodon: https://techhub.social/@SQLAllFather YouTube: https://www.youtube.com/channel/UCpsilPn-2qFlrYYuvyFkpPQ Website: https://ssbipolar.com/  💥 30 minutes: Open Q&A (Public) 💥 Then... Members",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-lets-talk-microsoft-fabric-live-w-matthew-roche-aug-19-2023-member-chat-2nd-half/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-lets-talk-microsoft-fabric-live-w-matthew-roche-aug-19-2023-member-chat-2nd-half/",
-      "originalUrl": "https://youtube.com/watch?v=AWiN_XxvNWY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AWiN_XxvNWY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "P0D",
+      "path": "_learning/videos/guy-in-a-cube-level-up-power-bi-conditional-drill-with-paginated-reports.md",
+      "title": "LEVEL UP Power BI Conditional Drill with Paginated reports!",
+      "excerpt": "Take Power BI Conditional Drill to the next level by incorporating Paginated reports with your strategy! Patrick shows a customer scenario that he solved using this approach.  Paginated reports doc: https://docs.microsoft.com/power-bi/paginated-reports/paginated-reports-report-builder-power-bi  Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-level-up-power-bi-conditional-drill-with-paginated-reports/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-level-up-power-bi-conditional-drill-with-paginated-reports/",
+      "originalUrl": "https://youtube.com/watch?v=43CwBmaym8Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/43CwBmaym8Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M28S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -1127,11 +1127,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-08-18T04:42:24-07:00",
+      "publishedDateTime": "2020-10-14T08:00:00-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/AWiN_XxvNWY/maxresdefault_live.jpg",
+          "url": "https://i.ytimg.com/vi/43CwBmaym8Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
