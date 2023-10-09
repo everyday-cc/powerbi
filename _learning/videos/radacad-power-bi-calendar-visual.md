@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M49S
 publishedDateTime: 2021-10-25T20:15:54Z
-heat: 50
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OQwGyjILbHE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Byh86ocTuuyYgLijIPCw04FMYi/iQpzS/sOz9gInZOj33suw5gftVehe506TFspGD93BhWn8lZK6L3RVsjhJI+HyWrWoeAwLu+Dxe8AwTw95r3Oqq8fhUMkcdYiSQXUP/SQF9ygNqw4mxySIxoJZFZN6hgDFTZrINeGbv1Mj7VUqBGltr6zkedn54F2tufsq7CPoOqK2+vRqn1SB4Rze8SgsZOWK06y95ZRJFza1/92HEv9r9aPZTt60b8bFke/mxrWj+uihQWNhNfe1yy6o7g8vd9xoNN4hy1TeWMW0KISTiHPdfo4hg8uJbqVBwr5MIEgpHz5vG9GeWjQ/JRrZM6XZNX58fuwiXVCGXUP3eyn7fxL5vJ1gtpgvMoDhXzr4z12rtSYbVTrQ5xmTm5HamPMVPzxrKnHtj3M2HFqFcKE=;G+N1ZCilSWoNiquLkWubaw=="
+secured: "SGw+SCUbi/epmKGlVX1hss/PyP0sExteA0mO90PypRyiwuAcwPzv2257M7v9vZa+H4+z73oRCdi72aHuOoxyxzL/bCnsV7JUsCP/RkEBBpjQi9ZAGIr6+bY1kq9h2in3mW7Sv/wB9PhTDdi1yaL+413IEk0ujt5XSkVgeQp5+YsFidqeVWwR8lCu761TFmxrOu2SRstJBRiJG0yK0kRE9RjPfP10+qmVDe1Rh0rJIlXHX3qBpdSCeGwWra3h9IZvY8XDnNJEjIQ8QqzWpMkWyIcTSYLXbLVXdlx3dP5MTRA6RrBUv7WIvtKGgUErEkl3dpqC7WTijx85dypF/M6kb6PumuCyzjwj74RDTIoej3uoc56QqWeLohK1GcJJl7H0TDWyrLvz5UkPrHDnvme1h+KFVQctpioF++xwmkksncU=;+oeJta9KoClt9ktvQCikuA=="
 ---
 
