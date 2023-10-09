@@ -221,8 +221,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11880,
-            "average": 4.7088385
+            "count": 11881,
+            "average": 4.708779
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1181,8 +1181,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-deployment-pipelines/",
           "length": "PT42M",
           "ratings": {
-            "count": 222,
-            "average": 4.7702703
+            "count": 223,
+            "average": 4.766816
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1306,8 +1306,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 1063,
-            "average": 4.6650987
+            "count": 1064,
+            "average": 4.6654134
           },
           "provider": {
             "name": "Microsoft Learn",
