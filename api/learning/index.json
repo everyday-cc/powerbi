@@ -187,65 +187,69 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-paginated-reports-power-bi.md",
-      "title": "Create paginated reports  ",
-      "excerpt": "Paginated reports allow report developers to create Power BI artifacts that have tightly controlled rendering requirements. Paginated reports are ideal for creating sales invoices, receipts, purchase orders, and tabular data. This module will teach you how to create reports, add parameters, and work with tables and charts in paginated reports.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-paginated-reports-power-bi/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
-      "length": "PT15M",
-      "ratings": {
-        "count": 4064,
-        "average": 4.7165356
-      },
+      "path": "_learning/videos/curbal-when-to-use-the-new-smoothed-line-chart-feeature-in-power-bi-dos-a-donts.md",
+      "title": "When to use the new smoothed line chart feeature in Power BI | Do's a Don'ts",
+      "excerpt": "Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  On the Power BI  Update for July 2023, the team introduced the possibility to smooth line charts. In this video, we will discuss the issues with",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-when-to-use-the-new-smoothed-line-chart-feeature-in-power-bi-dos-a-donts/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-when-to-use-the-new-smoothed-line-chart-feeature-in-power-bi-dos-a-donts/",
+      "originalUrl": "https://youtube.com/watch?v=8GckHV3PlkM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8GckHV3PlkM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M22S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "Curbal",
+        "domain": "curbal.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 132,
+      "publishedDateTime": "2023-08-15T03:41:52-07:00",
+      "heat": 130,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/create-paginated-reports-power-bi-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://i.ytimg.com/vi/8GckHV3PlkM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-microsoft-teams-intelligent-meeting-recap-feature-shorts.md",
-      "title": "Microsoft Teams Intelligent Meeting Recap Feature 🖥️ #SHORTS",
-      "excerpt": "================================ #PowerBI #PowerBIHowTo #PowerBIPro  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files for Video at https://web.learnpowerbi.com/download/ ✅ Subscribe to always get my latest videos: https://www.youtube.com/powerbipro?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-microsoft-teams-intelligent-meeting-recap-feature-shorts/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-microsoft-teams-intelligent-meeting-recap-feature-shorts/",
-      "originalUrl": "https://youtube.com/watch?v=-2FVM18konQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-2FVM18konQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT50S",
+      "path": "_learning/videos/guy-in-a-cube-get-and-use-python-libraries-within-microsoft-fabric.md",
+      "title": "Get and use Python Libraries within Microsoft Fabric",
+      "excerpt": "Sometimes you need python libraries that aren't present by default in Microsoft Fabric. Patrick walks you through how to manage your python libraries, so they are available when you need them.  Manage Python libraries in Microsoft Fabric https://learn.microsoft.com/fabric/data-science/python-guide/python-library-management",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-get-and-use-python-libraries-within-microsoft-fabric/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-get-and-use-python-libraries-within-microsoft-fabric/",
+      "originalUrl": "https://youtube.com/watch?v=LZ9nKK0PPe0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LZ9nKK0PPe0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M55S",
       "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2023-08-15T09:00:00-07:00",
+      "publishedDateTime": "2023-08-22T08:00:15-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-2FVM18konQ/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYPSA8KH8wDw==&rs=AOn4CLCMRo9OHVGzP1xJnp23JPQ4kV3ePw",
+          "url": "https://i.ytimg.com/vi/LZ9nKK0PPe0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -475,7 +479,7 @@
             ]
           },
           "publishedDateTime": "2021-01-14T08:21:12-08:00",
-          "heat": 66,
+          "heat": 68,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
@@ -693,8 +697,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 74488,
-            "average": 4.795323
+            "count": 74493,
+            "average": 4.7953362
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -735,8 +739,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 107306,
-            "average": 4.774486
+            "count": 107319,
+            "average": 4.774504
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -795,8 +799,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 107306,
-        "average": 4.774486
+        "count": 107319,
+        "average": 4.774504
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -991,8 +995,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 74488,
-        "average": 4.795323
+        "count": 74493,
+        "average": 4.7953362
       },
       "provider": {
         "name": "Microsoft Learn",

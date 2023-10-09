@@ -187,8 +187,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 14036,
-            "average": 4.6850953
+            "count": 14037,
+            "average": 4.6851177
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -888,8 +888,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 990,
-            "average": 4.8141413
+            "count": 991,
+            "average": 4.814329
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1306,8 +1306,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 1062,
-            "average": 4.6647835
+            "count": 1063,
+            "average": 4.6650987
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1390,8 +1390,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 268,
-            "average": 4.7873135
+            "count": 269,
+            "average": 4.788104
           },
           "provider": {
             "name": "Microsoft Learn",
