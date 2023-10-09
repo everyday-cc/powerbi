@@ -2588,7 +2588,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
@@ -4803,8 +4803,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12616,
-            "average": 4.7377934
+            "count": 12617,
+            "average": 4.737814
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4971,8 +4971,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 8190,
-            "average": 4.7274723
+            "count": 8191,
+            "average": 4.7273836
           },
           "provider": {
             "name": "Microsoft Learn",

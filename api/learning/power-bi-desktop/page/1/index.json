@@ -25,7 +25,7 @@
         ]
       },
       "publishedDateTime": "2023-10-04T08:00:34-07:00",
-      "heat": 219,
+      "heat": 204,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/W7Ab1PIAwGk/maxresdefault.jpg",
@@ -112,8 +112,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 5578,
-            "average": 4.7461457
+            "count": 5580,
+            "average": 4.7460575
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -155,8 +155,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 3321,
-            "average": 4.731406
+            "count": 3322,
+            "average": 4.7314873
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -305,8 +305,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 5578,
-        "average": 4.7461457
+        "count": 5580,
+        "average": 4.7460575
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -348,8 +348,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 38164,
-        "average": 4.727125
+        "count": 38166,
+        "average": 4.7271395
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -430,8 +430,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 3321,
-        "average": 4.731406
+        "count": 3322,
+        "average": 4.7314873
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -804,8 +804,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 825,
-        "average": 4.6993937
+        "count": 826,
+        "average": 4.699758
       },
       "provider": {
         "name": "Microsoft Learn",
