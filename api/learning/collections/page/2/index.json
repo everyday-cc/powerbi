@@ -2704,8 +2704,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1370,
-            "average": 4.7817516
+            "count": 1371,
+            "average": 4.781911
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2914,8 +2914,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1370,
-            "average": 4.7817516
+            "count": 1371,
+            "average": 4.781911
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5007,8 +5007,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12622,
-            "average": 4.7378387
+            "count": 12624,
+            "average": 4.73788
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5402,7 +5402,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 132,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-paginated-reports-power-bi-social.png",

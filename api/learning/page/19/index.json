@@ -384,8 +384,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 506,
-            "average": 4.701581
+            "count": 507,
+            "average": 4.7021694
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -904,8 +904,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
       "length": "PT29M",
       "ratings": {
-        "count": 506,
-        "average": 4.701581
+        "count": 507,
+        "average": 4.7021694
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1156,8 +1156,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
       "length": "PT37M",
       "ratings": {
-        "count": 1370,
-        "average": 4.7817516
+        "count": 1371,
+        "average": 4.781911
       },
       "provider": {
         "name": "Microsoft Learn",

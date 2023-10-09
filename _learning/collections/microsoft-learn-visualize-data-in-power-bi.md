@@ -4,7 +4,7 @@ excerpt: "Power BI has extraordinary visuals that can be used on Power BI report
 type: collection
 price: Free
 length: PT5H5M
-heat: 72
+heat: 75
 
 provider:
   name: Microsoft Learn
