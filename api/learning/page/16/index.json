@@ -668,8 +668,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 2156,
-        "average": 4.7249537
+        "count": 2157,
+        "average": 4.725081
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -711,8 +711,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 14051,
-        "average": 4.6850758
+        "count": 14053,
+        "average": 4.6850495
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -787,8 +787,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 6867,
-        "average": 4.7968545
+        "count": 6868,
+        "average": 4.796884
       },
       "provider": {
         "name": "Microsoft Learn",

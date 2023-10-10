@@ -561,8 +561,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3367,
-            "average": 4.7597265
+            "count": 3368,
+            "average": 4.759798
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -603,8 +603,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2889,
-            "average": 4.6926274
+            "count": 2890,
+            "average": 4.692734
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -645,8 +645,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3925,
-            "average": 4.687134
+            "count": 3926,
+            "average": 4.686959
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -687,8 +687,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 6867,
-            "average": 4.7968545
+            "count": 6868,
+            "average": 4.796884
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3153,8 +3153,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-permissions-content/",
           "length": "PT33M",
           "ratings": {
-            "count": 81,
-            "average": 4.839506
+            "count": 82,
+            "average": 4.8414636
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3171,7 +3171,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-permissions-content-social.png",
@@ -5215,8 +5215,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 8198,
-            "average": 4.7274947
+            "count": 8200,
+            "average": 4.727561
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5257,8 +5257,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 6877,
-            "average": 4.735786
+            "count": 6879,
+            "average": 4.7357173
           },
           "provider": {
             "name": "Microsoft Learn",
