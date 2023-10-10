@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 14040,
-            "average": 4.685114
+            "count": 14042,
+            "average": 4.685016
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -68,8 +68,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11881,
-            "average": 4.708779
+            "count": 11882,
+            "average": 4.708803
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -110,8 +110,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2696,
-            "average": 4.7462907
+            "count": 2698,
+            "average": 4.746108
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -462,8 +462,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 11881,
-        "average": 4.708779
+        "count": 11882,
+        "average": 4.708803
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -672,8 +672,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 3366,
-        "average": 4.7596555
+        "count": 3367,
+        "average": 4.7597265
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1048,8 +1048,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 2696,
-        "average": 4.7462907
+        "count": 2698,
+        "average": 4.746108
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1216,8 +1216,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-automate/",
       "length": "PT12M",
       "ratings": {
-        "count": 160,
-        "average": 4.60625
+        "count": 161,
+        "average": 4.6086955
       },
       "provider": {
         "name": "Microsoft Learn",
