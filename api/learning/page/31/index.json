@@ -4,45 +4,6 @@
   "page": 31,
   "value": [
     {
-      "path": "_learning/videos/sqlbi-using-concatenatex-in-dax.md",
-      "title": "Using CONCATENATEX in DAX",
-      "excerpt": "This video showcases the use of CONCATENATEX, a handy DAX function to return a list of values in a measure. Article and download: https://sql.bi/206871",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-using-concatenatex-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-using-concatenatex-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=6gCk4UoOw0g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6gCk4UoOw0g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M3S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-08-08T01:34:21-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6gCk4UoOw0g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/sqlbi-using-cross-highlight-with-order-and-delivery-date-in-power-bi.md",
       "title": "Using cross highlight with order and delivery date in Power BI",
       "excerpt": "How to enable the cross-highlight in Power BI charts using different dates for the same event, such as Order Date and Delivery Date.\r Article and download: https://sql.bi/769807?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
@@ -227,8 +188,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 14060,
-            "average": 4.6851354
+            "count": 14062,
+            "average": 4.6851087
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -261,8 +222,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11885,
-            "average": 4.7088766
+            "count": 11886,
+            "average": 4.7089014
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -511,8 +472,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 535,
-            "average": 4.7588787
+            "count": 536,
+            "average": 4.7593284
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -553,8 +514,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 607,
-            "average": 4.69028
+            "count": 608,
+            "average": 4.6907897
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -595,8 +556,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4070,
-            "average": 4.7167077
+            "count": 4071,
+            "average": 4.7167773
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -655,8 +616,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 11885,
-        "average": 4.7088766
+        "count": 11886,
+        "average": 4.7089014
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1367,8 +1328,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
       "length": "PT1H28M",
       "ratings": {
-        "count": 607,
-        "average": 4.69028
+        "count": 608,
+        "average": 4.6907897
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1556,6 +1517,36 @@
       ],
       "content": "\r\n",
       "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/absent-data-channel-change-the-font-across-all-visuals-in-a-power-bi.md",
+      "title": "Change The Font  Across All Visuals in a Power BI",
+      "excerpt": "Learn how to quickly change all the text in Power BI with the theme options in Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-change-the-font-across-all-visuals-in-a-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-change-the-font-across-all-visuals-in-a-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=OsNCY66fgT0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OsNCY66fgT0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M9S",
+      "provider": {
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
+      },
+      "publishedDateTime": "2020-07-26T06:06:51-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OsNCY66fgT0/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"

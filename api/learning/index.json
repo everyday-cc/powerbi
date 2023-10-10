@@ -187,31 +187,31 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-saying-goodbye.md",
-      "title": "Saying goodbye...",
-      "excerpt": "It's time to say goodbye and move on.   📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.\r \r 🎓 Guy in a Cube courses: https://guyinacu.be/courses\r \r *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-saying-goodbye/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-saying-goodbye/",
-      "originalUrl": "https://youtube.com/watch?v=G_v1DyZoP_s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G_v1DyZoP_s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M6S",
+      "path": "_learning/videos/sqlbi-differences-between-groupby-and-summarize.md",
+      "title": "Differences between GROUPBY and SUMMARIZE",
+      "excerpt": "GROUPBY and SUMMARIZE seem similar, but they differ in both performance and functionalities. Choose the right one depending on specific scenarios!\r Article and download: https://sql.bi/805881?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-differences-between-groupby-and-summarize/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-differences-between-groupby-and-summarize/",
+      "originalUrl": "https://youtube.com/watch?v=sPJyESLn3cM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sPJyESLn3cM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M30S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2023-08-18T08:00:22-07:00",
-      "heat": 140,
+      "publishedDateTime": "2023-08-15T03:00:18-07:00",
+      "heat": 139,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/G_v1DyZoP_s/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/sPJyESLn3cM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -293,46 +293,15 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-data-wrangler-vs-power-query-editor-microsoft-fabric.md",
-      "title": "Data Wrangler VS Power Query Editor   Microsoft Fabric",
-      "excerpt": "Power Query Editor and Data Wrangler are data transformation and preparation tools in Microsoft Fabric. There are similarities between these two tools. However, there are differences, too. It is essential to know the capabilities of each tool to understand which one should be used for what purpose and",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-data-wrangler-vs-power-query-editor-microsoft-fabric/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-data-wrangler-vs-power-query-editor-microsoft-fabric/",
-      "originalUrl": "https://youtube.com/watch?v=wB3-5eQGMBI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wB3-5eQGMBI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M1S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2023-08-29T18:25:31-07:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wB3-5eQGMBI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-tableau-optimize-performance.md",
-      "title": "Optimize Power BI performance for Tableau users",
-      "excerpt": "This module demonstrates how performance can determine a visual's usefulness.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-tableau-optimize-performance/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-optimize-performance/",
-      "length": "PT21M",
+      "path": "_learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables.md",
+      "title": "Add calculated tables and columns to Power BI Desktop models",
+      "excerpt": "By the end of this module, you'll be able to add calculated tables and calculated columns to your data model. You'll also be able to describe row context, which is used to evaluated calculated column formulas. Because it's possible to add columns to a table by using Power Query, you'll also learn when it's best to create calculated columns instead of Power Query custom columns.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
+      "length": "PT19M",
       "ratings": {
-        "count": 57,
-        "average": 4.7894735
+        "count": 2455,
+        "average": 4.721385
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -347,19 +316,58 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
-      "heat": 130,
+      "heat": 134,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-optimize-performance-social.png",
-          "width": 1280,
-          "height": 641,
+          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-add-calculated-tables-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-comparing-different-school-terms-in-power-bi.md",
+      "title": "Comparing different school terms in Power BI",
+      "excerpt": "How to implement the comparison between school terms. The same technique can be applied to any arbitrary time periods that do not match regular months or quarters in a calendar, such as seasons or campaigns.\r \r Article and download: https://sql.bi/805847?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-comparing-different-school-terms-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-comparing-different-school-terms-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=Qs1InWp3rKQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Qs1InWp3rKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M7S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-08-01T03:00:14-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Qs1InWp3rKQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -777,8 +785,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 74587,
-            "average": 4.795313
+            "count": 74589,
+            "average": 4.795305
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -819,8 +827,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 107524,
-            "average": 4.774506
+            "count": 107534,
+            "average": 4.7744994
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -879,8 +887,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 107524,
-        "average": 4.774506
+        "count": 107534,
+        "average": 4.7744994
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1151,8 +1159,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 74587,
-        "average": 4.795313
+        "count": 74589,
+        "average": 4.795305
       },
       "provider": {
         "name": "Microsoft Learn",
