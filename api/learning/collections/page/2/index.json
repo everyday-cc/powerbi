@@ -645,8 +645,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3929,
-            "average": 4.686943
+            "count": 3930,
+            "average": 4.6870227
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -687,8 +687,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 6872,
-            "average": 4.7970023
+            "count": 6873,
+            "average": 4.797032
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3278,8 +3278,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1377,
-            "average": 4.782861
+            "count": 1378,
+            "average": 4.783019
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3320,8 +3320,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 952,
-            "average": 4.7867646
+            "count": 953,
+            "average": 4.7869883
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3488,8 +3488,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1377,
-            "average": 4.782861
+            "count": 1378,
+            "average": 4.783019
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3530,8 +3530,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 952,
-            "average": 4.7867646
+            "count": 953,
+            "average": 4.7869883
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5132,8 +5132,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11026,
-            "average": 4.757573
+            "count": 11027,
+            "average": 4.757595
           },
           "provider": {
             "name": "Microsoft Learn",
