@@ -41,8 +41,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 16553,
-        "average": 4.772609
+        "count": 16555,
+        "average": 4.772637
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -289,8 +289,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 5614,
-            "average": 4.7454576
+            "count": 5615,
+            "average": 4.745503
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -416,8 +416,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 3336,
-            "average": 4.731415
+            "count": 3337,
+            "average": 4.7314954
           },
           "provider": {
             "name": "Microsoft Learn",
