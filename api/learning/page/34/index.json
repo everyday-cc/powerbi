@@ -400,8 +400,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 998,
-            "average": 4.8356714
+            "count": 999,
+            "average": 4.835836
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -544,7 +544,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 132,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
@@ -1575,8 +1575,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
       "length": "PT28M",
       "ratings": {
-        "count": 998,
-        "average": 4.8356714
+        "count": 999,
+        "average": 4.835836
       },
       "provider": {
         "name": "Microsoft Learn",
