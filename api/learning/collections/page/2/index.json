@@ -4551,7 +4551,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -4760,7 +4760,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -4867,8 +4867,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 8206,
-            "average": 4.7275167
+            "count": 8208,
+            "average": 4.727583
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4909,8 +4909,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 6885,
-            "average": 4.735512
+            "count": 6887,
+            "average": 4.735589
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5151,8 +5151,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12637,
-            "average": 4.7381496
+            "count": 12639,
+            "average": 4.738112
           },
           "provider": {
             "name": "Microsoft Learn",
