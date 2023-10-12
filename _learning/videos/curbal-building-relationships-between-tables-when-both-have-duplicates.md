@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M14S
 publishedDateTime: 2018-04-24T20:47:45Z
-heat: 61
+heat: 63
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vAvQ8pCnWDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "lxCHJ1eADn7lf74i0+/nUe3lH92lZ/EgZ61v0ylvG+E5qAvsigrHvnVb6s8Xl4O5+3yr0Kf9tmkmLKddSjDCVR8EddToBtJje2zErd+A0lJs/Dd1XYzcwUziYnRgeN4GH6NOgnzMwt0BuNK7BtMl6YxqJzlc64jClUyKbQRxleAdP/cgM3SYrNFcidsvdJWFIWaez8NriXHf7yYnePL77h2BsfKVdlYJHuWqhBTH0iH70xppr2M8YIkeK8RmiX17Ka0mtBNAvTamt362KBpe8stRgFa6pa98WWb3OSKgZqvpNUmTb4cBrx6ZzCtd5YKtdwTbDoIkTaHjIu8BORXUOgN83Dl3XJUujPS3lOZ9a/Q2PprsVme0Es+49msRGSm5RPMmc+FRv9Dl1IHnsb408Dr/QMo5M4lWRSM+Al0UYZLWk4iT+uqxcXC9b78va5FL;NYLGdCF8oRbHIa80WENBRA=="
+secured: "j7RSbOjm9ZvW5LIMxPylfJwwGUTAyKvt9Ue5KAAnjcapi21TVwGF0wmf6+1goSiFB4ch2df8p5Htnqy8BUwBF3TZO0t4cy9xZC3LnUZkAyZ6Lh8i39fZ0iTVBPDZup3nhIOfPvme4Kz1NKO5Ctqz9NXyNn6+4XmNeLJAsAKRal+gBPmsbCFyBrLWog83gWVmFjjQZKq43WqPTnbq2+wRRlCRDHa3Alnaq3/fllmvjrWEti16wHrk9ZwKqbPZ9DRZrysL0780/hfn5ESkDnV8X6WThFhUwvmMZybnwI2z6pGBE0rE5BSy+bVdiw1ySWbfYVQpfo/Ov5kScGIveuwosO3aGPmOEXwAMwT+mlpEq64OhfQZhYEUwzI4PwLQ3gMJoMQfJiIkhMmpT3TucuMAk+ONX9Pu659lnLfoyA16v83VVisGzGsodQftIVf0FvqU;HNtj2jTjrZfmiitBNk1jcQ=="
 ---
 
