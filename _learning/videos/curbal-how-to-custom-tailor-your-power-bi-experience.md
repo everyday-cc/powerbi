@@ -1,14 +1,14 @@
 ---
-title: "How to Custom Tailor your Power BI Experience"
-excerpt: "You asked me in the comments if I could do an update video on what my local and global settings are for Power BI and here it is!  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you can"
-originalUrl: https://youtube.com/watch?v=jn9qrWtVwqA
+title: "How To Custom Tailor Your Power Bi Experience"
+excerpt: "In this video I am going to show the default settings and configuration I do for new Power BI files and also my global settings for all files. What are your settings? #powerbi #curbal #curbalsettings  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more"
+originalUrl: https://youtube.com/watch?v=POmvYlL_Fxc
 type: video
 price: Free
-length: PT9M14S
-publishedDateTime: 2023-10-12T11:10:34Z
-heat: 130
+length: PT19M47S
+publishedDateTime: 2019-03-01T00:07:39Z
+heat: 50
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jn9qrWtVwqA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/POmvYlL_Fxc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Curbal
@@ -22,11 +22,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://i.ytimg.com/vi/jn9qrWtVwqA/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/POmvYlL_Fxc/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
 
-secured: "UkN9YJybjyGE0RtNVpbf7ucSx5U2osS5pVZOnnnXJcSyr9omK7W5gAEmGShawbfhQqiH4WxQ5bAEBtl/tg6Z4B/r6bOUtopgFWBw+ndrIRIwfZVpoE1PqaYbsAHCG5LWOPGLMfDJzR2o+h42ayzCCUSM89HwoMRHe2Nm8tZhggAKCdmz/240b1Tc24Q24BM0FMukDKOVczTIgAc2NXiblBMJ0hPekQXn+7E/Cr6DbMlyztOrTvaWs7uoNFzQPSlQSIJQMuczIQgrFTDwxDmHMv/SURoJqa6mgCGZo1rVldkzcyH+rrVCgulTY7n4LgigiVQU3GwOEfrpmlr+I5wVixawBHyKFB0NogoRmZymhyxGTn8GPmXxy4Ob9Sy3FysCNvdyAJRrqOdXjLkTaZQYtg==;JNvUSEC6ccRvDdFxOjzMHw=="
+secured: "bc4MdkNBenZ/YgFGrvG2LpOxIZFMDmoZCUATNtjb3ozMkT1axvFwmuyTMnqw8LbigEP3eZ7dV0eZB1uD/++86VY31u5vtcoHoDXk8EJYFnX6QUUu1zSP/5/H84dHLHkz9ec12KJD+gYiXohrit+6FhIVukem7do7IDg9LvPtkdRu3yxPbIF4gPnzvRxROWO51227UoA4iCb6utIto/GdsdkVcsopFYlWh3k8DKMISSPCF3kJJslQNKNVCQ9q7DEjkrtk8+lt3nm3DySZBizQHSIe7ootuy4NbI9fMF8TgEwp56TL5Bw35rJ41jq9KY1iysFN2Fsdh3PWO4TmPYl2f158YveQcCR8UiNbIqNbv7KX+gvNu3Arliq/DbbXRCjgGlAFlTZGiKlFIb+XvsNtlw==;fp/Aorc6TtsO/jvq0+RGdQ=="
 ---
 
