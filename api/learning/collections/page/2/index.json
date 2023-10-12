@@ -3922,8 +3922,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-monitor/",
           "length": "PT11M",
           "ratings": {
-            "count": 210,
-            "average": 4.7380953
+            "count": 211,
+            "average": 4.7393365
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5026,8 +5026,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11890,
-            "average": 4.708999
+            "count": 11891,
+            "average": 4.7090235
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5151,8 +5151,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12650,
-            "average": 4.7382607
+            "count": 12651,
+            "average": 4.7382817
           },
           "provider": {
             "name": "Microsoft Learn",
