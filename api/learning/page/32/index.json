@@ -1032,8 +1032,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 347,
-            "average": 4.677233
+            "count": 348,
+            "average": 4.678161
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1294,8 +1294,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-power-bi-model-relationships/",
       "length": "PT1H30M",
       "ratings": {
-        "count": 251,
-        "average": 4.768924
+        "count": 252,
+        "average": 4.765873
       },
       "provider": {
         "name": "Microsoft Learn",
