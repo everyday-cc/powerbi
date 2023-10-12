@@ -521,8 +521,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 610,
-            "average": 4.6918035
+            "count": 611,
+            "average": 4.690671
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -814,8 +814,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 1094,
-            "average": 4.667276
+            "count": 1096,
+            "average": 4.6669707
           },
           "provider": {
             "name": "Microsoft Learn",
