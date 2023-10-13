@@ -383,8 +383,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1912,
-            "average": 4.7578454
+            "count": 1913,
+            "average": 4.757972
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -467,8 +467,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-user-experience/",
           "length": "PT59M",
           "ratings": {
-            "count": 817,
-            "average": 4.7001224
+            "count": 818,
+            "average": 4.700489
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -592,8 +592,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1912,
-            "average": 4.7578454
+            "count": 1913,
+            "average": 4.757972
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -676,8 +676,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-user-experience/",
           "length": "PT59M",
           "ratings": {
-            "count": 817,
-            "average": 4.7001224
+            "count": 818,
+            "average": 4.700489
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1625,14 +1625,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-no-more-report-builder-for-power-bi-paginated-reports.md",
-      "title": "No more Report Builder for Power BI Paginated Reports???",
-      "excerpt": "Not a fan of Power BI Report Builder? Still want to use Paginated reports? Patrick shows the new Paginated authoring experience within the service! It's BANANAS!  Low code authoring of paginated reports https://powerbi.microsoft.com/blog/low-code-authoring-of-paginated-reports/  Create paginated reports",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-no-more-report-builder-for-power-bi-paginated-reports/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-no-more-report-builder-for-power-bi-paginated-reports/",
-      "originalUrl": "https://youtube.com/watch?v=gMLwKdfSmu0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gMLwKdfSmu0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M31S",
+      "path": "_learning/videos/guy-in-a-cube-power-bi-has-copilot-already-for-dax-it-does.md",
+      "title": "Power BI has Copilot already? For DAX it does!",
+      "excerpt": "We saw the video for Copilot in Microsoft Fabric. Copilot for Power BI is coming! But is it here already? Patrick shows one Copilot experience that's already in Power BI Desktop!  Quick measure suggestions https://learn.microsoft.com/power-bi/transform-model/quick-measure-suggestions  📢 Become a member:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-has-copilot-already-for-dax-it-does/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-has-copilot-already-for-dax-it-does/",
+      "originalUrl": "https://youtube.com/watch?v=4fJq8qessuM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4fJq8qessuM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M37S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -1645,11 +1645,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-09-07T05:50:36-07:00",
+      "publishedDateTime": "2023-08-24T08:00:03-07:00",
       "heat": 68,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/gMLwKdfSmu0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/4fJq8qessuM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1659,7 +1659,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "DAX"
       ]
     },
     {

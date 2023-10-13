@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 8218,
-            "average": 4.7277927
+            "count": 8219,
+            "average": 4.7278256
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -390,8 +390,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 2174,
-        "average": 4.725851
+        "count": 2175,
+        "average": 4.725977
       },
       "provider": {
         "name": "Microsoft Learn",

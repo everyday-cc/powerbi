@@ -2578,8 +2578,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3992,
-            "average": 4.7071643
+            "count": 3993,
+            "average": 4.7072377
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2703,8 +2703,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-intro/",
           "length": "PT34M",
           "ratings": {
-            "count": 190,
-            "average": 4.868421
+            "count": 191,
+            "average": 4.86911
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2787,8 +2787,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-permissions-content/",
           "length": "PT33M",
           "ratings": {
-            "count": 83,
-            "average": 4.8433733
+            "count": 84,
+            "average": 4.845238
           },
           "provider": {
             "name": "Microsoft Learn",
