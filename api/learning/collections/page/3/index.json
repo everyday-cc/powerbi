@@ -187,8 +187,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 512,
-            "average": 4.6992188
+            "count": 513,
+            "average": 4.6998053
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -647,8 +647,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 517,
-            "average": 4.6518373
+            "count": 518,
+            "average": 4.6525097
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -689,8 +689,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 349,
-            "average": 4.679083
+            "count": 350,
+            "average": 4.68
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -731,8 +731,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 264,
-            "average": 4.659091
+            "count": 265,
+            "average": 4.6603775
           },
           "provider": {
             "name": "Microsoft Learn",
