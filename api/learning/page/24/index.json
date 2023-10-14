@@ -4,36 +4,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_learning/videos/radacad-performance-tip-for-power-bi-enable-load-sucks-memory-up.md",
-      "title": "Performance Tip for Power BI Enable Load Sucks Memory Up",
-      "excerpt": "In the area of performance tuning a Power BI model, many things have to be considered, most of them around the consumption of the CPU and RAM. One of the most basic but important consideration is minimizing the usage of memory. By default, all queries from Query Editor will be loaded into the memory",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-performance-tip-for-power-bi-enable-load-sucks-memory-up/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-performance-tip-for-power-bi-enable-load-sucks-memory-up/",
-      "originalUrl": "https://youtube.com/watch?v=cLcd-DLZC50",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cLcd-DLZC50\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M15S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-07-01T16:49:44-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cLcd-DLZC50/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-power-bi-architecture-best-practice.md",
       "title": "Power BI Architecture Best Practice",
       "excerpt": "Using Power BI is simple. However, using it properly needs a good architecture. In a multi-developer environment, the architecture of a Power BI implementation should allow multiple developers to work on the same solution at the same time. On the other hand, the Power BI architecture should be designed",
@@ -1299,6 +1269,48 @@
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-power-bi-admin-monitor.md",
+      "title": "Monitor and audit usage",
+      "excerpt": "Learn how to use activity logs and auditing with Power BI to monitor and inspect user activity in a Power BI environment.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-monitor/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-monitor/",
+      "length": "PT11M",
+      "ratings": {
+        "count": 213,
+        "average": 4.741784
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-monitor-social.png",
           "width": 641,
           "height": 321,
           "isCached": true
