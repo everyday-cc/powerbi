@@ -4771,7 +4771,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 132,
+          "heat": 52,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/understand-concepts-of-data-analytics-social.png",
@@ -4963,8 +4963,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11037,
-            "average": 4.757633
+            "count": 11038,
+            "average": 4.757655
           },
           "provider": {
             "name": "Microsoft Learn",
