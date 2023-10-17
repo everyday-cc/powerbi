@@ -42,6 +42,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-escape-the-ordinary-with-a-low-code-lakehouse-in-microsoft-fabric.md",
+      "title": "Escape the Ordinary with a Low Code Lakehouse in Microsoft Fabric",
+      "excerpt": "A lakehouse can be intimidating especially if you don't know Python. Patrick looks at a low-code, potentially no-code option for creating a lakehouse in Microsoft Fabric to get you going!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-escape-the-ordinary-with-a-low-code-lakehouse-in-microsoft-fabric/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-escape-the-ordinary-with-a-low-code-lakehouse-in-microsoft-fabric/",
+      "originalUrl": "https://youtube.com/watch?v=hFfi3O_Isn4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hFfi3O_Isn4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M13S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-10-17T08:00:36-07:00",
+      "heat": 210,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hFfi3O_Isn4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgRyhlMA8=&rs=AOn4CLCN5GCtjAIHS5OHROnOfpmbCs-bgw",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-replay-microsoft-fabric-power-bi-qa-live-oct-14-2023.md",
       "title": "REPLAY Microsoft Fabric / Power BI Q&A - LIVE (Oct 14, 2023)",
       "excerpt": "Join us live as we answer your questions about Microsoft Fabric (including Power BI)! Get your questions in the chat early as we don't get to all of them.  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\"",
@@ -224,31 +262,23 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-when-to-use-smoothed-line-chart-dos-a-donts.md",
-      "title": "When to use smoothed line chart | Do's a Don'ts",
-      "excerpt": "Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  On the Power BI  Update for July 2023, the team introduced the possibility to smooth line charts. In this video, we will discuss the issues with",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-when-to-use-smoothed-line-chart-dos-a-donts/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-when-to-use-smoothed-line-chart-dos-a-donts/",
-      "originalUrl": "https://youtube.com/watch?v=8GckHV3PlkM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8GckHV3PlkM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M22S",
+      "path": "_learning/videos/radacad-microsoft-fabric-domains-stepping-stones-for-data-mesh.md",
+      "title": "Microsoft Fabric Domains   Stepping Stones for Data Mesh",
+      "excerpt": "Microsoft Fabric introduced a new concept called Domains. Domains are more than just a separation of Fabric data items. They come with a whole lot of security, administration, and governance features, which brings the concept of data mesh into the world of data analytics using Microsoft Fabric. Domains",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-microsoft-fabric-domains-stepping-stones-for-data-mesh/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-microsoft-fabric-domains-stepping-stones-for-data-mesh/",
+      "originalUrl": "https://youtube.com/watch?v=zeo2W__Gj1U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zeo2W__Gj1U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M12S",
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "RADACAD",
+        "domain": "radacad.com"
       },
-      "publishedDateTime": "2023-08-15T03:41:52-07:00",
-      "heat": 132,
+      "publishedDateTime": "2023-09-14T18:37:59-07:00",
+      "heat": 133,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/8GckHV3PlkM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/zeo2W__Gj1U/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -300,42 +330,38 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-admin-governance.md",
-      "title": "Provide governance in a Power BI environment",
-      "excerpt": "Learn the fundamental rules, regulations, and policies of a BI governance approach.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-governance/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
-      "length": "PT12M",
-      "ratings": {
-        "count": 250,
-        "average": 4.724
-      },
+      "path": "_learning/videos/curbal-when-to-use-the-new-smoothed-line-chart-feeature-in-power-bi-dos-a-donts.md",
+      "title": "When to use the new smoothed line chart feeature in Power BI | Do's a Don'ts",
+      "excerpt": "Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  On the Power BI  Update for July 2023, the team introduced the possibility to smooth line charts. In this video, we will discuss the issues with",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-when-to-use-the-new-smoothed-line-chart-feeature-in-power-bi-dos-a-donts/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-when-to-use-the-new-smoothed-line-chart-feeature-in-power-bi-dos-a-donts/",
+      "originalUrl": "https://youtube.com/watch?v=8GckHV3PlkM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8GckHV3PlkM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M22S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "Curbal",
+        "domain": "curbal.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
+      "publishedDateTime": "2023-08-15T03:41:52-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-governance-social.png",
-          "width": 641,
-          "height": 321,
+          "url": "https://i.ytimg.com/vi/8GckHV3PlkM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -380,23 +406,31 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-microsoft-teams-intelligent-meeting-recap-feature-shorts.md",
-      "title": "Microsoft Teams Intelligent Meeting Recap Feature 🖥️ #SHORTS",
-      "excerpt": "================================ #PowerBI #PowerBIHowTo #PowerBIPro  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files for Video at https://web.learnpowerbi.com/download/ ✅ Subscribe to always get my latest videos: https://www.youtube.com/powerbipro?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-microsoft-teams-intelligent-meeting-recap-feature-shorts/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-microsoft-teams-intelligent-meeting-recap-feature-shorts/",
-      "originalUrl": "https://youtube.com/watch?v=-2FVM18konQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-2FVM18konQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT50S",
+      "path": "_learning/videos/guy-in-a-cube-microsoft-fabricpower-bi-qa-live-sept-2-2023-member-chat-2nd-half.md",
+      "title": "🔴 Microsoft Fabric/Power BI Q&A - LIVE (Sept 2, 2023) (Member Chat 2nd Half)",
+      "excerpt": "Join us live as we answer your questions about Microsoft Fabric (including Power BI)! Get your questions in the chat early as we don't get to all of them.  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\"",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-microsoft-fabricpower-bi-qa-live-sept-2-2023-member-chat-2nd-half/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-microsoft-fabricpower-bi-qa-live-sept-2-2023-member-chat-2nd-half/",
+      "originalUrl": "https://youtube.com/watch?v=GLNqNuON3Fc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GLNqNuON3Fc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "P0D",
       "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2023-08-15T09:00:00-07:00",
+      "publishedDateTime": "2023-09-01T05:24:18-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-2FVM18konQ/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYPSA8KH8wDw==&rs=AOn4CLCMRo9OHVGzP1xJnp23JPQ4kV3ePw",
+          "url": "https://i.ytimg.com/vi/GLNqNuON3Fc/maxresdefault_live.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1229,36 +1263,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/-ip7mKUdwRg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-what-is-power-bi-and-why-you-need-to-learn-power-bi-in-2023.md",
-      "title": "What is Power BI? And Why You Need to Learn Power BI in 2023!",
-      "excerpt": "So what is Power BI? And why you must learn Power BI in 2023? Watch our video to learn. And join our full Power BI Training Program at 👉 https://www.LearnPowerBI.com/training  00:00 What is Power BI? Intro 01:02 Data Challenges before Power BI 01:49 What Power BI Can Do For You: Connect Your Data &",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-what-is-power-bi-and-why-you-need-to-learn-power-bi-in-2023/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-what-is-power-bi-and-why-you-need-to-learn-power-bi-in-2023/",
-      "originalUrl": "https://youtube.com/watch?v=IBvtwicOSko",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IBvtwicOSko\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M5S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2023-10-04T09:00:13-07:00",
-      "heat": 83,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IBvtwicOSko/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
