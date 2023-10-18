@@ -1205,7 +1205,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-environment-social.png",
@@ -1991,8 +1991,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-your-first-power-bi-report/",
       "length": "PT55M",
       "ratings": {
-        "count": 6763,
-        "average": 4.771699
+        "count": 6764,
+        "average": 4.771733
       },
       "provider": {
         "name": "Microsoft Learn",

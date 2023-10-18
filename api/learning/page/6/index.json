@@ -695,8 +695,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-user-experience/",
           "length": "PT59M",
           "ratings": {
-            "count": 822,
-            "average": 4.7019463
+            "count": 823,
+            "average": 4.7023087
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -904,8 +904,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-user-experience/",
           "length": "PT59M",
           "ratings": {
-            "count": 822,
-            "average": 4.7019463
+            "count": 823,
+            "average": 4.7023087
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -987,8 +987,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3385,
-            "average": 4.7604136
+            "count": 3386,
+            "average": 4.760484
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1047,7 +1047,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/manage-datasets-in-power-bi-social.png",
@@ -1281,8 +1281,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12667,
-            "average": 4.737744
+            "count": 12668,
+            "average": 4.7377644
           },
           "provider": {
             "name": "Microsoft Learn",
