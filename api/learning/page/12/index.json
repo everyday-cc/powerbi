@@ -4,49 +4,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-measures-dax-power-bi.md",
-      "title": "Introduction to creating measures using DAX in Power BI",
-      "excerpt": "Data Analysis Expressions (DAX) is a programming language that is used throughout Microsoft Power BI for creating calculated columns, measures, and custom tables. It is a collection of functions, operators, and constants that can be used in a formula, or expression, to calculate and return one or more values. You can use DAX to solve a number of calculations and data analysis problems, which can help you create new information from data that is already in your model.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-measures-dax-power-bi/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
-      "length": "PT2H40M",
-      "ratings": {
-        "count": 9674,
-        "average": 4.7111845
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/create-measures-dax-power-bi-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-use-apache-spark-work-files-lakehouse.md",
       "title": "Use Apache Spark in Microsoft Fabric",
       "excerpt": "Apache Spark is a core technology for large-scale data analytics. Microsoft Fabric provides support for Spark clusters, enabling you to analyze and process data at scale.",
@@ -1119,6 +1076,36 @@
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-report-server-power-bi-on-premises-hosting.md",
+      "title": "Power BI Report Server   Power BI On Premises Hosting",
+      "excerpt": "Power BI is not only a cloud-based reporting technology. Due to the demand for some businesses to have their data and reporting solutions on-premises, Power BI also has the option to be deployed fully on-premises. Power BI on-premises hosting is called Power BI Report Server. This post concerns using",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-report-server-power-bi-on-premises-hosting/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-report-server-power-bi-on-premises-hosting/",
+      "originalUrl": "https://youtube.com/watch?v=OjjA8GjzVM0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OjjA8GjzVM0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M11S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-12-13T13:11:09-08:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OjjA8GjzVM0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],
