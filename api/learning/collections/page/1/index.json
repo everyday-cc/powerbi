@@ -691,8 +691,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3947,
-            "average": 4.6858373
+            "count": 3948,
+            "average": 4.685917
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -816,8 +816,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 107903,
-            "average": 4.774418
+            "count": 107904,
+            "average": 4.77442
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -901,8 +901,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 17501,
-            "average": 4.7207017
+            "count": 17502,
+            "average": 4.7207174
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1068,8 +1068,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 107903,
-            "average": 4.774418
+            "count": 107904,
+            "average": 4.77442
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3803,8 +3803,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2900,
-            "average": 4.692069
+            "count": 2901,
+            "average": 4.692175
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3821,7 +3821,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/manage-datasets-in-power-bi-social.png",
@@ -3845,8 +3845,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3947,
-            "average": 4.6858373
+            "count": 3948,
+            "average": 4.685917
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3887,8 +3887,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 6892,
-            "average": 4.796866
+            "count": 6893,
+            "average": 4.7968955
           },
           "provider": {
             "name": "Microsoft Learn",
