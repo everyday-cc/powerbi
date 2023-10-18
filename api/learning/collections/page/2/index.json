@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 23526,
-            "average": 4.7539744
+            "count": 23528,
+            "average": 4.7539954
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -159,8 +159,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 23526,
-            "average": 4.7539744
+            "count": 23528,
+            "average": 4.7539954
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -414,8 +414,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 2179,
-            "average": 4.7260213
+            "count": 2180,
+            "average": 4.7261467
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4777,8 +4777,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 27688,
-            "average": 4.7486997
+            "count": 27689,
+            "average": 4.7487087
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4853,8 +4853,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 107913,
-            "average": 4.7744107
+            "count": 107915,
+            "average": 4.774406
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5149,7 +5149,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 137,
+          "heat": 57,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-measures-dax-power-bi-social.png",
