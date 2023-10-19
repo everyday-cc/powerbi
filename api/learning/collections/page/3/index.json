@@ -201,8 +201,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 14111,
-            "average": 4.6850686
+            "count": 14112,
+            "average": 4.6850905
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1255,7 +1255,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
