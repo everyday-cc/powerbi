@@ -1176,7 +1176,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 131,
+          "heat": 51,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -2367,8 +2367,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 74843,
-        "average": 4.7951713
+        "count": 74845,
+        "average": 4.7951765
       },
       "provider": {
         "name": "Microsoft Learn",
