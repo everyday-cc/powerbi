@@ -3,8 +3,8 @@ category: news
 title: "On-premises data gateway October 2023 release"
 excerpt: "Welcome to October! We have a few new announcements this month, so be sure to read until the end! We are especially excited to announce a new PowerShell cmdlet for adding a gateway to an existing cluster."
 publishedDateTime: 2023-10-19T14:41:51Z
-originalUrl: "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-october-2024-release/"
-webUrl: "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-october-2024-release/"
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-october-2023-release/"
+webUrl: "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-october-2023-release/"
 type: article
 quality: 72
 heat: 72
@@ -27,6 +27,6 @@ images:
     height: 630
     isCached: true
 
-secured: "EN785ZArab3lwQcuvoF4A6+RWIT2L5NbTiGIpzdWtF6BPuwYLJhWDFb6vyoyLAvpmNaka78q51ZCoXw/leXBwW12GsLMMXXcwzE0yLNqIb/MufK6cgVkv+41fGrapl2FrU0wwgdbR/V/ylwHhigh4RJOh/B0VNVEQ9HzcnkTV4IizdfOhY6erLWX2MmGCPtsdQDk3Qh4+3H+wWt6aebt6YNT6Slo0r5nR2LaebVAcb1YHHGfx1FizEH8Ky2AdvJz2/7lw53MUAnBJvAKaaGMkDP/2NmHKSmQBB+DaqncZkUhQV8P8hIZ/ZmniJrfmZYafv3vNcS81kX7M8hlEmcdShvez9mg2qdKZ/vEcFl62PI=;iCdKY0/TtcXkDRReu0s0GA=="
+secured: "fxAz1qpZm6TEgBoCq8LpHvqxkbgBjS+phbDpuCqppGocy/2sQqvdU+Ge1WjpJnzV6ZVvXPXdTN21lXGdthf0vfcNWRjp/ZHWLu+K7e1taycDqdwGlW4vhfRXcXiZXlRzO81ZukMMsUpgtuh/VhhYmb5iUa9UpOsonP3ENA2W/E23kQlD3odBLth0EOHPR1szBzbxTPAL5piaalbxBnIqWt9bDMnWMy0rey3SXdwwOK6lUmBDA6e87tVfgJ70ry2RV6Di/gG5kh1P+3Diw4nJ4rFZJinRNc88JvWF2947EC4LidoiJ0UVuwuTH4SToWHgTE8HHNKA94c6ChSubuexTx4+nNI8X6qyOVaVdSfGEMU=;t7S6jXCCyVkRzqDY+vO5Yg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/deployment-pipelines-a-cu
 webUrl: "https://powerbi.microsoft.com/en-us/blog/deployment-pipelines-a-customized-pipeline-is-finally-here/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

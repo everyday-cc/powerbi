@@ -6,8 +6,8 @@
       "title": "On-premises data gateway October 2023 release",
       "excerpt": "Welcome to October! We have a few new announcements this month, so be sure to read until the end! We are especially excited to announce a new PowerShell cmdlet for adding a gateway to an existing cluster.",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-10-19-on-premises-data-gateway-october-2023-release/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-october-2024-release/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-october-2024-release/",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-october-2023-release/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-october-2023-release/",
       "featuredContent": null,
       "highlight": null,
       "heat": 72,
@@ -61,7 +61,7 @@
       "originalUrl": "https://powerbi.microsoft.com/en-us/blog/deployment-pipelines-a-customized-pipeline-is-finally-here/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 73,
       "tags": null,
       "images": [
         {
