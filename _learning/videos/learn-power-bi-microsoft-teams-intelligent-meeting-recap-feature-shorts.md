@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT50S
 publishedDateTime: 2023-08-15T16:00:00Z
-heat: 130
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-2FVM18konQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
