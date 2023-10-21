@@ -68,8 +68,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11898,
-            "average": 4.7088585
+            "count": 11899,
+            "average": 4.708799
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -818,8 +818,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 1199,
-            "average": 4.7564635
+            "count": 1200,
+            "average": 4.7566667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1046,7 +1046,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-environment-social.png",
