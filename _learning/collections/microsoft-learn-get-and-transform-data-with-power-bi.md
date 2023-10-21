@@ -4,7 +4,7 @@ excerpt: "Get and transform data with Power BI"
 type: collection
 price: Free
 length: PT3H26M
-heat: 56
+heat: 136
 
 provider:
   name: Microsoft Learn
