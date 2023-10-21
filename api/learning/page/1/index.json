@@ -194,6 +194,45 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-has-copilot-already-for-dax-it-does.md",
+      "title": "Power BI has Copilot already? For DAX it does!",
+      "excerpt": "We saw the video for Copilot in Microsoft Fabric. Copilot for Power BI is coming! But is it here already? Patrick shows one Copilot experience that's already in Power BI Desktop!  Quick measure suggestions https://learn.microsoft.com/power-bi/transform-model/quick-measure-suggestions  📢 Become a member:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-has-copilot-already-for-dax-it-does/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-has-copilot-already-for-dax-it-does/",
+      "originalUrl": "https://youtube.com/watch?v=4fJq8qessuM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4fJq8qessuM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M37S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-08-24T08:00:03-07:00",
+      "heat": 141,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4fJq8qessuM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-20230907-low-code-paginated.md",
       "title": "20230907   Low Code Paginated",
       "excerpt": "Not a fan of Power BI Report Builder? Still want to use Paginated reports? Patrick shows the new Paginated authoring experience within the service! It's BANANAS!  Low code authoring of paginated reports https://powerbi.microsoft.com/blog/low-code-authoring-of-paginated-reports/  Create paginated reports",
@@ -262,87 +301,53 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-get-your-measures-organized-in-power-bi.md",
-      "title": "Get your measures organized in Power BI",
-      "excerpt": "As you make more measures in your Power BI Dataset, it can get hard to find the one you need. Sure you can use search...  But you can also organize your measures to make it easier to find them. Patrick shows you how!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-get-your-measures-organized-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-get-your-measures-organized-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=IZDacEcbfog",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IZDacEcbfog\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M22S",
+      "path": "_learning/courses/microsoft-learn-power-bi-admin-intro.md",
+      "title": "Understand the Power BI administrator role",
+      "excerpt": "Learn how to administer Power BI to support business decisions backed by data.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-intro/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
+      "length": "PT16M",
+      "ratings": {
+        "count": 521,
+        "average": 4.648752
+      },
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2023-08-23T08:00:12-07:00",
-      "heat": 135,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/IZDacEcbfog/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
+          "width": 641,
+          "height": 321,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-saying-goodbye.md",
-      "title": "Saying goodbye...",
-      "excerpt": "It's time to say goodbye and move on.   📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.\r \r 🎓 Guy in a Cube courses: https://guyinacu.be/courses\r \r *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-saying-goodbye/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-saying-goodbye/",
-      "originalUrl": "https://youtube.com/watch?v=G_v1DyZoP_s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G_v1DyZoP_s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M6S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-08-18T08:00:22-07:00",
-      "heat": 135,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/G_v1DyZoP_s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-when-to-use-smoothed-line-chart-dos-a-donts.md",
-      "title": "When to use smoothed line chart | Do's a Don'ts",
+      "path": "_learning/videos/curbal-when-to-use-the-new-smoothed-line-chart-feeature-in-power-bi-dos-a-donts.md",
+      "title": "When to use the new smoothed line chart feeature in Power BI | Do's a Don'ts",
       "excerpt": "Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  On the Power BI  Update for July 2023, the team introduced the possibility to smooth line charts. In this video, we will discuss the issues with",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-when-to-use-smoothed-line-chart-dos-a-donts/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-when-to-use-smoothed-line-chart-dos-a-donts/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-when-to-use-the-new-smoothed-line-chart-feeature-in-power-bi-dos-a-donts/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-when-to-use-the-new-smoothed-line-chart-feeature-in-power-bi-dos-a-donts/",
       "originalUrl": "https://youtube.com/watch?v=8GckHV3PlkM",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8GckHV3PlkM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT6M22S",
@@ -359,7 +364,7 @@
         ]
       },
       "publishedDateTime": "2023-08-15T03:41:52-07:00",
-      "heat": 132,
+      "heat": 130,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/8GckHV3PlkM/maxresdefault.jpg",
