@@ -1224,7 +1224,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
@@ -2941,7 +2941,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/modern-analytics-transition-social.png",
@@ -3151,7 +3151,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/modern-analytics-transition-social.png",
@@ -4530,8 +4530,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 107959,
-            "average": 4.7743587
+            "count": 107961,
+            "average": 4.7743535
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4613,8 +4613,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 23545,
-            "average": 4.7537904
+            "count": 23546,
+            "average": 4.753631
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4738,8 +4738,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 23545,
-            "average": 4.7537904
+            "count": 23546,
+            "average": 4.753631
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4863,8 +4863,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 23545,
-            "average": 4.7537904
+            "count": 23546,
+            "average": 4.753631
           },
           "provider": {
             "name": "Microsoft Learn",
