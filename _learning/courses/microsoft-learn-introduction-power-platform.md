@@ -7,7 +7,7 @@ price: Free
 length: PT36M
 ratings:
   count: 35013
-  average: 4.722189
+  average: 4.722046
 heat: 56
 
 provider:

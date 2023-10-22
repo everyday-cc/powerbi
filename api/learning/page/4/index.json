@@ -3312,8 +3312,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-user-experience/",
           "length": "PT59M",
           "ratings": {
-            "count": 825,
-            "average": 4.6945453
+            "count": 827,
+            "average": 4.6952844
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3857,8 +3857,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-user-experience/",
           "length": "PT59M",
           "ratings": {
-            "count": 825,
-            "average": 4.6945453
+            "count": 827,
+            "average": 4.6952844
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4209,7 +4209,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/automate-data-cleaning-power-query-social.png",
@@ -4419,7 +4419,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/automate-data-cleaning-power-query-social.png",
