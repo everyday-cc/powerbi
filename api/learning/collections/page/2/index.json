@@ -1959,8 +1959,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-user-experience/",
           "length": "PT59M",
           "ratings": {
-            "count": 827,
-            "average": 4.6952844
+            "count": 828,
+            "average": 4.692029
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2504,8 +2504,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-user-experience/",
           "length": "PT59M",
           "ratings": {
-            "count": 827,
-            "average": 4.6952844
+            "count": 828,
+            "average": 4.692029
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3276,7 +3276,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -4530,8 +4530,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 107966,
-            "average": 4.774355
+            "count": 107967,
+            "average": 4.774357
           },
           "provider": {
             "name": "Microsoft Learn",
