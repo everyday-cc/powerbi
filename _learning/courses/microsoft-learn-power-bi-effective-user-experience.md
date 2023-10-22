@@ -7,7 +7,7 @@ price: Free
 length: PT59M
 ratings:
   count: 828
-  average: 4.692029
+  average: 4.690821
 heat: 50
 
 provider:

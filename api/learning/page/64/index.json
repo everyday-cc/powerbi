@@ -4,23 +4,31 @@
   "page": 64,
   "value": [
     {
-      "path": "_learning/videos/dhruvin-shah-new-field-icons-in-power-bi.md",
-      "title": "New Field Icons in Power BI",
-      "excerpt": "We can see different icons for our Power BI Fields. Had we ever tried to understand what's the meaning of each icon? Here's an answer. During this video, we will see new Field icons introduced in Power BI Desktop. Microsoft rolled out these new icons with the November 2020 Power BI Desktop update. Here,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-field-icons-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-field-icons-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=YJZOHHfJYKw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YJZOHHfJYKw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M46S",
+      "path": "_learning/videos/guy-in-a-cube-attending-sqlbits-for-the-first-time.md",
+      "title": "Attending SQLBits for the first time",
+      "excerpt": "I had the opportunity to attend SQLBits for the first time in the UK. This was an outstanding event with great people and an awesome attendee party. This clip are some highlights from the event to hopefully convey what it was like to attend. This event really showed how great the SQL Family is!!!  Music",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-attending-sqlbits-for-the-first-time/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-attending-sqlbits-for-the-first-time/",
+      "originalUrl": "https://youtube.com/watch?v=RoiXqlO8X-o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RoiXqlO8X-o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M36S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-11-25T19:02:32-08:00",
+      "publishedDateTime": "2017-04-10T13:46:50-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/YJZOHHfJYKw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/RoiXqlO8X-o/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -34,23 +42,221 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-new-format-pane-for-power-bi-mobile-view.md",
-      "title": "New Format Pane for Power BI Mobile View",
-      "excerpt": "Create stunning, mobile-optimized Power BI reports with mobile layout’s new visual formatting pane (Preview). During this video we will talk about how we can use separate formatting Pane for Power BI Mobile Reports. Have you ever created a mobile-optimized report and struggled with its design? Did you",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-format-pane-for-power-bi-mobile-view/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-format-pane-for-power-bi-mobile-view/",
-      "originalUrl": "https://youtube.com/watch?v=i9WF5sC6HjU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i9WF5sC6HjU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "path": "_learning/videos/guy-in-a-cube-automating-power-bi-license-assignment-with-powershell-extra-options.md",
+      "title": "Automating Power BI License Assignment with PowerShell - Extra Options!",
+      "excerpt": "I posted a video on the Power BI YouTube channel for using PowerShel and the Audit log to assign Power BI Pro licenses. In this video, I give you a few other options instead of automating off of the audit log.  Main video: Using Power BI Audit Log and PowerShell to assign Power BI Pro licenses - https://youtu.be/oulR910VBrU",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-automating-power-bi-license-assignment-with-powershell-extra-options/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-automating-power-bi-license-assignment-with-powershell-extra-options/",
+      "originalUrl": "https://youtube.com/watch?v=FwPT4QV-o7g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FwPT4QV-o7g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M5S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-01-12T13:12:25-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FwPT4QV-o7g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-automating-your-formatted-tables-in-power-bi.md",
+      "title": "Automating your formatted tables in Power BI!",
+      "excerpt": "Wondering how you can take advantage of the Formatted Tables feature in Power BI and automate the output to email? Jason Himmelstein shows you how you can do this with Power Automate!  Connect with Jason: https://twitter.com/jasehimm https://www.linkedin.com/in/jasonhimmelstein/ https://bifocal.show/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-automating-your-formatted-tables-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-automating-your-formatted-tables-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=5ZjO1ImFmh4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5ZjO1ImFmh4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M34S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-09-07T08:00:06-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5ZjO1ImFmh4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-avoid-left-outer-joins-with-directquery-in-power-bi.md",
+      "title": "Avoid Left Outer Joins with DirectQuery in Power BI",
+      "excerpt": "By default, your DirectQuery queries, in Power BI, will send a LEFT OUTER JOIN and could make your DBA not happy! Patrick shows you how you can change this to an INNER JOIN and put your DBA back into that happy space.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-avoid-left-outer-joins-with-directquery-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-avoid-left-outer-joins-with-directquery-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=UgqVSEoj4BM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UgqVSEoj4BM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M39S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-05-05T08:00:12-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UgqVSEoj4BM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-avoid-parameter-error-when-refreshing-a-power-bi-partition.md",
+      "title": "Avoid Parameter Error when refreshing a Power BI partition",
+      "excerpt": "Ever run into a Parameter error when trying to refresh a partition in Power BI? It can drive you BANANAS! Patrick explains how to get around it and refresh successfully.   📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level?",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-avoid-parameter-error-when-refreshing-a-power-bi-partition/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-avoid-parameter-error-when-refreshing-a-power-bi-partition/",
+      "originalUrl": "https://youtube.com/watch?v=2hoYFQ_IjPk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2hoYFQ_IjPk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M24S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-12-15T08:01:46-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2hoYFQ_IjPk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-azure-active-directory-and-power-bi.md",
+      "title": "Azure Active Directory and Power BI",
+      "excerpt": "I take a look at how Power BI and Azure Active Directory interact.  Really it is more about Azure Active Directory and how do you get users into AAD.  This came up as I get pinged a lot from folks wondering how they can use AAD with Power BI, not necessarily realizing that it is already there.  http://blogs.technet.com/b/powerbisupport/archive/2015/09/15/azure-active-directory-and-power-bi.aspx",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-azure-active-directory-and-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-azure-active-directory-and-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=KttluRiuRq0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KttluRiuRq0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M58S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-03-01T11:26:45-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KttluRiuRq0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-azure-sql-database-firewall.md",
+      "title": "Azure SQL Database Firewall",
+      "excerpt": "This video goes through different ways that you can configure the firewall for your Azure SQL Database to make sure your clients can connect successfully.  Existing Portal 0:57 - https://youtu.be/36lBSV6JUIc?t=57s  Preview Portal 1:36 - https://youtu.be/36lBSV6JUIc?t=1m36s  Stored Procedure 4:11 - https://youtu.be/36lBSV6JUIc?t=4m11s",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-azure-sql-database-firewall/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-azure-sql-database-firewall/",
+      "originalUrl": "https://youtube.com/watch?v=36lBSV6JUIc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/36lBSV6JUIc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT7M26S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2022-03-11T00:54:52-08:00",
+      "publishedDateTime": "2015-04-29T05:57:31-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/i9WF5sC6HjU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/36lBSV6JUIc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -64,23 +270,31 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-new-model-view-updates-in-power-bi.md",
-      "title": "New Model View Updates in Power BI",
-      "excerpt": "With November 2020 Power BI Desktop, we have a new Model View available for exploring. During this video, I am going to talk about how the new Model view will be looking like in Power BI Desktop. Power BI Desktop launched some new icons for the Model view. We need to upgrade our Model view first. Once",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-model-view-updates-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-model-view-updates-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=lkUFS3CzItc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lkUFS3CzItc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M57S",
+      "path": "_learning/videos/guy-in-a-cube-azure-ssas-combining-data-and-updates-for-power-bi.md",
+      "title": "Azure SSAS, Combining data and updates for Power BI",
+      "excerpt": "Use Cases for Azure Analysis Services (Part 2) (@SQLChick) http://www.sqlchick.com/entries/2016/11/29/use-cases-for-azure-analysis-services  How to Combine System and Manual Data in a Power BI Data Model (@PowerBIPro) https://www.powerpivotpro.com/2016/11/combine-system-manual-data-power-bi-data-model/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-azure-ssas-combining-data-and-updates-for-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-azure-ssas-combining-data-and-updates-for-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=6hSz6JwnCvk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6hSz6JwnCvk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M4S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-11-29T06:12:00-08:00",
+      "publishedDateTime": "2016-11-30T14:22:57-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/lkUFS3CzItc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6hSz6JwnCvk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -94,23 +308,31 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-new-power-bi-experience-in-microsoft-teams.md",
-      "title": "New Power BI Experience in Microsoft Teams",
-      "excerpt": "During this session, we will be talking about the new Power BI experience in Microsoft Teams. During Ignite 2020, Microsoft announced a feature that, users can use Power BI Service from teams without leaving the context of Teams.   This feature is very useful for modern workspace users where we can use",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-power-bi-experience-in-microsoft-teams/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-power-bi-experience-in-microsoft-teams/",
-      "originalUrl": "https://youtube.com/watch?v=db-VftNq_58",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/db-VftNq_58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M24S",
+      "path": "_learning/videos/guy-in-a-cube-azure-synapse-analytics-power-bi-for-bananas-scale.md",
+      "title": "Azure Synapse Analytics & Power BI for BANANAS SCALE!",
+      "excerpt": "Scale your data in Power BI with Azure Synapse Analytics! Azure Synapse can take your data to the next level with great performance.  Connect with Josh Caplan: https://twitter.com/JoshCaplan1984  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-azure-synapse-analytics-power-bi-for-bananas-scale/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-azure-synapse-analytics-power-bi-for-bananas-scale/",
+      "originalUrl": "https://youtube.com/watch?v=vOSzw40TohM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vOSzw40TohM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M57S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-10-19T04:22:47-07:00",
+      "publishedDateTime": "2020-06-03T08:00:37-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/db-VftNq_58/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/vOSzw40TohM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -124,23 +346,69 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-new-ribbon-vs-old-ribbon-experience-in-power-bi-desktop-whats-changed.md",
-      "title": "New Ribbon Vs Old Ribbon Experience in Power BI Desktop - What’s Changed?",
-      "excerpt": "In this vlog, we will talk about the difference between the New Power BI Desktop ribbon Vs old Power BI Desktop ribbon in detail.  Microsoft recently introduce new Ribbon for Power BI Desktop in November 2019 update. If you did not update your Power BI desktop, please update the Power BI Desktop and",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-ribbon-vs-old-ribbon-experience-in-power-bi-desktop-whats-changed/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-ribbon-vs-old-ribbon-experience-in-power-bi-desktop-whats-changed/",
-      "originalUrl": "https://youtube.com/watch?v=wLXZvcyMDOo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wLXZvcyMDOo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M17S",
+      "path": "_learning/videos/guy-in-a-cube-bacpac-could-not-load-schema-model-from-package.md",
+      "title": "BACPAC: Could not load schema model from package",
+      "excerpt": "Version issues leading to Schema problems for Azure SQL Database.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-bacpac-could-not-load-schema-model-from-package/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-bacpac-could-not-load-schema-model-from-package/",
+      "originalUrl": "https://youtube.com/watch?v=1xKLhvLlVeE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1xKLhvLlVeE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M32S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-03-25T04:50:52-07:00",
+      "publishedDateTime": "2015-04-09T07:51:40-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/wLXZvcyMDOo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/1xKLhvLlVeE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-bananas-power-bi-dataflows-has-come-a-long-way.md",
+      "title": "BANANAS! Power BI dataflows has come a long way...",
+      "excerpt": "Showing some #InsaneAmazing things you can do in Power BI dataflows. This is really bananas!  Power BI dataflows data source doc: https://docs.microsoft.com/power-bi/transform-model/service-dataflows-data-sources  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-bananas-power-bi-dataflows-has-come-a-long-way/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-bananas-power-bi-dataflows-has-come-a-long-way/",
+      "originalUrl": "https://youtube.com/watch?v=YWp4FKzIBxM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YWp4FKzIBxM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M9S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-06-02T08:00:14-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YWp4FKzIBxM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -151,27 +419,35 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "Power BI Desktop"
+        "Dataflows"
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-new-sharing-experience-for-power-bi-reports.md",
-      "title": "New Sharing Experience for Power BI Reports",
-      "excerpt": "During this session, I’m going to talk about new Sharing capabilities launched by Microsoft this month. Now, we can share reports via the link using this new sharing experience. Earlier with the older experience, we were only able to provide direct access to the report. Now, with this new sharing experience",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-sharing-experience-for-power-bi-reports/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-sharing-experience-for-power-bi-reports/",
-      "originalUrl": "https://youtube.com/watch?v=Vr-ON9wULfE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vr-ON9wULfE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M43S",
+      "path": "_learning/videos/guy-in-a-cube-behind-the-scenes-of-how-i-do-power-bi-documentation.md",
+      "title": "Behind the scenes of how I do Power BI documentation",
+      "excerpt": "Behind the scenes of how I do Power BI documentation  In this video, I'm going to show you how I make documentation changes for Power BI. I'll use the video I did last week as the example in this video. We will make some updates to the Admin Role doc that is out in Power BI.  This process is the same",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-behind-the-scenes-of-how-i-do-power-bi-documentation/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-behind-the-scenes-of-how-i-do-power-bi-documentation/",
+      "originalUrl": "https://youtube.com/watch?v=67a7wHE9CkA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/67a7wHE9CkA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M53S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2021-05-13T05:16:19-07:00",
+      "publishedDateTime": "2017-04-11T09:49:55-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Vr-ON9wULfE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/67a7wHE9CkA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -185,23 +461,31 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-new-way-to-compare-date-and-datetime-value-in-power-bi-august-2021-feature-summary.md",
-      "title": "New way to compare Date and DateTime Value in Power BI - August 2021 Feature Summary",
-      "excerpt": "Welcome to one more new update from Power BI Desktop. Sometimes we need to compare date or DateTime value in our DAX expression. At that time, we are using Date() function and Time() function. Now, there's one more easy way to compare Date and Time value in Power BI which is using \"dt\" keyword before",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-way-to-compare-date-and-datetime-value-in-power-bi-august-2021-feature-summary/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-way-to-compare-date-and-datetime-value-in-power-bi-august-2021-feature-summary/",
-      "originalUrl": "https://youtube.com/watch?v=SMHbMhX1Ggg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SMHbMhX1Ggg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M",
+      "path": "_learning/videos/guy-in-a-cube-best-kept-secret-in-power-bi-you-tell-us.md",
+      "title": "Best kept SECRET in Power BI??? You tell us!",
+      "excerpt": "Have we found the best kept SECRET in Power BI? Adam saw this recently and was BLOWN away! Zooming in can help with presenting in business settings and anywhere else. Here are a few things you can use to make that presentation better with Power BI.  ZoomIt:  https://docs.microsoft.com/sysinternals/downloads/zoomit",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-best-kept-secret-in-power-bi-you-tell-us/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-best-kept-secret-in-power-bi-you-tell-us/",
+      "originalUrl": "https://youtube.com/watch?v=emKSMFBusfM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/emKSMFBusfM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M59S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2021-08-21T19:43:07-07:00",
+      "publishedDateTime": "2021-04-22T04:18:48-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/SMHbMhX1Ggg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/emKSMFBusfM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -215,83 +499,31 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-new-way-to-upload-file-from-power-bi-workspace.md",
-      "title": "New way to Upload File from Power BI Workspace",
-      "excerpt": "In this short video, let's talk about new way to upload files from Power BI Workspace. In the workspace you want to add files to, you’ll see an Upload option next to the New button. You’ll be able to use this dropdown to connect to files stored in OneDrive for Business or any SharePoint site you have",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-way-to-upload-file-from-power-bi-workspace/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-way-to-upload-file-from-power-bi-workspace/",
-      "originalUrl": "https://youtube.com/watch?v=91LmNtIIc38",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/91LmNtIIc38\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M26S",
+      "path": "_learning/videos/guy-in-a-cube-blown-away-by-column-from-examples-in-power-query.md",
+      "title": "Blown AWAY by Column From Examples in Power Query",
+      "excerpt": "Column From Examples, in Power Query, keeps blowing our mind! Patrick shows you an example where he wanted to extract some data. Will Column From Examples work? Of course, it will! Check this out!  Add a column from examples in Power BI Desktop https://docs.microsoft.com/power-bi/create-reports/desktop-add-column-from-example",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-blown-away-by-column-from-examples-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-blown-away-by-column-from-examples-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=BSmmNgO_EOU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BSmmNgO_EOU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M56S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2022-12-12T18:51:52-08:00",
+      "publishedDateTime": "2022-04-20T08:00:09-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/91LmNtIIc38/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-next-generation-power-bi-buttons.md",
-      "title": "Next-Generation Power BI Buttons",
-      "excerpt": "(September 2021 Power BI Desktop Feature Summary) | NEW FORMATTING OPTIONS FOR POWER BI BUTTONS  Welcome to one more Power BI Desktop Update from September 2021. Microsoft has announced new formatting options for Power BI Buttons. Now we can build next-generation Power BI Buttons using Shape, Icon, Fill,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-next-generation-power-bi-buttons/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-next-generation-power-bi-buttons/",
-      "originalUrl": "https://youtube.com/watch?v=gcIzxcRiBac",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gcIzxcRiBac\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M22S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-09-23T05:06:08-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gcIzxcRiBac/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-only-retrieve-default-list-view-columns-from-sharepoint-online-to-power-bi-desktop.md",
-      "title": "Only Retrieve Default List View Columns from SharePoint Online to Power BI Desktop",
-      "excerpt": "During this video, we will talk about how we can load the data from the specific ListView to Power BI Desktop. When we are loading data from SharePoint Online List to Power BI Desktop it will load all the columns. This will take some time to load the data into Power BI. With the October 2020 release",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-only-retrieve-default-list-view-columns-from-sharepoint-online-to-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-only-retrieve-default-list-view-columns-from-sharepoint-online-to-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=jT07g-7Z7pc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jT07g-7Z7pc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M46S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-10-22T05:59:22-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jT07g-7Z7pc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/BSmmNgO_EOU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -302,27 +534,35 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "Power BI Desktop"
+        "Power Query"
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-overview-of-power-bi-apps.md",
-      "title": "Overview of Power BI Apps",
-      "excerpt": "In this video, first we will talk What is a Power BI App? An App is a Power BI content type which allows to combine dashboards, reports all in one place bundled together.  Here, we will cover the following concepts.  We will start with the explanation of What is a Power BI App? Then we will talk about",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-overview-of-power-bi-apps/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-overview-of-power-bi-apps/",
-      "originalUrl": "https://youtube.com/watch?v=mjc9PrPzf-k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mjc9PrPzf-k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M41S",
+      "path": "_learning/videos/guy-in-a-cube-brand-your-report-server.md",
+      "title": "Brand your Report Server",
+      "excerpt": "I break down how to make a branding package for SQL Server Reporting Services 2016. I compare it from the original skin, to the multicolor brand package that Chris Finlan put together, to my custom brand package for Guy in a Cube.  Branding the web portal - https://msdn.microsoft.com/en-us/library/mt710551.aspx",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-brand-your-report-server/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-brand-your-report-server/",
+      "originalUrl": "https://youtube.com/watch?v=m08kLuofwFA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m08kLuofwFA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M12S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-03-25T04:51:54-07:00",
+      "publishedDateTime": "2016-03-22T10:03:10-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/mjc9PrPzf-k/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/m08kLuofwFA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -336,23 +576,31 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-paginated-report-visual-in-power-bi.md",
-      "title": "Paginated Report Visual in Power BI",
-      "excerpt": "Welcome to one more interesting video from Power BI June 2021 feature updates. So, excited to announce that the long-anticipated paginated report visual for Power BI reports is now available in Power BI Desktop as a public preview. Yes, during this video we will talk about Paginated Report Visual in",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-paginated-report-visual-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-paginated-report-visual-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=ecToHMRv7aE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ecToHMRv7aE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M55S",
+      "path": "_learning/videos/guy-in-a-cube-bring-power-bi-and-excel-together.md",
+      "title": "Bring Power BI and Excel together",
+      "excerpt": "STOP defaulting to exporting your Power BI data to Excel! Adam shows you options you can use within Power BI to still work with your data in Excel if that's what you are comfortable with.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-bring-power-bi-and-excel-together/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-bring-power-bi-and-excel-together/",
+      "originalUrl": "https://youtube.com/watch?v=jIFCyQdTvgM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jIFCyQdTvgM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M19S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2021-06-28T19:40:10-07:00",
+      "publishedDateTime": "2022-11-03T08:00:28-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ecToHMRv7aE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jIFCyQdTvgM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -366,23 +614,31 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-permission-model-for-power-bi-report-while-integrating-with-ms-teams-power-bi-and-ms-teams-part-2.md",
-      "title": "Permission Model for Power BI report while Integrating with MS Teams | Power BI and MS Teams| Part 2",
-      "excerpt": "Welcome to Power BI and MS Teams Integration step by step series. My self Dhruvin Shah and I have divided this entire session into three different parts.  Part 1: Integrate Power BI Report, Report from Apps and Paginated Report to MS Teams using Power BI Tab in MS Teams. https://youtu.be/67-jriuocxc",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-permission-model-for-power-bi-report-while-integrating-with-ms-teams-power-bi-and-ms-teams-part-2/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-permission-model-for-power-bi-report-while-integrating-with-ms-teams-power-bi-and-ms-teams-part-2/",
-      "originalUrl": "https://youtube.com/watch?v=o_d-SKFsOqU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o_d-SKFsOqU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M48S",
+      "path": "_learning/videos/guy-in-a-cube-bring-power-bi-to-your-every-day-microsoft-teams-usage.md",
+      "title": "Bring Power BI to your every day Microsoft Teams usage",
+      "excerpt": "Have you added the Power BI app to Microsoft Teams? Bring Power BI closer to your day to day and have your reports ready when you need them! Adam shows you how.  Announcement Blog: https://powerbi.microsoft.com/en-us/blog/announcing-new-power-bi-experiences-in-microsoft-teams/  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-bring-power-bi-to-your-every-day-microsoft-teams-usage/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-bring-power-bi-to-your-every-day-microsoft-teams-usage/",
+      "originalUrl": "https://youtube.com/watch?v=UbuGmVIOmp4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UbuGmVIOmp4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-03-02T21:44:40-08:00",
+      "publishedDateTime": "2020-10-15T08:00:12-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/o_d-SKFsOqU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UbuGmVIOmp4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -396,263 +652,31 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-personalize-visual-in-power-bi-report.md",
-      "title": "Personalize Visual in Power BI Report",
-      "excerpt": "In this video, we will be talking about how we can personalize visuals in the Power BI report. This is a new feature rolled out during April 2020 update. This feature allows users to personalize visuals in the report based on their requirements.   Scenario:  Let’s say you have a Power BI report published",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-personalize-visual-in-power-bi-report/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-personalize-visual-in-power-bi-report/",
-      "originalUrl": "https://youtube.com/watch?v=Gp5Lwrug5-U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gp5Lwrug5-U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M11S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-05-17T19:11:46-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Gp5Lwrug5-U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-pie-chart-rotation-in-power-bi.md",
-      "title": "Pie Chart Rotation in Power BI",
-      "excerpt": "Welcome to one more Short Tip and Trick on Power BI. In this video, we will talk about how we can apply Rotation for Power BI Pie and Donut Chart. Currently, pie and donut chart slices are drawn in clockwise order, beginning at the twelve o’clock position, which often results in the final slices being",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-pie-chart-rotation-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-pie-chart-rotation-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=9UWDF8cGMeA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9UWDF8cGMeA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M26S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-12-16T21:28:39-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9UWDF8cGMeA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-power-apps-visual-for-power-bi-build-live-application-with-power-apps-visual-inside-power-bi.md",
-      "title": "Power Apps Visual for Power BI | Build Live Application with Power Apps Visual inside Power BI",
-      "excerpt": "In this video, we will talk about Power Apps visualization inside the Power BI. We will talk the step by step procedure that you should know about the Power Apps visualization inside the Power BI.  First, we will build a Power BI report with the DirectQuery Mode of SQL Server. We will configure a Gateway",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-apps-visual-for-power-bi-build-live-application-with-power-apps-visual-inside-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-apps-visual-for-power-bi-build-live-application-with-power-apps-visual-inside-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=ppCwRDV_28o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ppCwRDV_28o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M56S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-04-27T21:50:24-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ppCwRDV_28o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-power-bi-dynamic-format-string-for-measures.md",
-      "title": "Power BI: Dynamic Format String for Measures",
-      "excerpt": "Recently Microsoft launched new Power BI feature - \"Dynamic Format String for Measures\". With dynamic format strings for measures, you can determine how measures appear in visuals by conditionally applying a format string with a separate DAX expression.  Dynamic format strings overcome an inherent disadvantage",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-dynamic-format-string-for-measures/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-dynamic-format-string-for-measures/",
-      "originalUrl": "https://youtube.com/watch?v=hI7zkOdKrig",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hI7zkOdKrig\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M56S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2023-05-04T03:21:29-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hI7zkOdKrig/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-power-bi-goals-complete-beginner-step-by-step-series.md",
-      "title": "Power BI Goals - Complete Beginner Step by Step Series",
-      "excerpt": "Welcome to Power BI Goals Step by Step tutorials for Beginners. During this session we will talk about Power BI Goals in Detail. We will learn Goals in Power BI from scratch. This session covers the information about What is Goals in Power BI? Why we need to use Power BI Goals? Which type of Licensing",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-goals-complete-beginner-step-by-step-series/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-goals-complete-beginner-step-by-step-series/",
-      "originalUrl": "https://youtube.com/watch?v=Y4M6e4JU-Z0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y4M6e4JU-Z0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M7S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2022-02-02T02:25:34-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Y4M6e4JU-Z0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-power-bi-goals-create-scorecard-and-manual-goals-in-power-bi.md",
-      "title": "Power BI Goals - Create Scorecard and Manual Goals in Power BI",
-      "excerpt": "Welcome to the Power BI Goals Step by Step Beginner tutorial series, During this session, we will talk about how to create Scorecard and Manual Goals in Power BI. To get started with Goals we need to create a Scorecard in Power BI. Once ou scorecard is created, we can add the Goals within the same scorecard.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-goals-create-scorecard-and-manual-goals-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-goals-create-scorecard-and-manual-goals-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=88-JKP7-3PY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/88-JKP7-3PY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M10S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2022-02-03T04:39:48-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/88-JKP7-3PY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-power-bi-june-feature-summary-area-chart-transparency-sliders.md",
-      "title": "Power BI June Feature Summary - Area chart transparency sliders",
-      "excerpt": "Welcome to Power BI Desktop June 2021 Feature Summary. During this Short Power BI Tip, we will learn how we can apply transparency for Area and Stacked Area Chart in Power BI. Earlier, the transparency value set the default to 60%. During this session, we will learn how we can set transparency for Area",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-june-feature-summary-area-chart-transparency-sliders/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-june-feature-summary-area-chart-transparency-sliders/",
-      "originalUrl": "https://youtube.com/watch?v=s092or3x7HY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s092or3x7HY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M8S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-06-30T21:51:42-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/s092or3x7HY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-power-bi-report-gallery-full-animated-power-bi-report-for-average-sunshine-by-continent.md",
-      "title": "Power BI Report Gallery - Full Animated Power BI Report for Average Sunshine by Continent",
-      "excerpt": "This is the sample demo report which I have developed to represent the average sunshine by different continent, country and city.  This is the sample Power BI report for the demo purpose. The data source used for this demo is below. https://en.wikipedia.org/wiki/List_of_cities_by_sunshine_duration",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-report-gallery-full-animated-power-bi-report-for-average-sunshine-by-continent/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-report-gallery-full-animated-power-bi-report-for-average-sunshine-by-continent/",
-      "originalUrl": "https://youtube.com/watch?v=WrGMZDv7Lt8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WrGMZDv7Lt8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:50:52-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WrGMZDv7Lt8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-power-bi-search-from-officecom-sharepoint-home-and-bing-search.md",
-      "title": "Power BI Search from Office.com, SharePoint Home, and Bing Search",
-      "excerpt": "Welcome to another interesting Power BI Session on Power BI Search. Now we can search our favorite Power BI reports and dashboards from Office.com, SharePoint Home, and Bing search results. Here in this session, I’m going to explain each step of Power BI search from office.com, SharePoint Home, and Bin",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-search-from-officecom-sharepoint-home-and-bing-search/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-search-from-officecom-sharepoint-home-and-bing-search/",
-      "originalUrl": "https://youtube.com/watch?v=CsjRToO8q-Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CsjRToO8q-Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "path": "_learning/videos/guy-in-a-cube-bts-my-video-recording-setup.md",
+      "title": "BTS: My video recording setup",
+      "excerpt": "This is the beginning of a series about how I make my YouTube videos. This video starts with a look at my setup. You only see what is in front of the camera in the cropped frame. In this video, I show you what I see and how things are placed.   For all of you that have expressed concern about R2-D2 falling",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-bts-my-video-recording-setup/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-bts-my-video-recording-setup/",
+      "originalUrl": "https://youtube.com/watch?v=IeJgjrmtReU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IeJgjrmtReU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT7M1S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-12-21T22:00:17-08:00",
+      "publishedDateTime": "2017-06-02T07:25:49-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/CsjRToO8q-Q/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/IeJgjrmtReU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -666,23 +690,31 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-power-bi-tip-display-selected-item-from-the-slicer-to-the-slicer-header.md",
-      "title": "Power BI Tip - Display Selected Item from the Slicer to the Slicer Header",
-      "excerpt": "In this video we will talk about how we can display the selected item from the slicer to the slicer header.  We all know that we can have single select and multi select dropdown option available for the slicer. When we select the single item from the slicer, it will display the selected item to the header",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-tip-display-selected-item-from-the-slicer-to-the-slicer-header/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-tip-display-selected-item-from-the-slicer-to-the-slicer-header/",
-      "originalUrl": "https://youtube.com/watch?v=pBWR4EF3Wzc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pBWR4EF3Wzc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M39S",
+      "path": "_learning/videos/guy-in-a-cube-bts-whats-in-my-bag-april-2016.md",
+      "title": "BTS: What's in my bag? | April 2016",
+      "excerpt": "Behind the Scenes!!! To celebrate passing the 1000 Subscriber milestone, on the YouTube Channel, I go through what is in my bag. A look at all my gear. Thank you so much for watching the videos I put out and for giving me thoughts on what you want to see!  Casey Neistat's Guide to Filmmaking https://www.youtube.com/watch?v=nLSUrTxquyE",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-bts-whats-in-my-bag-april-2016/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-bts-whats-in-my-bag-april-2016/",
+      "originalUrl": "https://youtube.com/watch?v=-pshzN1EdWU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-pshzN1EdWU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M7S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-03-25T04:50:52-07:00",
+      "publishedDateTime": "2016-04-11T11:00:37-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/pBWR4EF3Wzc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-pshzN1EdWU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -696,23 +728,31 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-power-bi-tip-hide-filter-pane-from-the-published-version-of-power-bi-report.md",
-      "title": "Power BI Tip - Hide Filter Pane From the Published Version of Power BI Report",
-      "excerpt": "In this vlog we will learn about how we can hide the Filter Pane from the published version of the Power BI report. Sometimes there are situations in which we have set our Visual, Page or Report level filter as a part of development logic and we wish that end user should not able to change those values.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-tip-hide-filter-pane-from-the-published-version-of-power-bi-report/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-tip-hide-filter-pane-from-the-published-version-of-power-bi-report/",
-      "originalUrl": "https://youtube.com/watch?v=SNU-6EM43Ao",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SNU-6EM43Ao\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M13S",
+      "path": "_learning/videos/guy-in-a-cube-build-your-personal-brand-3-things-with-steve-jones.md",
+      "title": "Build Your Personal Brand: 3 things with Steve Jones",
+      "excerpt": "Are you curious how you can build your personal brand? In this video, we talk with Steve Jones, from SQL Server Central and Redgate, about 3 things you can start working on today to build your personal brand.  Connect with Steve Jones!  Twitter: https://twitter.com/way0utwest SQL Server Central: http://www.sqlservercentral.com/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-build-your-personal-brand-3-things-with-steve-jones/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-build-your-personal-brand-3-things-with-steve-jones/",
+      "originalUrl": "https://youtube.com/watch?v=RC-nLMLLjXs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RC-nLMLLjXs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M7S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-03-25T04:50:52-07:00",
+      "publishedDateTime": "2018-08-24T09:36:47-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/SNU-6EM43Ao/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/RC-nLMLLjXs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -726,23 +766,31 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-power-bi-tip-stop-visual-interactions-at-report-level-in-power-bi.md",
-      "title": "Power BI Tip - Stop Visual Interactions at Report Level in Power BI",
-      "excerpt": "In this vlog we will learn about how we can stop the interaction between the visualization. In Power BI, whenever we select any visual data point, it filters other visuals based on the selected data point. Sometimes there is a requirement, where we don’t need the filtering functionality on selected data",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-tip-stop-visual-interactions-at-report-level-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-tip-stop-visual-interactions-at-report-level-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=ZEWr8wYsF5Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZEWr8wYsF5Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M13S",
+      "path": "_learning/videos/guy-in-a-cube-bulk-assign-licenses-in-office-365.md",
+      "title": "Bulk Assign Licenses in Office 365",
+      "excerpt": "You may need to assign an O365 License to multiple users.  I show you how to do a bulk assign to multiple users.  With looking at the upcoming Power BI GA, this may be handy for assigning multiple Free licenses to your users, or Pro licenses.  SUBSCRIBE! https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-bulk-assign-licenses-in-office-365/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-bulk-assign-licenses-in-office-365/",
+      "originalUrl": "https://youtube.com/watch?v=vioFdG_NtKU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vioFdG_NtKU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M26S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-03-25T04:50:52-07:00",
+      "publishedDateTime": "2016-03-01T11:26:45-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ZEWr8wYsF5Y/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/vioFdG_NtKU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -756,23 +804,259 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-power-query-tip-add-sequential-number-using-the-index-column-in-power-bi.md",
-      "title": "Power Query Tip - Add Sequential Number using the Index Column in Power BI",
-      "excerpt": "In this video, we will learn, how we can easily add the sequence for the rows using the PowerQuery. In Power Query we can add the sequence number using the Index. Let’s see how to add the Index column in the Power BI.  If you really like this video don’t forget to subscribe to my channel. ***************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-query-tip-add-sequential-number-using-the-index-column-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-query-tip-add-sequential-number-using-the-index-column-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=HhwBb-_beh4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HhwBb-_beh4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M20S",
+      "path": "_learning/videos/guy-in-a-cube-calling-a-stored-procedure-using-incremental-refresh-in-power-bi-we-think-so.md",
+      "title": "Calling a Stored Procedure using Incremental Refresh in Power BI? We think so!",
+      "excerpt": "Have you wanted to use a Stored Procedure with Incremental Refresh? Patrick has a way that you can do just that!   Sandeep's blog: https://pawarbi.github.io/blog/power%20bi/powerquery/queryfolding/m/optimization/2022/01/25/parameter-valuenativequery-query-folding-where-clause-in-powerbi.html  Stored",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-calling-a-stored-procedure-using-incremental-refresh-in-power-bi-we-think-so/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-calling-a-stored-procedure-using-incremental-refresh-in-power-bi-we-think-so/",
+      "originalUrl": "https://youtube.com/watch?v=-KXDpi_wyD4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-KXDpi_wyD4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M49S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-03-25T04:50:52-07:00",
+      "publishedDateTime": "2023-02-01T08:00:00-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/HhwBb-_beh4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-KXDpi_wyD4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-can-i-use-the-audit-log-if-im-a-power-bi-admin.md",
+      "title": "Can I use the audit log if I'm a Power BI Admin?",
+      "excerpt": "In this video, I answer a question I get fairly often. Can I use the audit log if I have the Power BI service administrator role assigned to me within Office 365.   I also make an announcement about the future of Guy in a Cube.  Admin portal doc - https://powerbi.microsoft.com/en-us/documentation/powerbi-admin-portal/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-i-use-the-audit-log-if-im-a-power-bi-admin/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-i-use-the-audit-log-if-im-a-power-bi-admin/",
+      "originalUrl": "https://youtube.com/watch?v=Gf02xjFpqys",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gf02xjFpqys\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M38S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-03-14T08:54:26-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Gf02xjFpqys/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-can-patrick-handle-the-challenge.md",
+      "title": "Can Patrick handle the challenge???",
+      "excerpt": "Can Patrick handle the challenge that Alex Powers presented to him? Can he actually complete the challenges of the Power Query 30 day Query Folding challenge? Let's find out...  These are great for both Power BI and Microsoft Excel!  30 Day Challenge - Query Folding https://www.youtube.com/watch?v=9sV3hIn8VTY&list=PLKW7XPyNDgRCorKNS1bfZoAO3YSIAVz3N",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-patrick-handle-the-challenge/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-patrick-handle-the-challenge/",
+      "originalUrl": "https://youtube.com/watch?v=twsuBaiPaCk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/twsuBaiPaCk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M53S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-03-23T08:00:34-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/twsuBaiPaCk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-can-you-be-a-data-scientist-without-actually-being-a-data-scientist.md",
+      "title": "Can you be a Data Scientist without actually being a Data Scientist???",
+      "excerpt": "Forecasting data and other items are usually stuff that data scientists use to tell the future. What if you could do the same thing - EASILY! Tzvia is back to show you how Azure Data Explorer can help!  Connect with Tzvia: https://www.linkedin.com/in/tzvia/ https://twitter.com/tzvia  Time series analysis",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-you-be-a-data-scientist-without-actually-being-a-data-scientist/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-you-be-a-data-scientist-without-actually-being-a-data-scientist/",
+      "originalUrl": "https://youtube.com/watch?v=YgYTQpVnhVM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YgYTQpVnhVM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M52S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-08-02T08:00:19-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YgYTQpVnhVM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-can-you-embed-powerpoint-into-a-power-bi-app-lets-try.md",
+      "title": "Can you embed PowerPoint into a Power BI App? Let's try!",
+      "excerpt": "Let's try to embed PowerPoint into a published Power BI App. Sometimes you just have to try something!  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.  🎓",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-you-embed-powerpoint-into-a-power-bi-app-lets-try/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-you-embed-powerpoint-into-a-power-bi-app-lets-try/",
+      "originalUrl": "https://youtube.com/watch?v=fr1yjm-uFRE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fr1yjm-uFRE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M22S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-19T08:00:20-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fr1yjm-uFRE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-can-you-make-a-two-line-dynamic-title-in-power-bi.md",
+      "title": "Can you make a two-line dynamic title in Power BI?",
+      "excerpt": "Dynamic titles in Power BI can be really useful. What about a multi-line title? Patrick is answering a commenter's question on how to create a two-line dynamic title!  Dynamic Titles in Power BI Desktop https://www.youtube.com/watch?v=TYLKDPcvgK8  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-you-make-a-two-line-dynamic-title-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-you-make-a-two-line-dynamic-title-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=_n4kG9qpfIs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_n4kG9qpfIs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M8S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-12-07T08:00:16-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_n4kG9qpfIs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-can-you-use-power-query-dynamic-m-parameters-for-multi-select.md",
+      "title": "Can you use Power Query Dynamic M Parameters for multi-select?",
+      "excerpt": "Dynamic M parameters in Power Query isn't anything new. However, Patrick was challenged with using them to allow for multi-select and \"select all\" with a slicer in a Power BI report. Will he succeed?   Dynamic M query parameters in Power BI Desktop https://learn.microsoft.com/power-bi/connect-data/desktop-dynamic-m-query-parameters",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-you-use-power-query-dynamic-m-parameters-for-multi-select/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-you-use-power-query-dynamic-m-parameters-for-multi-select/",
+      "originalUrl": "https://youtube.com/watch?v=ilTeVH2Cwck",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ilTeVH2Cwck\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M16S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-06-28T08:00:36-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ilTeVH2Cwck/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -787,25 +1071,33 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-powerbitip-create-animated-gauge-with-dynamic-title-in-power-bi.md",
-      "title": "PowerBITip - Create Animated Gauge with Dynamic Title in Power BI",
-      "excerpt": "This video covers a short demo or idea to create the Animated Gauge Chart within the Power BI with the combination of the slicers.  Article is coming soon!! Download Power BI File using URL: https://github.com/Dhruvinshah16/Power-BI/tree/master/PBI-AnimatedGaugeChart     Contact me for any Questions,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-powerbitip-create-animated-gauge-with-dynamic-title-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-powerbitip-create-animated-gauge-with-dynamic-title-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=0Oy3VdnonFw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0Oy3VdnonFw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13S",
+      "path": "_learning/videos/guy-in-a-cube-can-you-use-sql-auth-with-azure-synapse-serverless.md",
+      "title": "Can you use SQL Auth with Azure Synapse Serverless?",
+      "excerpt": "When using Azure Synapse Analytics Serverless Pools, using Azure AD auth is pretty simple. But, what about SQL Auth? How do you get hat working? Patrick shows you how!   Control storage account access for serverless SQL pool in Azure Synapse Analytics https://learn.microsoft.com/azure/synapse-analytics/sql/develop-storage-files-storage-access-control?tabs=managed-identity",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-you-use-sql-auth-with-azure-synapse-serverless/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-you-use-sql-auth-with-azure-synapse-serverless/",
+      "originalUrl": "https://youtube.com/watch?v=Rp7aM42NkMc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Rp7aM42NkMc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M13S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-03-25T04:50:52-07:00",
+      "publishedDateTime": "2022-12-06T08:00:11-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/0Oy3VdnonFw/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/Rp7aM42NkMc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -817,23 +1109,31 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-powerquery-tips-split-multiple-columns-to-rows-at-once.md",
-      "title": "PowerQuery Tips – Split Multiple Columns to Rows at Once",
-      "excerpt": "In this vLog, we will learn about splitting multiple columns to the rows at once using the PowerQuery. We can easily split single column using the OOTB option very easily, but what if, you have multiple column which needed the split operation? At that time we need to use function Text.Split() and Table.FromColumn()",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-powerquery-tips-split-multiple-columns-to-rows-at-once/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-powerquery-tips-split-multiple-columns-to-rows-at-once/",
-      "originalUrl": "https://youtube.com/watch?v=9wFVAWLvZMc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9wFVAWLvZMc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M58S",
+      "path": "_learning/videos/guy-in-a-cube-capture-a-profiler-trace-for-power-bi-desktop.md",
+      "title": "Capture a Profiler trace for Power BI Desktop!",
+      "excerpt": "I look at how you can capture a Profiler trace for Power BI Desktop.  We have a child process of Analysis Services that hosts the data model.  You can connect Profiler to it and trace what is going on.  SQL 2014 SP1 Management Tools http://www.microsoft.com/en-us/download/details.aspx?id=46697  Process",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-capture-a-profiler-trace-for-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-capture-a-profiler-trace-for-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=KGOii6_IrNI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KGOii6_IrNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M43S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-03-25T04:50:52-07:00",
+      "publishedDateTime": "2015-11-09T18:54:17-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/9wFVAWLvZMc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/KGOii6_IrNI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -844,67 +1144,7 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-prerequisites-and-common-steps-to-embed-report-using-azure-function-app-and-javascript-part-2.md",
-      "title": "Prerequisites and Common Steps to Embed Report using Azure Function APP and JavaScript | Part 2",
-      "excerpt": "Welcome to Power BI Embedded Step by Step series. Myself Dhruvin Shah. The entire series is dedicated to the Intermediate level of Power BI folks. The series covers step by step guide to embed the Power BI report in any third-party custom application or SaaS application. In this video we will cover,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-prerequisites-and-common-steps-to-embed-report-using-azure-function-app-and-javascript-part-2/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-prerequisites-and-common-steps-to-embed-report-using-azure-function-app-and-javascript-part-2/",
-      "originalUrl": "https://youtube.com/watch?v=c9V9kXP49LM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c9V9kXP49LM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M49S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-03-19T10:12:07-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/c9V9kXP49LM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-prevent-users-from-creating-classic-workspace-from-power-bi-block-classic-workspace-creation.md",
-      "title": "Prevent Users from creating Classic Workspace from Power BI | Block Classic Workspace Creation",
-      "excerpt": "Welcome to Power BI Two Minute series. We all know Power BI launched new Workspace experience for Power BI Service. But what if you wish forcefully users to create new Workspace?  Here, is a tip for you. As Power BI Admin, you can now prevent users from creating new Workspace experience. You need to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-prevent-users-from-creating-classic-workspace-from-power-bi-block-classic-workspace-creation/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-prevent-users-from-creating-classic-workspace-from-power-bi-block-classic-workspace-creation/",
-      "originalUrl": "https://youtube.com/watch?v=6febT35yi8k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6febT35yi8k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M21S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-08-03T21:16:36-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6febT35yi8k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
+        "Power BI Desktop"
       ]
     }
   ],
