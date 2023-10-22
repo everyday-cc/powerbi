@@ -241,7 +241,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 60,
+          "heat": 61,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/visuals-power-bi-social.png",
@@ -385,7 +385,7 @@
         }
       ],
       "size": 4,
-      "heat": 72,
+      "heat": 73,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/visuals-power-bi-social.png",
@@ -641,8 +641,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 107974,
-            "average": 4.7742977
+            "count": 107975,
+            "average": 4.7742996
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1086,8 +1086,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 107974,
-            "average": 4.7742977
+            "count": 107975,
+            "average": 4.7742996
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2526,8 +2526,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3388,
-            "average": 4.7600355
+            "count": 3389,
+            "average": 4.760106
           },
           "provider": {
             "name": "Microsoft Learn",
