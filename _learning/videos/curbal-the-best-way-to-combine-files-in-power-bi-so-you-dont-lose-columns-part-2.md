@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M26S
 publishedDateTime: 2022-01-21T10:27:39Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hJF2dPfIeaM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "7wN5qIQ2Zx3DxrMREEsLWk6kjLCwam7aar4g0CkBFLXvDQZ3OsP+2I3fES7GYndLk6aT/bfohdjsnVBRbEnE6NGFyL79Rm1ojflVi53d+uFHnAaTUd9Zt0UC27g5kvoPQznef1AtI1IlewcRhuQpoCbwq75/BlGZtTWzcqgI+wJVMENmt/XDGXAsDZn3fvZ/e5+SiUVK6lzTr05l9Licjw56dW/1pSTs1AFNAv5g/rmTUK+PB5/WZoyMldqo6lYncnsvt882jxCNOruwvvSPGEfGJeCUHOQWGtas8QKCFmr3GlRaKJoqtY4qZmGThf8sWaRtY4uSg+1a+UG7pp/eLcbkYr81CdSo7GSC4RfvZ5vCwpLQJw03I8kGXnTnvV9GGRIKhDaIXuAzS7+1ApFm8Xmokjcee+Afgk9o7bgWCA8=;rf0EZhYfyPnf57QIWt4D7Q=="
+secured: "ejwGym/xMS2L43fOaCwqJKTUHRGckw4Ctiov2tuodZOMxhI2NOrH8sCKInvm6xi7D6J4rg9WoCNMJ6cIxLjtZlT9Px794w31L+EBIBAIb2SRFQa3md0YB2rqjP8iTVuyDeSw8AsxfbK7wcY1q3dHG8qd3x+OSR8NgzG8oQsffrXrf4JJxizejZfDLMqkWDWJ68UkG/zR0fA+OyYwLHLI1NP8945Wt7cvaeu6UwY6GuPmg6Rgbc7LPYm5+EQ0FOe4sBYgeHv9bbn/AJT5unF2hZZVU2m+zKzjCJAeb9c3SE8RPFWPwG2TTlez8Qgb8MDSl9dwiMsxGq29KO7l34JyuQJ+ObzHvCwgShGS1UWC5pTuN9lll7mJ5zyB2zNNLTmkUOCiuNvnolqs6QUC+B8emRZjSoCvLiMUTQ4pLDN/RQ8=;elDF8a0LvmqKFh3nRJoMGA=="
 ---
 
