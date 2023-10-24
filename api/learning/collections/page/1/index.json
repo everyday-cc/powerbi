@@ -1404,8 +1404,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 108002,
-            "average": 4.7743096
+            "count": 108003,
+            "average": 4.7742934
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1614,8 +1614,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 74897,
-            "average": 4.7951856
+            "count": 74898,
+            "average": 4.795188
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1656,8 +1656,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 108002,
-            "average": 4.7743096
+            "count": 108003,
+            "average": 4.7742934
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4291,8 +4291,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 5686,
-            "average": 4.742877
+            "count": 5687,
+            "average": 4.7429223
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4334,8 +4334,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 1110,
-            "average": 4.663063
+            "count": 1111,
+            "average": 4.6633663
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4503,8 +4503,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 5686,
-            "average": 4.742877
+            "count": 5687,
+            "average": 4.7429223
           },
           "provider": {
             "name": "Microsoft Learn",
