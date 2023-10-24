@@ -12,7 +12,7 @@
       "length": "PT1H25M",
       "ratings": {
         "count": 23561,
-        "average": 4.753194
+        "average": 4.7532787
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 16660,
-        "average": 4.772809
+        "count": 16661,
+        "average": 4.772823
       },
       "provider": {
         "name": "Microsoft Learn",
