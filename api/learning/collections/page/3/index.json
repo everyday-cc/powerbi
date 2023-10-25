@@ -1246,8 +1246,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11047,
-            "average": 4.757672
+            "count": 11048,
+            "average": 4.757603
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1431,7 +1431,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
