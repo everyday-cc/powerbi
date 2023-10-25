@@ -71,7 +71,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 133,
+      "heat": 53,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -87,8 +87,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 108021,
-        "average": 4.7743125
+        "count": 108022,
+        "average": 4.7743053
       },
       "provider": {
         "name": "Microsoft Learn",
