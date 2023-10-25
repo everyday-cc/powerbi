@@ -4,36 +4,6 @@
   "page": 35,
   "value": [
     {
-      "path": "_learning/videos/dhruvin-shah-add-zoom-sliders-on-axis-in-power-bi-visual.md",
-      "title": "Add Zoom Sliders on Axis in Power BI Visual",
-      "excerpt": "Sometimes, there is a need to examine a smaller range of data in a chart without using any additional filters. Zoom sliders will help us a lot in those scenarios. During this video, we will learn how we can add Zoom sliders on Axis in Power BI. Zoom sliders give report creators and consumers an easy",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-add-zoom-sliders-on-axis-in-power-bi-visual/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-add-zoom-sliders-on-axis-in-power-bi-visual/",
-      "originalUrl": "https://youtube.com/watch?v=tZ9F19qTDCI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tZ9F19qTDCI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M36S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-11-18T04:15:44-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tZ9F19qTDCI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-anomaly-detection-in-power-bi.md",
       "title": "Anomaly Detection in Power BI",
       "excerpt": "During this video, we will be talking about one of the interesting features of Power BI which is Anomaly Detection. We will be talking everything about Anomaly Detection in Power BI in detail with the help of an example. Anomaly detection helps us to enhance our line charts by automatically detecting",
@@ -903,6 +873,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/l1sqT7upHjs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-use-page-navigation-action-for-button-to-navigate-from-one-page-to-another-in-power-bi-report.md",
+      "title": "Use Page Navigation Action for Button to Navigate from One Page to Another in Power BI Report",
+      "excerpt": "In this vLog, we will learn, about newly introduced action type for buttons which is “Page Navigation”. Sometimes we have a requirement where we need to redirect the user from one page to another page by clicking on the button.   Previously we can achieve this requirement using Bookmark and selection",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-use-page-navigation-action-for-button-to-navigate-from-one-page-to-another-in-power-bi-report/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-use-page-navigation-action-for-button-to-navigate-from-one-page-to-another-in-power-bi-report/",
+      "originalUrl": "https://youtube.com/watch?v=62wKhG1KZyM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/62wKhG1KZyM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M45S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:52:50-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/62wKhG1KZyM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

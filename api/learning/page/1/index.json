@@ -118,44 +118,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-finish-the-puzzle-querying-power-bi-semantic-models-with-semantic-link.md",
-      "title": "Finish the Puzzle: Querying Power BI Semantic Models with Semantic Link!",
-      "excerpt": "Want to use notebooks to leverage data from a Power BI semantic model (dataset)? Maybe you're a data scientist wanting to augment your models with that data, or maybe you just want to validate stuff as a Power BI developer. Semantic Link (or Sempy) can help!  Sample Notebook: https://github.com/guyinacube/demo-files/blob/master/video%20demos/Synapse/20231019%20-%20Sempy.ipynb",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-finish-the-puzzle-querying-power-bi-semantic-models-with-semantic-link/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-finish-the-puzzle-querying-power-bi-semantic-models-with-semantic-link/",
-      "originalUrl": "https://youtube.com/watch?v=zMiRGZsfQgs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zMiRGZsfQgs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M36S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-10-19T08:00:52-07:00",
-      "heat": 209,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zMiRGZsfQgs/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgXCh_MA8=&rs=AOn4CLAab65DibpaIsLxyCufbv57eaYLNQ",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-filter-a-table-to-the-last-n-records-in-power-query.md",
       "title": "Filter a table to the last N records in Power Query",
       "excerpt": "This is an updated version of the original one: https://www.youtube.com/watch?v=hidJ5T_DYQ0&ab_channel=Curbal and the improved version: https://www.youtube.com/watch?v=QaodJFeX49k&t=0s&ab_channel=Curbal  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join",
@@ -192,6 +154,44 @@
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-finish-the-puzzle-querying-power-bi-semantic-models-with-semantic-link.md",
+      "title": "Finish the Puzzle: Querying Power BI Semantic Models with Semantic Link!",
+      "excerpt": "Want to use notebooks to leverage data from a Power BI semantic model (dataset)? Maybe you're a data scientist wanting to augment your models with that data, or maybe you just want to validate stuff as a Power BI developer. Semantic Link (or Sempy) can help!  Sample Notebook: https://github.com/guyinacube/demo-files/blob/master/video%20demos/Synapse/20231019%20-%20Sempy.ipynb",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-finish-the-puzzle-querying-power-bi-semantic-models-with-semantic-link/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-finish-the-puzzle-querying-power-bi-semantic-models-with-semantic-link/",
+      "originalUrl": "https://youtube.com/watch?v=zMiRGZsfQgs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zMiRGZsfQgs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M36S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-10-19T08:00:52-07:00",
+      "heat": 192,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zMiRGZsfQgs/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgXCh_MA8=&rs=AOn4CLAab65DibpaIsLxyCufbv57eaYLNQ",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -258,44 +258,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/0qmHl-oAehI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-no-more-report-builder-for-power-bi-paginated-reports.md",
-      "title": "No more Report Builder for Power BI Paginated Reports???",
-      "excerpt": "Not a fan of Power BI Report Builder? Still want to use Paginated reports? Patrick shows the new Paginated authoring experience within the service! It's BANANAS!  Low code authoring of paginated reports https://powerbi.microsoft.com/blog/low-code-authoring-of-paginated-reports/  Create paginated reports",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-no-more-report-builder-for-power-bi-paginated-reports/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-no-more-report-builder-for-power-bi-paginated-reports/",
-      "originalUrl": "https://youtube.com/watch?v=gMLwKdfSmu0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gMLwKdfSmu0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M31S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-09-07T05:50:36-07:00",
-      "heat": 159,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gMLwKdfSmu0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -377,15 +339,91 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-manage-scalable-power-bi-dataflows.md",
-      "title": "Create and manage scalable Power BI dataflows",
-      "excerpt": "Create Power BI transformation logic for reuse across your organization with Power BI dataflows. Learn how to combine Power BI dataflows with Power BI Premium for scalable ETL, and practice creating and consuming dataflows.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-manage-scalable-power-bi-dataflows/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
-      "length": "PT1H12M",
+      "path": "_learning/videos/curbal-need-to-hide-column-headers-in-power-bi-ive-got-you-covered-with-the-best-way-to-do-it.md",
+      "title": "Need To Hide Column Headers In Power Bi? I've Got You Covered With The Best Way To Do It!",
+      "excerpt": "Y0u probably are hiding column headers by changing the text color in Power BI, but there is a better way. Check it out on todays video!  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-need-to-hide-column-headers-in-power-bi-ive-got-you-covered-with-the-best-way-to-do-it/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-need-to-hide-column-headers-in-power-bi-ive-got-you-covered-with-the-best-way-to-do-it/",
+      "originalUrl": "https://youtube.com/watch?v=FhWEeOgZ_zg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FhWEeOgZ_zg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M10S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-09-04T05:01:40-07:00",
+      "heat": 134,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FhWEeOgZ_zg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-get-and-use-python-libraries-within-microsoft-fabric.md",
+      "title": "Get and use Python Libraries within Microsoft Fabric",
+      "excerpt": "Sometimes you need python libraries that aren't present by default in Microsoft Fabric. Patrick walks you through how to manage your python libraries, so they are available when you need them.  Manage Python libraries in Microsoft Fabric https://learn.microsoft.com/fabric/data-science/python-guide/python-library-management",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-get-and-use-python-libraries-within-microsoft-fabric/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-get-and-use-python-libraries-within-microsoft-fabric/",
+      "originalUrl": "https://youtube.com/watch?v=LZ9nKK0PPe0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LZ9nKK0PPe0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M55S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-08-22T08:00:15-07:00",
+      "heat": 132,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LZ9nKK0PPe0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deliver-decision-making-insights-with-power-bi.md",
+      "title": "Deliver decision-making insights with Power BI",
+      "excerpt": "Deliver decision-making insights with Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-deliver-decision-making-insights-with-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deliver-decision-making-insights-with-power-bi/",
+      "length": "PT27M",
       "ratings": {
-        "count": 273,
-        "average": 4.7838826
+        "count": 4,
+        "average": 4.25
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -400,12 +438,12 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -415,8 +453,7 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Dataflows"
+        "Power BI"
       ]
     },
     {
@@ -445,44 +482,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/0qmHl-oAehI/maxresdefault_live.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-were-back-lets-answer-your-microsoft-fabric-and-power-bi-questions-august-12-2023.md",
-      "title": "🔴 We're back! Let's answer your Microsoft Fabric and Power BI questions... (August 12, 2023)",
-      "excerpt": "Join us live as we answer your questions about Microsoft Fabric (including Power BI)!  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\" in front of your comment to help us identify questions! 👉 Super chats",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-were-back-lets-answer-your-microsoft-fabric-and-power-bi-questions-august-12-2023/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-were-back-lets-answer-your-microsoft-fabric-and-power-bi-questions-august-12-2023/",
-      "originalUrl": "https://youtube.com/watch?v=JNfQJe-ruxM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JNfQJe-ruxM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "P0D",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-08-11T04:52:47-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JNfQJe-ruxM/maxresdefault_live.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1089,7 +1088,7 @@
         ]
       },
       "publishedDateTime": "2023-10-12T04:10:34-07:00",
-      "heat": 89,
+      "heat": 87,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/jn9qrWtVwqA/maxresdefault.jpg",
