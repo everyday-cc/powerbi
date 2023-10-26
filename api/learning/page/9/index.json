@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 251,
-            "average": 4.7250996
+            "count": 252,
+            "average": 4.7222223
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -369,8 +369,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 6898,
-            "average": 4.7963176
+            "count": 6899,
+            "average": 4.796347
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1402,8 +1402,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 27749,
-        "average": 4.748748
+        "count": 27750,
+        "average": 4.7486124
       },
       "provider": {
         "name": "Microsoft Learn",
