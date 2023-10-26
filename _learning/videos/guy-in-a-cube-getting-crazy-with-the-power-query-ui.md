@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M28S
 publishedDateTime: 2023-03-01T16:00:39Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/w_rSlWELBNk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "dWWiUi3hk4AMpVrhn0RRP88n7PcVHKSCD2KzrILU5HeO/qgMt4OGtqoM/ySNpJPa4NyhOC2CxRjgv6HBSSwcINDYNGlnlyifghI1GTD2mSkQ/bGiOYu/c3NHFFkPICrb7RIOPYX9v7wHpDza2PlJZUdzN3Mnx4LisCzceQNCqJHbBunZWOf2vBGNKbI52+nwQ9ujxD19cw/10wgmsV4OEVEc6QhFGuHxgQkOEMCA0iYk6q2/vBzbtu4WVIFCe9I4g90lMX6JEqvEUbulmGVCdF3bQ89ne2L70pIIC9XrhnqwEhpNpiJkuUxKZugLdzMAAJ/68JtFvVm2twDM2zva+ezf+Cf6boXJgQjyKpFlVaNy6yymRq+w8toj69F96A2syFU67A4ZZV7LHRm9O719pjVEfjHqZ6QCX2SOwFeVGkk=;wWBpNEaa0iI1hap1dfQ00w=="
+secured: "Spalloeq+aVqkES+tWX83LKpNMSmslcBE0mmb/2affh2pYlxUa2C0GUlmEHE95rkUi9P4SAB0xryRdaa6aO8liQQWbL8bcFX4rdIyHb3omcIz0vDptNWFHcS8iIXdSzvquVAIdSZArmfz9j99IOJGt5IhYAFAW38Duh7gMM5Y9qDUMOm6kZiv5tIxnAu8lmA+tpTEeKS4RpdK6/Ro1M444FnaPz2Q1V5tbFF3zTQOmRfyqh6SI11O99kJa1DF3dRLuNyflf9FKBEQBJwfrNaf/mkpW3R5ofX100VMkduTvE0sq11+RQ6VPwnEFzrn03rpDPtuF//SgEKO51MDLwrbFkiRtizOVJvgh/pnABBq3yzf6Lm47eRQE4ssssSaweHEDaqdG39OUtyYMri63lHqCUL7zZTqQe81kqRHoSFX2I=;OMx8KZ1UEAqxqKj81gyJGQ=="
 ---
 

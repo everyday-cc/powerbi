@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT13M18S
 publishedDateTime: 2020-03-05T16:00:04Z
-heat: 74
+heat: 80
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vlv1tbuZNcM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Get started with the Power BI Gateway"
 
-secured: "8UkEHPTc4bAzIh/rQQM9zH0Juv84zzyCByLWvH2aT+lM0RKCKu6H9p0ZwtUAEqSqK1TjfhJ3+C/kdly+wAKJZ0cr3e1T1rAK12abbnY4eebIpLern07ERaS8TmsIvNFydsctQUvbo3DCzpCPnEVWozUM/8zckSB8Lt524fDdlI66Ruzfc/lF+W0jsv7DvIY0nDNPOLoXLkHkS4ibUi6HRf7/heY8TNOIQ2FnNmlAGI2oFfaB7XP0mFOWizmECbBg1yW9M9uRfZnJO0ntcQS2wvg/KIFTfIitVJsLgTTJCCIMkvzvclj0wLaWobOMrKcwSSVJrgzr33UHemKV8Wi5wNBDOJUEoqKX9/PxgCOOVeUTg3So7Duru3lg7JwQAW07V+G7s7zk9eVU830nD7kK12iGsaljAVByKCGEbR8hswuASloZO1FEy+d/NXvYnx/m;FmQpHfYMMOe7ecfIQuuOkA=="
+secured: "hmF+W0A4w1krqvCXZuJcGO1b0t+FjPTzedZ7jQiI0ya+b1lt4RfJETOeip3Jan5Du7A9jQrthlihOtsp1EH6xog7Cx385YanAScHL3xCJ1IKUPpUVbEzbh2XGz6tuF0RWs5T4/kpCgcelt0pN1a6mDV8AW94Iafr1hGHCEM7K66r+CUoa0B3nCLdtJxp1vQI1RhcNaWn56ViW9+onxgzEuwJSwINT2K70W1ETg2Zo9mQ7xNwL5bgx/6RHR3zXXszAaEDkrmIc5lKvlf/TVwjzWkVxqHfHlKB3MygWNnm2Lux7LTyZa84JjiJ+0RSWPtzENWSgBbtQuxerSoMMRChXkTQ3l4ZjlUfgOHaZ2cLtqkwcSw0j5SPV2lDuaCWBUSmv9xrf0jsy+fbi+fyo2JaJW2WM6h/eesj7y59tuLYtAsPfkm+ru/GrVJqBBBhfCtg;R6/5bUMU4587/9Q5nav3kA=="
 ---
 
