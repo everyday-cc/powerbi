@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M13S
 publishedDateTime: 2023-10-17T15:00:36Z
-heat: 96
+heat: 98
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hFfi3O_Isn4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "t8MQGgtVPVgv8REZTJ6lsnKv1njld5VNOWVaXFoXZSaJPdLNxWQlj3W7UvneQcGtx7qdCFigrc2dLemutRqZrgDkJSAGhDQjtUDLiiy6rZTk+1HlF5oUxS9tLsRSEw8KOrhxUQVPKdeK4ZPWr08D9/QDusBCY7VcVn2LncIH+C98uVAO5UXfZFv+VYirZb0K9Cq5EvsfI3kna47BPupEehvBtZjPVPqjHxJyogg2vg+IyADL6DaUDGSZo3l4m3JBORemkExB49Jzv4FUjCngPmlily1LK9jUy8qEwYFHXFjt0VbhFk8hdAhxb0E1fE3l6IW3vHkZlxCBEsX/WdU3ftwQYQ+CmbK0ejKsT86NjmYgOq9KVVGSBCGTmjqgpunQPHl84d4DJokHQFKqIV8Lon6nGtY0073HGkAkzhp5GDE=;EN13Rd/9o4Bn6vj44BJ7xg=="
+secured: "arrols91DQldRpril12VGtEWMcyAFrCQeN5HULeZaPc8UdRUEo1kgt2m0hCHnT6iVvM1Lp9rJ6IqkD7vjgeEhpoM0UTjMklo/VPwrPtKn/sGqFBBvtqTlkUCGuf6yt6tZVX1SlXXIThqcUABrfg8mGcZgtYIz42Ux9xmvNBtQG2nlSfpkUqo8YshdSPRR3mzGiuh8QlawrVzHq3nmjr1eliTD0zyOlaEKDtGqtAVoUiA/KESDyY00Fp6bnr/SmXaLtiOnbWdsScEPCs8LxS2SEk8//lGbPUcWvMIA59VdlqD4wbVt0GTKOnHqZhMiy8H5WTkUx7bUI8gCfBbCBTBbC0JV9iPE7hzOf0sI1+vA48EHfDDctYBmrAdoz/2HeEbyv70yH3tMD0w+w7PX25NUmFbijF4bEEjQHex2bpFQeE=;oCgFeIzP/qxSoPSy4RUzeA=="
 ---
 

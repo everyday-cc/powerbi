@@ -884,8 +884,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 74930,
-            "average": 4.7951956
+            "count": 74932,
+            "average": 4.795201
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1223,8 +1223,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 74930,
-        "average": 4.7951956
+        "count": 74932,
+        "average": 4.795201
       },
       "provider": {
         "name": "Microsoft Learn",
