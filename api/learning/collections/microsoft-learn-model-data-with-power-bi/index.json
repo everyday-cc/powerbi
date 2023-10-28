@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 53,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
@@ -96,8 +96,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 12678,
-        "average": 4.7371826
+        "count": 12679,
+        "average": 4.737203
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -225,8 +225,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 2483,
-        "average": 4.718486
+        "count": 2484,
+        "average": 4.718599
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -243,7 +243,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-add-calculated-tables-social.png",
@@ -286,7 +286,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/use-dax-time-intelligence-functions-power-bi-desktop-social.png",
@@ -312,8 +312,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 11048,
-        "average": 4.757603
+        "count": 11050,
+        "average": 4.757647
       },
       "provider": {
         "name": "Microsoft Learn",

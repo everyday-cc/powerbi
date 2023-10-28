@@ -4,6 +4,40 @@
   "page": 45,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-fit-gap-analysis.md",
+      "title": "Perform fit gap analysis",
+      "excerpt": "Learn about performing a fit gap analysis as a solution architect for Dynamics 365 and Microsoft Power Platform.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-fit-gap-analysis/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fit-gap-analysis/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 479,
+        "average": 4.7473903
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-gain-insights-into-usage-performance-of-your-power-bi-reports-to-increase-adopti.md",
       "title": "Gain insights into usage and performance of your Power BI reports to increase adoption and reduce costs",
       "excerpt": "Gain insights into usage and performance of your Power BI reports to increase adoption and reduce costs",
@@ -1005,6 +1039,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-power-bi-effective-filters.md",
+      "title": "Configure Power BI report filters",
+      "excerpt": "Report filtering is a complex topic because many techniques are available for filtering a Microsoft Power BI report. However, with complexity comes control, allowing you to design reports that meet requirements and expectations.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-filters/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 979,
+        "average": 4.743616
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-filters-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-power-bi-effective-ui.md",
       "title": "Enhance Power BI report designs for the user interface",
       "excerpt": "Designing the user interface (UI) is about how reports are consumed, including the appearance and behavior of them, and it is the final report development stage.",
@@ -1160,90 +1236,6 @@
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-integrate-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-embedded-intro.md",
-      "title": "Introduction to Power BI embedded analytics",
-      "excerpt": "Learn how developers can programmatically embed analytics in their apps, and about no-code embedding options for simpler requirements.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-intro/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-intro/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 192,
-        "average": 4.8697915
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-intro-social.png",
-          "width": 1280,
-          "height": 640,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-embedded-permissions-analytics.md",
-      "title": "Enforce data permissions for Power BI embedded analytics",
-      "excerpt": "Learn how to enforce data permissions for Power BI embedded analytics.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-permissions-analytics/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-permissions-analytics/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 47,
-        "average": 4.808511
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-permissions-analytics-social.png",
           "width": 1280,
           "height": 641,
           "isCached": true

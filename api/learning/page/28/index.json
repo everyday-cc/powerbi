@@ -4,6 +4,45 @@
   "page": 28,
   "value": [
     {
+      "path": "_learning/videos/sqlbi-calculate-in-dax-01-filters-are-tables.md",
+      "title": "CALCULATE in DAX #01: Filters are tables",
+      "excerpt": "Learn why all the CALCULATE filters are tables. How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt CALCULATE function: https://dax.guide/calculate/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-calculate-in-dax-01-filters-are-tables/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-calculate-in-dax-01-filters-are-tables/",
+      "originalUrl": "https://youtube.com/watch?v=Tk-7gBt9CDE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Tk-7gBt9CDE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M38S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-09-10T03:00:19-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Tk-7gBt9CDE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/sqlbi-calculate-in-dax-03-remove-single-column-filters.md",
       "title": "CALCULATE in DAX #03: Remove single column filters",
       "excerpt": "Use REMOVEFILTERS in CALCULATE to clear the filter from a column. How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt CALCULATE function: https://dax.guide/calculate/?aff=yt",
@@ -905,7 +944,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/explore-data-with-power-bi-desktop-social.png",
@@ -970,8 +1009,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 12678,
-            "average": 4.7371826
+            "count": 12679,
+            "average": 4.737203
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1055,8 +1094,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11048,
-            "average": 4.757603
+            "count": 11050,
+            "average": 4.757647
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1276,49 +1315,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-automate-data-cleaning-power-query.md",
-      "title": "Automate data cleaning with Power Query",
-      "excerpt": "This module introduces Power Query in Microsoft Excel, a powerful data connection, cleaning, and shaping technology that is a core part of the Microsoft modern analytics suite of business intelligence tools.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-automate-data-cleaning-power-query/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
-      "length": "PT1H29M",
-      "ratings": {
-        "count": 964,
-        "average": 4.7873445
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/automate-data-cleaning-power-query-social.png",
-          "width": 1281,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-becoming-solution-architect.md",
       "title": "Becoming a solution architect for Dynamics 365 and Power Platform",
       "excerpt": "Learn how to become a solution architect.",
@@ -1445,15 +1441,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-models.md",
-      "title": "Describe Power BI Desktop models",
-      "excerpt": "In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This module provides a strong foundation on which you can learn to optimize model designs and add model calculations.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-models/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
+      "path": "_learning/courses/microsoft-learn-create-manage-workspaces-power-bi.md",
+      "title": "Create and manage workspaces in Power BI ",
+      "excerpt": "This module explains how you can share reports and datasets with your users and how to create a deployment strategy that makes sense for you and your organization. Furthermore, you will learn about data lineage in Microsoft Power BI.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-manage-workspaces-power-bi/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 5695,
-        "average": 4.742757
+        "count": 3392,
+        "average": 4.7603183
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1473,7 +1469,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/create-manage-workspaces-power-bi-social.png",
           "width": 643,
           "height": 321,
           "isCached": true
@@ -1483,20 +1479,19 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power BI Desktop"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-modify-filter.md",
-      "title": "Modify DAX filter context in Power BI Desktop models",
-      "excerpt": "By the end of this module, you'll be able to describe filter context, which is used to evaluate measure formulas. You'll then learn why some calculations need to modify filter context and that it can be achieved by using the CALCULATE function. Additionally, you'll learn how to configure the CALCULATE function with filters and filter modifiers.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-modify-filter/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
-      "length": "PT37M",
+      "path": "_learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables.md",
+      "title": "Add calculated tables and columns to Power BI Desktop models",
+      "excerpt": "By the end of this module, you'll be able to add calculated tables and calculated columns to your data model. You'll also be able to describe row context, which is used to evaluated calculated column formulas. Because it's possible to add columns to a table by using Power Query, you'll also learn when it's best to create calculated columns instead of Power Query custom columns.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
+      "length": "PT19M",
       "ratings": {
-        "count": 818,
-        "average": 4.6369195
+        "count": 2484,
+        "average": 4.718599
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1516,7 +1511,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/modify-dax-filter-context-power-bi-desktop-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-add-calculated-tables-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -1527,8 +1522,7 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "Power BI Desktop",
-        "DAX"
+        "Power BI Desktop"
       ]
     }
   ],

@@ -4,44 +4,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-why-cant-power-bi-connect-to-my-cloud-source.md",
-      "title": "Why can't Power BI connect to my cloud source???",
-      "excerpt": "You have a cloud data source like Azure SQL Database. Why can't Power BI connect to it? They are both in the cloud! Adam shows you some things to consider and options you have!  What is an on-premises data gateway? https://docs.microsoft.com/data-integration/gateway/service-gateway-onprem  What is a",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-why-cant-power-bi-connect-to-my-cloud-source/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-why-cant-power-bi-connect-to-my-cloud-source/",
-      "originalUrl": "https://youtube.com/watch?v=IhQVOS34QKA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IhQVOS34QKA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M31S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-06-23T07:54:50-07:00",
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IhQVOS34QKA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-power-bi-how-to-always-show-current-week-vs-prior-week-automatically.md",
       "title": "Power BI: How to Always Show Current Week vs. Prior Week 📅 Automatically!",
       "excerpt": "How to create a Power BI report that always shows Current Week vs. Prior Week automatically!  00:00 Question: How to Always Show Current vs. Prior Week Automatically 01:24 Understanding the Current Week in Calendar Table 04:02 Using Current Week to Create Automatic DAX Measures  Download the file from",
@@ -348,6 +310,48 @@
       ],
       "content": "\r\n",
       "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-data-analytics-microsoft.md",
+      "title": "Discover data analysis",
+      "excerpt": "Would you like to explore the journey of a data analyst and learn how a data analyst tells a story with data? In this module, you will explore the different roles in data and learn the different tasks of a data analyst.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-analytics-microsoft/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 74940,
+        "average": 4.7952228
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"

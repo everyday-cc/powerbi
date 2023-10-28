@@ -4,173 +4,406 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/videos/sqlbi-using-the-selectedvalue-function-in-dax.md",
-      "title": "Using the SELECTEDVALUE function in DAX",
-      "excerpt": "Learn how the SELECTEDVALUE DAX function simplifies the syntax required in many scenarios where you need to read a single value selected in the filter context.  Article and download: https://sql.bi/53917?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-using-the-selectedvalue-function-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-using-the-selectedvalue-function-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=Zhp1fAfN8Hw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zhp1fAfN8Hw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M27S",
+      "path": "_learning/collections/microsoft-learn-design-effective-reports-in-power-bi.md",
+      "title": "Design effective reports in Power BI",
+      "excerpt": "This learning path introduces a design process to design and deliver compelling Power BI reports. It begins by describing a proven design process created by leading report design experts. The process encompasses phases to understand the report users and their requirements, explore pleasing report designs, and develop reports all the way into production.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-design-effective-reports-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-design-effective-reports-in-power-bi/",
+      "length": "PT3H52M",
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2020-12-10T03:00:17-08:00",
-      "heat": 63,
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-power-bi-effective-requirements.md",
+          "title": "Scope report design requirements",
+          "excerpt": "Gathering appropriate inputs to scope your report design requirements involves identifying your audience, determining the suitable report types, and defining their interface and experience requirements. This module provides you with a strong foundation on which to learn how to plan your report design requirements.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-requirements/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
+          "length": "PT34M",
+          "ratings": {
+            "count": 3921,
+            "average": 4.7276206
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-requirements-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-power-bi-effective-reports.md",
+          "title": "Design Power BI reports",
+          "excerpt": "Because Power BI includes more than 30 core visuals, it can be challenging for a beginner to select the correct visual. This module will guide you through selecting the most appropriate visual type to meet your design and report layout requirements.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-reports/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
+          "length": "PT41M",
+          "ratings": {
+            "count": 1933,
+            "average": 4.756337
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-reports-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-power-bi-effective-filters.md",
+          "title": "Configure Power BI report filters",
+          "excerpt": "Report filtering is a complex topic because many techniques are available for filtering a Microsoft Power BI report. However, with complexity comes control, allowing you to design reports that meet requirements and expectations.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-filters/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 979,
+            "average": 4.743616
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-filters-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-power-bi-effective-user-experience.md",
+          "title": "Enhance Power BI report designs for the user experience",
+          "excerpt": "Enhance Power BI report designs for the user experience",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-user-experience/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-user-experience/",
+          "length": "PT59M",
+          "ratings": {
+            "count": 837,
+            "average": 4.6917562
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-user-experience-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 62,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Zhp1fAfN8Hw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-requirements-social.png",
+          "width": 1281,
+          "height": 641,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "collection",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/collections/dhruvin-shah-power-bi-embedded-step-by-step-series.md",
-      "title": "Power BI Embedded Step by Step Series",
-      "excerpt": "Welcome to Power BI Embedded Step by Step series. Myself Dhruvin Shah. The entire series is dedicated to the Intermediate level of Power BI folks. The series covers step by step guide to embed the Power BI report in any third-party custom application or SaaS application.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/dhruvin-shah-power-bi-embedded-step-by-step-series/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/dhruvin-shah-power-bi-embedded-step-by-step-series/",
+      "path": "_learning/collections/microsoft-learn-model-data-with-power-bi.md",
+      "title": "Model data with Power BI",
+      "excerpt": "Model data with Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-model-data-with-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-model-data-with-power-bi/",
+      "length": "PT3H10M",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
+      "levels": [
+        "Beginner"
+      ],
       "topItems": [
         {
-          "path": "_learning/videos/dhruvin-shah-introducing-power-bi-embedded-step-by-step-series.md",
-          "title": "Introducing Power BI Embedded Step by Step Series",
-          "excerpt": "Welcome to Power BI Embedded Step by Step series. Myself Dhruvin Shah. The entire series is dedicated to the Intermediate level of Power BI folks. The series covers step by step guide to embed the Power BI report in any third-party custom application or SaaS application.  This is Intermediate Level of",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-introducing-power-bi-embedded-step-by-step-series/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-introducing-power-bi-embedded-step-by-step-series/",
-          "originalUrl": "https://youtube.com/watch?v=tbFNzEamZyo",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tbFNzEamZyo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M28S",
-          "provider": {
-            "name": "Dhruvin Shah",
-            "domain": "youtube.com"
+          "path": "_learning/courses/microsoft-learn-dax-power-bi-models.md",
+          "title": "Describe Power BI Desktop models",
+          "excerpt": "In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This module provides a strong foundation on which you can learn to optimize model designs and add model calculations.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-models/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 5695,
+            "average": 4.742757
           },
-          "publishedDateTime": "2019-03-19T10:12:07-07:00",
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "Power BI Desktop"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-choose-power-bi-model-framework.md",
+          "title": "Choose a Power BI model framework",
+          "excerpt": "Describe Power BI data model frameworks, their benefits and limitations, and features to help optimize your Power BI data models.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-choose-power-bi-model-framework/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
+          "length": "PT46M",
+          "ratings": {
+            "count": 1117,
+            "average": 4.662489
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 52,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/tbFNzEamZyo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
+              "url": "https://learn.microsoft.com/training/achievements/choose-power-bi-model-framework-social.png",
+              "width": 1281,
+              "height": 641,
               "isCached": true
             }
           ],
           "content": "\r\n",
-          "type": "video",
+          "type": "course",
           "price": "Free",
           "topics": [
             "Power BI"
           ]
         },
         {
-          "path": "_learning/videos/dhruvin-shah-introduction-to-power-bi-embedded-power-bi-embedded-step-by-step-series-part-1.md",
-          "title": "Introduction to Power BI Embedded | Power BI Embedded Step by Step Series | Part 1",
-          "excerpt": "Welcome to Power BI Embedded Step by Step series. Myself Dhruvin Shah. The entire series is dedicated to the Intermediate level of Power BI folks. The series covers step by step guide to embed the Power BI report in any third-party custom application or SaaS application. During this video, we will learn",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-introduction-to-power-bi-embedded-power-bi-embedded-step-by-step-series-part-1/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-introduction-to-power-bi-embedded-power-bi-embedded-step-by-step-series-part-1/",
-          "originalUrl": "https://youtube.com/watch?v=Or0oYJO7s7Q",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Or0oYJO7s7Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT8M37S",
-          "provider": {
-            "name": "Dhruvin Shah",
-            "domain": "youtube.com"
+          "path": "_learning/courses/microsoft-learn-design-model-power-bi.md",
+          "title": "Design a data model in Power BI ",
+          "excerpt": "The process of creating a complicated data model in Power BI is straightforward. If your data is coming in from more than one transactional system, before you know it, you can have dozens of tables that you have to work with. Building a great data model is about simplifying the disarray. A star schema is one way to simplify a data model, and you’ll learn about the terminology and implementation of them in this module. You will also learn about why choosing the correct data granularity is important for performance and usability of your Power BI reports. Finally, you’ll learn about improving performance with your Power BI data models.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-design-model-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
+          "length": "PT1H23M",
+          "ratings": {
+            "count": 12679,
+            "average": 4.737203
           },
-          "publishedDateTime": "2019-03-19T10:12:07-07:00",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/Or0oYJO7s7Q/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
           ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/videos/dhruvin-shah-prerequisites-and-common-steps-to-embed-report-using-azure-function-app-and-javascript-part-2.md",
-          "title": "Prerequisites and Common Steps to Embed Report using Azure Function APP and JavaScript | Part 2",
-          "excerpt": "Welcome to Power BI Embedded Step by Step series. Myself Dhruvin Shah. The entire series is dedicated to the Intermediate level of Power BI folks. The series covers step by step guide to embed the Power BI report in any third-party custom application or SaaS application. In this video we will cover,",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-prerequisites-and-common-steps-to-embed-report-using-azure-function-app-and-javascript-part-2/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-prerequisites-and-common-steps-to-embed-report-using-azure-function-app-and-javascript-part-2/",
-          "originalUrl": "https://youtube.com/watch?v=c9V9kXP49LM",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c9V9kXP49LM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT4M49S",
-          "provider": {
-            "name": "Dhruvin Shah",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2019-03-19T10:12:07-07:00",
           "heat": 51,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/c9V9kXP49LM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
+              "url": "https://learn.microsoft.com/training/achievements/design-a-data-model-in-power-bi-social.png",
+              "width": 643,
+              "height": 322,
               "isCached": true
             }
           ],
           "content": "\r\n",
-          "type": "video",
+          "type": "course",
           "price": "Free",
           "topics": [
             "Power BI"
           ]
         },
         {
-          "path": "_learning/videos/dhruvin-shah-register-an-azure-ad-app-to-embed-power-bi-content-and-apply-permissions-within-azure-ad-part-3.md",
-          "title": "Register an Azure AD app to Embed Power BI Content and Apply Permissions within Azure AD| Part 3",
-          "excerpt": "Welcome to Power BI Embedded Step by Step series. Myself Dhruvin Shah. The entire series is dedicated to the Intermediate level of Power BI folks. The series covers step by step guide to embed the Power BI report in any third-party custom application or SaaS application. During this video, first we will",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-register-an-azure-ad-app-to-embed-power-bi-content-and-apply-permissions-within-azure-ad-part-3/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-register-an-azure-ad-app-to-embed-power-bi-content-and-apply-permissions-within-azure-ad-part-3/",
-          "originalUrl": "https://youtube.com/watch?v=6UviUQ_OA6E",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6UviUQ_OA6E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT9M38S",
-          "provider": {
-            "name": "Dhruvin Shah",
-            "domain": "youtube.com"
+          "path": "_learning/courses/microsoft-learn-dax-power-bi-write-formulas.md",
+          "title": "Write DAX formulas for Power BI Desktop models",
+          "excerpt": "In this module, you'll learn how to write DAX formulas to create calculated tables, calculated columns, and measures, which are different types of model calculations. Additionally, you'll learn how to write and format DAX formulas, which consist of expressions that use functions, operators, references to model objects, constants, and variables.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-write-formulas/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
+          "length": "PT27M",
+          "ratings": {
+            "count": 3381,
+            "average": 4.7287784
           },
-          "publishedDateTime": "2019-03-19T10:12:07-07:00",
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 51,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/6UviUQ_OA6E/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
+              "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-write-formulas-social.png",
+              "width": 640,
+              "height": 320,
               "isCached": true
             }
           ],
           "content": "\r\n",
-          "type": "video",
+          "type": "course",
           "price": "Free",
           "topics": [
-            "Power BI"
+            "Power BI",
+            "Power BI Desktop",
+            "DAX"
           ]
         }
       ],
@@ -178,14 +411,15 @@
       "heat": 62,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/tbFNzEamZyo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
+          "width": 643,
+          "height": 321,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "collection",
+      "price": "Free",
       "topics": [
         "Power BI"
       ]
@@ -2469,12 +2703,12 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-empower-modern-analytics-and-business-intelligence-data-cultures-with-excel-power-bi-ms-teams-and-sharepoint.md",
-      "title": "Empower modern analytics and business intelligence data cultures with Excel, Power BI, MS Teams, and SharePoint",
-      "excerpt": "Excel is a Microsoft application that has been in use since 1985. You might be surprised that in addition to simple spreadsheets, Excel can enable modern analytics and business intelligence. In this Learning Path, you will learn how to modernize and empower data conversations within your organization using Excel & Power BI together with MS Teams, and SharePoint. You’ll gain awareness of the business intelligence landscape, technology capabilities, and their roles.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-empower-modern-analytics-and-business-intelligence-data-cultures-with-excel-power-bi-ms-teams-and-sharepoint/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-empower-modern-analytics-and-business-intelligence-data-cultures-with-excel-power-bi-ms-teams-and-sharepoint/",
-      "length": "PT7H47M",
+      "path": "_learning/collections/microsoft-learn-manage-workspaces-and-datasets-in-power-bi.md",
+      "title": "Manage workspaces and datasets in Power BI",
+      "excerpt": "Once you have created your Power BI data sets and reports, it’s time to deploy them so the users can take advantage of all of your hard work. In this Learning Path, you will learn how to create workspaces in the Power BI service. You will deploy your Power BI artifacts here and share them to your users. You will also learn how to connect Power BI reports to on-premise data sources. Your users will appreciate seeing the latest data in your reports, so you will configure automatic refresh for your Power BI datasets. Row-level security allows you to create one report, but have users be restricted to see only the data that applies to them. This targets data to users, without having to create multiple reports.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-manage-workspaces-and-datasets-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-manage-workspaces-and-datasets-in-power-bi/",
+      "length": "PT1H55M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -2488,19 +2722,19 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-modern-analytics-intro.md",
-          "title": "Introduction to modern analytics using Excel and Power BI",
-          "excerpt": "This module introduces the Microsoft modern analytics core suite of tools, including Office 365/Excel 2016+, Power Query, Data Model, Power BI Desktop, and Power BI service. By using modern analytics technologies, you and your organization can work faster, more efficiently, and smarter by using Excel together with Power BI.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-intro/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
-          "length": "PT37M",
+          "path": "_learning/courses/microsoft-learn-create-manage-workspaces-power-bi.md",
+          "title": "Create and manage workspaces in Power BI ",
+          "excerpt": "This module explains how you can share reports and datasets with your users and how to create a deployment strategy that makes sense for you and your organization. Furthermore, you will learn about data lineage in Microsoft Power BI.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-manage-workspaces-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
+          "length": "PT29M",
           "ratings": {
-            "count": 1388,
-            "average": 4.7824206
+            "count": 3392,
+            "average": 4.7603183
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2515,14 +2749,14 @@
             ]
           },
           "levels": [
-            "Beginner"
+            "Intermediate"
           ],
           "heat": 51,
           "images": [
             {
-              "url": "https://learn.microsoft.com/training/achievements/modern-analytics-intro-social.png",
-              "width": 1281,
-              "height": 641,
+              "url": "https://learn.microsoft.com/training/achievements/create-manage-workspaces-power-bi-social.png",
+              "width": 643,
+              "height": 321,
               "isCached": true
             }
           ],
@@ -2534,100 +2768,15 @@
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-automate-data-cleaning-power-query.md",
-          "title": "Automate data cleaning with Power Query",
-          "excerpt": "This module introduces Power Query in Microsoft Excel, a powerful data connection, cleaning, and shaping technology that is a core part of the Microsoft modern analytics suite of business intelligence tools.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-automate-data-cleaning-power-query/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
-          "length": "PT1H29M",
+          "path": "_learning/courses/microsoft-learn-manage-datasets-power-bi.md",
+          "title": "Manage datasets in Power BI ",
+          "excerpt": "With Microsoft Power BI, you can build multiple reports from a single dataset, meaning that if you change the dataset, all reports will be updated with that change. Additionally, you can clean and prep data once rather than repeatedly for each report.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-manage-datasets-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
+          "length": "PT32M",
           "ratings": {
-            "count": 964,
-            "average": 4.7873445
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/automate-data-cleaning-power-query-social.png",
-              "width": 1281,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "Power Query"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-modern-analytics-data-modeling.md",
-          "title": "Introduction to foundations in data modeling",
-          "excerpt": "This module introduces the key concepts that are related to developing a well-organized data model.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-data-modeling/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
-          "length": "PT34M",
-          "ratings": {
-            "count": 621,
-            "average": 4.747182
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/modern-analytics-data-modeling-social.png",
-              "width": 1281,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-modern-analytics-transition.md",
-          "title": "Transition from Excel to Power BI",
-          "excerpt": "Microsoft's Power BI combines the Power Query's extraction, transformation, and loading capabilities with DAX and a relational data model in a new application with new features.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-transition/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
-          "length": "PT48M",
-          "ratings": {
-            "count": 521,
-            "average": 4.7389636
+            "count": 2908,
+            "average": 4.6918845
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2647,9 +2796,93 @@
           "heat": 50,
           "images": [
             {
-              "url": "https://learn.microsoft.com/training/achievements/modern-analytics-transition-social.png",
-              "width": 1281,
-              "height": 641,
+              "url": "https://learn.microsoft.com/training/achievements/manage-datasets-in-power-bi-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-dashboards-power-bi.md",
+          "title": "Create dashboards in Power BI",
+          "excerpt": "Microsoft Power BI dashboards are different than Power BI reports. Dashboards allow report consumers to create a single artifact of directed data that is personalized just for them.  Dashboards can be comprised of pinned visuals that are taken from different reports. Where a Power BI report uses data from a single dataset, a Power BI dashboard can contain visuals from different datasets.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-dashboards-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
+          "length": "PT1H8M",
+          "ratings": {
+            "count": 3953,
+            "average": 4.6855555
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/create-dashboards-power-bi-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-row-level-security-power-bi.md",
+          "title": "Implement row-level security",
+          "excerpt": "Row-level security (RLS) allows you to create a single or a set of reports that targets data for a specific user. In this module, you will learn how to implement RLS by using either a static or dynamic method and how Microsoft Power BI simplifies testing RLS in Power BI Desktop and Power BI service.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-row-level-security-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
+          "length": "PT9M",
+          "ratings": {
+            "count": 6899,
+            "average": 4.796202
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/row-level-security-power-bi-social.png",
+              "width": 643,
+              "height": 321,
               "isCached": true
             }
           ],
@@ -2661,13 +2894,13 @@
           ]
         }
       ],
-      "size": 8,
+      "size": 4,
       "heat": 61,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/modern-analytics-intro-social.png",
-          "width": 1281,
-          "height": 641,
+          "url": "https://learn.microsoft.com/training/achievements/create-manage-workspaces-power-bi-social.png",
+          "width": 643,
+          "height": 321,
           "isCached": true
         }
       ],
