@@ -3090,7 +3090,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3466,7 +3466,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-intro-social.png",
@@ -4379,8 +4379,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 23581,
-            "average": 4.753276
+            "count": 23582,
+            "average": 4.753244
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4504,8 +4504,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 23581,
-            "average": 4.753276
+            "count": 23582,
+            "average": 4.753244
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4629,8 +4629,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 23581,
-            "average": 4.753276
+            "count": 23582,
+            "average": 4.753244
           },
           "provider": {
             "name": "Microsoft Learn",
