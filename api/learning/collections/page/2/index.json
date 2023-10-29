@@ -1389,8 +1389,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 3922,
-            "average": 4.7276897
+            "count": 3923,
+            "average": 4.7277594
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1934,8 +1934,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 3922,
-            "average": 4.7276897
+            "count": 3923,
+            "average": 4.7277594
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4913,8 +4913,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 108076,
-            "average": 4.7741776
+            "count": 108077,
+            "average": 4.7741795
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4931,7 +4931,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 61,
+          "heat": 62,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
