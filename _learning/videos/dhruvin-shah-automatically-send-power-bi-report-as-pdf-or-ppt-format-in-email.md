@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT6M8S
 publishedDateTime: 2021-02-25T09:43:47Z
-heat: 55
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EqDZY3mC2aw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "pUwJJPe9OkOAiBBxw6wpGTao6vCTXLawWJWITaadf3uagqFBTs2HS6nBREfxs73p0jvc3f1sXeyA/Mc4mAM1T/K3P+sFB0OnpwaXW9W5rlBvtRnFjpBw2hUj+lwOp5dJt+OdrUdEQENUysnzBZw23nV4X5ZmAtl6l30UM6wUvgE1cPyy2+KB0+D8mvH+albm9Q5JVS2bOlqrndXANUNME8qd6kRx/0/pMQrxW/W3DKc76HiTvCskhYzrn1KpPO+nHcmTWDdujtx7MTrvBmwg+MXQ42H566oKPoXBV31vJhGhcBW4zxIsi11JH0A72RMtKJgCKYAAdsGzR512a5QOozDj68/OMMpmM0LHIlOD7Q7heivRJgrBUryIxnYqEDbAcjS+YNNVMTmC8nM2aswP5s9olEH7C70wn48QeiVpPw8=;gmcLLN1outMUASpH13Zh5g=="
+secured: "ZRKriz+iM7Bd694TGypZUBf26c/9hkPy1zg0IFP5JNa8oxBCz26cdOgWM0NN0XFKFovgBnr5YUNw1fd3CikxbZDxIOVEWcbDCQDSVngMwMgAQzYq/9CNPSw+V6cOrjeZhPclnVkjP9wCyekdcVEYwyD0sko26JvKSMAUicaLXYSc4XpzqsAt/HtG0jkbnL81tfHjQ8Nd17D7DJHF9Pc9L4zNPepJ1BlQLN8PXamwngQzhdrl5S4SbUOWDKTn394Bped+KruVUfg8NZ/euXxzIRtuyP+fb9iMU8gZxyCyuI41gPXQ1cDTkjKwjDxQXiNloCPnopdILP22dzSVNbNm2UJV8gh8XWqz2IxDyzSa07EMp7GsRFDm+rn7fxWs1SEwRlP61N8qg+RCXSfLW9sLapL9XTb3TbjtLlMOFZVMlp4=;hlSSlp4wUPEJreNWHA2X5A=="
 ---
 

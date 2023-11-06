@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-power-bi-model-relationships/",
       "length": "PT1H30M",
       "ratings": {
-        "count": 255,
-        "average": 4.7686276
+        "count": 258,
+        "average": 4.771318
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1980,
-        "average": 4.7353535
+        "count": 1988,
+        "average": 4.7359157
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/use-dax-time-intelligence-functions-power-bi-desktop-social.png",
@@ -97,8 +97,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-calculation-groups/",
       "length": "PT1H3M",
       "ratings": {
-        "count": 245,
-        "average": 4.7755103
+        "count": 247,
+        "average": 4.773279
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -139,8 +139,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 547,
-        "average": 4.585009
+        "count": 551,
+        "average": 4.5807624
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -181,8 +181,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-tools-optimize-power-bi-performance/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 233,
-        "average": 4.7682405
+        "count": 235,
+        "average": 4.7702127
       },
       "provider": {
         "name": "Microsoft Learn",
