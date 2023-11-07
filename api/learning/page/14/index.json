@@ -4,48 +4,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-get-data.md",
-      "title": "Get data in Power BI",
-      "excerpt": "You will learn how to retrieve data from a wide variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores. You will also learn how to improve performance while retrieving data.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
-      "length": "PT1H25M",
-      "ratings": {
-        "count": 23630,
-        "average": 4.753153
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/get-data-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-introduction-end-analytics-use-microsoft-fabric.md",
       "title": "Introduction to end-to-end analytics using Microsoft Fabric",
       "excerpt": "Discover how Microsoft Fabric can meet your enterprise's analytics needs in one platform. Discover the capabilities Fabric has to offer, understand how it works, and identify how you can use Fabric for your analytics needs.",
@@ -1152,6 +1110,44 @@
           "url": "https://i.ytimg.com/vi/lfP6ygindSU/hqdefault.jpg",
           "width": 480,
           "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-revisiting-a-power-bi-solution-with-dynamic-m-parameters.md",
+      "title": "Revisiting a Power BI solution with Dynamic M Parameters",
+      "excerpt": "Dynamic M Parameters for SQL are here in Power BI! YES!!! Let's revisit a Power BI solution and how we can take it to the next LEVEL using these!  LEVEL UP Power BI Conditional Drill with Paginated reports!  https://youtu.be/43CwBmaym8Q  Teo Lachev's Blog: https://prologika.com/power-bi-dynamic-m-query-parameters-reloaded/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-revisiting-a-power-bi-solution-with-dynamic-m-parameters/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-revisiting-a-power-bi-solution-with-dynamic-m-parameters/",
+      "originalUrl": "https://youtube.com/watch?v=L-wqwzj0-Xo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L-wqwzj0-Xo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M23S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-03-10T08:00:11-08:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/L-wqwzj0-Xo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
