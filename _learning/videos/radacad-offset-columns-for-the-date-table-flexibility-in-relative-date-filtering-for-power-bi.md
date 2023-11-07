@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M55S
 publishedDateTime: 2020-05-07T17:19:32Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4-hhO5jXPEk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "3r7X6f1Ra0SKlG1xl2QhUVtEEsCFVwL9nhoCJRxS2KHkh6mFNT1PxtjfVKZaKA0miBaQ4RJMoQzzd79mwo3Yw8xlAdABwpSHMhu1jIbngoasSKwacF6BCvRRmusnYMsArhxMGJfPXkw+5GXBGOfhO5gprco5FGjLE7umkryRH7LCWDFP5ElAC7wq5d6KKfryxmWhK+cyrtcZfJS1IbhQ3+P4Tt/8h64zf/4fQEv4t7NQ8PKQxHGKmxEnYeMIlp3dqEmx1S7QRhpb/jTG4nQO7Xfg1RI/EJ2ham1GqDiC4yFY06ZdRXb3XZfSj7E+fjO3IYunBc0OwBwlKTWjwyapOnijQrnx3rVaxgGN0yduF3dybRSleccYuQPN2ePgKs6VzwG+MlBu6g9BOcMHF60sdgpJGaN0+jp7rMxAjJSar6A=;vVDeU9BSHzNZjIviSpB6BA=="
+secured: "jBdkmFLjUDfer9ku3AoNlvHlueSONI+roleN0BxDf2MDPmHkwTzfKGBnUQn4kLiBXy7JE+kZi/vlrJD5SjljYtiepi6xggX1dmZ9/77ZDfjK3OSad0KbYhVSdiJkGk4w8EF7rgHHN4lB3K3vDDJzirdfmgYf4VR/TNGf3YR/nh78quIahSb3RDC66yLmMXtzhVB0IDUQsW0G8GnohpoBL0NWA8fyfSNWPRc9LvLJ0f5CkQ1b0/r+JgyLjK1skuvcPjbrqr9y2WIQFacUvzyV9bD2GzKNo49QbNjtDJ7k0kZtGd2Iq6s4H3YqTgSbhxCibvbl/YgquAI0WwD+7vVvHN+2cuWs5NBRDchsC4obC3hdE1c93WcbXdLGquWrggIHN/HKM3RlmkjSfNUCWgi3MrUM19VB6kojxF0SAlW5KtY=;7UZudbFex1GuRCUKoY0gcg=="
 ---
 
