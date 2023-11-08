@@ -4,7 +4,7 @@ excerpt: "You'll learn how to use Power Query to extract data from different dat
 type: collection
 price: Free
 length: PT4H2M
-heat: 134
+heat: 54
 
 provider:
   name: Microsoft Learn
