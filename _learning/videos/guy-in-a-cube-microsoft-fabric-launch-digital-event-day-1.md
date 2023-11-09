@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3H20M46S
 publishedDateTime: 2023-05-23T00:23:39Z
-heat: 70
+heat: 64
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5jlP0wdEsls\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "NKZBRbK93UThuwOqINYyD2AZh2clxN4IjbVcnZlW3iHL0oBYN+hjXipYhy9PCq9PoZ3kj6OHrDquQiWPaP7IMgtzKIJl9Yk2xPgEP27URTR9dFLLdv3qKEFqnwcOwxY82y6NhmI11mrLvxWtPygQ+uGlznh8K1OrvvGrZr1Sv3jfsp7wU0v4FCfIn+Iz5oYZg0vB5bN4glu8qodJxXzgwB1OuS9Ae5KQR/LLs+deqxbOBcV5BtVpZ+S5YLbFm+SU29gO38/vHDgk+HFl8Y91TRBR6skfXDFx6ZluhSVpDn1t+xlXuJ0AK+axhRsy6+n+NTfQazrwFGLjBOGoIUHUtKxF6NXwuAUTo9ZjFYYmBNiRg47Myw3grFfm7ymG7kE6lOlCUh24J+WvCVdnx3mYUqR94UFgZRuSZnUoLQbbq28=;vk3KMtQy76Av0VrAEvC4EQ=="
+secured: "jyrampeFemAx0Lwahe4iO2rpGu+mgDOWvl71gfmvfwHTK/28aDXGmVL48F54yNaDrVpR8/mM++LivdltFu/5MWqdhIISwKkuvI8DJ3N9sv5OhtrfYk7ZwaUUZ3is4C+kiuDXifOiNWLsCcJ05x+zEiRJrgDg8Gf9nRoO87LPBMyIZBxN5KD9k9xf/HjLcQBkeDyCYbgXZhRakLqUIy6egG6vVYOUYIiB7+4w1ItO70TkXUdjnwlYWzzZDO8/G1TYpJJ7oSJ1PPKleLpYMVw3iwza39MsxDXMeMUcgJf0laHJdM5p9MEqaTYbBEown46IyTT/pWSsWyaWqF5CrdRsFSo8W5leQ9b8C3ZHKfE3kGW7P2P5D4xNEDxpwmprv0Ta1X82YvL8JDNSOrhoIXajPyAc1duR6Ya+3mPFHFJ0vPw=;GzZM1k4IgJlOC2R0eutFGg=="
 ---
 
