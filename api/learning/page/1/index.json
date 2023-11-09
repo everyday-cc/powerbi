@@ -156,45 +156,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-landing-data-with-dataflows-gen2-in-microsoft-fabric.md",
-      "title": "Landing data with Dataflows Gen2 in Microsoft Fabric",
-      "excerpt": "Pipelines are cool in Microsoft Fabric, but how could we use Dataflows to get data into our Data Warehouse? Patrick shows another way to move your data with just a few clicks!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-landing-data-with-dataflows-gen2-in-microsoft-fabric/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-landing-data-with-dataflows-gen2-in-microsoft-fabric/",
-      "originalUrl": "https://youtube.com/watch?v=s1W3UY3v7rc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s1W3UY3v7rc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M29S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-09-06T08:00:45-07:00",
-      "heat": 139,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/s1W3UY3v7rc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Dataflows"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-20230907-low-code-paginated.md",
       "title": "20230907   Low Code Paginated",
       "excerpt": "Not a fan of Power BI Report Builder? Still want to use Paginated reports? Patrick shows the new Paginated authoring experience within the service! It's BANANAS!  Low code authoring of paginated reports https://powerbi.microsoft.com/blog/low-code-authoring-of-paginated-reports/  Create paginated reports",
@@ -220,44 +181,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/gMLwKdfSmu0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-using-field-parameters-and-calculation-groups-for-conditional-formatting.md",
-      "title": "Using field parameters and calculation groups for conditional formatting",
-      "excerpt": "How to apply conditional formatting on measures picked from a slicer and implemented using two techniques: field parameters and calculation groups.\r Article and download: https://sql.bi/815509?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-using-field-parameters-and-calculation-groups-for-conditional-formatting/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-using-field-parameters-and-calculation-groups-for-conditional-formatting/",
-      "originalUrl": "https://youtube.com/watch?v=0rAqTjy3aLw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0rAqTjy3aLw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M36S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-10-10T03:00:25-07:00",
-      "heat": 138,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0rAqTjy3aLw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -400,23 +323,108 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-microsoft-fabric-domains-stepping-stones-for-data-mesh.md",
-      "title": "Microsoft Fabric Domains   Stepping Stones for Data Mesh",
-      "excerpt": "Microsoft Fabric introduced a new concept called Domains. Domains are more than just a separation of Fabric data items. They come with a whole lot of security, administration, and governance features, which brings the concept of data mesh into the world of data analytics using Microsoft Fabric. Domains",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-microsoft-fabric-domains-stepping-stones-for-data-mesh/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-microsoft-fabric-domains-stepping-stones-for-data-mesh/",
-      "originalUrl": "https://youtube.com/watch?v=zeo2W__Gj1U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zeo2W__Gj1U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M12S",
+      "path": "_learning/videos/sqlbi-finding-products-without-sales-by-using-dax.md",
+      "title": "Finding products without sales by using DAX",
+      "excerpt": "Analyze the performance of different DAX techniques to identify any products without sales in an area or a time period.\r \r Article and download: https://sql.bi/814158?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-finding-products-without-sales-by-using-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-finding-products-without-sales-by-using-dax/",
+      "originalUrl": "https://youtube.com/watch?v=ljWzWgau0bc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ljWzWgau0bc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M48S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2023-09-14T18:37:59-07:00",
+      "publishedDateTime": "2023-09-26T03:00:15-07:00",
+      "heat": 133,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ljWzWgau0bc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-enabling-power-bi-paginated-report-drill.md",
+      "title": "Enabling Power BI Paginated Report Drill!",
+      "excerpt": "Power BI paginated reports support drillthrough! Patrick walks you through how to configure the reports within Report Builder to get them working.  Drillthrough reports in a paginated report (Power BI Report Builder) https://learn.microsoft.com/power-bi/paginated-reports/report-design/drillthrough-reports-report-builder",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-enabling-power-bi-paginated-report-drill/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-enabling-power-bi-paginated-report-drill/",
+      "originalUrl": "https://youtube.com/watch?v=k7pZzwgXW-g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/k7pZzwgXW-g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M36S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-08-16T08:00:30-07:00",
       "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/zeo2W__Gj1U/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/k7pZzwgXW-g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-sept-2-2023.md",
+      "title": "REPLAY Microsoft Fabric/Power BI Q&A - LIVE (Sept 2, 2023)",
+      "excerpt": "Join us live as we answer your questions about Microsoft Fabric (including Power BI)! Get your questions in the chat early as we don't get to all of them.  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\"",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-sept-2-2023/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-sept-2-2023/",
+      "originalUrl": "https://youtube.com/watch?v=GLNqNuON3Fc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GLNqNuON3Fc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H14M23S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-09-02T09:01:16-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GLNqNuON3Fc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -964,44 +972,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-easiest-way-to-get-eurostat-data-in-power-bi.md",
-      "title": "Easiest way to get eurostat data in Power BI",
-      "excerpt": "Get Eurostat data in power bi with just a few clicks!  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-easiest-way-to-get-eurostat-data-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-easiest-way-to-get-eurostat-data-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=hXlQyNSisPw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hXlQyNSisPw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M39S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-11-01T03:37:30-07:00",
-      "heat": 89,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hXlQyNSisPw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-export-from-power-bi-to-excel-up-to-100k-rows-.md",
       "title": "Export from Power BI to Excel up to 🔥100k rows 🔥!!",
       "excerpt": "In a previous video  (https://www.youtube.com/watch?v=BnTipbooeP0&ab_channel=Curbal) I showed you how to export your data to excel using a button in Power Bi but there was a 1000 item limit.   I found a workaround and now you can export up to 100000 rows or 1000000 values per query!  FourMoo Blog:  https://www.fourmoo.com/2022/06/15/exporting-a-power-bi-visual-data-to-a-csv-file-in-sharepoint/",
@@ -1144,6 +1114,44 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-easiest-way-to-get-eurostat-data-in-power-bi.md",
+      "title": "Easiest way to get eurostat data in Power BI",
+      "excerpt": "Get Eurostat data in power bi with just a few clicks!  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-easiest-way-to-get-eurostat-data-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-easiest-way-to-get-eurostat-data-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=hXlQyNSisPw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hXlQyNSisPw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M39S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-11-01T03:37:30-07:00",
+      "heat": 84,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hXlQyNSisPw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
