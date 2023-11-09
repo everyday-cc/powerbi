@@ -2083,7 +2083,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/automate-data-cleaning-power-query-social.png",
@@ -2293,7 +2293,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/automate-data-cleaning-power-query-social.png",
@@ -4582,8 +4582,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 75062,
-            "average": 4.795023
+            "count": 75063,
+            "average": 4.7950253
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5366,8 +5366,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 27809,
-            "average": 4.748247
+            "count": 27810,
+            "average": 4.748256
           },
           "provider": {
             "name": "Microsoft Learn",
