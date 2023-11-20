@@ -284,23 +284,31 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-microsoft-fabric-domains-stepping-stones-for-data-mesh.md",
-      "title": "Microsoft Fabric Domains   Stepping Stones for Data Mesh",
-      "excerpt": "Microsoft Fabric introduced a new concept called Domains. Domains are more than just a separation of Fabric data items. They come with a whole lot of security, administration, and governance features, which brings the concept of data mesh into the world of data analytics using Microsoft Fabric. Domains",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-microsoft-fabric-domains-stepping-stones-for-data-mesh/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-microsoft-fabric-domains-stepping-stones-for-data-mesh/",
-      "originalUrl": "https://youtube.com/watch?v=zeo2W__Gj1U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zeo2W__Gj1U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M12S",
+      "path": "_learning/videos/sqlbi-using-field-parameters-and-calculation-groups-for-conditional-formatting.md",
+      "title": "Using field parameters and calculation groups for conditional formatting",
+      "excerpt": "How to apply conditional formatting on measures picked from a slicer and implemented using two techniques: field parameters and calculation groups.\r Article and download: https://sql.bi/815509?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-using-field-parameters-and-calculation-groups-for-conditional-formatting/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-using-field-parameters-and-calculation-groups-for-conditional-formatting/",
+      "originalUrl": "https://youtube.com/watch?v=0rAqTjy3aLw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0rAqTjy3aLw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M36S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2023-09-14T18:37:59-07:00",
-      "heat": 131,
+      "publishedDateTime": "2023-10-10T03:00:25-07:00",
+      "heat": 135,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/zeo2W__Gj1U/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/0rAqTjy3aLw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -314,15 +322,45 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-introduction-power-bi.md",
-      "title": "Introduction to Power BI",
-      "excerpt": "Introduction to Power BI",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-introduction-power-bi/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
-      "length": "PT46M",
+      "path": "_learning/videos/learn-power-bi-power-bi-dashboard-oil-industry-production-tracking-by-charl-marais.md",
+      "title": "Power BI Dashboard: Oil Industry Production Tracking​ 📊 by Charl Marais",
+      "excerpt": "Ready to Build Your Own Power BI Dashboard 📊? Join our LearnPowerBI Training Program 👉 https://www.learnpowerbi.com/training  ================================ #PowerBI #PowerBIHowTo #PowerBIPro  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-dashboard-oil-industry-production-tracking-by-charl-marais/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-dashboard-oil-industry-production-tracking-by-charl-marais/",
+      "originalUrl": "https://youtube.com/watch?v=SKuISnQobms",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SKuISnQobms\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M4S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2023-09-27T09:00:23-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SKuISnQobms/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables.md",
+      "title": "Add calculated tables and columns to Power BI Desktop models",
+      "excerpt": "By the end of this module, you'll be able to add calculated tables and calculated columns to your data model. You'll also be able to describe row context, which is used to evaluated calculated column formulas. Because it's possible to add columns to a table by using Power Query, you'll also learn when it's best to create calculated columns instead of Power Query custom columns.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
+      "length": "PT19M",
       "ratings": {
-        "count": 27816,
-        "average": 4.7482023
+        "count": 2499,
+        "average": 4.717087
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -337,14 +375,14 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/introduction-power-bi-social.png",
-          "width": 643,
-          "height": 322,
+          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-add-calculated-tables-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -352,45 +390,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-eurostat-data-in-power-bi-with-a-few-clicks-and-it-auto-refreshes.md",
-      "title": "Eurostat data in Power BI with a few clicks (and it auto-refreshes!)",
-      "excerpt": "Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Check the blog post for more info:  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-eurostat-data-in-power-bi-with-a-few-clicks-and-it-auto-refreshes/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-eurostat-data-in-power-bi-with-a-few-clicks-and-it-auto-refreshes/",
-      "originalUrl": "https://youtube.com/watch?v=_9afADAR_qY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_9afADAR_qY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M44S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-10-12T01:43:36-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_9afADAR_qY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
+        "Power BI",
+        "Power BI Desktop"
       ]
     },
     {
