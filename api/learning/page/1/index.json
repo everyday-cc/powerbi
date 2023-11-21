@@ -186,6 +186,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-no-more-report-builder-for-power-bi-paginated-reports.md",
+      "title": "No more Report Builder for Power BI Paginated Reports???",
+      "excerpt": "Not a fan of Power BI Report Builder? Still want to use Paginated reports? Patrick shows the new Paginated authoring experience within the service! It's BANANAS!  Low code authoring of paginated reports https://powerbi.microsoft.com/blog/low-code-authoring-of-paginated-reports/  Create paginated reports",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-no-more-report-builder-for-power-bi-paginated-reports/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-no-more-report-builder-for-power-bi-paginated-reports/",
+      "originalUrl": "https://youtube.com/watch?v=gMLwKdfSmu0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gMLwKdfSmu0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M31S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-09-07T05:50:36-07:00",
+      "heat": 145,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gMLwKdfSmu0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-20230907-low-code-paginated.md",
       "title": "20230907   Low Code Paginated",
       "excerpt": "Not a fan of Power BI Report Builder? Still want to use Paginated reports? Patrick shows the new Paginated authoring experience within the service! It's BANANAS!  Low code authoring of paginated reports https://powerbi.microsoft.com/blog/low-code-authoring-of-paginated-reports/  Create paginated reports",
@@ -254,6 +292,45 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-discover-the-untapped-settings-in-power-bi-desktop.md",
+      "title": "Discover the Untapped Settings in Power BI Desktop",
+      "excerpt": "There are a lot of settings within Power BI Desktop! Adam looks at a few you may not know about and should be aware of. Definitely review these!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training courses",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-discover-the-untapped-settings-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-discover-the-untapped-settings-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=W7Ab1PIAwGk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W7Ab1PIAwGk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M29S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-10-04T08:00:34-07:00",
+      "heat": 132,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/W7Ab1PIAwGk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-power-bi-tutorial-from-beginner-to-pro-desktop-to-dashboard-in-60-minutes-.md",
       "title": "Power BI Tutorial From Beginner to Pro ⚡ Desktop to Dashboard in 60 Minutes ⏰",
       "excerpt": "This Complete Power BI Tutorial takes you Step-by-Step as you use Power BI Desktop to create a beautiful Power BI Dashboard. 👉 Download Power BI Files in Video at https://web.learnpowerbi.com/download?content=20190501  ✅ Subscribe to always get my latest videos: https://www.youtube.com/powerbipro?sub_confirmation=1",
@@ -284,23 +361,31 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-dashboard-oil-industry-production-tracking-by-charl-marais.md",
-      "title": "Power BI Dashboard: Oil Industry Production Tracking​ 📊 by Charl Marais",
-      "excerpt": "Ready to Build Your Own Power BI Dashboard 📊? Join our LearnPowerBI Training Program 👉 https://www.learnpowerbi.com/training  ================================ #PowerBI #PowerBIHowTo #PowerBIPro  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-dashboard-oil-industry-production-tracking-by-charl-marais/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-dashboard-oil-industry-production-tracking-by-charl-marais/",
-      "originalUrl": "https://youtube.com/watch?v=SKuISnQobms",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SKuISnQobms\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M4S",
+      "path": "_learning/videos/guy-in-a-cube-microsoft-fabricpower-bi-qa-live-sept-2-2023-member-chat-2nd-half.md",
+      "title": "🔴 Microsoft Fabric/Power BI Q&A - LIVE (Sept 2, 2023) (Member Chat 2nd Half)",
+      "excerpt": "Join us live as we answer your questions about Microsoft Fabric (including Power BI)! Get your questions in the chat early as we don't get to all of them.  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\"",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-microsoft-fabricpower-bi-qa-live-sept-2-2023-member-chat-2nd-half/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-microsoft-fabricpower-bi-qa-live-sept-2-2023-member-chat-2nd-half/",
+      "originalUrl": "https://youtube.com/watch?v=GLNqNuON3Fc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GLNqNuON3Fc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "P0D",
       "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2023-09-27T09:00:23-07:00",
-      "heat": 131,
+      "publishedDateTime": "2023-09-01T05:24:18-07:00",
+      "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/SKuISnQobms/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/GLNqNuON3Fc/maxresdefault_live.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -311,87 +396,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-effective-requirements.md",
-      "title": "Scope report design requirements",
-      "excerpt": "Gathering appropriate inputs to scope your report design requirements involves identifying your audience, determining the suitable report types, and defining their interface and experience requirements. This module provides you with a strong foundation on which to learn how to plan your report design requirements.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-requirements/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 3936,
-        "average": 4.727642
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-requirements-social.png",
-          "width": 1281,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-create-lists-of-non-consecutive-numbers-2-ways-to-do-it-.md",
-      "title": "Create lists of non consecutive numbers | 2 ways to do it :)",
-      "excerpt": "Let me show you how different ways to create a list on non consecutive numbers. Enjoy!  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-create-lists-of-non-consecutive-numbers-2-ways-to-do-it-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-create-lists-of-non-consecutive-numbers-2-ways-to-do-it-/",
-      "originalUrl": "https://youtube.com/watch?v=GDy6kkJNdrY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GDy6kkJNdrY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M12S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-09-26T05:12:58-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GDy6kkJNdrY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
       ]
     },
     {
