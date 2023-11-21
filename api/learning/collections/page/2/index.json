@@ -679,7 +679,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-requirements-social.png",
@@ -870,8 +870,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 108245,
-            "average": 4.773985
+            "count": 108246,
+            "average": 4.773987
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1434,7 +1434,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-requirements-social.png",
@@ -1727,7 +1727,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-permissions-content-social.png",
@@ -4628,8 +4628,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 108245,
-            "average": 4.773985
+            "count": 108246,
+            "average": 4.773987
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5446,8 +5446,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 108245,
-            "average": 4.773985
+            "count": 108246,
+            "average": 4.773987
           },
           "provider": {
             "name": "Microsoft Learn",
