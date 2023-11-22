@@ -22,11 +22,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T10:02:16-08:00",
+      "publishedDateTime": "2020-11-17T18:02:16Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Curbal",
@@ -74,11 +74,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-16T02:30:21-08:00",
+      "publishedDateTime": "2020-11-16T10:30:21Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -125,11 +125,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-16T00:00:43-08:00",
+      "publishedDateTime": "2020-11-16T08:00:43Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -176,11 +176,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T05:18:53-08:00",
+      "publishedDateTime": "2020-11-12T13:18:53Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -229,11 +229,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T01:06:39-08:00",
+      "publishedDateTime": "2020-11-12T09:06:39Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -280,11 +280,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T01:00:00-08:00",
+      "publishedDateTime": "2020-11-12T09:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -332,11 +332,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T17:18:34-08:00",
+      "publishedDateTime": "2020-11-12T01:18:34Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -385,11 +385,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T02:02:09-08:00",
+      "publishedDateTime": "2020-11-11T10:02:09Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -436,11 +436,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T00:00:56-08:00",
+      "publishedDateTime": "2020-11-11T08:00:56Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -487,11 +487,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T00:00:13-08:00",
+      "publishedDateTime": "2020-11-11T08:00:13Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -538,11 +538,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T01:26:54-08:00",
+      "publishedDateTime": "2020-11-10T09:26:54Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -589,11 +589,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T08:00:43-08:00",
+      "publishedDateTime": "2020-11-09T16:00:43Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Guy in a Cube",
@@ -641,11 +641,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-05T22:00:00-08:00",
+      "publishedDateTime": "2020-11-06T06:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -692,11 +692,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.neowin.net/amp/microsoft-adds-support-for-custom-power-bi-and-power-query-data-types-in-excel/",
       "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-adds-support-for-custom-power-bi-and-power-query-data-types-in-excel/",
-      "publishedDateTime": "2020-10-29T08:36:00-07:00",
+      "publishedDateTime": "2020-10-29T15:36:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Neowin",
@@ -744,11 +744,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://venturebeat.com/2020/10/29/microsoft-excel-power-bi-data-types/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/29/microsoft-excel-power-bi-data-types/amp/",
-      "publishedDateTime": "2020-10-29T06:01:00-07:00",
+      "publishedDateTime": "2020-10-29T13:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -795,11 +795,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://mashable.com/shopping/oct-29-2021-advanced-data-analysis-bundle.amp",
       "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/oct-29-2021-advanced-data-analysis-bundle.amp",
-      "publishedDateTime": "2020-10-29T02:05:00-07:00",
+      "publishedDateTime": "2020-10-29T09:05:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Mashable",
@@ -837,11 +837,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T00:00:35-07:00",
+      "publishedDateTime": "2020-10-29T07:00:35Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -888,11 +888,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T20:12:43-07:00",
+      "publishedDateTime": "2020-10-29T03:12:43Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -939,11 +939,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T09:00:36-07:00",
+      "publishedDateTime": "2020-10-28T16:00:36Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -990,11 +990,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T05:39:33-07:00",
+      "publishedDateTime": "2020-10-28T12:39:33Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -1041,11 +1041,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T10:38:00-07:00",
+      "publishedDateTime": "2020-10-27T17:38:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -1092,11 +1092,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T01:27:00-07:00",
+      "publishedDateTime": "2020-10-27T08:27:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -1143,11 +1143,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T04:00:00-07:00",
+      "publishedDateTime": "2020-10-26T11:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -1194,11 +1194,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T10:10:58-07:00",
+      "publishedDateTime": "2020-10-23T17:10:58Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -1245,11 +1245,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T04:28:23-07:00",
+      "publishedDateTime": "2020-10-21T11:28:23Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

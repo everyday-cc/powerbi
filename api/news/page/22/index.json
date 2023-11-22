@@ -22,11 +22,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T03:05:09-07:00",
+      "publishedDateTime": "2020-10-21T10:05:09Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Curbal",
@@ -74,11 +74,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T07:11:27-07:00",
+      "publishedDateTime": "2020-10-20T14:11:27Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -126,11 +126,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T07:01:51-07:00",
+      "publishedDateTime": "2020-10-20T14:01:51Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -178,11 +178,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T02:01:41-07:00",
+      "publishedDateTime": "2020-10-20T09:01:41Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -230,11 +230,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T08:00:07-07:00",
+      "publishedDateTime": "2020-10-19T15:00:07Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Guy in a Cube",
@@ -281,11 +281,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T23:00:33-07:00",
+      "publishedDateTime": "2020-10-16T06:00:33Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -332,11 +332,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T06:56:16-07:00",
+      "publishedDateTime": "2020-10-13T13:56:16Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -383,11 +383,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T05:56:17-07:00",
+      "publishedDateTime": "2020-10-12T12:56:17Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -435,11 +435,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-09T02:39:00-07:00",
+      "publishedDateTime": "2020-10-09T09:39:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "eWeek",
@@ -486,11 +486,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T03:17:35-07:00",
+      "publishedDateTime": "2020-10-07T10:17:35Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -537,11 +537,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.smartdatacollective.com/how-to-interact-with-power-bi-data-in-powerpoint-presentation/amp/",
       "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-to-interact-with-power-bi-data-in-powerpoint-presentation/amp/",
-      "publishedDateTime": "2020-10-05T02:56:00-07:00",
+      "publishedDateTime": "2020-10-05T09:56:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "SmartData Collective",
@@ -589,11 +589,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T08:00:31-07:00",
+      "publishedDateTime": "2020-09-28T15:00:31Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Guy in a Cube",
@@ -640,11 +640,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T04:15:42-07:00",
+      "publishedDateTime": "2020-09-28T11:15:42Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -691,11 +691,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T03:59:04-07:00",
+      "publishedDateTime": "2020-09-24T10:59:04Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -742,11 +742,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T02:58:18-07:00",
+      "publishedDateTime": "2020-09-24T09:58:18Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -793,11 +793,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T04:14:56-07:00",
+      "publishedDateTime": "2020-09-23T11:14:56Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -845,11 +845,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T23:00:24-07:00",
+      "publishedDateTime": "2020-09-23T06:00:24Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -887,11 +887,11 @@
       "heat": 70,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-announces-power-bi-teams-integration-nlp-and-per-user-premium-subscription/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-announces-power-bi-teams-integration-nlp-and-per-user-premium-subscription/",
-      "publishedDateTime": "2020-09-22T22:48:00-07:00",
+      "publishedDateTime": "2020-09-23T05:48:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -929,11 +929,11 @@
       "heat": 70,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-announces-power-bi-teams-integration-nlp-and-per-user-premium-subscription/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-power-bi-teams-integration-nlp-and-per-user-premium-subscription/",
-      "publishedDateTime": "2020-09-22T09:33:00-07:00",
+      "publishedDateTime": "2020-09-22T16:33:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -980,11 +980,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.neowin.net/amp/power-bi-for-teams-enters-preview-premium-per-user-offering-introduced/",
       "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-for-teams-enters-preview-premium-per-user-offering-introduced/",
-      "publishedDateTime": "2020-09-22T07:59:00-07:00",
+      "publishedDateTime": "2020-09-22T14:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Neowin",
@@ -1031,11 +1031,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T01:31:25-07:00",
+      "publishedDateTime": "2020-09-22T08:31:25Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -1082,11 +1082,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T01:30:43-07:00",
+      "publishedDateTime": "2020-09-22T08:30:43Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -1133,11 +1133,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T01:30:02-07:00",
+      "publishedDateTime": "2020-09-22T08:30:02Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -1184,11 +1184,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T01:30:01-07:00",
+      "publishedDateTime": "2020-09-22T08:30:01Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -1235,11 +1235,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T01:30:00-07:00",
+      "publishedDateTime": "2020-09-22T08:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
