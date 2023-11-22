@@ -4,45 +4,6 @@
   "page": 61,
   "value": [
     {
-      "path": "_learning/videos/curbal-handling-errors-in-power-query-with-try-otherwise-power-bi-tips-tricks-32.md",
-      "title": "Handling errors in Power Query with try otherwise - Power BI Tips & Tricks #32",
-      "excerpt": "Have you ever got errors in Power Query and you dont know how to manage them?  In today's tutorials I will show you how to: Delete errors in Power Query or Expand the list without removing them, allowing you to filter them out.  Link to Power BI file: http://gofile.me/2kEOD/ADBC7nTLX   Looking for a",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-handling-errors-in-power-query-with-try-otherwise-power-bi-tips-tricks-32/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-handling-errors-in-power-query-with-try-otherwise-power-bi-tips-tricks-32/",
-      "originalUrl": "https://youtube.com/watch?v=9-Lag0VOiTs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9-Lag0VOiTs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M35S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-03-05T07:15:29-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9-Lag0VOiTs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-how-i-killed-the-refresh-functionality-for-power-bi-dataflowsso-you-dont-have-to.md",
       "title": "How I killed the refresh functionality for Power Bi dataflows...so you dont have to...",
       "excerpt": "I completely destroyed the dataflows refresh capabilities on my power bi tenant and my only  consolation is that you will learn from my mistake and avoid this alltogether.  If you are getting this dataflow error, then you probably have the same issue: Error: Data source credentials are missing or invalid.",
@@ -63,7 +24,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-03-09T09:21:20-07:00",
+      "publishedDateTime": "2020-03-09T16:21:20Z",
       "heat": 50,
       "images": [
         {
@@ -73,7 +34,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -102,7 +63,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-22T04:28:13-07:00",
+      "publishedDateTime": "2020-04-22T11:28:13Z",
       "heat": 50,
       "images": [
         {
@@ -112,7 +73,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -140,7 +101,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-03-22T11:05:53-07:00",
+      "publishedDateTime": "2019-03-22T18:05:53Z",
       "heat": 50,
       "images": [
         {
@@ -150,7 +111,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -179,7 +140,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-01-17T06:40:01-08:00",
+      "publishedDateTime": "2020-01-17T14:40:01Z",
       "heat": 50,
       "images": [
         {
@@ -189,7 +150,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -217,7 +178,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-06-20T04:43:47-07:00",
+      "publishedDateTime": "2018-06-20T11:43:47Z",
       "heat": 50,
       "images": [
         {
@@ -227,7 +188,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -255,7 +216,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-03-07T12:58:05-08:00",
+      "publishedDateTime": "2017-03-07T20:58:05Z",
       "heat": 50,
       "images": [
         {
@@ -265,7 +226,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -293,7 +254,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-02-05T00:51:54-08:00",
+      "publishedDateTime": "2018-02-05T08:51:54Z",
       "heat": 50,
       "images": [
         {
@@ -303,7 +264,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -332,7 +293,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-08-28T00:10:48-07:00",
+      "publishedDateTime": "2018-08-28T07:10:48Z",
       "heat": 50,
       "images": [
         {
@@ -342,7 +303,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -370,7 +331,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-22T02:47:18-07:00",
+      "publishedDateTime": "2020-04-22T09:47:18Z",
       "heat": 50,
       "images": [
         {
@@ -380,7 +341,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -408,7 +369,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-02-28T16:07:39-08:00",
+      "publishedDateTime": "2019-03-01T00:07:39Z",
       "heat": 50,
       "images": [
         {
@@ -418,7 +379,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -446,7 +407,7 @@
           }
         ]
       },
-      "publishedDateTime": "2023-10-12T04:10:34-07:00",
+      "publishedDateTime": "2023-10-12T11:10:34Z",
       "heat": 50,
       "images": [
         {
@@ -456,7 +417,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -484,7 +445,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-07-15T05:54:50-07:00",
+      "publishedDateTime": "2022-07-15T12:54:50Z",
       "heat": 50,
       "images": [
         {
@@ -494,7 +455,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -522,7 +483,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-02-11T23:25:35-08:00",
+      "publishedDateTime": "2018-02-12T07:25:35Z",
       "heat": 50,
       "images": [
         {
@@ -532,7 +493,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -561,7 +522,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-07-06T07:03:24-07:00",
+      "publishedDateTime": "2020-07-06T14:03:24Z",
       "heat": 50,
       "images": [
         {
@@ -571,7 +532,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -599,7 +560,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-02-06T02:40:39-08:00",
+      "publishedDateTime": "2020-02-06T10:40:39Z",
       "heat": 50,
       "images": [
         {
@@ -609,7 +570,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -637,7 +598,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-07-28T02:07:03-07:00",
+      "publishedDateTime": "2018-07-28T09:07:03Z",
       "heat": 50,
       "images": [
         {
@@ -647,7 +608,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -675,7 +636,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-02-21T03:51:59-08:00",
+      "publishedDateTime": "2022-02-21T11:51:59Z",
       "heat": 50,
       "images": [
         {
@@ -685,7 +646,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -714,7 +675,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-11-02T12:28:10-07:00",
+      "publishedDateTime": "2017-11-02T19:28:10Z",
       "heat": 50,
       "images": [
         {
@@ -724,7 +685,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -753,7 +714,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-03-18T06:11:48-07:00",
+      "publishedDateTime": "2020-03-18T13:11:48Z",
       "heat": 50,
       "images": [
         {
@@ -763,7 +724,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -791,7 +752,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-08-14T08:27:43-07:00",
+      "publishedDateTime": "2018-08-14T15:27:43Z",
       "heat": 50,
       "images": [
         {
@@ -801,7 +762,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -830,7 +791,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-10-18T01:38:57-07:00",
+      "publishedDateTime": "2021-10-18T08:38:57Z",
       "heat": 50,
       "images": [
         {
@@ -840,7 +801,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -868,7 +829,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-02-15T00:52:42-08:00",
+      "publishedDateTime": "2021-02-15T08:52:42Z",
       "heat": 50,
       "images": [
         {
@@ -878,7 +839,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -907,7 +868,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-01-20T05:38:48-08:00",
+      "publishedDateTime": "2022-01-20T13:38:48Z",
       "heat": 50,
       "images": [
         {
@@ -917,7 +878,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -945,7 +906,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-20T04:26:02-07:00",
+      "publishedDateTime": "2020-04-20T11:26:02Z",
       "heat": 50,
       "images": [
         {
@@ -955,7 +916,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -984,7 +945,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-11-07T07:40:12-08:00",
+      "publishedDateTime": "2017-11-07T15:40:12Z",
       "heat": 50,
       "images": [
         {
@@ -994,7 +955,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1023,7 +984,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-08-26T03:02:28-07:00",
+      "publishedDateTime": "2019-08-26T10:02:28Z",
       "heat": 50,
       "images": [
         {
@@ -1033,7 +994,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1062,7 +1023,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-04-12T01:34:58-07:00",
+      "publishedDateTime": "2021-04-12T08:34:58Z",
       "heat": 50,
       "images": [
         {
@@ -1072,7 +1033,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1100,7 +1061,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-02-06T02:28:25-08:00",
+      "publishedDateTime": "2020-02-06T10:28:25Z",
       "heat": 50,
       "images": [
         {
@@ -1110,7 +1071,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1138,7 +1099,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-02-06T02:32:21-08:00",
+      "publishedDateTime": "2020-02-06T10:32:21Z",
       "heat": 50,
       "images": [
         {
@@ -1148,7 +1109,45 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-import-excel-files-from-a-folder-with-excelworkbook-function-power-bi-tips-tricks-30.md",
+      "title": "Import Excel files from a folder with Excel.Workbook function - Power BI Tips & Tricks #30",
+      "excerpt": "Today I am going to show you how to Import Excel files from a folder with Excel.Workbook function in Power BI.   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-import-excel-files-from-a-folder-with-excelworkbook-function-power-bi-tips-tricks-30/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-import-excel-files-from-a-folder-with-excelworkbook-function-power-bi-tips-tricks-30/",
+      "originalUrl": "https://youtube.com/watch?v=l_CgIOwSjmU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l_CgIOwSjmU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M21S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-01-29T13:30:14Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/l_CgIOwSjmU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

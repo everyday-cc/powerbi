@@ -13,7 +13,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2022-10-26T14:35:05-07:00",
+      "publishedDateTime": "2022-10-26T21:35:05Z",
       "heat": 50,
       "images": [
         {
@@ -23,7 +23,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI",
@@ -40,7 +40,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2021-09-09T16:58:33-07:00",
+      "publishedDateTime": "2021-09-09T23:58:33Z",
       "heat": 50,
       "images": [
         {
@@ -50,7 +50,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI",
@@ -98,7 +98,7 @@
               }
             ]
           },
-          "publishedDateTime": "2020-11-07T07:01:05-08:00",
+          "publishedDateTime": "2020-11-07T15:01:05Z",
           "heat": 50,
           "images": [
             {
@@ -108,7 +108,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "video",
           "price": "Free",
           "topics": [
@@ -137,7 +137,7 @@
               }
             ]
           },
-          "publishedDateTime": "2020-11-07T07:01:17-08:00",
+          "publishedDateTime": "2020-11-07T15:01:17Z",
           "heat": 50,
           "images": [
             {
@@ -147,7 +147,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "video",
           "price": "Free",
           "topics": [
@@ -166,7 +166,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "collection",
       "topics": [
         "Power BI",
@@ -208,7 +208,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -252,7 +252,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -296,7 +296,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -340,7 +340,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -384,7 +384,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -406,7 +406,7 @@
         "name": "Absent Data Channel",
         "domain": "absentdata.com"
       },
-      "publishedDateTime": "2020-07-25T20:26:24-07:00",
+      "publishedDateTime": "2020-07-26T03:26:24Z",
       "heat": 50,
       "images": [
         {
@@ -416,7 +416,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -437,7 +437,7 @@
         "name": "Absent Data Channel",
         "domain": "absentdata.com"
       },
-      "publishedDateTime": "2020-07-25T20:26:24-07:00",
+      "publishedDateTime": "2020-07-26T03:26:24Z",
       "heat": 50,
       "images": [
         {
@@ -447,7 +447,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -468,7 +468,7 @@
         "name": "Absent Data Channel",
         "domain": "absentdata.com"
       },
-      "publishedDateTime": "2020-08-02T20:29:49-07:00",
+      "publishedDateTime": "2020-08-03T03:29:49Z",
       "heat": 50,
       "images": [
         {
@@ -478,7 +478,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -499,7 +499,7 @@
         "name": "Absent Data Channel",
         "domain": "absentdata.com"
       },
-      "publishedDateTime": "2020-07-27T20:36:12-07:00",
+      "publishedDateTime": "2020-07-28T03:36:12Z",
       "heat": 50,
       "images": [
         {
@@ -509,7 +509,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -530,7 +530,7 @@
         "name": "Absent Data Channel",
         "domain": "absentdata.com"
       },
-      "publishedDateTime": "2020-07-25T19:59:10-07:00",
+      "publishedDateTime": "2020-07-26T02:59:10Z",
       "heat": 50,
       "images": [
         {
@@ -540,7 +540,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -561,7 +561,7 @@
         "name": "Absent Data Channel",
         "domain": "absentdata.com"
       },
-      "publishedDateTime": "2020-07-25T20:26:24-07:00",
+      "publishedDateTime": "2020-07-26T03:26:24Z",
       "heat": 50,
       "images": [
         {
@@ -571,7 +571,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -592,7 +592,7 @@
         "name": "Absent Data Channel",
         "domain": "absentdata.com"
       },
-      "publishedDateTime": "2020-08-10T18:11:57-07:00",
+      "publishedDateTime": "2020-08-11T01:11:57Z",
       "heat": 50,
       "images": [
         {
@@ -602,7 +602,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -623,7 +623,7 @@
         "name": "Absent Data Channel",
         "domain": "absentdata.com"
       },
-      "publishedDateTime": "2020-07-25T19:59:10-07:00",
+      "publishedDateTime": "2020-07-26T02:59:10Z",
       "heat": 50,
       "images": [
         {
@@ -633,7 +633,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -662,7 +662,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-02-14T03:15:30-08:00",
+      "publishedDateTime": "2020-02-14T11:15:30Z",
       "heat": 50,
       "images": [
         {
@@ -672,7 +672,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -701,7 +701,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-06-03T01:54:55-07:00",
+      "publishedDateTime": "2020-06-03T08:54:55Z",
       "heat": 50,
       "images": [
         {
@@ -711,7 +711,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -740,7 +740,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-02-07T04:56:19-08:00",
+      "publishedDateTime": "2020-02-07T12:56:19Z",
       "heat": 50,
       "images": [
         {
@@ -750,7 +750,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -779,7 +779,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-09-08T03:53:17-07:00",
+      "publishedDateTime": "2020-09-08T10:53:17Z",
       "heat": 50,
       "images": [
         {
@@ -789,7 +789,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -818,7 +818,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-04-25T04:32:01-07:00",
+      "publishedDateTime": "2018-04-25T11:32:01Z",
       "heat": 50,
       "images": [
         {
@@ -828,7 +828,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -857,7 +857,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-03-26T05:13:22-07:00",
+      "publishedDateTime": "2019-03-26T12:13:22Z",
       "heat": 50,
       "images": [
         {
@@ -867,7 +867,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -896,7 +896,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-03-07T04:53:12-08:00",
+      "publishedDateTime": "2022-03-07T12:53:12Z",
       "heat": 50,
       "images": [
         {
@@ -906,7 +906,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -935,7 +935,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-10-04T10:50:15-07:00",
+      "publishedDateTime": "2018-10-04T17:50:15Z",
       "heat": 50,
       "images": [
         {
@@ -945,7 +945,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -974,7 +974,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-10-02T14:00:27-07:00",
+      "publishedDateTime": "2018-10-02T21:00:27Z",
       "heat": 50,
       "images": [
         {
@@ -984,7 +984,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1013,7 +1013,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-10-19T02:13:49-07:00",
+      "publishedDateTime": "2018-10-19T09:13:49Z",
       "heat": 50,
       "images": [
         {
@@ -1023,7 +1023,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1052,7 +1052,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-10-26T09:40:29-07:00",
+      "publishedDateTime": "2018-10-26T16:40:29Z",
       "heat": 50,
       "images": [
         {
@@ -1062,7 +1062,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1091,7 +1091,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-11-02T07:38:42-07:00",
+      "publishedDateTime": "2018-11-02T14:38:42Z",
       "heat": 50,
       "images": [
         {
@@ -1101,7 +1101,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1130,7 +1130,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-11-16T05:50:34-08:00",
+      "publishedDateTime": "2018-11-16T13:50:34Z",
       "heat": 50,
       "images": [
         {
@@ -1140,7 +1140,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1169,7 +1169,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-11-22T08:04:41-08:00",
+      "publishedDateTime": "2018-11-22T16:04:41Z",
       "heat": 50,
       "images": [
         {
@@ -1179,7 +1179,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

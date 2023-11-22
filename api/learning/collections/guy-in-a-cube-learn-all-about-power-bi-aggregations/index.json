@@ -24,7 +24,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-03-04T08:00:04-08:00",
+      "publishedDateTime": "2020-03-04T16:00:04Z",
       "heat": 55,
       "images": [
         {
@@ -35,7 +35,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -63,7 +63,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-03-11T08:00:10-07:00",
+      "publishedDateTime": "2020-03-11T15:00:10Z",
       "heat": 53,
       "images": [
         {
@@ -74,7 +74,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -102,7 +102,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-03-17T08:00:22-07:00",
+      "publishedDateTime": "2020-03-17T15:00:22Z",
       "heat": 51,
       "images": [
         {
@@ -113,7 +113,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -141,7 +141,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-03-18T08:00:15-07:00",
+      "publishedDateTime": "2020-03-18T15:00:15Z",
       "heat": 50,
       "images": [
         {
@@ -152,7 +152,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -180,7 +180,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-03-25T08:00:11-07:00",
+      "publishedDateTime": "2020-03-25T15:00:11Z",
       "heat": 50,
       "images": [
         {
@@ -191,7 +191,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -219,7 +219,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-10-14T13:42:37-07:00",
+      "publishedDateTime": "2018-10-14T20:42:37Z",
       "heat": 51,
       "images": [
         {
@@ -229,7 +229,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

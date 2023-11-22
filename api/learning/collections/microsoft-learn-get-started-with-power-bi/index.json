@@ -38,7 +38,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -72,7 +72,7 @@
         "Beginner"
       ],
       "heat": 50,
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -87,8 +87,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 108248,
-        "average": 4.773991
+        "count": 108249,
+        "average": 4.7739935
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -114,7 +114,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free",
       "topics": [

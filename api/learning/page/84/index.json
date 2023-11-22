@@ -4,44 +4,6 @@
   "page": 84,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-power-pivot-tracing.md",
-      "title": "Power Pivot Tracing",
-      "excerpt": "How to enable Power Pivot Add-In tracing within Excel.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-pivot-tracing/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-pivot-tracing/",
-      "originalUrl": "https://youtube.com/watch?v=DoZxabRTuKc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DoZxabRTuKc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M50S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2015-01-22T07:09:18-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DoZxabRTuKc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-power-query-and-a-new-power-bi-desktop-update.md",
       "title": "Power Query and a new Power BI Desktop update",
       "excerpt": "Power Query – Consecutive Days (@PowerPivotPro) https://powerpivotpro.com/2018/01/power-query-consecutive-days/  The Each Keyword in Power Query (@kpuls) https://www.excelguru.ca/blog/2018/01/09/each-keyword-power-query/  Remove repeating characters from a string in Power BI and Power Query (@TheBIccountant)",
@@ -62,7 +24,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-01-11T10:28:42-08:00",
+      "publishedDateTime": "2018-01-11T18:28:42Z",
       "heat": 50,
       "images": [
         {
@@ -72,7 +34,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -102,7 +64,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-04-14T07:08:44-07:00",
+      "publishedDateTime": "2016-04-14T14:08:44Z",
       "heat": 50,
       "images": [
         {
@@ -112,7 +74,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -141,7 +103,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-09-30T08:00:13-07:00",
+      "publishedDateTime": "2021-09-30T15:00:13Z",
       "heat": 50,
       "images": [
         {
@@ -151,7 +113,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -180,7 +142,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-09-08T11:30:50-07:00",
+      "publishedDateTime": "2016-09-08T18:30:50Z",
       "heat": 50,
       "images": [
         {
@@ -190,7 +152,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -218,7 +180,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-01-17T07:22:52-08:00",
+      "publishedDateTime": "2018-01-17T15:22:52Z",
       "heat": 50,
       "images": [
         {
@@ -228,7 +190,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -256,7 +218,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-11-05T08:00:21-08:00",
+      "publishedDateTime": "2020-11-05T16:00:21Z",
       "heat": 50,
       "images": [
         {
@@ -266,7 +228,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -294,7 +256,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-06-19T05:59:56-07:00",
+      "publishedDateTime": "2018-06-19T12:59:56Z",
       "heat": 50,
       "images": [
         {
@@ -304,7 +266,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -332,7 +294,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-09-15T19:43:34-07:00",
+      "publishedDateTime": "2019-09-16T02:43:34Z",
       "heat": 50,
       "images": [
         {
@@ -342,7 +304,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -372,7 +334,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-07-28T07:52:47-07:00",
+      "publishedDateTime": "2016-07-28T14:52:47Z",
       "heat": 50,
       "images": [
         {
@@ -382,7 +344,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -411,7 +373,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-06-16T08:17:08-07:00",
+      "publishedDateTime": "2016-06-16T15:17:08Z",
       "heat": 50,
       "images": [
         {
@@ -421,7 +383,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -449,7 +411,7 @@
           }
         ]
       },
-      "publishedDateTime": "2023-01-31T08:00:04-08:00",
+      "publishedDateTime": "2023-01-31T16:00:04Z",
       "heat": 50,
       "images": [
         {
@@ -459,7 +421,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -487,7 +449,7 @@
           }
         ]
       },
-      "publishedDateTime": "2015-01-12T05:47:31-08:00",
+      "publishedDateTime": "2015-01-12T13:47:31Z",
       "heat": 50,
       "images": [
         {
@@ -497,7 +459,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -525,7 +487,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-05-26T08:00:10-07:00",
+      "publishedDateTime": "2022-05-26T15:00:10Z",
       "heat": 50,
       "images": [
         {
@@ -535,7 +497,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -563,7 +525,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-09-22T11:04:39-07:00",
+      "publishedDateTime": "2016-09-22T18:04:39Z",
       "heat": 50,
       "images": [
         {
@@ -573,7 +535,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -601,7 +563,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-04-07T08:19:30-07:00",
+      "publishedDateTime": "2016-04-07T15:19:30Z",
       "heat": 50,
       "images": [
         {
@@ -611,7 +573,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -639,7 +601,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-03-03T18:52:10-08:00",
+      "publishedDateTime": "2021-03-04T02:52:10Z",
       "heat": 50,
       "images": [
         {
@@ -649,7 +611,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -677,7 +639,7 @@
           }
         ]
       },
-      "publishedDateTime": "2023-06-10T08:41:06-07:00",
+      "publishedDateTime": "2023-06-10T15:41:06Z",
       "heat": 50,
       "images": [
         {
@@ -687,7 +649,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -715,7 +677,7 @@
           }
         ]
       },
-      "publishedDateTime": "2023-08-19T08:36:20-07:00",
+      "publishedDateTime": "2023-08-19T15:36:20Z",
       "heat": 50,
       "images": [
         {
@@ -725,7 +687,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -753,7 +715,7 @@
           }
         ]
       },
-      "publishedDateTime": "2023-05-24T16:45:27-07:00",
+      "publishedDateTime": "2023-05-24T23:45:27Z",
       "heat": 50,
       "images": [
         {
@@ -763,7 +725,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -791,7 +753,7 @@
           }
         ]
       },
-      "publishedDateTime": "2023-10-14T08:48:03-07:00",
+      "publishedDateTime": "2023-10-14T15:48:03Z",
       "heat": 50,
       "images": [
         {
@@ -801,7 +763,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -829,7 +791,7 @@
           }
         ]
       },
-      "publishedDateTime": "2023-10-21T08:39:13-07:00",
+      "publishedDateTime": "2023-10-21T15:39:13Z",
       "heat": 50,
       "images": [
         {
@@ -839,7 +801,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -867,7 +829,7 @@
           }
         ]
       },
-      "publishedDateTime": "2023-10-28T08:49:13-07:00",
+      "publishedDateTime": "2023-10-28T15:49:13Z",
       "heat": 50,
       "images": [
         {
@@ -877,7 +839,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -905,7 +867,7 @@
           }
         ]
       },
-      "publishedDateTime": "2023-06-17T08:45:20-07:00",
+      "publishedDateTime": "2023-06-17T15:45:20Z",
       "heat": 50,
       "images": [
         {
@@ -915,7 +877,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -943,7 +905,7 @@
           }
         ]
       },
-      "publishedDateTime": "2023-06-24T08:41:53-07:00",
+      "publishedDateTime": "2023-06-24T15:41:53Z",
       "heat": 50,
       "images": [
         {
@@ -953,7 +915,45 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-sept-2-2023.md",
+      "title": "REPLAY Microsoft Fabric/Power BI Q&A - LIVE (Sept 2, 2023)",
+      "excerpt": "Join us live as we answer your questions about Microsoft Fabric (including Power BI)! Get your questions in the chat early as we don't get to all of them.  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\"",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-sept-2-2023/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-replay-microsoft-fabricpower-bi-qa-live-sept-2-2023/",
+      "originalUrl": "https://youtube.com/watch?v=GLNqNuON3Fc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GLNqNuON3Fc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H14M23S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-09-02T16:01:16Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GLNqNuON3Fc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -981,7 +981,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-05-07T08:39:09-07:00",
+      "publishedDateTime": "2022-05-07T15:39:09Z",
       "heat": 50,
       "images": [
         {
@@ -991,7 +991,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1019,7 +1019,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-10-03T08:41:13-07:00",
+      "publishedDateTime": "2020-10-03T15:41:13Z",
       "heat": 50,
       "images": [
         {
@@ -1029,7 +1029,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1057,7 +1057,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-02-13T08:40:35-08:00",
+      "publishedDateTime": "2021-02-13T16:40:35Z",
       "heat": 50,
       "images": [
         {
@@ -1067,7 +1067,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1095,7 +1095,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-12-12T08:40:28-08:00",
+      "publishedDateTime": "2020-12-12T16:40:28Z",
       "heat": 50,
       "images": [
         {
@@ -1105,7 +1105,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1133,7 +1133,7 @@
           }
         ]
       },
-      "publishedDateTime": "2023-08-12T08:44:07-07:00",
+      "publishedDateTime": "2023-08-12T15:44:07Z",
       "heat": 50,
       "images": [
         {
@@ -1143,7 +1143,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

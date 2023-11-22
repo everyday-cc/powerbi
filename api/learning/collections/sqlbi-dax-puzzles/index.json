@@ -24,7 +24,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-11-07T07:01:05-08:00",
+      "publishedDateTime": "2020-11-07T15:01:05Z",
       "heat": 50,
       "images": [
         {
@@ -34,7 +34,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -63,7 +63,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-11-07T07:01:17-08:00",
+      "publishedDateTime": "2020-11-07T15:01:17Z",
       "heat": 50,
       "images": [
         {
@@ -73,7 +73,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

@@ -4,44 +4,6 @@
   "page": 74,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-a-look-at-the-power-bi-paginated-report-updates-june-2019.md",
-      "title": "A look at the Power BI Paginated report updates (June 2019)",
-      "excerpt": "Patrick takes a look at the recent updates to Power BI Paginated reports. From Power BI Paginated Report Builder to email subscriptions, Patrick has you covered.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba -- http://www.facebook.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-a-look-at-the-power-bi-paginated-report-updates-june-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-a-look-at-the-power-bi-paginated-report-updates-june-2019/",
-      "originalUrl": "https://youtube.com/watch?v=2G4P6L_A7oo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2G4P6L_A7oo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M48S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-06-05T03:32:34-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2G4P6L_A7oo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-a-look-at-visual-data-prep-in-power-bi-dataflows.md",
       "title": "A look at Visual Data Prep in Power BI dataflows",
       "excerpt": "Have you noticed the updates Power BI dataflows has had recently? Patrick explores Visual Data Prep which helps you craft your transforms in Power Query Online.  Blog: https://powerbi.microsoft.com/blog/announcing-visual-data-prep-public-preview-diagram-view-in-power-query/  📢 Become a member: https://guyinacu.be/membership",
@@ -62,7 +24,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-11-26T08:00:31-08:00",
+      "publishedDateTime": "2020-11-26T16:00:31Z",
       "heat": 50,
       "images": [
         {
@@ -72,7 +34,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -101,7 +63,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-10-06T08:00:29-07:00",
+      "publishedDateTime": "2022-10-06T15:00:29Z",
       "heat": 50,
       "images": [
         {
@@ -111,7 +73,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -140,7 +102,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-12-14T08:00:24-08:00",
+      "publishedDateTime": "2022-12-14T16:00:24Z",
       "heat": 50,
       "images": [
         {
@@ -150,7 +112,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -179,7 +141,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-09-29T07:46:36-07:00",
+      "publishedDateTime": "2019-09-29T14:46:36Z",
       "heat": 50,
       "images": [
         {
@@ -189,7 +151,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -218,7 +180,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-05-25T08:09:45-07:00",
+      "publishedDateTime": "2017-05-25T15:09:45Z",
       "heat": 50,
       "images": [
         {
@@ -228,7 +190,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -256,7 +218,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-04-23T12:58:09-07:00",
+      "publishedDateTime": "2017-04-23T19:58:09Z",
       "heat": 50,
       "images": [
         {
@@ -266,7 +228,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -294,7 +256,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-03-31T05:31:17-07:00",
+      "publishedDateTime": "2017-03-31T12:31:17Z",
       "heat": 50,
       "images": [
         {
@@ -304,7 +266,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -332,7 +294,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-11-09T08:00:03-08:00",
+      "publishedDateTime": "2022-11-09T16:00:03Z",
       "heat": 50,
       "images": [
         {
@@ -342,7 +304,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -371,7 +333,7 @@
           }
         ]
       },
-      "publishedDateTime": "2023-02-10T06:48:59-08:00",
+      "publishedDateTime": "2023-02-10T14:48:59Z",
       "heat": 50,
       "images": [
         {
@@ -381,7 +343,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -409,7 +371,7 @@
           }
         ]
       },
-      "publishedDateTime": "2015-02-13T07:08:30-08:00",
+      "publishedDateTime": "2015-02-13T15:08:30Z",
       "heat": 50,
       "images": [
         {
@@ -419,7 +381,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -447,7 +409,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-06-30T07:31:52-07:00",
+      "publishedDateTime": "2016-06-30T14:31:52Z",
       "heat": 50,
       "images": [
         {
@@ -457,7 +419,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -485,7 +447,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-11-20T06:45:39-08:00",
+      "publishedDateTime": "2019-11-20T14:45:39Z",
       "heat": 50,
       "images": [
         {
@@ -495,7 +457,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -523,7 +485,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-11-03T13:08:44-07:00",
+      "publishedDateTime": "2016-11-03T20:08:44Z",
       "heat": 50,
       "images": [
         {
@@ -533,7 +495,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -561,7 +523,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-11-17T11:15:09-08:00",
+      "publishedDateTime": "2016-11-17T19:15:09Z",
       "heat": 50,
       "images": [
         {
@@ -571,7 +533,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -599,7 +561,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-06-22T08:18:24-07:00",
+      "publishedDateTime": "2017-06-22T15:18:24Z",
       "heat": 50,
       "images": [
         {
@@ -609,7 +571,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -637,7 +599,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-05-18T08:00:05-07:00",
+      "publishedDateTime": "2022-05-18T15:00:05Z",
       "heat": 50,
       "images": [
         {
@@ -647,7 +609,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -675,7 +637,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-12-30T08:00:10-08:00",
+      "publishedDateTime": "2021-12-30T16:00:10Z",
       "heat": 50,
       "images": [
         {
@@ -685,7 +647,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -713,7 +675,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-06-02T08:00:26-07:00",
+      "publishedDateTime": "2022-06-02T15:00:26Z",
       "heat": 50,
       "images": [
         {
@@ -723,7 +685,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -751,7 +713,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-12-17T08:00:27-08:00",
+      "publishedDateTime": "2020-12-17T16:00:27Z",
       "heat": 50,
       "images": [
         {
@@ -761,7 +723,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -789,7 +751,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-09-22T08:00:28-07:00",
+      "publishedDateTime": "2022-09-22T15:00:28Z",
       "heat": 50,
       "images": [
         {
@@ -799,7 +761,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -827,7 +789,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-05-19T07:15:11-07:00",
+      "publishedDateTime": "2016-05-19T14:15:11Z",
       "heat": 50,
       "images": [
         {
@@ -837,7 +799,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -865,7 +827,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-04-13T08:00:10-07:00",
+      "publishedDateTime": "2022-04-13T15:00:10Z",
       "heat": 50,
       "images": [
         {
@@ -875,7 +837,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -903,7 +865,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-03-18T08:00:15-07:00",
+      "publishedDateTime": "2020-03-18T15:00:15Z",
       "heat": 50,
       "images": [
         {
@@ -914,7 +876,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -942,7 +904,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-02-02T07:11:02-08:00",
+      "publishedDateTime": "2016-02-02T15:11:02Z",
       "heat": 50,
       "images": [
         {
@@ -952,7 +914,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -980,7 +942,7 @@
           }
         ]
       },
-      "publishedDateTime": "2023-05-16T08:00:28-07:00",
+      "publishedDateTime": "2023-05-16T15:00:28Z",
       "heat": 50,
       "images": [
         {
@@ -990,7 +952,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1018,7 +980,7 @@
           }
         ]
       },
-      "publishedDateTime": "2023-03-15T08:00:06-07:00",
+      "publishedDateTime": "2023-03-15T15:00:06Z",
       "heat": 50,
       "images": [
         {
@@ -1028,7 +990,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1056,7 +1018,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-04-10T13:46:50-07:00",
+      "publishedDateTime": "2017-04-10T20:46:50Z",
       "heat": 50,
       "images": [
         {
@@ -1066,7 +1028,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1094,7 +1056,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-01-12T13:12:25-08:00",
+      "publishedDateTime": "2017-01-12T21:12:25Z",
       "heat": 50,
       "images": [
         {
@@ -1104,7 +1066,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1132,7 +1094,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-12-15T08:01:46-08:00",
+      "publishedDateTime": "2021-12-15T16:01:46Z",
       "heat": 50,
       "images": [
         {
@@ -1142,7 +1104,45 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-azure-sql-database-firewall.md",
+      "title": "Azure SQL Database Firewall",
+      "excerpt": "This video goes through different ways that you can configure the firewall for your Azure SQL Database to make sure your clients can connect successfully.  Existing Portal 0:57 - https://youtu.be/36lBSV6JUIc?t=57s  Preview Portal 1:36 - https://youtu.be/36lBSV6JUIc?t=1m36s  Stored Procedure 4:11 - https://youtu.be/36lBSV6JUIc?t=4m11s",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-azure-sql-database-firewall/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-azure-sql-database-firewall/",
+      "originalUrl": "https://youtube.com/watch?v=36lBSV6JUIc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/36lBSV6JUIc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M26S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2015-04-29T12:57:31Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/36lBSV6JUIc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

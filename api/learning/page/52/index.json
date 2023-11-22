@@ -4,45 +4,6 @@
   "page": 52,
   "value": [
     {
-      "path": "_learning/videos/curbal-challenge-unpivot-a-complex-table-multiple-columns-in-power-query.md",
-      "title": "Challenge: Unpivot a complex table (multiple columns) in power query",
-      "excerpt": "It is time for another challenge, are you up to it?  Winner will get my mouse mat: https://curbal.com/product/joins-mouse-mat-by-curbal  If you want to try it yourself, you will find the files on the github page: https://github.com/ruthpozuelo/PQ-Challenge-unpivot  Then you can check the solution and",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-challenge-unpivot-a-complex-table-multiple-columns-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-challenge-unpivot-a-complex-table-multiple-columns-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=LtzuGvtQqG4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LtzuGvtQqG4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M6S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-01-18T04:50:28-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LtzuGvtQqG4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-change-field-types-in-one-step-in-power-query.md",
       "title": "Change field types in one step in Power Query",
       "excerpt": "If you want to reduce the number of steps and change field type in one, you will notice that the user interface will always separate them when specifying the regional settings.  In today's video , I will show you how you can modify the power query code to change field types in one step, but also show",
@@ -63,7 +24,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-12-14T04:57:23-08:00",
+      "publishedDateTime": "2020-12-14T12:57:23Z",
       "heat": 50,
       "images": [
         {
@@ -73,7 +34,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -102,7 +63,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-22T02:47:18-07:00",
+      "publishedDateTime": "2020-04-22T09:47:18Z",
       "heat": 50,
       "images": [
         {
@@ -112,7 +73,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -140,7 +101,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-10-05T04:27:35-07:00",
+      "publishedDateTime": "2020-10-05T11:27:35Z",
       "heat": 50,
       "images": [
         {
@@ -150,7 +111,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -178,7 +139,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-04-22T09:56:37-07:00",
+      "publishedDateTime": "2017-04-22T16:56:37Z",
       "heat": 50,
       "images": [
         {
@@ -188,7 +149,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -217,7 +178,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-01-09T04:20:42-08:00",
+      "publishedDateTime": "2019-01-09T12:20:42Z",
       "heat": 50,
       "images": [
         {
@@ -227,7 +188,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -255,7 +216,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-12-26T23:18:58-08:00",
+      "publishedDateTime": "2019-12-27T07:18:58Z",
       "heat": 50,
       "images": [
         {
@@ -265,7 +226,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -293,7 +254,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-03-13T23:54:55-07:00",
+      "publishedDateTime": "2018-03-14T06:54:55Z",
       "heat": 50,
       "images": [
         {
@@ -303,7 +264,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -331,7 +292,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-12-12T09:03:49-08:00",
+      "publishedDateTime": "2019-12-12T17:03:49Z",
       "heat": 50,
       "images": [
         {
@@ -341,7 +302,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -369,7 +330,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-08-21T06:03:14-07:00",
+      "publishedDateTime": "2018-08-21T13:03:14Z",
       "heat": 50,
       "images": [
         {
@@ -379,7 +340,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -407,7 +368,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-01-09T14:58:50-08:00",
+      "publishedDateTime": "2017-01-09T22:58:50Z",
       "heat": 50,
       "images": [
         {
@@ -417,7 +378,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -445,7 +406,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-05-15T08:47:43-07:00",
+      "publishedDateTime": "2019-05-15T15:47:43Z",
       "heat": 50,
       "images": [
         {
@@ -455,7 +416,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -484,7 +445,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-10-29T07:04:18-07:00",
+      "publishedDateTime": "2019-10-29T14:04:18Z",
       "heat": 50,
       "images": [
         {
@@ -494,7 +455,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -522,7 +483,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-05-15T08:47:43-07:00",
+      "publishedDateTime": "2019-05-15T15:47:43Z",
       "heat": 50,
       "images": [
         {
@@ -532,7 +493,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -561,7 +522,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-03-26T05:13:22-07:00",
+      "publishedDateTime": "2019-03-26T12:13:22Z",
       "heat": 50,
       "images": [
         {
@@ -571,7 +532,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -600,7 +561,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-05-15T05:14:08-07:00",
+      "publishedDateTime": "2018-05-15T12:14:08Z",
       "heat": 50,
       "images": [
         {
@@ -610,7 +571,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -638,7 +599,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-05-19T05:54:34-07:00",
+      "publishedDateTime": "2020-05-19T12:54:34Z",
       "heat": 50,
       "images": [
         {
@@ -648,7 +609,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -676,7 +637,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-06-28T13:33:33-07:00",
+      "publishedDateTime": "2017-06-28T20:33:33Z",
       "heat": 50,
       "images": [
         {
@@ -686,7 +647,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -715,7 +676,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-01-18T06:02:17-08:00",
+      "publishedDateTime": "2021-01-18T14:02:17Z",
       "heat": 50,
       "images": [
         {
@@ -725,7 +686,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -754,7 +715,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-06-26T04:30:10-07:00",
+      "publishedDateTime": "2019-06-26T11:30:10Z",
       "heat": 50,
       "images": [
         {
@@ -764,7 +725,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -792,7 +753,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-06-26T04:30:10-07:00",
+      "publishedDateTime": "2019-06-26T11:30:10Z",
       "heat": 50,
       "images": [
         {
@@ -802,7 +763,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -830,7 +791,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-06-14T04:57:14-07:00",
+      "publishedDateTime": "2022-06-14T11:57:14Z",
       "heat": 50,
       "images": [
         {
@@ -840,7 +801,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -868,7 +829,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-10-10T13:27:58-07:00",
+      "publishedDateTime": "2016-10-10T20:27:58Z",
       "heat": 50,
       "images": [
         {
@@ -878,7 +839,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -906,7 +867,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-02-03T10:52:32-08:00",
+      "publishedDateTime": "2016-02-03T18:52:32Z",
       "heat": 50,
       "images": [
         {
@@ -916,7 +877,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -945,7 +906,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-11-25T07:13:49-08:00",
+      "publishedDateTime": "2019-11-25T15:13:49Z",
       "heat": 50,
       "images": [
         {
@@ -955,7 +916,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -984,7 +945,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-01-28T04:11:57-08:00",
+      "publishedDateTime": "2019-01-28T12:11:57Z",
       "heat": 50,
       "images": [
         {
@@ -994,7 +955,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1023,7 +984,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-09-14T04:51:48-07:00",
+      "publishedDateTime": "2020-09-14T11:51:48Z",
       "heat": 50,
       "images": [
         {
@@ -1033,7 +994,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1061,7 +1022,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-05-06T04:12:15-07:00",
+      "publishedDateTime": "2020-05-06T11:12:15Z",
       "heat": 50,
       "images": [
         {
@@ -1071,7 +1032,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1099,7 +1060,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-07-11T12:17:23-07:00",
+      "publishedDateTime": "2017-07-11T19:17:23Z",
       "heat": 50,
       "images": [
         {
@@ -1109,7 +1070,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1138,7 +1099,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-05-17T03:08:49-07:00",
+      "publishedDateTime": "2021-05-17T10:08:49Z",
       "heat": 50,
       "images": [
         {
@@ -1148,12 +1109,50 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-create-an-environment-for-power-bi-to-run-your-python-scripts.md",
+      "title": "Create an environment for Power BI to run your Python scripts",
+      "excerpt": "In today's video I will show you how you create an environment to run python scripts for Power BI.   If you haven't work with Python before, I recommend you to check this two videos first: Install python and more: https://www.youtube.com/watch?v=M2kZe9Pi6xg Guide to python and R: https://www.youtube.com/watch?v=BI8FcI_sgR0",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-create-an-environment-for-power-bi-to-run-your-python-scripts/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-create-an-environment-for-power-bi-to-run-your-python-scripts/",
+      "originalUrl": "https://youtube.com/watch?v=P_3gh8sS8sc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P_3gh8sS8sc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M8S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-12-05T12:50:27Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/P_3gh8sS8sc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],

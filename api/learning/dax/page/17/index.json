@@ -24,7 +24,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-07-28T07:52:47-07:00",
+      "publishedDateTime": "2016-07-28T14:52:47Z",
       "heat": 50,
       "images": [
         {
@@ -34,7 +34,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -63,7 +63,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-01-14T09:57:52-08:00",
+      "publishedDateTime": "2016-01-14T17:57:52Z",
       "heat": 50,
       "images": [
         {
@@ -73,7 +73,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -102,7 +102,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-03-31T05:43:42-07:00",
+      "publishedDateTime": "2020-03-31T12:43:42Z",
       "heat": 50,
       "images": [
         {
@@ -112,7 +112,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -141,7 +141,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-08-19T08:00:02-07:00",
+      "publishedDateTime": "2020-08-19T15:00:02Z",
       "heat": 50,
       "images": [
         {
@@ -151,7 +151,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -180,7 +180,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-09-08T11:27:57-07:00",
+      "publishedDateTime": "2019-09-08T18:27:57Z",
       "heat": 50,
       "images": [
         {
@@ -190,7 +190,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -219,7 +219,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-11-16T08:00:35-08:00",
+      "publishedDateTime": "2022-11-16T16:00:35Z",
       "heat": 50,
       "images": [
         {
@@ -229,7 +229,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -258,7 +258,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-08-10T08:00:01-07:00",
+      "publishedDateTime": "2022-08-10T15:00:01Z",
       "heat": 50,
       "images": [
         {
@@ -268,7 +268,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -289,7 +289,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2018-09-07T13:00:12-07:00",
+      "publishedDateTime": "2018-09-07T20:00:12Z",
       "heat": 50,
       "images": [
         {
@@ -299,7 +299,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -320,7 +320,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2017-07-10T03:33:30-07:00",
+      "publishedDateTime": "2017-07-10T10:33:30Z",
       "heat": 50,
       "images": [
         {
@@ -330,7 +330,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -351,7 +351,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2020-06-19T11:23:11-07:00",
+      "publishedDateTime": "2020-06-19T18:23:11Z",
       "heat": 50,
       "images": [
         {
@@ -361,7 +361,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -382,7 +382,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2018-07-31T17:29:26-07:00",
+      "publishedDateTime": "2018-08-01T00:29:26Z",
       "heat": 50,
       "images": [
         {
@@ -392,7 +392,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -413,7 +413,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2020-03-27T10:48:53-07:00",
+      "publishedDateTime": "2020-03-27T17:48:53Z",
       "heat": 50,
       "images": [
         {
@@ -423,7 +423,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -444,7 +444,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2017-07-11T04:45:10-07:00",
+      "publishedDateTime": "2017-07-11T11:45:10Z",
       "heat": 50,
       "images": [
         {
@@ -454,7 +454,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -475,7 +475,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2017-07-11T08:35:15-07:00",
+      "publishedDateTime": "2017-07-11T15:35:15Z",
       "heat": 50,
       "images": [
         {
@@ -485,7 +485,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -506,7 +506,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2017-07-11T20:06:01-07:00",
+      "publishedDateTime": "2017-07-12T03:06:01Z",
       "heat": 50,
       "images": [
         {
@@ -516,7 +516,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -537,7 +537,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2023-06-28T09:00:19-07:00",
+      "publishedDateTime": "2023-06-28T16:00:19Z",
       "heat": 50,
       "images": [
         {
@@ -547,7 +547,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -568,7 +568,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2019-02-06T04:02:24-08:00",
+      "publishedDateTime": "2019-02-06T12:02:24Z",
       "heat": 50,
       "images": [
         {
@@ -578,7 +578,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -599,7 +599,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2017-05-07T07:57:09-07:00",
+      "publishedDateTime": "2017-05-07T14:57:09Z",
       "heat": 50,
       "images": [
         {
@@ -609,7 +609,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -630,7 +630,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2017-05-07T08:04:57-07:00",
+      "publishedDateTime": "2017-05-07T15:04:57Z",
       "heat": 50,
       "images": [
         {
@@ -640,7 +640,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -661,7 +661,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2017-05-07T05:43:22-07:00",
+      "publishedDateTime": "2017-05-07T12:43:22Z",
       "heat": 50,
       "images": [
         {
@@ -671,7 +671,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -692,7 +692,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2018-08-24T13:11:27-07:00",
+      "publishedDateTime": "2018-08-24T20:11:27Z",
       "heat": 50,
       "images": [
         {
@@ -702,7 +702,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -723,7 +723,7 @@
         "name": "Power BI Tips",
         "domain": "powerbi.tips"
       },
-      "publishedDateTime": "2021-09-28T07:17:40-07:00",
+      "publishedDateTime": "2021-09-28T14:17:40Z",
       "heat": 50,
       "images": [
         {
@@ -733,7 +733,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -754,7 +754,7 @@
         "name": "Power BI Tips",
         "domain": "powerbi.tips"
       },
-      "publishedDateTime": "2020-04-24T13:46:32-07:00",
+      "publishedDateTime": "2020-04-24T20:46:32Z",
       "heat": 50,
       "images": [
         {
@@ -764,7 +764,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -785,7 +785,7 @@
         "name": "Power BI Tips",
         "domain": "powerbi.tips"
       },
-      "publishedDateTime": "2020-07-15T07:05:22-07:00",
+      "publishedDateTime": "2020-07-15T14:05:22Z",
       "heat": 50,
       "images": [
         {
@@ -795,7 +795,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -816,7 +816,7 @@
         "name": "Power BI Tips",
         "domain": "powerbi.tips"
       },
-      "publishedDateTime": "2020-04-24T11:32:43-07:00",
+      "publishedDateTime": "2020-04-24T18:32:43Z",
       "heat": 50,
       "images": [
         {
@@ -826,7 +826,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -847,7 +847,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2019-08-01T17:42:42-07:00",
+      "publishedDateTime": "2019-08-02T00:42:42Z",
       "heat": 50,
       "images": [
         {
@@ -857,7 +857,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -878,7 +878,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-03-05T19:48:54-08:00",
+      "publishedDateTime": "2020-03-06T03:48:54Z",
       "heat": 50,
       "images": [
         {
@@ -888,7 +888,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -909,7 +909,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-03-29T13:58:11-07:00",
+      "publishedDateTime": "2020-03-29T20:58:11Z",
       "heat": 50,
       "images": [
         {
@@ -919,7 +919,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -940,7 +940,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-03-30T15:41:54-07:00",
+      "publishedDateTime": "2020-03-30T22:41:54Z",
       "heat": 50,
       "images": [
         {
@@ -950,7 +950,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -971,7 +971,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-07-01T22:05:36-07:00",
+      "publishedDateTime": "2021-07-02T05:05:36Z",
       "heat": 50,
       "images": [
         {
@@ -981,7 +981,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

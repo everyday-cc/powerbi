@@ -4,44 +4,6 @@
   "page": 77,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-domain-placement-with-office-365.md",
-      "title": "Domain Placement with Office 365",
-      "excerpt": "This looks at how to move a Domain from one tenant to another.  This can come in handle when you had a Shadow Tenant spawn that took a Domain that you wanted on your primary tenant.  How to perform an IT Admin Takeover with O365 http://blogs.technet.com/b/powerbisupport/archive/2015/02/06/how-to-perform-an-it-admin-takeover-with-o365.aspx",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-domain-placement-with-office-365/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-domain-placement-with-office-365/",
-      "originalUrl": "https://youtube.com/watch?v=cgen178I9gQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cgen178I9gQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M31S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-03-01T11:26:45-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cgen178I9gQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-dont-bounce-off-the-office-365-bubble.md",
       "title": "Don't bounce off the Office 365 Bubble",
       "excerpt": "This will look at what i call the OBubble or Office 365 Bubble.  We will look at how we interact with Office 365, and the services within, from a Power BI perspective.  This is really setting the stage for other items i want to post.  This will make future posts easier to understand.  http://blogs.technet.com/b/powerbisupport/archive/2015/06/02/don-t-bounce-off-of-the-office-365-bubble.aspx",
@@ -62,7 +24,7 @@
           }
         ]
       },
-      "publishedDateTime": "2015-06-02T11:03:51-07:00",
+      "publishedDateTime": "2015-06-02T18:03:51Z",
       "heat": 50,
       "images": [
         {
@@ -72,7 +34,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -100,7 +62,7 @@
           }
         ]
       },
-      "publishedDateTime": "2023-05-22T14:21:58-07:00",
+      "publishedDateTime": "2023-05-22T21:21:58Z",
       "heat": 50,
       "images": [
         {
@@ -110,7 +72,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -138,7 +100,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-01-10T09:41:50-08:00",
+      "publishedDateTime": "2018-01-10T17:41:50Z",
       "heat": 50,
       "images": [
         {
@@ -149,7 +111,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -177,7 +139,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-11-28T12:10:20-08:00",
+      "publishedDateTime": "2016-11-28T20:10:20Z",
       "heat": 50,
       "images": [
         {
@@ -187,7 +149,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -215,7 +177,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-03-14T12:07:32-07:00",
+      "publishedDateTime": "2017-03-14T19:07:32Z",
       "heat": 50,
       "images": [
         {
@@ -225,7 +187,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -253,7 +215,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-03-21T16:03:15-07:00",
+      "publishedDateTime": "2017-03-21T23:03:15Z",
       "heat": 50,
       "images": [
         {
@@ -263,7 +225,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -291,7 +253,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-04-18T17:44:19-07:00",
+      "publishedDateTime": "2017-04-19T00:44:19Z",
       "heat": 50,
       "images": [
         {
@@ -301,7 +263,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -329,7 +291,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-10-18T09:02:34-07:00",
+      "publishedDateTime": "2016-10-18T16:02:34Z",
       "heat": 50,
       "images": [
         {
@@ -339,7 +301,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -367,7 +329,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-08-24T04:20:25-07:00",
+      "publishedDateTime": "2017-08-24T11:20:25Z",
       "heat": 50,
       "images": [
         {
@@ -377,7 +339,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -405,7 +367,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-05-05T08:00:01-07:00",
+      "publishedDateTime": "2022-05-05T15:00:01Z",
       "heat": 50,
       "images": [
         {
@@ -415,7 +377,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -443,7 +405,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-10-24T05:55:06-07:00",
+      "publishedDateTime": "2017-10-24T12:55:06Z",
       "heat": 50,
       "images": [
         {
@@ -453,7 +415,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -481,7 +443,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-10-29T08:00:04-07:00",
+      "publishedDateTime": "2020-10-29T15:00:04Z",
       "heat": 50,
       "images": [
         {
@@ -491,7 +453,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -519,7 +481,7 @@
           }
         ]
       },
-      "publishedDateTime": "2015-01-27T05:40:15-08:00",
+      "publishedDateTime": "2015-01-27T13:40:15Z",
       "heat": 50,
       "images": [
         {
@@ -529,7 +491,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -557,7 +519,7 @@
           }
         ]
       },
-      "publishedDateTime": "2015-08-25T12:01:18-07:00",
+      "publishedDateTime": "2015-08-25T19:01:18Z",
       "heat": 50,
       "images": [
         {
@@ -567,7 +529,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -595,7 +557,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-07-21T07:16:59-07:00",
+      "publishedDateTime": "2016-07-21T14:16:59Z",
       "heat": 50,
       "images": [
         {
@@ -605,7 +567,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -633,7 +595,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-05-04T01:05:32-07:00",
+      "publishedDateTime": "2016-05-04T08:05:32Z",
       "heat": 50,
       "images": [
         {
@@ -643,7 +605,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -671,7 +633,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-04-21T07:59:16-07:00",
+      "publishedDateTime": "2016-04-21T14:59:16Z",
       "heat": 50,
       "images": [
         {
@@ -681,7 +643,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -709,7 +671,7 @@
           }
         ]
       },
-      "publishedDateTime": "2015-09-22T10:08:19-07:00",
+      "publishedDateTime": "2015-09-22T17:08:19Z",
       "heat": 50,
       "images": [
         {
@@ -719,7 +681,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -747,7 +709,7 @@
           }
         ]
       },
-      "publishedDateTime": "2015-09-08T12:30:57-07:00",
+      "publishedDateTime": "2015-09-08T19:30:57Z",
       "heat": 50,
       "images": [
         {
@@ -757,7 +719,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -785,7 +747,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-07-26T08:00:25-07:00",
+      "publishedDateTime": "2022-07-26T15:00:25Z",
       "heat": 50,
       "images": [
         {
@@ -795,7 +757,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -823,7 +785,7 @@
           }
         ]
       },
-      "publishedDateTime": "2015-10-27T14:43:45-07:00",
+      "publishedDateTime": "2015-10-27T21:43:45Z",
       "heat": 50,
       "images": [
         {
@@ -833,7 +795,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -861,7 +823,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-06-05T09:36:24-07:00",
+      "publishedDateTime": "2017-06-05T16:36:24Z",
       "heat": 50,
       "images": [
         {
@@ -871,7 +833,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -899,7 +861,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-03-07T04:44:51-08:00",
+      "publishedDateTime": "2017-03-07T12:44:51Z",
       "heat": 50,
       "images": [
         {
@@ -909,7 +871,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -937,7 +899,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-09-29T08:00:21-07:00",
+      "publishedDateTime": "2021-09-29T15:00:21Z",
       "heat": 50,
       "images": [
         {
@@ -947,7 +909,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -976,7 +938,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-08-02T08:31:32-07:00",
+      "publishedDateTime": "2017-08-02T15:31:32Z",
       "heat": 50,
       "images": [
         {
@@ -987,7 +949,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1015,7 +977,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-11-10T08:00:15-08:00",
+      "publishedDateTime": "2021-11-10T16:00:15Z",
       "heat": 50,
       "images": [
         {
@@ -1025,7 +987,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1053,7 +1015,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-01-04T07:35:40-08:00",
+      "publishedDateTime": "2018-01-04T15:35:40Z",
       "heat": 50,
       "images": [
         {
@@ -1063,7 +1025,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1091,7 +1053,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-07-20T07:34:15-07:00",
+      "publishedDateTime": "2017-07-20T14:34:15Z",
       "heat": 50,
       "images": [
         {
@@ -1101,7 +1063,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1129,7 +1091,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-21T08:00:21-07:00",
+      "publishedDateTime": "2020-04-21T15:00:21Z",
       "heat": 50,
       "images": [
         {
@@ -1139,7 +1101,46 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-get-an-embed-token-for-your-power-bi-dashboards-and-reports.md",
+      "title": "Get an embed token for your Power BI dashboards and reports",
+      "excerpt": "**** This video was replaced by - https://guyinacu.be/embedtoken ****  In this video, Adam shows you how you can use the Power BI REST APIs to get an embed token. This is done with the GenerateToken API. In order to do this, you have to register an app with Azure Active Directory, then you need to write",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-get-an-embed-token-for-your-power-bi-dashboards-and-reports/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-get-an-embed-token-for-your-power-bi-dashboards-and-reports/",
+      "originalUrl": "https://youtube.com/watch?v=GPHHdDRSlis",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GPHHdDRSlis\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M33S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-09-05T15:11:58Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GPHHdDRSlis/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Get an embed token for your Power BI dashboards and reports",
+          "isCached": true
+        }
+      ],
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

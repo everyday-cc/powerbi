@@ -4,44 +4,6 @@
   "page": 75,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-azure-sql-database-firewall.md",
-      "title": "Azure SQL Database Firewall",
-      "excerpt": "This video goes through different ways that you can configure the firewall for your Azure SQL Database to make sure your clients can connect successfully.  Existing Portal 0:57 - https://youtu.be/36lBSV6JUIc?t=57s  Preview Portal 1:36 - https://youtu.be/36lBSV6JUIc?t=1m36s  Stored Procedure 4:11 - https://youtu.be/36lBSV6JUIc?t=4m11s",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-azure-sql-database-firewall/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-azure-sql-database-firewall/",
-      "originalUrl": "https://youtube.com/watch?v=36lBSV6JUIc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/36lBSV6JUIc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M26S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2015-04-29T05:57:31-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/36lBSV6JUIc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-azure-ssas-combining-data-and-updates-for-power-bi.md",
       "title": "Azure SSAS, Combining data and updates for Power BI",
       "excerpt": "Use Cases for Azure Analysis Services (Part 2) (@SQLChick) http://www.sqlchick.com/entries/2016/11/29/use-cases-for-azure-analysis-services  How to Combine System and Manual Data in a Power BI Data Model (@PowerBIPro) https://www.powerpivotpro.com/2016/11/combine-system-manual-data-power-bi-data-model/",
@@ -62,7 +24,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-11-30T14:22:57-08:00",
+      "publishedDateTime": "2016-11-30T22:22:57Z",
       "heat": 50,
       "images": [
         {
@@ -72,7 +34,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -100,7 +62,7 @@
           }
         ]
       },
-      "publishedDateTime": "2015-04-09T07:51:40-07:00",
+      "publishedDateTime": "2015-04-09T14:51:40Z",
       "heat": 50,
       "images": [
         {
@@ -110,7 +72,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -138,7 +100,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-04-11T09:49:55-07:00",
+      "publishedDateTime": "2017-04-11T16:49:55Z",
       "heat": 50,
       "images": [
         {
@@ -148,7 +110,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -176,7 +138,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-04-22T04:18:48-07:00",
+      "publishedDateTime": "2021-04-22T11:18:48Z",
       "heat": 50,
       "images": [
         {
@@ -186,7 +148,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -214,7 +176,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-04-20T08:00:09-07:00",
+      "publishedDateTime": "2022-04-20T15:00:09Z",
       "heat": 50,
       "images": [
         {
@@ -224,7 +186,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -253,7 +215,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-06-02T07:25:49-07:00",
+      "publishedDateTime": "2017-06-02T14:25:49Z",
       "heat": 50,
       "images": [
         {
@@ -263,7 +225,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -291,7 +253,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-04-11T11:00:37-07:00",
+      "publishedDateTime": "2016-04-11T18:00:37Z",
       "heat": 50,
       "images": [
         {
@@ -301,7 +263,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -329,7 +291,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-08-24T09:36:47-07:00",
+      "publishedDateTime": "2018-08-24T16:36:47Z",
       "heat": 50,
       "images": [
         {
@@ -339,7 +301,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -367,7 +329,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-03-01T11:26:45-08:00",
+      "publishedDateTime": "2016-03-01T19:26:45Z",
       "heat": 50,
       "images": [
         {
@@ -377,7 +339,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -405,7 +367,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-03-14T08:54:26-07:00",
+      "publishedDateTime": "2017-03-14T15:54:26Z",
       "heat": 50,
       "images": [
         {
@@ -415,7 +377,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -443,7 +405,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-03-23T08:00:34-07:00",
+      "publishedDateTime": "2022-03-23T15:00:34Z",
       "heat": 50,
       "images": [
         {
@@ -453,7 +415,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -481,7 +443,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-08-02T08:00:19-07:00",
+      "publishedDateTime": "2022-08-02T15:00:19Z",
       "heat": 50,
       "images": [
         {
@@ -491,7 +453,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -519,7 +481,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-12-07T08:00:16-08:00",
+      "publishedDateTime": "2022-12-07T16:00:16Z",
       "heat": 50,
       "images": [
         {
@@ -529,7 +491,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -557,7 +519,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-12-06T08:00:11-08:00",
+      "publishedDateTime": "2022-12-06T16:00:11Z",
       "heat": 50,
       "images": [
         {
@@ -567,7 +529,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -595,7 +557,7 @@
           }
         ]
       },
-      "publishedDateTime": "2015-11-09T18:54:17-08:00",
+      "publishedDateTime": "2015-11-10T02:54:17Z",
       "heat": 50,
       "images": [
         {
@@ -605,7 +567,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -634,7 +596,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-10-17T05:32:18-07:00",
+      "publishedDateTime": "2018-10-17T12:32:18Z",
       "heat": 50,
       "images": [
         {
@@ -644,7 +606,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -672,7 +634,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-03-15T11:16:47-07:00",
+      "publishedDateTime": "2018-03-15T18:16:47Z",
       "heat": 50,
       "images": [
         {
@@ -682,7 +644,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -710,7 +672,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-05-11T09:44:03-07:00",
+      "publishedDateTime": "2019-05-11T16:44:03Z",
       "heat": 50,
       "images": [
         {
@@ -720,7 +682,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -748,7 +710,7 @@
           }
         ]
       },
-      "publishedDateTime": "2023-02-21T08:00:09-08:00",
+      "publishedDateTime": "2023-02-21T16:00:09Z",
       "heat": 50,
       "images": [
         {
@@ -758,7 +720,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -786,7 +748,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-12-05T04:21:48-08:00",
+      "publishedDateTime": "2018-12-05T12:21:48Z",
       "heat": 50,
       "images": [
         {
@@ -796,7 +758,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -824,7 +786,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-05-07T13:53:07-07:00",
+      "publishedDateTime": "2019-05-07T20:53:07Z",
       "heat": 50,
       "images": [
         {
@@ -834,7 +796,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -863,7 +825,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-05-30T07:09:01-07:00",
+      "publishedDateTime": "2018-05-30T14:09:01Z",
       "heat": 50,
       "images": [
         {
@@ -873,7 +835,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -902,7 +864,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-05-04T09:23:17-07:00",
+      "publishedDateTime": "2018-05-04T16:23:17Z",
       "heat": 50,
       "images": [
         {
@@ -913,7 +875,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -941,7 +903,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-07-27T08:25:11-07:00",
+      "publishedDateTime": "2017-07-27T15:25:11Z",
       "heat": 50,
       "images": [
         {
@@ -951,7 +913,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -979,7 +941,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-06-20T06:39:07-07:00",
+      "publishedDateTime": "2017-06-20T13:39:07Z",
       "heat": 50,
       "images": [
         {
@@ -989,7 +951,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1017,7 +979,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-02-11T06:12:34-08:00",
+      "publishedDateTime": "2017-02-11T14:12:34Z",
       "heat": 50,
       "images": [
         {
@@ -1027,7 +989,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1055,7 +1017,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-08-19T04:28:16-07:00",
+      "publishedDateTime": "2019-08-19T11:28:16Z",
       "heat": 50,
       "images": [
         {
@@ -1065,7 +1027,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1094,7 +1056,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-02-18T07:40:01-08:00",
+      "publishedDateTime": "2016-02-18T15:40:01Z",
       "heat": 50,
       "images": [
         {
@@ -1104,7 +1066,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1132,7 +1094,7 @@
           }
         ]
       },
-      "publishedDateTime": "2023-02-07T08:00:30-08:00",
+      "publishedDateTime": "2023-02-07T16:00:30Z",
       "heat": 50,
       "images": [
         {
@@ -1142,7 +1104,45 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-controlling-cost-with-azure-synapse-serverless-pools.md",
+      "title": "Controlling cost with Azure Synapse Serverless Pools",
+      "excerpt": "Curious how to save cost when using Azure Synapse Serverless Pools? Any way to minimize the amount of data you are processing? Patrick shows you how and has a script for you!  Cost management for serverless SQL pool in Azure Synapse Analytics https://learn.microsoft.com/azure/synapse-analytics/sql/data-processed",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-controlling-cost-with-azure-synapse-serverless-pools/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-controlling-cost-with-azure-synapse-serverless-pools/",
+      "originalUrl": "https://youtube.com/watch?v=AbiYgh9RD2U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AbiYgh9RD2U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M12S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-05-09T15:00:07Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AbiYgh9RD2U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

@@ -61,7 +61,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -103,7 +103,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -121,7 +121,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "collection",
       "price": "Free",
       "topics": [
@@ -186,7 +186,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -220,7 +220,7 @@
             "Beginner"
           ],
           "heat": 50,
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -235,8 +235,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 108248,
-            "average": 4.773991
+            "count": 108249,
+            "average": 4.7739935
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -262,7 +262,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -280,7 +280,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "collection",
       "price": "Free",
       "topics": [
@@ -345,7 +345,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -387,7 +387,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -405,7 +405,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "collection",
       "price": "Free",
       "topics": [
@@ -470,7 +470,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -488,7 +488,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "collection",
       "price": "Free",
       "topics": [
@@ -553,7 +553,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -595,7 +595,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -637,7 +637,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -655,7 +655,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "collection",
       "price": "Free",
       "topics": [
@@ -720,7 +720,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -762,7 +762,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -804,7 +804,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -822,7 +822,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "collection",
       "price": "Free",
       "topics": [
@@ -888,7 +888,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -930,7 +930,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -972,7 +972,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -990,7 +990,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "collection",
       "price": "Free",
       "topics": [
@@ -1055,7 +1055,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -1097,7 +1097,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -1139,7 +1139,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -1157,7 +1157,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "collection",
       "price": "Free",
       "topics": [
@@ -1222,7 +1222,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -1264,7 +1264,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -1307,7 +1307,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -1325,7 +1325,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "collection",
       "price": "Free",
       "topics": [
@@ -1390,7 +1390,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -1432,7 +1432,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -1474,7 +1474,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -1493,7 +1493,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "collection",
       "price": "Free",
       "topics": [
@@ -1540,7 +1540,7 @@
               }
             ]
           },
-          "publishedDateTime": "2020-11-07T07:01:05-08:00",
+          "publishedDateTime": "2020-11-07T15:01:05Z",
           "heat": 50,
           "images": [
             {
@@ -1550,7 +1550,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "video",
           "price": "Free",
           "topics": [
@@ -1579,7 +1579,7 @@
               }
             ]
           },
-          "publishedDateTime": "2020-11-07T07:01:17-08:00",
+          "publishedDateTime": "2020-11-07T15:01:17Z",
           "heat": 50,
           "images": [
             {
@@ -1589,7 +1589,7 @@
               "isCached": true
             }
           ],
-          "content": "\r\n",
+          "content": "",
           "type": "video",
           "price": "Free",
           "topics": [
@@ -1608,7 +1608,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "collection",
       "topics": [
         "Power BI",

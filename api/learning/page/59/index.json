@@ -4,46 +4,6 @@
   "page": 59,
   "value": [
     {
-      "path": "_learning/videos/curbal-dax-fridays-93-maxx-fill-down-with-dax-and-power-query.md",
-      "title": "DAX Fridays! #93: MAXX | Fill down with DAX and Power Query",
-      "excerpt": "In todays video I am going to show you how to fill down columns with DAX and also with Power Query.  Enjoy!  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK    Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-93-maxx-fill-down-with-dax-and-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-93-maxx-fill-down-with-dax-and-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=vQIDJVkFW8o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vQIDJVkFW8o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M47S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-08-23T11:20:01-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vQIDJVkFW8o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX",
-        "Power Query"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-dax-fridays-94-fill-down-with-dax-part-2.md",
       "title": "DAX Fridays! #94: Fill down with DAX (part 2)",
       "excerpt": "In today's video I will show you what happens when you use FILTER with ALL  and without.  The example used is from the previous DAX Fridays! 93 where I show you how to do a fill down in DAX: https://www.youtube.com/watch?v=vQIDJVkFW8o  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU",
@@ -64,7 +24,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-08-30T03:35:41-07:00",
+      "publishedDateTime": "2018-08-30T10:35:41Z",
       "heat": 50,
       "images": [
         {
@@ -74,7 +34,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -103,7 +63,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-08-30T09:11:21-07:00",
+      "publishedDateTime": "2018-08-30T16:11:21Z",
       "heat": 50,
       "images": [
         {
@@ -113,7 +73,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -142,7 +102,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-09-07T06:29:13-07:00",
+      "publishedDateTime": "2018-09-07T13:29:13Z",
       "heat": 50,
       "images": [
         {
@@ -152,7 +112,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -181,7 +141,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-09-14T04:58:57-07:00",
+      "publishedDateTime": "2018-09-14T11:58:57Z",
       "heat": 50,
       "images": [
         {
@@ -191,7 +151,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -220,7 +180,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-09-18T03:48:12-07:00",
+      "publishedDateTime": "2018-09-18T10:48:12Z",
       "heat": 50,
       "images": [
         {
@@ -230,7 +190,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -259,7 +219,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-09-28T07:09:31-07:00",
+      "publishedDateTime": "2018-09-28T14:09:31Z",
       "heat": 50,
       "images": [
         {
@@ -269,7 +229,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -298,7 +258,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-12-07T08:36:30-08:00",
+      "publishedDateTime": "2020-12-07T16:36:30Z",
       "heat": 50,
       "images": [
         {
@@ -308,7 +268,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -337,7 +297,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-12-27T11:54:53-08:00",
+      "publishedDateTime": "2016-12-27T19:54:53Z",
       "heat": 50,
       "images": [
         {
@@ -347,7 +307,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -376,7 +336,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-05-13T01:27:47-07:00",
+      "publishedDateTime": "2020-05-13T08:27:47Z",
       "heat": 50,
       "images": [
         {
@@ -386,7 +346,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -415,7 +375,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-08-15T01:19:32-07:00",
+      "publishedDateTime": "2019-08-15T08:19:32Z",
       "heat": 50,
       "images": [
         {
@@ -425,7 +385,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -454,7 +414,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-01-05T05:17:40-08:00",
+      "publishedDateTime": "2021-01-05T13:17:40Z",
       "heat": 50,
       "images": [
         {
@@ -464,7 +424,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -493,7 +453,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-10-04T11:14:55-07:00",
+      "publishedDateTime": "2017-10-04T18:14:55Z",
       "heat": 50,
       "images": [
         {
@@ -503,7 +463,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -532,7 +492,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-02-06T02:28:36-08:00",
+      "publishedDateTime": "2020-02-06T10:28:36Z",
       "heat": 50,
       "images": [
         {
@@ -542,7 +502,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -570,7 +530,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-06-18T04:37:36-07:00",
+      "publishedDateTime": "2018-06-18T11:37:36Z",
       "heat": 50,
       "images": [
         {
@@ -580,7 +540,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -608,7 +568,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-05-15T09:20:19-07:00",
+      "publishedDateTime": "2019-05-15T16:20:19Z",
       "heat": 50,
       "images": [
         {
@@ -618,7 +578,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -647,7 +607,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-09-28T11:46:40-07:00",
+      "publishedDateTime": "2016-09-28T18:46:40Z",
       "heat": 50,
       "images": [
         {
@@ -657,7 +617,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -686,7 +646,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-10-30T07:44:33-07:00",
+      "publishedDateTime": "2020-10-30T14:44:33Z",
       "heat": 50,
       "images": [
         {
@@ -696,7 +656,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -724,7 +684,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-10-01T08:51:01-07:00",
+      "publishedDateTime": "2019-10-01T15:51:01Z",
       "heat": 50,
       "images": [
         {
@@ -734,7 +694,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -762,7 +722,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-05-04T02:26:00-07:00",
+      "publishedDateTime": "2020-05-04T09:26:00Z",
       "heat": 50,
       "images": [
         {
@@ -772,7 +732,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -801,7 +761,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-06-10T03:50:30-07:00",
+      "publishedDateTime": "2020-06-10T10:50:30Z",
       "heat": 50,
       "images": [
         {
@@ -811,7 +771,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -839,7 +799,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-10-25T03:32:10-07:00",
+      "publishedDateTime": "2021-10-25T10:32:10Z",
       "heat": 50,
       "images": [
         {
@@ -849,7 +809,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -877,7 +837,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-05-24T04:41:20-07:00",
+      "publishedDateTime": "2022-05-24T11:41:20Z",
       "heat": 50,
       "images": [
         {
@@ -887,7 +847,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -915,7 +875,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-09-26T10:06:12-07:00",
+      "publishedDateTime": "2017-09-26T17:06:12Z",
       "heat": 50,
       "images": [
         {
@@ -925,7 +885,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -954,7 +914,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-08-30T11:31:03-07:00",
+      "publishedDateTime": "2016-08-30T18:31:03Z",
       "heat": 50,
       "images": [
         {
@@ -964,7 +924,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -992,7 +952,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-03-30T14:49:04-07:00",
+      "publishedDateTime": "2017-03-30T21:49:04Z",
       "heat": 50,
       "images": [
         {
@@ -1002,7 +962,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1031,7 +991,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-08-28T09:23:45-07:00",
+      "publishedDateTime": "2018-08-28T16:23:45Z",
       "heat": 50,
       "images": [
         {
@@ -1041,7 +1001,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1070,7 +1030,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-09T06:30:33-07:00",
+      "publishedDateTime": "2020-04-09T13:30:33Z",
       "heat": 50,
       "images": [
         {
@@ -1080,7 +1040,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1108,7 +1068,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-10-26T06:21:04-07:00",
+      "publishedDateTime": "2020-10-26T13:21:04Z",
       "heat": 50,
       "images": [
         {
@@ -1118,7 +1078,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1146,7 +1106,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-10-26T07:23:56-07:00",
+      "publishedDateTime": "2020-10-26T14:23:56Z",
       "heat": 50,
       "images": [
         {
@@ -1156,7 +1116,45 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-eurostat-data-in-power-bi-with-a-few-clicks-and-it-auto-refreshes.md",
+      "title": "Eurostat data in Power BI with a few clicks (and it auto-refreshes!)",
+      "excerpt": "Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Check the blog post for more info:  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-eurostat-data-in-power-bi-with-a-few-clicks-and-it-auto-refreshes/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-eurostat-data-in-power-bi-with-a-few-clicks-and-it-auto-refreshes/",
+      "originalUrl": "https://youtube.com/watch?v=_9afADAR_qY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_9afADAR_qY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M44S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-10-12T08:43:36Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_9afADAR_qY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

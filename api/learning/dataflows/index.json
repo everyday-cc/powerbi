@@ -24,7 +24,7 @@
           }
         ]
       },
-      "publishedDateTime": "2023-09-06T08:00:45-07:00",
+      "publishedDateTime": "2023-09-06T15:00:45Z",
       "heat": 61,
       "images": [
         {
@@ -34,7 +34,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -63,7 +63,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-11-02T08:00:03-07:00",
+      "publishedDateTime": "2022-11-02T15:00:03Z",
       "heat": 61,
       "images": [
         {
@@ -73,7 +73,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -102,7 +102,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-06-01T08:00:00-07:00",
+      "publishedDateTime": "2022-06-01T15:00:00Z",
       "heat": 55,
       "images": [
         {
@@ -112,7 +112,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -155,7 +155,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -184,7 +184,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-01-20T04:21:12-08:00",
+      "publishedDateTime": "2022-01-20T12:21:12Z",
       "heat": 53,
       "images": [
         {
@@ -194,7 +194,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -224,7 +224,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-09-29T11:31:59-07:00",
+      "publishedDateTime": "2019-09-29T18:31:59Z",
       "heat": 52,
       "images": [
         {
@@ -234,7 +234,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -263,7 +263,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-04-26T03:25:51-07:00",
+      "publishedDateTime": "2021-04-26T10:25:51Z",
       "heat": 51,
       "images": [
         {
@@ -273,7 +273,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -303,7 +303,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-11-16T03:24:58-08:00",
+      "publishedDateTime": "2020-11-16T11:24:58Z",
       "heat": 51,
       "images": [
         {
@@ -313,7 +313,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -343,7 +343,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-11-18T03:43:43-08:00",
+      "publishedDateTime": "2020-11-18T11:43:43Z",
       "heat": 51,
       "images": [
         {
@@ -353,7 +353,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -383,7 +383,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-12-09T08:00:23-08:00",
+      "publishedDateTime": "2021-12-09T16:00:23Z",
       "heat": 51,
       "images": [
         {
@@ -393,7 +393,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -422,7 +422,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-06-02T08:00:14-07:00",
+      "publishedDateTime": "2020-06-02T15:00:14Z",
       "heat": 51,
       "images": [
         {
@@ -432,7 +432,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -461,7 +461,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-01-05T08:00:07-08:00",
+      "publishedDateTime": "2022-01-05T16:00:07Z",
       "heat": 51,
       "images": [
         {
@@ -471,7 +471,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -500,7 +500,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-02-20T06:36:46-08:00",
+      "publishedDateTime": "2020-02-20T14:36:46Z",
       "heat": 51,
       "images": [
         {
@@ -510,7 +510,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -528,7 +528,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2022-03-28T12:55:00-07:00",
+      "publishedDateTime": "2022-03-28T19:55:00Z",
       "heat": 50,
       "images": [
         {
@@ -538,7 +538,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI",
@@ -580,7 +580,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -623,7 +623,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -652,7 +652,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-03-09T09:21:20-07:00",
+      "publishedDateTime": "2020-03-09T16:21:20Z",
       "heat": 50,
       "images": [
         {
@@ -662,7 +662,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -691,7 +691,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-11-28T09:20:53-08:00",
+      "publishedDateTime": "2018-11-28T17:20:53Z",
       "heat": 50,
       "images": [
         {
@@ -701,7 +701,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -730,7 +730,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-11-26T08:00:31-08:00",
+      "publishedDateTime": "2020-11-26T16:00:31Z",
       "heat": 50,
       "images": [
         {
@@ -740,7 +740,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -769,7 +769,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-09-26T06:07:16-07:00",
+      "publishedDateTime": "2019-09-26T13:07:16Z",
       "heat": 50,
       "images": [
         {
@@ -779,7 +779,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -808,7 +808,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-11-24T09:59:11-08:00",
+      "publishedDateTime": "2018-11-24T17:59:11Z",
       "heat": 50,
       "images": [
         {
@@ -818,7 +818,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -847,7 +847,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-11-03T05:17:12-08:00",
+      "publishedDateTime": "2019-11-03T13:17:12Z",
       "heat": 50,
       "images": [
         {
@@ -857,7 +857,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -886,7 +886,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-11-11T11:33:04-08:00",
+      "publishedDateTime": "2018-11-11T19:33:04Z",
       "heat": 50,
       "images": [
         {
@@ -896,7 +896,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -925,7 +925,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-11-19T04:55:06-08:00",
+      "publishedDateTime": "2018-11-19T12:55:06Z",
       "heat": 50,
       "images": [
         {
@@ -935,7 +935,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -964,7 +964,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-12-16T09:46:37-08:00",
+      "publishedDateTime": "2018-12-16T17:46:37Z",
       "heat": 50,
       "images": [
         {
@@ -974,7 +974,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -996,7 +996,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2019-05-16T14:17:36-07:00",
+      "publishedDateTime": "2019-05-16T21:17:36Z",
       "heat": 50,
       "images": [
         {
@@ -1006,7 +1006,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1027,7 +1027,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-06-03T16:29:00-07:00",
+      "publishedDateTime": "2021-06-03T23:29:00Z",
       "heat": 50,
       "images": [
         {
@@ -1037,7 +1037,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1058,7 +1058,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-01-26T17:57:38-08:00",
+      "publishedDateTime": "2021-01-27T01:57:38Z",
       "heat": 50,
       "images": [
         {
@@ -1068,7 +1068,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1089,7 +1089,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-11-23T22:09:06-08:00",
+      "publishedDateTime": "2020-11-24T06:09:06Z",
       "heat": 50,
       "images": [
         {
@@ -1099,7 +1099,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1120,7 +1120,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-01-12T19:45:32-08:00",
+      "publishedDateTime": "2020-01-13T03:45:32Z",
       "heat": 50,
       "images": [
         {
@@ -1130,7 +1130,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

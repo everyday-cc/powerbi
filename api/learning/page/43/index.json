@@ -4,33 +4,6 @@
   "page": 43,
   "value": [
     {
-      "path": "_learning/articles/excelerator-bi-dataflows-101.md",
-      "title": "Dataflows 101",
-      "excerpt": "Matt here.  I want to do a brief introduction prior to handing over to Roland.  I have known Roland for a couple of years now &#8211; he is a member of the Sydney Power BI User Group.  What I didn&#8217;t know until very recently is that he has the same [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-dataflows-101/index.json",
-      "webUrl": "https://exceleratorbi.com.au/dataflows-101/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2022-03-28T12:55:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/03/DataFlow-101-Practical-Guide-For-Business-Users-Blog.png",
-          "width": 750,
-          "height": 500,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI",
-        "Dataflows"
-      ]
-    },
-    {
       "path": "_learning/articles/excelerator-bi-deep-dive-into-inforiver-export-to-excel.md",
       "title": "Deep Dive into InfoRiver Export to Excel",
       "excerpt": "This is a further article in my series where I share with you what I have learnt about the InfoRiver custom visual.  As good as Power BI is, it will take Microsoft many more years to make it fully featured.  Microsoft Excel is 37 years old, and I can assure [...]Read More »",
@@ -40,7 +13,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2022-02-22T11:55:21-08:00",
+      "publishedDateTime": "2022-02-22T19:55:21Z",
       "heat": 50,
       "images": [
         {
@@ -50,7 +23,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -66,7 +39,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2021-12-23T15:35:09-08:00",
+      "publishedDateTime": "2021-12-23T23:35:09Z",
       "heat": 50,
       "images": [
         {
@@ -76,7 +49,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -92,7 +65,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2021-08-05T15:01:44-07:00",
+      "publishedDateTime": "2021-08-05T22:01:44Z",
       "heat": 50,
       "images": [
         {
@@ -102,7 +75,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -118,7 +91,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2021-09-20T18:14:17-07:00",
+      "publishedDateTime": "2021-09-21T01:14:17Z",
       "heat": 50,
       "images": [
         {
@@ -128,7 +101,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -144,7 +117,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2020-08-24T17:57:11-07:00",
+      "publishedDateTime": "2020-08-25T00:57:11Z",
       "heat": 50,
       "images": [
         {
@@ -154,7 +127,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -170,7 +143,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2022-04-12T20:00:35-07:00",
+      "publishedDateTime": "2022-04-13T03:00:35Z",
       "heat": 50,
       "images": [
         {
@@ -186,7 +159,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -202,7 +175,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2022-08-31T19:24:53-07:00",
+      "publishedDateTime": "2022-09-01T02:24:53Z",
       "heat": 50,
       "images": [
         {
@@ -212,7 +185,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -228,7 +201,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2020-11-09T13:40:19-08:00",
+      "publishedDateTime": "2020-11-09T21:40:19Z",
       "heat": 50,
       "images": [
         {
@@ -244,7 +217,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI",
@@ -261,7 +234,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2020-09-22T01:18:03-07:00",
+      "publishedDateTime": "2020-09-22T08:18:03Z",
       "heat": 50,
       "images": [
         {
@@ -271,7 +244,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -287,7 +260,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2022-05-17T16:22:36-07:00",
+      "publishedDateTime": "2022-05-17T23:22:36Z",
       "heat": 50,
       "images": [
         {
@@ -297,7 +270,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -313,7 +286,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2022-07-14T16:59:55-07:00",
+      "publishedDateTime": "2022-07-14T23:59:55Z",
       "heat": 50,
       "images": [
         {
@@ -323,7 +296,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -339,7 +312,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2021-06-22T14:49:37-07:00",
+      "publishedDateTime": "2021-06-22T21:49:37Z",
       "heat": 50,
       "images": [
         {
@@ -349,7 +322,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -365,7 +338,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2021-07-12T16:24:52-07:00",
+      "publishedDateTime": "2021-07-12T23:24:52Z",
       "heat": 50,
       "images": [
         {
@@ -375,7 +348,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -391,7 +364,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2022-11-21T18:47:09-08:00",
+      "publishedDateTime": "2022-11-22T02:47:09Z",
       "heat": 50,
       "images": [
         {
@@ -401,7 +374,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI",
@@ -418,7 +391,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2022-05-11T16:00:52-07:00",
+      "publishedDateTime": "2022-05-11T23:00:52Z",
       "heat": 50,
       "images": [
         {
@@ -428,7 +401,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -444,7 +417,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2022-05-23T17:39:48-07:00",
+      "publishedDateTime": "2022-05-24T00:39:48Z",
       "heat": 50,
       "images": [
         {
@@ -454,7 +427,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -470,7 +443,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2021-07-26T19:05:59-07:00",
+      "publishedDateTime": "2021-07-27T02:05:59Z",
       "heat": 50,
       "images": [
         {
@@ -480,7 +453,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -496,7 +469,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2023-03-13T15:44:53-07:00",
+      "publishedDateTime": "2023-03-13T22:44:53Z",
       "heat": 50,
       "images": [
         {
@@ -506,7 +479,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -522,7 +495,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2021-07-19T01:22:47-07:00",
+      "publishedDateTime": "2021-07-19T08:22:47Z",
       "heat": 50,
       "images": [
         {
@@ -538,7 +511,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -554,7 +527,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2022-08-22T13:55:15-07:00",
+      "publishedDateTime": "2022-08-22T20:55:15Z",
       "heat": 50,
       "images": [
         {
@@ -570,7 +543,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI",
@@ -587,7 +560,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2020-11-23T11:55:01-08:00",
+      "publishedDateTime": "2020-11-23T19:55:01Z",
       "heat": 50,
       "images": [
         {
@@ -597,7 +570,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI",
@@ -614,7 +587,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2022-10-26T14:35:05-07:00",
+      "publishedDateTime": "2022-10-26T21:35:05Z",
       "heat": 50,
       "images": [
         {
@@ -624,7 +597,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI",
@@ -641,7 +614,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2022-10-05T14:42:12-07:00",
+      "publishedDateTime": "2022-10-05T21:42:12Z",
       "heat": 50,
       "images": [
         {
@@ -657,7 +630,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -673,7 +646,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2022-11-29T17:24:12-08:00",
+      "publishedDateTime": "2022-11-30T01:24:12Z",
       "heat": 50,
       "images": [
         {
@@ -683,7 +656,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -699,7 +672,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2021-11-22T14:09:21-08:00",
+      "publishedDateTime": "2021-11-22T22:09:21Z",
       "heat": 50,
       "images": [
         {
@@ -709,7 +682,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -725,7 +698,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2022-10-10T12:55:29-07:00",
+      "publishedDateTime": "2022-10-10T19:55:29Z",
       "heat": 50,
       "images": [
         {
@@ -735,7 +708,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -751,7 +724,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2022-02-16T17:32:20-08:00",
+      "publishedDateTime": "2022-02-17T01:32:20Z",
       "heat": 50,
       "images": [
         {
@@ -761,7 +734,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -777,7 +750,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2022-02-16T17:32:20-08:00",
+      "publishedDateTime": "2022-02-17T01:32:20Z",
       "heat": 50,
       "images": [
         {
@@ -787,7 +760,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -803,7 +776,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2022-04-04T00:45:43-07:00",
+      "publishedDateTime": "2022-04-04T07:45:43Z",
       "heat": 50,
       "images": [
         {
@@ -813,7 +786,33 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-power-bi-and-sharepoint-terrible-together.md",
+      "title": "Power BI and SharePoint – Terrible Together",
+      "excerpt": "Until recently, I had not spent a lot of time building Power BI Reporting solutions that have SharePoint Online as a data source (This article refers to SharePoint Online specifically, but I am sure the experience is the same with on premise SharePoint). Over the last month or so I [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-power-bi-and-sharepoint-terrible-together/index.json",
+      "webUrl": "https://exceleratorbi.com.au/power-bi-and-sharepoint-terrible-together/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2020-09-14T22:23:23Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/09/get-data-from-sharepoint.png",
+          "width": 900,
+          "height": 553,
+          "isCached": true
+        }
+      ],
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"

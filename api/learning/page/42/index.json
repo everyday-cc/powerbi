@@ -4,44 +4,6 @@
   "page": 42,
   "value": [
     {
-      "path": "_learning/videos/sqlbi-distinguishing-hasonevalue-from-isinscope.md",
-      "title": "Distinguishing HASONEVALUE from ISINSCOPE",
-      "excerpt": "This video describes the differences between HASONEVALUE and ISINSCOPE, which are two useful DAX functions to control the filters and the grouping that are active in a report. Article and download: https://sql.bi/662962?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-distinguishing-hasonevalue-from-isinscope/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-distinguishing-hasonevalue-from-isinscope/",
-      "originalUrl": "https://youtube.com/watch?v=8UNNo233eFc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8UNNo233eFc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-06-22T12:30:12-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8UNNo233eFc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/sqlbi-evaluation-of-variables-in-dax.md",
       "title": "Evaluation of variables in DAX",
       "excerpt": "Variables in DAX are constants, and this could be very confusing! Watch this video to understand how the evaluation of variables works in DAX. How to learn DAX: https://www.sqlbi.com/guides/dax/ The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/",
@@ -62,7 +24,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-10-20T03:00:24-07:00",
+      "publishedDateTime": "2020-10-20T10:00:24Z",
       "heat": 51,
       "images": [
         {
@@ -72,7 +34,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -101,7 +63,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-11-09T11:30:16-08:00",
+      "publishedDateTime": "2020-11-09T19:30:16Z",
       "heat": 51,
       "images": [
         {
@@ -111,7 +73,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -140,7 +102,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-07-05T03:00:22-07:00",
+      "publishedDateTime": "2022-07-05T10:00:22Z",
       "heat": 51,
       "images": [
         {
@@ -150,7 +112,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -178,7 +140,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-11-09T03:01:17-08:00",
+      "publishedDateTime": "2021-11-09T11:01:17Z",
       "heat": 51,
       "images": [
         {
@@ -188,7 +150,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -216,7 +178,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-03-15T04:02:25-07:00",
+      "publishedDateTime": "2022-03-15T11:02:25Z",
       "heat": 51,
       "images": [
         {
@@ -226,7 +188,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -254,7 +216,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-01-30T23:16:16-08:00",
+      "publishedDateTime": "2021-01-31T07:16:16Z",
       "heat": 51,
       "images": [
         {
@@ -264,7 +226,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -293,7 +255,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-02-02T03:00:39-08:00",
+      "publishedDateTime": "2021-02-02T11:00:39Z",
       "heat": 51,
       "images": [
         {
@@ -303,7 +265,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -332,7 +294,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-02-24T16:00:29-08:00",
+      "publishedDateTime": "2021-02-25T00:00:29Z",
       "heat": 51,
       "images": [
         {
@@ -342,7 +304,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -370,7 +332,7 @@
           }
         ]
       },
-      "publishedDateTime": "2023-04-11T03:00:15-07:00",
+      "publishedDateTime": "2023-04-11T10:00:15Z",
       "heat": 51,
       "images": [
         {
@@ -380,7 +342,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -408,7 +370,7 @@
           }
         ]
       },
-      "publishedDateTime": "2023-05-09T03:00:19-07:00",
+      "publishedDateTime": "2023-05-09T10:00:19Z",
       "heat": 51,
       "images": [
         {
@@ -418,7 +380,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -447,7 +409,7 @@
           }
         ]
       },
-      "publishedDateTime": "2023-07-05T03:01:06-07:00",
+      "publishedDateTime": "2023-07-05T10:01:06Z",
       "heat": 51,
       "images": [
         {
@@ -457,7 +419,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -486,7 +448,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-04-13T03:00:32-07:00",
+      "publishedDateTime": "2021-04-13T10:00:32Z",
       "heat": 51,
       "images": [
         {
@@ -496,7 +458,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -524,7 +486,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-01-14T03:00:16-08:00",
+      "publishedDateTime": "2021-01-14T11:00:16Z",
       "heat": 51,
       "images": [
         {
@@ -534,7 +496,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -563,7 +525,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-09-14T12:30:42-07:00",
+      "publishedDateTime": "2020-09-14T19:30:42Z",
       "heat": 51,
       "images": [
         {
@@ -573,7 +535,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -602,7 +564,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-12-07T11:30:20-08:00",
+      "publishedDateTime": "2020-12-07T19:30:20Z",
       "heat": 51,
       "images": [
         {
@@ -612,7 +574,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -640,7 +602,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-10-11T03:00:30-07:00",
+      "publishedDateTime": "2022-10-11T10:00:30Z",
       "heat": 51,
       "images": [
         {
@@ -650,7 +612,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -678,7 +640,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-12-01T03:00:14-08:00",
+      "publishedDateTime": "2020-12-01T11:00:14Z",
       "heat": 51,
       "images": [
         {
@@ -688,7 +650,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -706,7 +668,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2021-10-18T22:42:42-07:00",
+      "publishedDateTime": "2021-10-19T05:42:42Z",
       "heat": 50,
       "images": [
         {
@@ -716,7 +678,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -732,7 +694,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2021-06-07T00:04:55-07:00",
+      "publishedDateTime": "2021-06-07T07:04:55Z",
       "heat": 50,
       "images": [
         {
@@ -742,7 +704,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -758,7 +720,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2021-05-27T17:21:42-07:00",
+      "publishedDateTime": "2021-05-28T00:21:42Z",
       "heat": 50,
       "images": [
         {
@@ -768,7 +730,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI",
@@ -785,7 +747,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2023-03-30T18:34:18-07:00",
+      "publishedDateTime": "2023-03-31T01:34:18Z",
       "heat": 50,
       "images": [
         {
@@ -795,7 +757,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -811,7 +773,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2020-10-26T12:55:50-07:00",
+      "publishedDateTime": "2020-10-26T19:55:50Z",
       "heat": 50,
       "images": [
         {
@@ -821,7 +783,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -837,7 +799,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2021-03-22T12:55:00-07:00",
+      "publishedDateTime": "2021-03-22T19:55:00Z",
       "heat": 50,
       "images": [
         {
@@ -847,7 +809,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -863,7 +825,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2021-07-21T13:55:57-07:00",
+      "publishedDateTime": "2021-07-21T20:55:57Z",
       "heat": 50,
       "images": [
         {
@@ -873,7 +835,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -889,7 +851,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2021-05-03T16:50:54-07:00",
+      "publishedDateTime": "2021-05-03T23:50:54Z",
       "heat": 50,
       "images": [
         {
@@ -899,7 +861,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -915,7 +877,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2021-07-19T01:22:47-07:00",
+      "publishedDateTime": "2021-07-19T08:22:47Z",
       "heat": 50,
       "images": [
         {
@@ -931,7 +893,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -947,7 +909,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2021-06-28T05:16:26-07:00",
+      "publishedDateTime": "2021-06-28T12:16:26Z",
       "heat": 50,
       "images": [
         {
@@ -957,7 +919,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -973,7 +935,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2020-08-17T16:35:13-07:00",
+      "publishedDateTime": "2020-08-17T23:35:13Z",
       "heat": 50,
       "images": [
         {
@@ -983,7 +945,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
@@ -999,7 +961,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2021-07-29T18:35:07-07:00",
+      "publishedDateTime": "2021-07-30T01:35:07Z",
       "heat": 50,
       "images": [
         {
@@ -1009,10 +971,37 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-dataflows-101.md",
+      "title": "Dataflows 101",
+      "excerpt": "Matt here.  I want to do a brief introduction prior to handing over to Roland.  I have known Roland for a couple of years now &#8211; he is a member of the Sydney Power BI User Group.  What I didn&#8217;t know until very recently is that he has the same [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-dataflows-101/index.json",
+      "webUrl": "https://exceleratorbi.com.au/dataflows-101/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2022-03-28T19:55:00Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/03/DataFlow-101-Practical-Guide-For-Business-Users-Blog.png",
+          "width": 750,
+          "height": 500,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "topics": [
+        "Power BI",
+        "Dataflows"
       ]
     }
   ],

@@ -24,7 +24,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-02-24T15:04:39-08:00",
+      "publishedDateTime": "2016-02-24T23:04:39Z",
       "heat": 53,
       "images": [
         {
@@ -35,7 +35,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -63,7 +63,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-06-01T10:08:07-07:00",
+      "publishedDateTime": "2017-06-01T17:08:07Z",
       "heat": 50,
       "images": [
         {
@@ -74,7 +74,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -102,7 +102,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-07-05T08:24:12-07:00",
+      "publishedDateTime": "2017-07-05T15:24:12Z",
       "heat": 51,
       "images": [
         {
@@ -113,7 +113,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -141,7 +141,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-07-19T09:19:21-07:00",
+      "publishedDateTime": "2017-07-19T16:19:21Z",
       "heat": 51,
       "images": [
         {
@@ -152,7 +152,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -180,7 +180,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-08-02T08:31:32-07:00",
+      "publishedDateTime": "2017-08-02T15:31:32Z",
       "heat": 50,
       "images": [
         {
@@ -191,7 +191,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -219,7 +219,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-08-24T08:05:13-07:00",
+      "publishedDateTime": "2017-08-24T15:05:13Z",
       "heat": 51,
       "images": [
         {
@@ -230,7 +230,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -258,7 +258,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-09-13T08:10:24-07:00",
+      "publishedDateTime": "2017-09-13T15:10:24Z",
       "heat": 53,
       "images": [
         {
@@ -269,7 +269,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -298,7 +298,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-11-21T10:10:52-08:00",
+      "publishedDateTime": "2017-11-21T18:10:52Z",
       "heat": 50,
       "images": [
         {
@@ -309,7 +309,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -338,7 +338,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-01-10T09:41:50-08:00",
+      "publishedDateTime": "2018-01-10T17:41:50Z",
       "heat": 50,
       "images": [
         {
@@ -349,7 +349,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -377,7 +377,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-04-18T09:32:09-07:00",
+      "publishedDateTime": "2018-04-18T16:32:09Z",
       "heat": 50,
       "images": [
         {
@@ -388,7 +388,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -417,7 +417,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-04-25T08:52:10-07:00",
+      "publishedDateTime": "2018-04-25T15:52:10Z",
       "heat": 50,
       "images": [
         {
@@ -428,7 +428,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -457,7 +457,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-05-04T09:23:17-07:00",
+      "publishedDateTime": "2018-05-04T16:23:17Z",
       "heat": 50,
       "images": [
         {
@@ -468,7 +468,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

@@ -4,44 +4,6 @@
   "page": 51,
   "value": [
     {
-      "path": "_learning/videos/curbal-6-things-you-should-do-on-all-your-power-bi-reports.md",
-      "title": "6 things you should do on all your Power BI reports!",
-      "excerpt": "6 things you should do on all your Power BI reports! In today's video, I am going to show you 6 things you should do to make your reports easy to use and discover. What are your tips?  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-6-things-you-should-do-on-all-your-power-bi-reports/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-6-things-you-should-do-on-all-your-power-bi-reports/",
-      "originalUrl": "https://youtube.com/watch?v=SshXKs9frWI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SshXKs9frWI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M41S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-02-26T09:37:21-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SshXKs9frWI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-7-hidden-features-in-power-bi.md",
       "title": "7 hidden features in Power BI!",
       "excerpt": "In todays video I will show you 7 hidden features in power bi! Chris blog on is nullable property:  https://blog.crossjoin.co.uk/2019/01/20/is-nullable-column-property-power-bi/ That solves this error: Column ‘MyColumn’ in Table ‘TestTable’ contains blank values and this is not allowed for columns on",
@@ -62,7 +24,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-06T04:29:36-07:00",
+      "publishedDateTime": "2020-04-06T11:29:36Z",
       "heat": 50,
       "images": [
         {
@@ -72,7 +34,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -100,7 +62,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-08-30T04:50:42-07:00",
+      "publishedDateTime": "2019-08-30T11:50:42Z",
       "heat": 50,
       "images": [
         {
@@ -110,7 +72,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -138,7 +100,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-06-24T03:35:17-07:00",
+      "publishedDateTime": "2019-06-24T10:35:17Z",
       "heat": 50,
       "images": [
         {
@@ -148,7 +110,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -176,7 +138,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-12-03T06:58:38-08:00",
+      "publishedDateTime": "2019-12-03T14:58:38Z",
       "heat": 50,
       "images": [
         {
@@ -186,7 +148,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -215,7 +177,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-11-04T03:25:04-08:00",
+      "publishedDateTime": "2019-11-04T11:25:04Z",
       "heat": 50,
       "images": [
         {
@@ -225,7 +187,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -254,7 +216,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-04-25T04:32:01-07:00",
+      "publishedDateTime": "2018-04-25T11:32:01Z",
       "heat": 50,
       "images": [
         {
@@ -264,7 +226,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -293,7 +255,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-05-02T13:28:27-07:00",
+      "publishedDateTime": "2017-05-02T20:28:27Z",
       "heat": 50,
       "images": [
         {
@@ -303,7 +265,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -332,7 +294,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-04-27T12:43:42-07:00",
+      "publishedDateTime": "2017-04-27T19:43:42Z",
       "heat": 50,
       "images": [
         {
@@ -342,7 +304,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -371,7 +333,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-01-15T06:10:36-08:00",
+      "publishedDateTime": "2018-01-15T14:10:36Z",
       "heat": 50,
       "images": [
         {
@@ -381,7 +343,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -409,7 +371,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-11-04T02:10:30-08:00",
+      "publishedDateTime": "2019-11-04T10:10:30Z",
       "heat": 50,
       "images": [
         {
@@ -419,7 +381,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -448,7 +410,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-05-10T02:12:17-07:00",
+      "publishedDateTime": "2020-05-10T09:12:17Z",
       "heat": 50,
       "images": [
         {
@@ -458,7 +420,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -487,7 +449,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-05-10T02:10:00-07:00",
+      "publishedDateTime": "2020-05-10T09:10:00Z",
       "heat": 50,
       "images": [
         {
@@ -497,7 +459,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -525,7 +487,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-02-28T04:26:55-08:00",
+      "publishedDateTime": "2019-02-28T12:26:55Z",
       "heat": 50,
       "images": [
         {
@@ -535,7 +497,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -564,7 +526,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-10-18T12:39:13-07:00",
+      "publishedDateTime": "2017-10-18T19:39:13Z",
       "heat": 50,
       "images": [
         {
@@ -574,7 +536,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -603,7 +565,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-10-29T06:05:36-07:00",
+      "publishedDateTime": "2018-10-29T13:05:36Z",
       "heat": 50,
       "images": [
         {
@@ -613,7 +575,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -642,7 +604,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-09-13T03:59:30-07:00",
+      "publishedDateTime": "2021-09-13T10:59:30Z",
       "heat": 50,
       "images": [
         {
@@ -652,7 +614,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -681,7 +643,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-06-01T01:01:49-07:00",
+      "publishedDateTime": "2021-06-01T08:01:49Z",
       "heat": 50,
       "images": [
         {
@@ -691,7 +653,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -719,7 +681,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-12-07T05:16:24-08:00",
+      "publishedDateTime": "2020-12-07T13:16:24Z",
       "heat": 50,
       "images": [
         {
@@ -729,7 +691,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -758,7 +720,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-06-14T04:57:14-07:00",
+      "publishedDateTime": "2022-06-14T11:57:14Z",
       "heat": 50,
       "images": [
         {
@@ -768,7 +730,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -796,7 +758,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-02-06T03:07:50-08:00",
+      "publishedDateTime": "2020-02-06T11:07:50Z",
       "heat": 50,
       "images": [
         {
@@ -806,7 +768,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -835,7 +797,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-07-13T03:00:04-07:00",
+      "publishedDateTime": "2022-07-13T10:00:04Z",
       "heat": 50,
       "images": [
         {
@@ -845,7 +807,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -873,7 +835,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-07-06T04:25:08-07:00",
+      "publishedDateTime": "2017-07-06T11:25:08Z",
       "heat": 50,
       "images": [
         {
@@ -883,7 +845,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -911,7 +873,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-03-21T13:07:13-07:00",
+      "publishedDateTime": "2016-03-21T20:07:13Z",
       "heat": 50,
       "images": [
         {
@@ -921,7 +883,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -950,7 +912,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-03-21T13:07:13-07:00",
+      "publishedDateTime": "2016-03-21T20:07:13Z",
       "heat": 50,
       "images": [
         {
@@ -960,7 +922,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -989,7 +951,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-04-10T04:17:04-07:00",
+      "publishedDateTime": "2019-04-10T11:17:04Z",
       "heat": 50,
       "images": [
         {
@@ -999,7 +961,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1028,7 +990,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-15T04:49:43-07:00",
+      "publishedDateTime": "2020-04-15T11:49:43Z",
       "heat": 50,
       "images": [
         {
@@ -1038,7 +1000,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1066,7 +1028,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-01-22T07:03:09-08:00",
+      "publishedDateTime": "2018-01-22T15:03:09Z",
       "heat": 50,
       "images": [
         {
@@ -1076,7 +1038,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1104,7 +1066,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-11-22T04:28:32-08:00",
+      "publishedDateTime": "2022-11-22T12:28:32Z",
       "heat": 50,
       "images": [
         {
@@ -1114,7 +1076,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1142,7 +1104,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-01-05T04:46:36-08:00",
+      "publishedDateTime": "2021-01-05T12:46:36Z",
       "heat": 50,
       "images": [
         {
@@ -1152,11 +1114,50 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-challenge-unpivot-a-complex-table-multiple-columns-in-power-query.md",
+      "title": "Challenge: Unpivot a complex table (multiple columns) in power query",
+      "excerpt": "It is time for another challenge, are you up to it?  Winner will get my mouse mat: https://curbal.com/product/joins-mouse-mat-by-curbal  If you want to try it yourself, you will find the files on the github page: https://github.com/ruthpozuelo/PQ-Challenge-unpivot  Then you can check the solution and",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-challenge-unpivot-a-complex-table-multiple-columns-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-challenge-unpivot-a-complex-table-multiple-columns-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=LtzuGvtQqG4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LtzuGvtQqG4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M6S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-01-18T12:50:28Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LtzuGvtQqG4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
       ]
     }
   ],

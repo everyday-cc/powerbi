@@ -24,7 +24,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-06-17T08:00:13-07:00",
+      "publishedDateTime": "2021-06-17T15:00:13Z",
       "heat": 50,
       "images": [
         {
@@ -34,7 +34,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -62,7 +62,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-10-31T04:54:06-07:00",
+      "publishedDateTime": "2019-10-31T11:54:06Z",
       "heat": 50,
       "images": [
         {
@@ -72,7 +72,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -100,7 +100,7 @@
           }
         ]
       },
-      "publishedDateTime": "2023-05-10T08:00:05-07:00",
+      "publishedDateTime": "2023-05-10T15:00:05Z",
       "heat": 50,
       "images": [
         {
@@ -110,7 +110,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -138,7 +138,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-10-19T08:00:16-07:00",
+      "publishedDateTime": "2022-10-19T15:00:16Z",
       "heat": 50,
       "images": [
         {
@@ -148,7 +148,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -176,7 +176,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-05-11T08:00:25-07:00",
+      "publishedDateTime": "2022-05-11T15:00:25Z",
       "heat": 50,
       "images": [
         {
@@ -186,7 +186,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -214,7 +214,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-11-15T06:56:43-08:00",
+      "publishedDateTime": "2017-11-15T14:56:43Z",
       "heat": 50,
       "images": [
         {
@@ -224,7 +224,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -252,7 +252,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-11-16T08:00:35-08:00",
+      "publishedDateTime": "2022-11-16T16:00:35Z",
       "heat": 50,
       "images": [
         {
@@ -262,7 +262,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -291,7 +291,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-05-31T08:00:21-07:00",
+      "publishedDateTime": "2022-05-31T15:00:21Z",
       "heat": 50,
       "images": [
         {
@@ -301,7 +301,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -329,7 +329,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-08-13T08:00:11-07:00",
+      "publishedDateTime": "2020-08-13T15:00:11Z",
       "heat": 50,
       "images": [
         {
@@ -339,7 +339,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -367,7 +367,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-08-10T08:00:01-07:00",
+      "publishedDateTime": "2022-08-10T15:00:01Z",
       "heat": 50,
       "images": [
         {
@@ -377,7 +377,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -398,7 +398,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2020-12-04T10:18:11-08:00",
+      "publishedDateTime": "2020-12-04T18:18:11Z",
       "heat": 50,
       "images": [
         {
@@ -408,7 +408,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -428,7 +428,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2021-01-13T09:16:37-08:00",
+      "publishedDateTime": "2021-01-13T17:16:37Z",
       "heat": 50,
       "images": [
         {
@@ -438,7 +438,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -458,7 +458,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2021-01-06T21:44:25-08:00",
+      "publishedDateTime": "2021-01-07T05:44:25Z",
       "heat": 50,
       "images": [
         {
@@ -468,7 +468,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -488,7 +488,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2017-11-21T21:16:57-08:00",
+      "publishedDateTime": "2017-11-22T05:16:57Z",
       "heat": 50,
       "images": [
         {
@@ -498,7 +498,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -518,7 +518,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2017-10-08T14:36:15-07:00",
+      "publishedDateTime": "2017-10-08T21:36:15Z",
       "heat": 50,
       "images": [
         {
@@ -528,7 +528,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -548,7 +548,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2021-03-19T10:07:54-07:00",
+      "publishedDateTime": "2021-03-19T17:07:54Z",
       "heat": 50,
       "images": [
         {
@@ -558,7 +558,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -578,7 +578,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2020-10-14T09:00:14-07:00",
+      "publishedDateTime": "2020-10-14T16:00:14Z",
       "heat": 50,
       "images": [
         {
@@ -588,7 +588,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -608,7 +608,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2018-11-25T00:52:48-08:00",
+      "publishedDateTime": "2018-11-25T08:52:48Z",
       "heat": 50,
       "images": [
         {
@@ -618,7 +618,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -638,7 +638,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2020-02-07T10:55:37-08:00",
+      "publishedDateTime": "2020-02-07T18:55:37Z",
       "heat": 50,
       "images": [
         {
@@ -648,7 +648,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -668,7 +668,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2019-10-07T09:00:14-07:00",
+      "publishedDateTime": "2019-10-07T16:00:14Z",
       "heat": 50,
       "images": [
         {
@@ -678,7 +678,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -698,7 +698,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2020-11-20T10:07:25-08:00",
+      "publishedDateTime": "2020-11-20T18:07:25Z",
       "heat": 50,
       "images": [
         {
@@ -708,7 +708,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -728,7 +728,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2014-01-24T17:08:56-08:00",
+      "publishedDateTime": "2014-01-25T01:08:56Z",
       "heat": 50,
       "images": [
         {
@@ -738,7 +738,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -758,7 +758,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2018-10-03T19:30:50-07:00",
+      "publishedDateTime": "2018-10-04T02:30:50Z",
       "heat": 50,
       "images": [
         {
@@ -768,7 +768,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -788,7 +788,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2017-10-17T10:50:22-07:00",
+      "publishedDateTime": "2017-10-17T17:50:22Z",
       "heat": 50,
       "images": [
         {
@@ -798,7 +798,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -818,7 +818,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2019-03-28T11:04:30-07:00",
+      "publishedDateTime": "2019-03-28T18:04:30Z",
       "heat": 50,
       "images": [
         {
@@ -828,7 +828,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -848,7 +848,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2018-06-21T01:23:11-07:00",
+      "publishedDateTime": "2018-06-21T08:23:11Z",
       "heat": 50,
       "images": [
         {
@@ -858,7 +858,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -878,7 +878,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2019-01-12T07:42:17-08:00",
+      "publishedDateTime": "2019-01-12T15:42:17Z",
       "heat": 50,
       "images": [
         {
@@ -888,7 +888,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -908,7 +908,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2018-10-19T22:27:15-07:00",
+      "publishedDateTime": "2018-10-20T05:27:15Z",
       "heat": 50,
       "images": [
         {
@@ -918,7 +918,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -938,7 +938,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2023-11-06T09:00:27-08:00",
+      "publishedDateTime": "2023-11-06T17:00:27Z",
       "heat": 50,
       "images": [
         {
@@ -948,7 +948,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -968,7 +968,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2023-10-02T09:00:16-07:00",
+      "publishedDateTime": "2023-10-02T16:00:16Z",
       "heat": 50,
       "images": [
         {
@@ -978,7 +978,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

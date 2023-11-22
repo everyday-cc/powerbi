@@ -16,7 +16,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-01-05T19:09:53-08:00",
+      "publishedDateTime": "2020-01-06T03:09:53Z",
       "heat": 50,
       "images": [
         {
@@ -26,7 +26,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -47,7 +47,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-05-26T23:20:38-07:00",
+      "publishedDateTime": "2020-05-27T06:20:38Z",
       "heat": 50,
       "images": [
         {
@@ -57,7 +57,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

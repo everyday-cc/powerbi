@@ -24,7 +24,7 @@
           }
         ]
       },
-      "publishedDateTime": "2023-01-24T03:45:34-08:00",
+      "publishedDateTime": "2023-01-24T11:45:34Z",
       "heat": 60,
       "images": [
         {
@@ -34,7 +34,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -55,7 +55,7 @@
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-04-22T04:07:33-07:00",
+      "publishedDateTime": "2020-04-22T11:07:33Z",
       "heat": 54,
       "images": [
         {
@@ -65,7 +65,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -94,7 +94,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-03-08T03:23:32-08:00",
+      "publishedDateTime": "2021-03-08T11:23:32Z",
       "heat": 53,
       "images": [
         {
@@ -104,7 +104,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -134,7 +134,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-11-12T09:09:02-08:00",
+      "publishedDateTime": "2020-11-12T17:09:02Z",
       "heat": 53,
       "images": [
         {
@@ -144,7 +144,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -165,7 +165,7 @@
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-12-21T20:58:16-08:00",
+      "publishedDateTime": "2020-12-22T04:58:16Z",
       "heat": 52,
       "images": [
         {
@@ -175,7 +175,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -204,7 +204,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-07-14T12:19:05-07:00",
+      "publishedDateTime": "2018-07-14T19:19:05Z",
       "heat": 51,
       "images": [
         {
@@ -214,7 +214,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -243,7 +243,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-11-28T10:44:41-08:00",
+      "publishedDateTime": "2016-11-28T18:44:41Z",
       "heat": 51,
       "images": [
         {
@@ -253,7 +253,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -274,7 +274,7 @@
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-08-19T19:34:14-07:00",
+      "publishedDateTime": "2020-08-20T02:34:14Z",
       "heat": 51,
       "images": [
         {
@@ -284,7 +284,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -313,7 +313,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-04-17T07:38:22-07:00",
+      "publishedDateTime": "2018-04-17T14:38:22Z",
       "heat": 51,
       "images": [
         {
@@ -323,7 +323,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -344,7 +344,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2022-11-02T21:23:50-07:00",
+      "publishedDateTime": "2022-11-03T04:23:50Z",
       "heat": 51,
       "images": [
         {
@@ -354,7 +354,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -372,7 +372,7 @@
         "name": "Excelerator BI",
         "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2020-11-09T13:40:19-08:00",
+      "publishedDateTime": "2020-11-09T21:40:19Z",
       "heat": 50,
       "images": [
         {
@@ -388,7 +388,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "topics": [
         "Power BI",
@@ -416,7 +416,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-11-04T03:25:04-08:00",
+      "publishedDateTime": "2019-11-04T11:25:04Z",
       "heat": 50,
       "images": [
         {
@@ -426,7 +426,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -455,7 +455,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-11-04T02:10:30-08:00",
+      "publishedDateTime": "2019-11-04T10:10:30Z",
       "heat": 50,
       "images": [
         {
@@ -465,7 +465,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -494,7 +494,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-02-06T03:07:50-08:00",
+      "publishedDateTime": "2020-02-06T11:07:50Z",
       "heat": 50,
       "images": [
         {
@@ -504,7 +504,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -533,7 +533,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-05-15T08:47:43-07:00",
+      "publishedDateTime": "2019-05-15T15:47:43Z",
       "heat": 50,
       "images": [
         {
@@ -543,7 +543,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -572,7 +572,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-05-15T08:47:43-07:00",
+      "publishedDateTime": "2019-05-15T15:47:43Z",
       "heat": 50,
       "images": [
         {
@@ -582,7 +582,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -611,7 +611,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-03-30T14:49:04-07:00",
+      "publishedDateTime": "2017-03-30T21:49:04Z",
       "heat": 50,
       "images": [
         {
@@ -621,7 +621,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -650,7 +650,7 @@
           }
         ]
       },
-      "publishedDateTime": "2017-03-30T12:05:20-07:00",
+      "publishedDateTime": "2017-03-30T19:05:20Z",
       "heat": 50,
       "images": [
         {
@@ -660,7 +660,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -681,7 +681,7 @@
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-03-25T04:52:50-07:00",
+      "publishedDateTime": "2020-03-25T11:52:50Z",
       "heat": 50,
       "images": [
         {
@@ -691,7 +691,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -712,7 +712,7 @@
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-04-16T21:35:54-07:00",
+      "publishedDateTime": "2020-04-17T04:35:54Z",
       "heat": 50,
       "images": [
         {
@@ -722,7 +722,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -743,7 +743,7 @@
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-05-23T21:44:49-07:00",
+      "publishedDateTime": "2021-05-24T04:44:49Z",
       "heat": 50,
       "images": [
         {
@@ -753,7 +753,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -782,7 +782,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-02-14T08:00:13-08:00",
+      "publishedDateTime": "2019-02-14T16:00:13Z",
       "heat": 50,
       "images": [
         {
@@ -792,7 +792,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -821,7 +821,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-03-17T08:01:29-07:00",
+      "publishedDateTime": "2016-03-17T15:01:29Z",
       "heat": 50,
       "images": [
         {
@@ -831,7 +831,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -852,7 +852,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2019-08-01T17:33:47-07:00",
+      "publishedDateTime": "2019-08-02T00:33:47Z",
       "heat": 50,
       "images": [
         {
@@ -862,7 +862,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -883,7 +883,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2022-01-26T19:38:17-08:00",
+      "publishedDateTime": "2022-01-27T03:38:17Z",
       "heat": 50,
       "images": [
         {
@@ -893,7 +893,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

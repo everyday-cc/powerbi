@@ -4,45 +4,6 @@
   "page": 55,
   "value": [
     {
-      "path": "_learning/videos/curbal-dax-fridays-144-rollup-rollupgroup-issubtotal.md",
-      "title": "DAX Fridays! #144: ROLLUP, ROLLUPGROUP, ISSUBTOTAL",
-      "excerpt": "You asked me to review the DAX functions you can use together with SUMMARIZE and we do just that in this video. We will cover ROLLUP, ROLLUPGROUP and ISSUBTOTALS. Happy Friday!  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK   Here",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-144-rollup-rollupgroup-issubtotal/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-144-rollup-rollupgroup-issubtotal/",
-      "originalUrl": "https://youtube.com/watch?v=V0lLgLVL1xg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V0lLgLVL1xg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M22S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-10-01T09:05:03-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/V0lLgLVL1xg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-dax-fridays-145-summarizecolums.md",
       "title": "DAX Fridays! #145: SUMMARIZECOLUMS",
       "excerpt": "In today's #daxfridays we will cover the DAX function SUMMARIZECOLUMNS and compare it to SUMMARIZE.  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK   Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE",
@@ -63,7 +24,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-10-03T06:08:01-07:00",
+      "publishedDateTime": "2019-10-03T13:08:01Z",
       "heat": 50,
       "images": [
         {
@@ -73,7 +34,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -102,7 +63,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-10-03T06:07:31-07:00",
+      "publishedDateTime": "2019-10-03T13:07:31Z",
       "heat": 50,
       "images": [
         {
@@ -112,7 +73,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -141,7 +102,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-10-03T08:31:38-07:00",
+      "publishedDateTime": "2019-10-03T15:31:38Z",
       "heat": 50,
       "images": [
         {
@@ -151,7 +112,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -180,7 +141,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-11-14T07:32:39-08:00",
+      "publishedDateTime": "2019-11-14T15:32:39Z",
       "heat": 50,
       "images": [
         {
@@ -190,7 +151,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -219,7 +180,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-10-04T07:56:33-07:00",
+      "publishedDateTime": "2019-10-04T14:56:33Z",
       "heat": 50,
       "images": [
         {
@@ -229,7 +190,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -258,7 +219,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-10-04T08:00:24-07:00",
+      "publishedDateTime": "2019-10-04T15:00:24Z",
       "heat": 50,
       "images": [
         {
@@ -268,7 +229,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -298,7 +259,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-07-02T05:09:59-07:00",
+      "publishedDateTime": "2020-07-02T12:09:59Z",
       "heat": 50,
       "images": [
         {
@@ -308,7 +269,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -337,7 +298,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-12-03T05:37:22-08:00",
+      "publishedDateTime": "2019-12-03T13:37:22Z",
       "heat": 50,
       "images": [
         {
@@ -347,7 +308,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -376,7 +337,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-10-07T08:31:31-07:00",
+      "publishedDateTime": "2019-10-07T15:31:31Z",
       "heat": 50,
       "images": [
         {
@@ -386,7 +347,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -415,7 +376,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-01-10T04:56:26-08:00",
+      "publishedDateTime": "2020-01-10T12:56:26Z",
       "heat": 50,
       "images": [
         {
@@ -425,7 +386,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -454,7 +415,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-01-17T05:04:31-08:00",
+      "publishedDateTime": "2020-01-17T13:04:31Z",
       "heat": 50,
       "images": [
         {
@@ -464,7 +425,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -493,7 +454,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-12-08T11:04:58-08:00",
+      "publishedDateTime": "2016-12-08T19:04:58Z",
       "heat": 50,
       "images": [
         {
@@ -503,7 +464,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -532,7 +493,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-11-29T07:40:50-08:00",
+      "publishedDateTime": "2019-11-29T15:40:50Z",
       "heat": 50,
       "images": [
         {
@@ -542,7 +503,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -571,7 +532,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-07-02T05:33:41-07:00",
+      "publishedDateTime": "2020-07-02T12:33:41Z",
       "heat": 50,
       "images": [
         {
@@ -581,7 +542,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -610,7 +571,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-02-07T07:23:27-08:00",
+      "publishedDateTime": "2020-02-07T15:23:27Z",
       "heat": 50,
       "images": [
         {
@@ -620,7 +581,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -649,7 +610,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-02-19T07:43:50-08:00",
+      "publishedDateTime": "2020-02-19T15:43:50Z",
       "heat": 50,
       "images": [
         {
@@ -659,7 +620,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -688,7 +649,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-03-20T05:53:05-07:00",
+      "publishedDateTime": "2020-03-20T12:53:05Z",
       "heat": 50,
       "images": [
         {
@@ -698,7 +659,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -727,7 +688,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-03-23T04:26:24-07:00",
+      "publishedDateTime": "2020-03-23T11:26:24Z",
       "heat": 50,
       "images": [
         {
@@ -737,7 +698,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -766,7 +727,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-03T05:33:46-07:00",
+      "publishedDateTime": "2020-04-03T12:33:46Z",
       "heat": 50,
       "images": [
         {
@@ -776,7 +737,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -805,7 +766,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-08T07:48:31-07:00",
+      "publishedDateTime": "2020-04-08T14:48:31Z",
       "heat": 50,
       "images": [
         {
@@ -815,7 +776,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -844,7 +805,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-12-14T14:13:20-08:00",
+      "publishedDateTime": "2016-12-14T22:13:20Z",
       "heat": 50,
       "images": [
         {
@@ -854,7 +815,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -883,7 +844,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-24T04:43:38-07:00",
+      "publishedDateTime": "2020-04-24T11:43:38Z",
       "heat": 50,
       "images": [
         {
@@ -893,7 +854,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -922,7 +883,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-05-08T02:36:39-07:00",
+      "publishedDateTime": "2020-05-08T09:36:39Z",
       "heat": 50,
       "images": [
         {
@@ -932,7 +893,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -961,7 +922,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-05-15T05:39:03-07:00",
+      "publishedDateTime": "2020-05-15T12:39:03Z",
       "heat": 50,
       "images": [
         {
@@ -971,7 +932,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1000,7 +961,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-05-22T01:56:40-07:00",
+      "publishedDateTime": "2020-05-22T08:56:40Z",
       "heat": 50,
       "images": [
         {
@@ -1010,7 +971,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1039,7 +1000,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-05-29T02:02:31-07:00",
+      "publishedDateTime": "2020-05-29T09:02:31Z",
       "heat": 50,
       "images": [
         {
@@ -1049,7 +1010,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1078,7 +1039,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-06-12T04:57:08-07:00",
+      "publishedDateTime": "2020-06-12T11:57:08Z",
       "heat": 50,
       "images": [
         {
@@ -1088,7 +1049,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1117,7 +1078,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-06-17T07:42:13-07:00",
+      "publishedDateTime": "2020-06-17T14:42:13Z",
       "heat": 50,
       "images": [
         {
@@ -1127,7 +1088,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1156,7 +1117,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-06-24T06:29:03-07:00",
+      "publishedDateTime": "2020-06-24T13:29:03Z",
       "heat": 50,
       "images": [
         {
@@ -1166,12 +1127,52 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-178-my-age-calculations-in-dax-and-power-query-are-wrong-how-do-i-do-it.md",
+      "title": "DAX FRIDAYS! #178 : My age calculations in DAX and Power Query are wrong!! How do I do it?",
+      "excerpt": "Calculating age is harder that you think, both in power query and dax.  In today's video, I am going to show you two ways to do it with DAX  and power query that get the closest to the actual age.  Do you know any other method to calculate age? Share it in the comments!  Link to previous power query",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-178-my-age-calculations-in-dax-and-power-query-are-wrong-how-do-i-do-it/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-178-my-age-calculations-in-dax-and-power-query-are-wrong-how-do-i-do-it/",
+      "originalUrl": "https://youtube.com/watch?v=FpxOBYoBZuw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FpxOBYoBZuw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M41S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-07-03T09:29:46Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FpxOBYoBZuw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX",
+        "Power Query"
       ]
     }
   ],

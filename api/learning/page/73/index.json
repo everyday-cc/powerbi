@@ -4,37 +4,6 @@
   "page": 73,
   "value": [
     {
-      "path": "_learning/videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginners-guide-to-dax-2020.md",
-      "title": "What Is DAX? & Why Do You Need To Learn It - (1.2)  Ultimate Beginners Guide to DAX 2020",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginners-guide-to-dax-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginners-guide-to-dax-2020/",
-      "originalUrl": "https://youtube.com/watch?v=KORVXOs44Mg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KORVXOs44Mg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M42S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2020-05-01T01:51:47-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KORVXOs44Mg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020.md",
       "title": "Where To Next - (1.21) Ultimate Beginners Guide to DAX 2020",
       "excerpt": "DOWNLOAD RESOURCES HERE https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Learn about advanced DAX functions, supporting tables, and customer segmentation.  ***** Video Details",
@@ -47,7 +16,7 @@
         "name": "Enterprise DNA",
         "domain": "enterprisedna.co"
       },
-      "publishedDateTime": "2020-09-17T23:00:53-07:00",
+      "publishedDateTime": "2020-09-18T06:00:53Z",
       "heat": 50,
       "images": [
         {
@@ -57,7 +26,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -86,7 +55,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-08-15T04:49:00-07:00",
+      "publishedDateTime": "2022-08-15T11:49:00Z",
       "heat": 50,
       "images": [
         {
@@ -96,7 +65,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -124,7 +93,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-12-22T09:56:17-08:00",
+      "publishedDateTime": "2016-12-22T17:56:17Z",
       "heat": 50,
       "images": [
         {
@@ -134,7 +103,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -162,7 +131,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-05-29T08:24:39-07:00",
+      "publishedDateTime": "2018-05-29T15:24:39Z",
       "heat": 50,
       "images": [
         {
@@ -172,7 +141,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -200,7 +169,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-24T08:00:04-07:00",
+      "publishedDateTime": "2020-04-24T15:00:04Z",
       "heat": 50,
       "images": [
         {
@@ -210,7 +179,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -238,7 +207,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-15T08:00:14-07:00",
+      "publishedDateTime": "2020-04-15T15:00:14Z",
       "heat": 50,
       "images": [
         {
@@ -248,7 +217,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -277,7 +246,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-08-11T08:00:02-07:00",
+      "publishedDateTime": "2020-08-11T15:00:02Z",
       "heat": 50,
       "images": [
         {
@@ -287,7 +256,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -316,7 +285,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-08-16T15:33:49-07:00",
+      "publishedDateTime": "2016-08-16T22:33:49Z",
       "heat": 50,
       "images": [
         {
@@ -326,7 +295,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -354,7 +323,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-08-19T08:00:23-07:00",
+      "publishedDateTime": "2021-08-19T15:00:23Z",
       "heat": 50,
       "images": [
         {
@@ -364,7 +333,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -392,7 +361,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-06-14T08:11:00-07:00",
+      "publishedDateTime": "2016-06-14T15:11:00Z",
       "heat": 50,
       "images": [
         {
@@ -402,7 +371,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -430,7 +399,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-01-30T06:00:32-08:00",
+      "publishedDateTime": "2020-01-30T14:00:32Z",
       "heat": 50,
       "images": [
         {
@@ -440,7 +409,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -468,7 +437,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-02-16T09:22:53-08:00",
+      "publishedDateTime": "2016-02-16T17:22:53Z",
       "heat": 50,
       "images": [
         {
@@ -478,7 +447,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -506,7 +475,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-05-31T06:45:30-07:00",
+      "publishedDateTime": "2016-05-31T13:45:30Z",
       "heat": 50,
       "images": [
         {
@@ -516,7 +485,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -544,7 +513,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-07-25T05:42:27-07:00",
+      "publishedDateTime": "2016-07-25T12:42:27Z",
       "heat": 50,
       "images": [
         {
@@ -554,7 +523,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -582,7 +551,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-07-26T07:52:10-07:00",
+      "publishedDateTime": "2016-07-26T14:52:10Z",
       "heat": 50,
       "images": [
         {
@@ -593,7 +562,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -621,7 +590,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-03-01T11:30:46-08:00",
+      "publishedDateTime": "2016-03-01T19:30:46Z",
       "heat": 50,
       "images": [
         {
@@ -631,7 +600,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -659,7 +628,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-11-19T07:22:52-08:00",
+      "publishedDateTime": "2019-11-19T15:22:52Z",
       "heat": 50,
       "images": [
         {
@@ -669,7 +638,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -698,7 +667,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-08-26T08:00:01-07:00",
+      "publishedDateTime": "2021-08-26T15:00:01Z",
       "heat": 50,
       "images": [
         {
@@ -708,7 +677,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -736,7 +705,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-03-01T11:26:45-08:00",
+      "publishedDateTime": "2016-03-01T19:26:45Z",
       "heat": 50,
       "images": [
         {
@@ -746,7 +715,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -774,7 +743,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-03-13T14:10:40-07:00",
+      "publishedDateTime": "2019-03-13T21:10:40Z",
       "heat": 50,
       "images": [
         {
@@ -784,7 +753,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -813,7 +782,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-01-08T05:49:41-08:00",
+      "publishedDateTime": "2019-01-08T13:49:41Z",
       "heat": 50,
       "images": [
         {
@@ -823,7 +792,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -851,7 +820,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-06-29T08:22:36-07:00",
+      "publishedDateTime": "2016-06-29T15:22:36Z",
       "heat": 50,
       "images": [
         {
@@ -861,7 +830,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -889,7 +858,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-08-25T08:00:03-07:00",
+      "publishedDateTime": "2021-08-25T15:00:03Z",
       "heat": 50,
       "images": [
         {
@@ -899,7 +868,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -927,7 +896,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-02-09T17:02:04-08:00",
+      "publishedDateTime": "2020-02-10T01:02:04Z",
       "heat": 50,
       "images": [
         {
@@ -937,7 +906,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -966,7 +935,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-08-14T04:04:18-07:00",
+      "publishedDateTime": "2019-08-14T11:04:18Z",
       "heat": 50,
       "images": [
         {
@@ -976,7 +945,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1004,7 +973,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-23T08:00:08-07:00",
+      "publishedDateTime": "2020-04-23T15:00:08Z",
       "heat": 50,
       "images": [
         {
@@ -1014,7 +983,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1042,7 +1011,7 @@
           }
         ]
       },
-      "publishedDateTime": "2015-12-15T06:43:02-08:00",
+      "publishedDateTime": "2015-12-15T14:43:02Z",
       "heat": 50,
       "images": [
         {
@@ -1052,7 +1021,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1080,7 +1049,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-12-13T12:27:54-08:00",
+      "publishedDateTime": "2016-12-13T20:27:54Z",
       "heat": 50,
       "images": [
         {
@@ -1091,7 +1060,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1119,7 +1088,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-04-14T04:11:25-07:00",
+      "publishedDateTime": "2019-04-14T11:11:25Z",
       "heat": 50,
       "images": [
         {
@@ -1129,12 +1098,50 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
         "Power BI",
         "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-a-look-at-the-power-bi-paginated-report-updates-june-2019.md",
+      "title": "A look at the Power BI Paginated report updates (June 2019)",
+      "excerpt": "Patrick takes a look at the recent updates to Power BI Paginated reports. From Power BI Paginated Report Builder to email subscriptions, Patrick has you covered.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba -- http://www.facebook.com/guyinacube",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-a-look-at-the-power-bi-paginated-report-updates-june-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-a-look-at-the-power-bi-paginated-report-updates-june-2019/",
+      "originalUrl": "https://youtube.com/watch?v=2G4P6L_A7oo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2G4P6L_A7oo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M48S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-06-05T10:32:34Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2G4P6L_A7oo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],

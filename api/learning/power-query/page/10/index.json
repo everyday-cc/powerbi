@@ -24,7 +24,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-03-22T07:27:05-07:00",
+      "publishedDateTime": "2018-03-22T14:27:05Z",
       "heat": 50,
       "images": [
         {
@@ -34,7 +34,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -64,7 +64,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-01-11T10:28:42-08:00",
+      "publishedDateTime": "2018-01-11T18:28:42Z",
       "heat": 50,
       "images": [
         {
@@ -74,7 +74,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -104,7 +104,7 @@
           }
         ]
       },
-      "publishedDateTime": "2016-04-14T07:08:44-07:00",
+      "publishedDateTime": "2016-04-14T14:08:44Z",
       "heat": 50,
       "images": [
         {
@@ -114,7 +114,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -143,7 +143,7 @@
           }
         ]
       },
-      "publishedDateTime": "2021-09-30T08:00:13-07:00",
+      "publishedDateTime": "2021-09-30T15:00:13Z",
       "heat": 50,
       "images": [
         {
@@ -153,7 +153,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -182,7 +182,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-09-15T19:43:34-07:00",
+      "publishedDateTime": "2019-09-16T02:43:34Z",
       "heat": 50,
       "images": [
         {
@@ -192,7 +192,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -222,7 +222,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-12-16T09:46:37-08:00",
+      "publishedDateTime": "2018-12-16T17:46:37Z",
       "heat": 50,
       "images": [
         {
@@ -232,7 +232,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -254,7 +254,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2020-10-28T09:00:14-07:00",
+      "publishedDateTime": "2020-10-28T16:00:14Z",
       "heat": 50,
       "images": [
         {
@@ -264,7 +264,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -285,7 +285,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2023-07-05T09:00:13-07:00",
+      "publishedDateTime": "2023-07-05T16:00:13Z",
       "heat": 50,
       "images": [
         {
@@ -295,7 +295,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -316,7 +316,7 @@
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2023-05-24T09:00:35-07:00",
+      "publishedDateTime": "2023-05-24T16:00:35Z",
       "heat": 50,
       "images": [
         {
@@ -326,7 +326,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -347,7 +347,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-07-19T22:06:40-07:00",
+      "publishedDateTime": "2021-07-20T05:06:40Z",
       "heat": 50,
       "images": [
         {
@@ -357,7 +357,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -378,7 +378,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-01-17T13:22:30-08:00",
+      "publishedDateTime": "2020-01-17T21:22:30Z",
       "heat": 50,
       "images": [
         {
@@ -388,7 +388,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -409,7 +409,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-01-18T12:45:20-08:00",
+      "publishedDateTime": "2020-01-18T20:45:20Z",
       "heat": 50,
       "images": [
         {
@@ -419,7 +419,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -440,7 +440,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-02-12T02:39:31-08:00",
+      "publishedDateTime": "2020-02-12T10:39:31Z",
       "heat": 50,
       "images": [
         {
@@ -450,7 +450,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -471,7 +471,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-09-20T20:38:34-07:00",
+      "publishedDateTime": "2021-09-21T03:38:34Z",
       "heat": 50,
       "images": [
         {
@@ -481,7 +481,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -502,7 +502,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-03-01T15:09:16-08:00",
+      "publishedDateTime": "2020-03-01T23:09:16Z",
       "heat": 50,
       "images": [
         {
@@ -512,7 +512,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -533,7 +533,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-03-02T17:00:16-08:00",
+      "publishedDateTime": "2020-03-03T01:00:16Z",
       "heat": 50,
       "images": [
         {
@@ -543,7 +543,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -564,7 +564,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-09-09T18:52:27-07:00",
+      "publishedDateTime": "2021-09-10T01:52:27Z",
       "heat": 50,
       "images": [
         {
@@ -574,7 +574,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -595,7 +595,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2019-08-01T17:44:27-07:00",
+      "publishedDateTime": "2019-08-02T00:44:27Z",
       "heat": 50,
       "images": [
         {
@@ -605,7 +605,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -626,7 +626,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-04-28T16:42:25-07:00",
+      "publishedDateTime": "2020-04-28T23:42:25Z",
       "heat": 50,
       "images": [
         {
@@ -636,7 +636,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -657,7 +657,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-07-29T16:58:15-07:00",
+      "publishedDateTime": "2021-07-29T23:58:15Z",
       "heat": 50,
       "images": [
         {
@@ -667,7 +667,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -688,7 +688,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-01-07T20:33:25-08:00",
+      "publishedDateTime": "2020-01-08T04:33:25Z",
       "heat": 50,
       "images": [
         {
@@ -698,7 +698,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -719,7 +719,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-01-14T18:37:57-08:00",
+      "publishedDateTime": "2020-01-15T02:37:57Z",
       "heat": 50,
       "images": [
         {
@@ -729,7 +729,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -750,7 +750,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2019-05-31T13:06:29-07:00",
+      "publishedDateTime": "2019-05-31T20:06:29Z",
       "heat": 50,
       "images": [
         {
@@ -760,7 +760,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -781,7 +781,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2019-09-06T07:30:51-07:00",
+      "publishedDateTime": "2019-09-06T14:30:51Z",
       "heat": 50,
       "images": [
         {
@@ -791,7 +791,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -812,7 +812,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-07-26T20:29:10-07:00",
+      "publishedDateTime": "2021-07-27T03:29:10Z",
       "heat": 50,
       "images": [
         {
@@ -822,7 +822,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -843,7 +843,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-10-06T15:49:47-07:00",
+      "publishedDateTime": "2021-10-06T22:49:47Z",
       "heat": 50,
       "images": [
         {
@@ -853,7 +853,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -875,7 +875,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2022-08-16T13:21:26-07:00",
+      "publishedDateTime": "2022-08-16T20:21:26Z",
       "heat": 50,
       "images": [
         {
@@ -885,7 +885,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -906,7 +906,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-09-13T15:57:00-07:00",
+      "publishedDateTime": "2021-09-13T22:57:00Z",
       "heat": 50,
       "images": [
         {
@@ -916,7 +916,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -937,7 +937,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-10-05T17:49:12-07:00",
+      "publishedDateTime": "2021-10-06T00:49:12Z",
       "heat": 50,
       "images": [
         {
@@ -947,7 +947,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -968,7 +968,7 @@
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2018-07-09T21:08:21-07:00",
+      "publishedDateTime": "2018-07-10T04:08:21Z",
       "heat": 50,
       "images": [
         {
@@ -978,7 +978,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
