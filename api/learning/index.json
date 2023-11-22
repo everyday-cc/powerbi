@@ -42,6 +42,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-20230907-low-code-paginated.md",
+      "title": "20230907   Low Code Paginated",
+      "excerpt": "Not a fan of Power BI Report Builder? Still want to use Paginated reports? Patrick shows the new Paginated authoring experience within the service! It's BANANAS!  Low code authoring of paginated reports https://powerbi.microsoft.com/blog/low-code-authoring-of-paginated-reports/  Create paginated reports",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-20230907-low-code-paginated/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-20230907-low-code-paginated/",
+      "originalUrl": "https://youtube.com/watch?v=gMLwKdfSmu0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gMLwKdfSmu0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M31S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-09-07T05:50:36-07:00",
+      "heat": 218,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gMLwKdfSmu0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-visualize-forecasted-data-in-power-bi.md",
       "title": "Visualize forecasted data in Power BI",
       "excerpt": "Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
@@ -186,82 +224,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-20230907-low-code-paginated.md",
-      "title": "20230907   Low Code Paginated",
-      "excerpt": "Not a fan of Power BI Report Builder? Still want to use Paginated reports? Patrick shows the new Paginated authoring experience within the service! It's BANANAS!  Low code authoring of paginated reports https://powerbi.microsoft.com/blog/low-code-authoring-of-paginated-reports/  Create paginated reports",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-20230907-low-code-paginated/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-20230907-low-code-paginated/",
-      "originalUrl": "https://youtube.com/watch?v=gMLwKdfSmu0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gMLwKdfSmu0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M31S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-09-07T05:50:36-07:00",
-      "heat": 138,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gMLwKdfSmu0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-a-quirky-bookmark-scenario-with-filters-in-power-bi-pay-attention.md",
-      "title": "A quirky Bookmark scenario with Filters in Power BI. Pay Attention!",
-      "excerpt": "A question came up about why bookmarks weren't working and how to solve a particular scenario regarding filters in Power BI. Adam shows how to solve this and uses a little DAX to do it!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-a-quirky-bookmark-scenario-with-filters-in-power-bi-pay-attention/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-a-quirky-bookmark-scenario-with-filters-in-power-bi-pay-attention/",
-      "originalUrl": "https://youtube.com/watch?v=Y63Sj2NSdic",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y63Sj2NSdic\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M42S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-08-31T08:00:22-07:00",
-      "heat": 135,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Y63Sj2NSdic/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-business-intelligence-for-the-artisan-food-manufacturing-industry-by-kimberly-nocco.md",
       "title": "Business Intelligence for the Artisan Food Manufacturing Industry 🍽️ by Kimberly Nocco",
       "excerpt": "👉 Interested in becoming a Power BI Consultant like Mike? Visit https://www.LearnPowerBI.com/pro  👉 Connect with Kimberly Nocco on LinkedIn at https://www.linkedin.com/in/kimberlynocco/  ▶️ Get Free Access to *all* our #PowerBIConference Sessions at https://www.PowerBIConference.com/2023  Journey with",
@@ -279,83 +241,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/uJNCWQIPll4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-mastering-power-bi-desktop-a-deep-dive-into-the-pane-switcher.md",
-      "title": "Mastering Power BI Desktop: A Deep Dive into the Pane Switcher",
-      "excerpt": "On-Object Editing has been out for a bit in Power BI Desktop, and it came with a cool pane switcher! Adam walks through how to use the pane switcher and talks about some recent updates.  Use on-object interaction with visuals in your report (preview) https://learn.microsoft.com/power-bi/create-reports/power-bi-on-object-interaction",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-mastering-power-bi-desktop-a-deep-dive-into-the-pane-switcher/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-mastering-power-bi-desktop-a-deep-dive-into-the-pane-switcher/",
-      "originalUrl": "https://youtube.com/watch?v=Ww7pqhajkbY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ww7pqhajkbY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M7S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-09-27T08:00:32-07:00",
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ww7pqhajkbY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-need-to-hide-column-headers-in-power-bi-ive-got-you-covered-with-the-best-way-to-do-it.md",
-      "title": "Need To Hide Column Headers In Power Bi? I've Got You Covered With The Best Way To Do It!",
-      "excerpt": "Y0u probably are hiding column headers by changing the text color in Power BI, but there is a better way. Check it out on todays video!  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-need-to-hide-column-headers-in-power-bi-ive-got-you-covered-with-the-best-way-to-do-it/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-need-to-hide-column-headers-in-power-bi-ive-got-you-covered-with-the-best-way-to-do-it/",
-      "originalUrl": "https://youtube.com/watch?v=FhWEeOgZ_zg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FhWEeOgZ_zg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M10S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-09-04T05:01:40-07:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FhWEeOgZ_zg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -390,6 +275,86 @@
       ],
       "content": "\r\n",
       "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-power-bi-effective-reports.md",
+      "title": "Design Power BI reports",
+      "excerpt": "Because Power BI includes more than 30 core visuals, it can be challenging for a beginner to select the correct visual. This module will guide you through selecting the most appropriate visual type to meet your design and report layout requirements.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-reports/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 1946,
+        "average": 4.752826
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-reports-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-get-power-bi-to-quickly-and-easily-visualize-your-forecasted-data.md",
+      "title": "Get Power Bi To Quickly And Easily Visualize Your Forecasted Data!",
+      "excerpt": "Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-get-power-bi-to-quickly-and-easily-visualize-your-forecasted-data/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-get-power-bi-to-quickly-and-easily-visualize-your-forecasted-data/",
+      "originalUrl": "https://youtube.com/watch?v=Kr36CDvgER8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Kr36CDvgER8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M40S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-09-12T02:36:48-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Kr36CDvgER8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "Power BI"
       ]
@@ -1238,6 +1203,197 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/collections/guy-in-a-cube-using-power-bi-gateways-to-connect-to-data-sources.md",
+      "title": "Using Power BI gateways to connect to data sources",
+      "excerpt": "Learn all about the On-Premises Data Gateway and how it is used with the Power BI service. The Power BI gateway can be used to refresh imported data as well as allow you to use DirectQuery or connect live to an Analysis Services mode.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/guy-in-a-cube-using-power-bi-gateways-to-connect-to-data-sources/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/guy-in-a-cube-using-power-bi-gateways-to-connect-to-data-sources/",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/guy-in-a-cube-a-new-way-to-manage-gateways-in-power-bi.md",
+          "title": "A new way to manage gateways in Power BI!!!",
+          "excerpt": "We now have a new way to manage gateways within Power BI and it is a much-welcomed update! Adam walks you through the experience to get you ready for it!  New data source and gateway management experience https://powerbi.microsoft.com/blog/new-data-source-and-gateway-management-experience/  📢 Become",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-a-new-way-to-manage-gateways-in-power-bi/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-a-new-way-to-manage-gateways-in-power-bi/",
+          "originalUrl": "https://youtube.com/watch?v=L18HEAnBqTo",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L18HEAnBqTo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT6M23S",
+          "provider": {
+            "name": "Guy in a Cube",
+            "domain": "guyinacube.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2022-05-19T08:00:09-07:00",
+          "heat": 66,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/L18HEAnBqTo/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/videos/guy-in-a-cube-get-started-with-the-power-bi-gateway.md",
+          "title": "Get started with the Power BI Gateway",
+          "excerpt": "Get to know what the Power BI Gateway is along with how to get it setup for scheduled refresh of imported data.  Free Gateway Cube Sheet: https://guyinacu.be/gatewaystartpdf  Gateway Documentation: https://docs.microsoft.com/power-bi/service-gateway-onprem  Gateway sizing: https://docs.microsoft.com/power-bi/guidance/gateway-onprem-sizing",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-get-started-with-the-power-bi-gateway/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-get-started-with-the-power-bi-gateway/",
+          "originalUrl": "https://youtube.com/watch?v=Vlv1tbuZNcM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vlv1tbuZNcM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT13M18S",
+          "provider": {
+            "name": "Guy in a Cube",
+            "domain": "guyinacube.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-03-05T08:00:04-08:00",
+          "heat": 70,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/Vlv1tbuZNcM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "title": "Get started with the Power BI Gateway",
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/videos/guy-in-a-cube-what-the-heck-is-a-power-bi-gateway-cluster.md",
+          "title": "What the HECK is a Power BI Gateway Cluster?",
+          "excerpt": "Confused about what a Power BI Gateway cluster is? Have your On-Premises Data Gateway installed but it's overloaded? This video is for you!  Documentation: https://docs.microsoft.com/data-integration/gateway/service-gateway-high-availability-clusters  PowerShell: https://docs.microsoft.com/data-integration/gateway/service-gateway-powershell-support",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-the-heck-is-a-power-bi-gateway-cluster/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-the-heck-is-a-power-bi-gateway-cluster/",
+          "originalUrl": "https://youtube.com/watch?v=sPFRLy6XL1s",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sPFRLy6XL1s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT12M1S",
+          "provider": {
+            "name": "Guy in a Cube",
+            "domain": "guyinacube.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-03-19T08:00:21-07:00",
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/sPFRLy6XL1s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "title": "What the HECK is a Power BI Gateway Cluster?",
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/videos/guy-in-a-cube-using-single-sign-on-with-the-power-bi-gateway.md",
+          "title": "Using Single Sign-on with the Power BI Gateway",
+          "excerpt": "Let's dig into the Power BI gateway and Single Sign-On (SSO) using Kerberos!  This can be used for both DirectQuery and refreshing a Power BI dataset.  Documentation: https://docs.microsoft.com/power-bi/service-gateway-sso-overview  📢 Become a member: https://guyinacu.be/membership   *******************",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-using-single-sign-on-with-the-power-bi-gateway/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-using-single-sign-on-with-the-power-bi-gateway/",
+          "originalUrl": "https://youtube.com/watch?v=6gDZBC-UV_w",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6gDZBC-UV_w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT12M46S",
+          "provider": {
+            "name": "Guy in a Cube",
+            "domain": "guyinacube.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-03-26T08:00:41-07:00",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/6gDZBC-UV_w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "title": "Using Single Sign-on with the Power BI Gateway",
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 7,
+      "heat": 79,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/L18HEAnBqTo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Power BI"
       ]
     }
   ],
