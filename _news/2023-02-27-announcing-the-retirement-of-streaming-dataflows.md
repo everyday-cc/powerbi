@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-the-retirement
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-the-retirement-of-streaming-dataflows/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
