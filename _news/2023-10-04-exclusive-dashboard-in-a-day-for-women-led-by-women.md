@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/exclusive-dashboard-in-a-
 webUrl: "https://powerbi.microsoft.com/en-us/blog/exclusive-dashboard-in-a-day-for-women-led-by-women/"
 type: article
 quality: 72
-heat: 72
+heat: 74
 published: true
 
 provider:
