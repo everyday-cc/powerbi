@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-05-use-the-dax-query-editor-to-make-working-with-dax-easier.md",
+      "title": "Use The DAX Query Editor To Make Working With DAX Easier!",
+      "excerpt": "The new DAX editor is great for exploring and adding new dax measures! Let me show you how it works!  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you can download all the pbix files:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-12-05-use-the-dax-query-editor-to-make-working-with-dax-easier/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2023-12-05-use-the-dax-query-editor-to-make-working-with-dax-easier/",
+      "originalUrl": "https://youtube.com/watch?v=3sQAMMMjQuU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3sQAMMMjQuU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3sQAMMMjQuU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T12:20:16Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-deep-dive-into-dax-query-view-and-writing-dax-queries.md",
+      "title": "Deep dive into DAX query view and writing DAX queries",
+      "excerpt": "In November 2023 release we added a new fourth view in public preview to Power BI Desktop, the DAX query view! The DAX query view gives you the ability to write, edit, and see the results of Data Analysis Expressions or DAX queries on your semantic model. Finally, you can now take advantage of the existing",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-11-30-deep-dive-into-dax-query-view-and-writing-dax-queries/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/deep-dive-into-dax-query-view-and-writing-dax-queries/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/deep-dive-into-dax-query-view-and-writing-dax-queries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T16:01:33Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_news/2023-11-11-power-bi-update-november-2023.md",
       "title": "Power BI Update - November 2023",
       "excerpt": "Welcome to the November 2023 update. We’ve got a lot of great features this month including DAX Query view, Semantic Model Scale-out, and Advanced Filtering for Paginated Reports.  Follow us on Twitter - https://twitter.com/mspowerbi\r \r More questions? Try asking the Power BI Community @ https://community.powerbi.com/",
@@ -1159,108 +1264,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-heads-up-power-bi-onedrive-and-sharepoint-report-viewing-will-be-on-by-default-starting-in-october.md",
-      "title": "Heads up: Power BI OneDrive and SharePoint report viewing will be on by default starting in October",
-      "excerpt": "Viewing Power BI reports in OneDrive and SharePoint will be turning on by default in October, 2023. Action must be taken by September 29th if you do not want this feature on by default in your tenant. ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-09-06-heads-up-power-bi-onedrive-and-sharepoint-report-viewing-will-be-on-by-default-starting-in-october/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/heads-up-power-bi-onedrive-and-sharepoint-report-viewing-will-be-on-by-default-starting-in-october/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/heads-up-power-bi-onedrive-and-sharepoint-report-viewing-will-be-on-by-default-starting-in-october/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2023/09/disable-setting.png",
-          "width": 3218,
-          "height": 2133,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T09:52:41Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-how-to-sort-one-column-by-another-column-in-power-bi.md",
-      "title": "How to Sort One Column by Another Column in Power BI",
-      "excerpt": "If the natural data can't support the sorting and filtering requirements, you might need to add an index column and sort by it.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-09-01-how-to-sort-one-column-by-another-column-in-power-bi/index.json",
-      "webUrl": "https://www.techrepublic.com/article/how-to-sort-by-column-power-bi/?post_id=4007112",
-      "originalUrl": "https://www.techrepublic.com/article/how-to-sort-by-column-power-bi/?post_id=4007112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg",
-          "width": 270,
-          "height": 203,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T17:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
