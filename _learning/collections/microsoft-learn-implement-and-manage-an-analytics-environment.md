@@ -19,12 +19,8 @@ levels:
 
 items:
   - courses/microsoft-learn-power-bi-admin-governance
-  - courses/microsoft-learn-power-bi-admin-collaboration
   - courses/microsoft-learn-power-bi-admin-monitor
-  - courses/microsoft-learn-power-bi-admin-premium
-  - courses/microsoft-learn-power-bi-admin-infrastructure
   - courses/microsoft-learn-power-bi-admin-reach
-  - courses/microsoft-learn-power-bi-admin-automate
 
 topics:
   - Power BI
