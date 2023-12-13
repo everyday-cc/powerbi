@@ -21,7 +21,6 @@ levels:
 items:
   - courses/microsoft-learn-power-bi-admin-intro
   - courses/microsoft-learn-power-bi-admin-environment
-  - courses/microsoft-learn-power-bi-admin-infrastructure
 
 topics:
   - Power BI
