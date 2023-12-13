@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-17-highlights-of-the-power-bi-update-for-may-2022.md",
+      "title": "Highlights of the Power BI update for May 2022",
+      "excerpt": "The Power BI update for May 2022 is here and as usual, I will review and highlight all the updates so you are always up to date!  Integrate Charticulator in Power BI: https://ideas.powerbi.com/ideas/idea/?ideaid=6d7d6592-3aff-4b83-a4cf-806b593fc841  Charticulator design challenge: https://community.powerbi.com/t5/Charticulator-Design-Challenge/con-p/PBI_CharticulatorChallenge/tab/entries",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-17-highlights-of-the-power-bi-update-for-may-2022/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2022-05-17-highlights-of-the-power-bi-update-for-may-2022/",
+      "originalUrl": "https://youtube.com/watch?v=Cas-4LaSZVc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Cas-4LaSZVc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T11:53:37Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2022-05-16-announcing-action-bar-for-interactive-reports-in-the-power-bi-tab-for-microsoft-teams.md",
       "title": "Announcing: Action bar for interactive reports in the Power BI tab for Microsoft Teams",
       "excerpt": "We&#8217;re excited to announce that the Power BI tab in Microsoft Teams is getting a new action bar for interactive reports. The action bar enables users in the Power BI tab to use all the capabilities they have in the service when interactive reports are added to channels, chats, or meetings in Microsoft",
@@ -1451,58 +1503,6 @@
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-advanced-data-modelling-with-power-bi.md",
-      "title": "Advanced Data Modelling with Power BI",
-      "excerpt": "This course was developed by the Microsoft Power BI Team. It focusses on Modelling techniques and DAX, the modelling language used in Power BI. By the end of this course, you will be able to use DAX to create calculations in a Power BI Desktop data model.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-04-19-advanced-data-modelling-with-power-bi/index.json",
-      "webUrl": "https://www.itmagazine.ch/veranstaltungen/1905/Smart_Manufacturing_Digital_Summit.html",
-      "originalUrl": "https://www.itmagazine.ch/veranstaltungen/1905/Smart_Manufacturing_Digital_Summit.html",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G4QzWDv4s6M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itmagazine.ch/imgserver/artikel/Personen/2023/small/noname_2309255_100933.jpg",
-          "width": 350,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.itmagazine.ch/veranstaltungen/1905/Smart_Manufacturing_Digital_Summit.html",
-      "cdnAmpWebUrl": "https://www-itmagazine-ch.cdn.ampproject.org/c/s/www.itmagazine.ch/veranstaltungen/1905/Smart_Manufacturing_Digital_Summit.html",
-      "publishedDateTime": "2021-04-19T12:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Magazine",
-        "domain": "itmagazine.ch",
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
