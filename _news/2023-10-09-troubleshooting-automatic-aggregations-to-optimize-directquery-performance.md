@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/troubleshooting-automatic
 webUrl: "https://powerbi.microsoft.com/en-us/blog/troubleshooting-automatic-aggregations-to-optimize-directquery-performance/"
 type: article
 quality: 70
-heat: 71
+heat: 70
 published: true
 
 provider:
