@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-15-power-bi-update-july-2022.md",
+      "title": "Power BI Update - July 2022",
+      "excerpt": "Welcome to the July 2022 update. We are thrilled to announce the Error Bars general availability, Metric visuals and Datamarts updates, query performance and data hub improvements, Data in space augmented reality new mobile feature, accessibility enhancements for embedded reports. There is more to explore,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-15-power-bi-update-july-2022/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2022-07-15-power-bi-update-july-2022/",
+      "originalUrl": "https://youtube.com/watch?v=iVbxzo-L7TM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iVbxzo-L7TM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-15T05:19:24Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-power-bi-june-2022-feature-summary.md",
       "title": "Power BI June 2022 Feature Summary",
       "excerpt": "Welcome to the June 2022 update. We are excited to announce the general availability of the new Format Pane, error bars and information protection updates, table navigation improvements, Connect to datamarts and Power BI Data Storytelling features. There is more to explore, please continue to read on.",
@@ -1454,58 +1506,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-power-bi-desktop-update-may-2021-and-mbas.md",
-      "title": "Power BI Desktop Update May 2021 and MBAS",
-      "excerpt": "I will take the opportunity and do a double review:      1.The power bi update for May 2021 and       2. the anouncements on MBAS   Chapters: 00:00 Intro 00:30 Modern visual tooltips 01:30 Disable sensitivity labels 02:00 DQ for power bi datasets and analysis services 02:30 Improved lineage view - notify",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-14-power-bi-desktop-update-may-2021-and-mbas/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2021-05-14-power-bi-desktop-update-may-2021-and-mbas/",
-      "originalUrl": "https://youtube.com/watch?v=PchEYVjYejg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PchEYVjYejg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PchEYVjYejg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T09:52:14Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
