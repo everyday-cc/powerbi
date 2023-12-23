@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Report level measures with Power BI live connections"
 
-secured: "6n3okmhUArJMoEw2gviS+az0uH1zX5u3v/jh9VehF+D0XwkU1U8S30QMG83DZSNGsecAX6B0diIo9PIs/wv0n9K1Ak9DYFKWuUYr1HvF+qf6eP/vWRKWn0B30nY6Nj3occSB03p2bwZZ6CqlwlrrbXBl+4CQ/7foRgP6e0yMOHlCT+pR1MsSfb08OV5+RWDsnjd8ogFglWopHU/x/XDuWEbuXSdS9z4/oXIHZdTIiICcMn4OF/1v9EN8oMftZg1RqAH8hska1uWcfXNViOadipphObBBr2XqcymwTf2/ggmCTnUfKTsrxGHXTlSWJrE19/VjETc7sYrVIdA715IZsQr2KnlA3hhgkelzuW6OTYvP0haaSUbsTDDMLA3iTBpX024MrZ+CvOmCgejAv/4ADhpDL9FAKx3+CHkBP3ng8m8=;z8YRtY7HF/p9MRzZGnscJQ=="
+secured: "8G95tfh0uORxuYxN/FfVvJzQfs2xOSjALYFWw5jHJw769WydAbnPiDPKB0fVjjzaghYxx9CjAhync4gwy2bpFvxnIZC0BLsr5pPdMwSTVZKJxx+pDnF/eEBxvWtUE/x9/6gkBG1uNm/vOv2iEmlBNziOx52uemu69IMznnVbJ3HGoGcREwNfmT7KfhYyuYHOluhKH7LEg4oyZHYRSitg6YJ++GL+2mOlM/AuISfcnMJ0v1KVvE+wq/EN5EI9lnhox10bk4wIk/o1p6CASMoD2wXWx6fTdkOwQkdGmHmViw00R2QHGDNZiut9ZXepyEWBJrovSsRd+k39JPYfopJwqF2uUiQK4u3lNRaLhn7Ou+FBLMkj3I8v6p+fM9lwYqhJw5SSib/BBZng2EoD31XX7CmxBYJ/CHpI3uRtLzLbelQ=;pPyMTdYeT4KiG75lApzcXQ=="
 ---
 
