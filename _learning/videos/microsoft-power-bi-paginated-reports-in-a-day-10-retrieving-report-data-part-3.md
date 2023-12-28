@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports in a Day - 10: Retrieving Report Data - Part 3"
 
-secured: "7NxuZsyIwZefYpPar+0i5u35LKIpU2hdYpP2HhGLHohA2+Vck8kSN6HGHAcg34LRruyFrhJo2mQG1z/Uti2xwk5F1cLAqgC1OK/GVTLfKoO1vcQCTkUD/7Bs2rpXx6mBwTzifON3qzDdodFWSJEGJYlAJpWTy4MIkCPKTZZwfxzM/FJU+p3Tv9srLn9kcdPsF/yG7cRuwEWPp0HxUpaJhsOyUCzCCUdK/mN4zXgvkk8E/pztaqDqLreUv5jqopoRIqIh8GRftvWNt9SMZVL5aVJyCg0mXZIzklNxrnsmdvX4OkQ9i+7DkR8ktBHuVBWrHKsU6ZGeZjm7DB5aEcce/9PcdautxRVrNITEv3XWyqsV5TE1I0WDV7Y84XFr7YoKnusaK9BTSWFwZmFfRA7zJClBBhNsVMFFfmabkZWpCwI=;Xlv8xIo06KFjCEhq4eDY6Q=="
+secured: "4cNjNfCxAk97lZ8DYIgHMKBlBSQccKhI+5AHModBg+3LcbGT3ndn9AdErcznYbExiev4/hdSd2eyAD8wCH+9jwlJMiFVAigC6OlUeH48oJwNMSS8cQhN4Cf0YnPn7wGsY/bmylHRT++zN4WR4PANjLo+AZj+LJSQZ3n6FIvrVNDjc21FibBp1D/+XKCRvvFMZIfIPgJrAs1NQox5wmZM3UaDJFVMHbD28MxszJF7Qv4O2LyJyivkwZ7c7qEvloBDAuvB1LfO8FuNAr9uHAFgSgidaUhkgG91Z+l0bZpzt+WZ8OP/aX0SDPqdLvhqkzhGGIsdaNN7pJJY0smxDb4vntr6xCS13oN1fUX/EEM0iOTgSiGz0c0/SRZrLPW9asUMy9SYf1XYY3/7WnkCcjPZk6pYs9qw5s+hhEyDClrul3k=;IoNWsNfyBqF1t0Ekew1+6Q=="
 ---
 
