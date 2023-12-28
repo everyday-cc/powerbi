@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Alpha Serve Expands BI Connectors Portfolio, Launches Power BI Connector for QuickBooks"
-excerpt: "Alpha Serve strengthens its position as a leader in BI Connectors with its latest integration for QuickBooksMiami, Florida--(Newsfile Corp. -"
-publishedDateTime: 2023-12-12T13:08:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/alpha-serve-expands-bi-connectors-portfolio-launches-power-bi-connector-for-quickbooks-1032892762"
-webUrl: "https://markets.businessinsider.com/news/stocks/alpha-serve-expands-bi-connectors-portfolio-launches-power-bi-connector-for-quickbooks-1032892762"
+excerpt: "Alpha Serve’s apps enable seamless integration between various business software platforms and leading visualization tools such as Power BI and Tableau. The connectors are curre"
+publishedDateTime: 2023-12-12T12:10:00Z
+originalUrl: "https://www.thewhig.com/newsfile/190670-alpha-serve-expands-bi-connectors-portfolio-launches-power-bi-connector-for-quickbooks"
+webUrl: "https://www.thewhig.com/newsfile/190670-alpha-serve-expands-bi-connectors-portfolio-launches-power-bi-connector-for-quickbooks"
+ampWebUrl: "https://www.thewhig.com/newsfile/190670-alpha-serve-expands-bi-connectors-portfolio-launches-power-bi-connector-for-quickbooks/wcm/b85a1c6d-dca1-4262-9c2b-46f8e05de0bb/amp/"
+cdnAmpWebUrl: "https://www-thewhig-com.cdn.ampproject.org/c/s/www.thewhig.com/newsfile/190670-alpha-serve-expands-bi-connectors-portfolio-launches-power-bi-connector-for-quickbooks/wcm/b85a1c6d-dca1-4262-9c2b-46f8e05de0bb/amp/"
 type: article
 quality: 49
 heat: 49
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/powerbi/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Kingston Whig-Standard
+  domain: thewhig.com
 
 topics:
   - Power BI
 
-secured: "dvmDAwoasH78UDXi1j//KQzb2fH5sWckOoYQHt+H+OjJmYBECq+XAtfxVcxNIYiyQ1MGLpa2KSuwzWOuMFNE2qLU8wVXJSaJokg7hexY4J71vaoR4ey6EWao74x0bDWpIBwzgxT/OQix0DuKMlnlODjJW8+UFtZ2ClEu3f5YBn9jYII5Nslm3lurWCrh/CmU4Uz0RtSC77RTXeiea8DSYRAvTbuY4Mq2YyuANp/hXgX4kdqpz6lFcKxuJsWYEBlirsFyms59uBelv5wZx7kqmTQP3nEzbMTtKHrC2vmxvn3/m/P3i7nZiHGbiuDwTZNZ46PPfuyCW3fuEH2yqomG3PWzqgB2g1ansUwXJSP7WHg=;TfhfrwsFG3/fr7JpRwhtOw=="
+images:
+  - url: "https://smartcdn.gprod.postmedia.digital/nexus/wp-content/uploads/2023/12/newsfile-190394.jpg"
+    width: 500
+    height: 375
+    isCached: true
+
+secured: "Y57laJpEZ855ufonF0fOpTzbMd1kWhGwF553zFaTpn/Yl1kE2N4fs57ZgAZWihOqmAGUBdeWFAWzhQMmiV7Bz7U2E/qPS6BSrEWtuEXCq8t+/i4NohTtJ9x8TzlGFpgt5ZzsSaVipXtiEBduE9Y7pnXZuhpoNR8ud2ahdRtozHmH2QpLC/YU1bMUZC4Wm/mfISj2wGO4UGNuU/MeHFaoEn/soUWomlmMkxzutYYO0c3FHPewV1m51bs2aBnz2i7RNtVAWQ8G08W0ZjTOpV+UPTVQkDdgUQ4AU/jswC7dIZS12oYPh662v/PJtzBNJsSwBRRx40Mklxci4rO/aSdg2lCFQ5eJIZnYYwh2FKe1kZg=;gTLDcxQKti+okcK9GwkDnA=="
 ---
 
