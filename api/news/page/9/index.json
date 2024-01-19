@@ -2,6 +2,313 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-06-23-power-bi-datasets-get-automatic-refresh-functionality-through-microsoft-flow-neowin.md",
+      "title": "Power BI datasets get automatic refresh functionality through Microsoft Flow - Neowin",
+      "excerpt": "Earlier this week, Microsoft unveiled the October update for Power BI Desktop, bringing new connectors, revamped Q&A, and plenty of other capabilities. On-premise data gateways for Power BI also ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-06-23-power-bi-datasets-get-automatic-refresh-functionality-through-microsoft-flow-neowin/index.json",
+      "webUrl": "https://www.neowin.net/news/power-bi-datasets-get-automatic-refresh-functionality-through-microsoft-flow/",
+      "originalUrl": "https://www.neowin.net/news/power-bi-datasets-get-automatic-refresh-functionality-through-microsoft-flow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/10/1571114082_power_bi_new_3_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-preview-data-is-now-available-in-the-dataset-details-page.md",
+      "title": "Preview data is now available in the dataset details page",
+      "excerpt": "Preview data is now available!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-06-22-preview-data-is-now-available-in-the-dataset-details-page/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/preview-data-is-now-available-in-the-dataset-details-page/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/preview-data-is-now-available-in-the-dataset-details-page/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T09:56:04Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-power-bi-june-2022-feature-summary.md",
+      "title": "Power BI June 2022 Feature Summary",
+      "excerpt": "Welcome to the June 2022 update. We are excited to announce the general availability of the new Format Pane, error bars and information protection updates, table navigation improvements, Connect to datamarts and Power BI Data Storytelling features. There is more to explore, please continue to read on.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-06-14-power-bi-june-2022-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-june-2022-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-june-2022-feature-summary/",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gu_5Q3z-qpc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T12:46:39Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-updates-to-full-report-attachments-for-email-subscriptions-in-premium-gen2.md",
+      "title": "Updates to full report attachments for email subscriptions in Premium Gen2",
+      "excerpt": "There are several updates coming to email subscriptions that use full report attachments that we want to make you aware of, including extending the maximum length of reports to 50 pages, appearance in the Gen2 metrics app, and deprecation in the original version of Power BI Premium.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-06-14-updates-to-full-report-attachments-for-email-subscriptions-in-premium-gen2/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/updates-to-full-report-attachments-for-email-subscriptions-in-premium-gen2/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/updates-to-full-report-attachments-for-email-subscriptions-in-premium-gen2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T08:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-12-power-bi-template-apps-update-capability-is-now-available-in-preview.md",
+      "title": "Power BI template apps update capability is now available in preview",
+      "excerpt": "With last month's update to Power BI Desktop, Microsoft began recommending new or popular template apps that could be utilized by users with ease. In continuation with this move, while detailing ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-06-12-power-bi-template-apps-update-capability-is-now-available-in-preview/index.json",
+      "webUrl": "https://www.neowin.net/news/power-bi-template-apps-update-capability-is-now-available-in-preview/",
+      "originalUrl": "https://www.neowin.net/news/power-bi-template-apps-update-capability-is-now-available-in-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329725_powerbi-5_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/power-bi-template-apps-update-capability-is-now-available-in-preview/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-template-apps-update-capability-is-now-available-in-preview/",
+      "publishedDateTime": "2022-06-12T06:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-may-release-of-sql-server-reporting-services-2022.md",
+      "title": "May Release of SQL Server Reporting Services 2022 ",
+      "excerpt": "May Release SQL Server Reporting Services",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-06-10-may-release-of-sql-server-reporting-services-2022/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/reminder-of-features-being-removed-with-the-next-release-of-sql-server/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/reminder-of-features-being-removed-with-the-next-release-of-sql-server/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-10T07:28:44Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-enhanced-refresh-with-the-power-bi-rest-api-is-now-generally-available.md",
       "title": "Enhanced refresh with the Power BI REST API is now generally available",
       "excerpt": "General availability announcement for Enhanced Refresh with the Power BI REST API. Perform fine-grain refresh operations for improved scalability.",
@@ -972,304 +1279,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-new-data-source-and-gateway-management-experience.md",
-      "title": "New data source and gateway management experience",
-      "excerpt": "new data source and gateway management experience in Power BI",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-06-new-data-source-and-gateway-management-experience/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/new-data-source-and-gateway-management-experience/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/new-data-source-and-gateway-management-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-06T10:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-coming-soon-changes-to-the-power-bi-service-simpler-navigation-improvements-to-lists-on-home-and-style-updates.md",
-      "title": "Coming soon: Changes to the Power BI service – simpler navigation, improvements to lists on Home, and style updates",
-      "excerpt": "We continue to iteratively improve experiences that help you find relevant content and return to your work in the Power BI service. Upon hearing your feedback, conducting usability tests, and running successful A/B experiments we’re sharing the following changes coming to all users in early June 2022.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-05-coming-soon-changes-to-the-power-bi-service-simpler-navigation-improvements-to-lists-on-home-and-style-updates/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/coming-soon-changes-to-the-power-bi-service-simpler-navigation-improvements-to-lists-on-home-and-style-updates/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/coming-soon-changes-to-the-power-bi-service-simpler-navigation-improvements-to-lists-on-home-and-style-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T09:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Service"
-      ]
-    },
-    {
-      "path": "_news/2022-05-01-microsoft-announces-limited-preview-of-office-365-adoption-content-pack-for-power-bi.md",
-      "title": "Microsoft announces limited preview of Office 365 adoption content pack for Power BI",
-      "excerpt": "Over the last couple of years, Microsoft has gradually built up the capability and availability of its Power BI product. Back at the start of this year, the company released Power BI for Windows ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-01-microsoft-announces-limited-preview-of-office-365-adoption-content-pack-for-power-bi/index.json",
-      "webUrl": "https://www.neowin.net/news/microsoft-announces-limited-preview-of-office-365-adoption-content-pack-for-power-bi/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-announces-limited-preview-of-office-365-adoption-content-pack-for-power-bi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2016/05/office-365-devices_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-announces-limited-preview-of-office-365-adoption-content-pack-for-power-bi/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-limited-preview-of-office-365-adoption-content-pack-for-power-bi/",
-      "publishedDateTime": "2022-04-30T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-become-a-data-guru-with-this-excel-power-bi-and-alteryx-training-on-sale.md",
-      "title": "Become a data guru with this Excel, Power BI, and Alteryx training on sale",
-      "excerpt": "TL;DR: As of April 30, The 2022 Ultimate Microsoft Excel & Power BI Certification Bundle (worth $1,800) is on sale for just $34.99. Dealing with loads of disorganized data can really make your ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-04-30-become-a-data-guru-with-this-excel-power-bi-and-alteryx-training-on-sale/index.json",
-      "webUrl": "https://mashable.com/deals/april-30-microsoft-certification",
-      "originalUrl": "https://mashable.com/deals/april-30-microsoft-certification",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/060nBgdvtOytqryaQteLMEy/hero-image.fill.size_1200x675.v1651075912.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/deals/april-30-microsoft-certification?amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/deals/april-30-microsoft-certification?amp",
-      "publishedDateTime": "2022-04-30T09:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-high-availability-load-balancing-and-troubleshooting-the-vnet-gateway.md",
-      "title": "High availability, load balancing and troubleshooting the Vnet gateway.",
-      "excerpt": "High availability, load balancing and troubleshooting the Vnet gateway.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-04-27-high-availability-load-balancing-and-troubleshooting-the-vnet-gateway/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/high-availability-load-balancing-and-troubleshooting-the-vnet-gateway/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/high-availability-load-balancing-and-troubleshooting-the-vnet-gateway/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T15:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-25-analyze-in-excel-workbooks-are-now-saved-to-onedrive-for-business.md",
-      "title": "Analyze in Excel Workbooks are now saved to OneDrive for Business",
-      "excerpt": "When users click Analyze in Excel in the Power BI service, the generated Excel workbook is automatically saved to OneDrive for Business and the workbook can be directly opened in a web browser using Excel for the web.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-04-25-analyze-in-excel-workbooks-are-now-saved-to-onedrive-for-business/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/analyze-in-excel-workbooks-are-now-saved-to-onedrive-for-business/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/analyze-in-excel-workbooks-are-now-saved-to-onedrive-for-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-25T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],

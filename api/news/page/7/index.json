@@ -2,6 +2,312 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-26-join-us-power-bi-dev-camp-thursday-october-27-2022-at-1100-am-pst-1200-pm-noon-pst.md",
+      "title": "Join Us! Power BI Dev Camp: Thursday, October 27, 2022 at 11:00 AM PST– 12:00 PM Noon PST",
+      "excerpt": "Power BI Dev Camp:  Episode 27, Integrating Azure AD B2C with App-Owns-Data Embedding",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-10-26-join-us-power-bi-dev-camp-thursday-october-27-2022-at-1100-am-pst-1200-pm-noon-pst/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-october-27-2022-at-1100-am-pst-1200-pm-noon-pst/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-october-27-2022-at-1100-am-pst-1200-pm-noon-pst/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T11:41:39Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-on-premises-data-gateway-october-release.md",
+      "title": "On-premises data gateway October release",
+      "excerpt": "Hope you&#8217;re all enjoying the fall! With the changing of the leaves comes a changed on-premises data gateway. Download the October version to use the same query execution logic/run-time as in the October version of Power BI Desktop.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-10-25-on-premises-data-gateway-october-release/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-october-release/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-october-release/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T14:40:17Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-22-how-to-add-a-year-to-date-running-total-in-microsoft-power-bi.md",
+      "title": "How to add a year-to-date running total in Microsoft Power BI",
+      "excerpt": "Power BI quick measures can return a simple running total and a year-to-date total with little effort on your part.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-10-22-how-to-add-a-year-to-date-running-total-in-microsoft-power-bi/index.json",
+      "webUrl": "https://www.techrepublic.com/article/add-year-to-date-running-total-microsoft-power-bi/",
+      "originalUrl": "https://www.techrepublic.com/article/add-year-to-date-running-total-microsoft-power-bi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/10/tr-pbi-running-total.jpeg?x85972",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/add-year-to-date-running-total-microsoft-power-bi/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/add-year-to-date-running-total-microsoft-power-bi/amp/",
+      "publishedDateTime": "2022-10-21T23:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-power-bi-october-2022-feature-summary.md",
+      "title": "Power BI October 2022 Feature Summary",
+      "excerpt": "Welcome to the October 2022 update. This month’s update is packed with exciting updates to features like Power BI metrics, Modeling, Deployment pipelines, and more. Please read on for all the details, and feel free to leave your thoughts in the comments below the post. We would love to hear from you!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-10-20-power-bi-october-2022-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-october-2022-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-october-2022-feature-summary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T09:18:52Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-announcing-submetric-roll-ups-in-power-bi-metrics.md",
+      "title": "Announcing submetric roll ups in Power BI Metrics",
+      "excerpt": "Announcing submetric roll ups in Power BI Metrics: automatically aggregate submetric values to a parent metric, allowing less time updating data, and more time tracking performance.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-10-18-announcing-submetric-roll-ups-in-power-bi-metrics/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-submetric-roll-ups-in-power-bi-metrics/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-submetric-roll-ups-in-power-bi-metrics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T11:35:08Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-introducing-cross-tenant-power-bi-dataset-sharing.md",
+      "title": "Introducing Cross-tenant Power BI Dataset Sharing",
+      "excerpt": "Our new cross-tenant dataset sharing capability is now available in public preview! This exciting capability allows customers to share their Power BI datasets with external users (consumers) in a way that allows these external users to access the datasets in their own Power BI tenant. ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-10-12-introducing-cross-tenant-power-bi-dataset-sharing/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/introducing-cross-tenant-power-bi-dataset-sharing/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/introducing-cross-tenant-power-bi-dataset-sharing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T07:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-power-query-sdk-for-visual-studio-code-public-preview.md",
       "title": "Power Query SDK for Visual Studio Code – Public Preview",
       "excerpt": "We are excited to announce the Public Preview release of our new Power Query SDK for Visual Studio Code!",
@@ -972,314 +1278,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-updates-to-microsoft-purview-data-loss-prevention-policies-in-power-bi.md",
-      "title": "Updates to Microsoft Purview data loss prevention policies in Power BI",
-      "excerpt": "Data loss prevention (DLP) policies help you govern the sensitive information managed in your Power BI tenant and comply with governmental or industry regulations, such as GDPR (the European Union’s General Data Protection Regulation). Earlier this year, we announced the release of DLP policies for Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-22-updates-to-microsoft-purview-data-loss-prevention-policies-in-power-bi/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/updates-to-microsoft-purview-data-loss-prevention-policies-in-power-bi/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/updates-to-microsoft-purview-data-loss-prevention-policies-in-power-bi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T03:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-power-bi-paves-the-way-for-smooth-azure-analysis-services-migrations.md",
-      "title": "Power BI paves the way for smooth Azure Analysis Services migrations",
-      "excerpt": "We are committed to helping our Azure Analysis Services customers unlock the enormous capabilities of Power BI as a superset of Azure Analysis Services through a smooth migration path to Power BI. As part of this effort, we are happy to announce today that Power BI has reached yet another compatibility",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-16-power-bi-paves-the-way-for-smooth-azure-analysis-services-migrations/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-paves-the-way-for-smooth-azure-analysis-services-migrations/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-paves-the-way-for-smooth-azure-analysis-services-migrations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T14:21:05Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-on-premises-data-gateway-august-2022-update-is-now-available.md",
-      "title": "On-premises data gateway August 2022 update is now available",
-      "excerpt": "Here is our on-premises data gateway August release! Use it to be compatible with the August Power BI Desktop and let us know what you think. ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-15-on-premises-data-gateway-august-2022-update-is-now-available/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-august-2022-update-is-now-available/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-august-2022-update-is-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T17:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-power-bi-premium-gets-full-report-attachments-for-report-subscriptions.md",
-      "title": "Power BI Premium gets full report attachments for report subscriptions",
-      "excerpt": "Last week, Microsoft added an automated template app installation capability to Power BI. The Redmond firm also recently introduced new Power Automate templates. Today, Microsoft has announced ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-13-power-bi-premium-gets-full-report-attachments-for-report-subscriptions/index.json",
-      "webUrl": "https://www.neowin.net/news/power-bi-premium-gets-full-report-attachments-for-report-subscriptions/",
-      "originalUrl": "https://www.neowin.net/news/power-bi-premium-gets-full-report-attachments-for-report-subscriptions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574779301_powerbi1_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-13T10:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-postgresql-connector-for-the-virtual-network-data-gateway.md",
-      "title": "PostgreSQL connector for the virtual network data gateway",
-      "excerpt": "PostgreSQL connector now available through the virtual network data gateway!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-09-postgresql-connector-for-the-virtual-network-data-gateway/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/postgresql-connector-for-the-virtual-network-data-gateway/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/postgresql-connector-for-the-virtual-network-data-gateway/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Wiznd0dn29k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T11:04:25Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-power-bi-august-2022-feature-summary.md",
-      "title": "Power BI August 2022 Feature Summary",
-      "excerpt": "Welcome to the August 2022 update. Can you imagine it’s the last month of summer already? We are excited to announce a variety of new features such as the conditional formatting for data labels, new “Select sensitivity label” dialog, data loss prevention policy update and DAX editor improvements. There",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-09-power-bi-august-2022-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-august-2022-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-august-2022-feature-summary/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Wiznd0dn29k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T08:36:35Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],

@@ -2,6 +2,303 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-07-13-on-premises-data-gateway-july-2021-update-is-now-available.md",
+      "title": "On-premises data gateway July 2021 update is now available",
+      "excerpt": "On-premises data gateway (standard and personal mode) release for July 2021 ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-13-on-premises-data-gateway-july-2021-update-is-now-available/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-july-2021-update-is-now-available/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-july-2021-update-is-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T14:16:34Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-help-us-shape-the-future-of-power-bi-exploring-the-idea-of-integrating-power-bi-with-microsoft-forms.md",
+      "title": "Help us shape the future of Power BI – Exploring the idea of Integrating Power BI with Microsoft Forms",
+      "excerpt": "Back in May 2021, we announced the integration of the new Power BI quick create experience within SharePoint, which enabled the SharePoint users to easily generate awesome Power BI reports by just one click. Currently, we are exploring other applications where we could potentially integrate a similar",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-13-help-us-shape-the-future-of-power-bi-exploring-the-idea-of-integrating-power-bi-with-microsoft-forms/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/help-us-shape-the-future-of-power-bi-exploring-the-idea-of-integrating-power-bi-with-microsoft-forms/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/help-us-shape-the-future-of-power-bi-exploring-the-idea-of-integrating-power-bi-with-microsoft-forms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T09:51:42Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-11-this-30-microsoft-power-bi-training-can-make-you-a-data-superstar-at-your-company.md",
+      "title": "This $30 Microsoft Power BI training can make you a data superstar at your company",
+      "excerpt": "Build Up Your Data Analytics & Visualization Skills with 9 Courses & 51.5 Hours of Content on Microsoft Power BI, From Basics to Creating Your Own Reports.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-11-this-30-microsoft-power-bi-training-can-make-you-a-data-superstar-at-your-company/index.json",
+      "webUrl": "https://thenextweb.com/news/this-30-microsoft-power-bi-training-can-make-you-a-data-superstar-at-your-company",
+      "originalUrl": "https://thenextweb.com/news/this-30-microsoft-power-bi-training-can-make-you-a-data-superstar-at-your-company",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FTNW-Microsoft-Power-BI-Training.jpeg&signature=3d98427ac944230f6595f9a358ba54f1",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-11T14:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-make-smarter-business-decisions-with-help-from-microsoft-power-bi.md",
+      "title": "Make Smarter Business Decisions with Help From Microsoft Power BI",
+      "excerpt": "One of the best tools to help you do this is Microsoft Power BI. Learn how to leverage this powerful software in The Complete 2021 Microsoft Power BI Super Bundle. This nine-course bundle takes a comprehensive, beginner-friendly approach to Microsoft BI.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-07-make-smarter-business-decisions-with-help-from-microsoft-power-bi/index.json",
+      "webUrl": "https://www.entrepreneur.com/article/376544",
+      "originalUrl": "https://www.entrepreneur.com/article/376544",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1625599616-Ent-BizIntelligence.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/376544",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376544",
+      "publishedDateTime": "2021-07-07T14:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-get-a-crash-course-in-microsoft-power-bi-for-less-than-30.md",
+      "title": "Get a crash course in Microsoft Power BI for less than $30",
+      "excerpt": "TL;DR: As of July 3, snag the nine-course Complete 2021 Microsoft Power BI Super Bundle for just $29.99. The first course teaches you how to get results by pulling data and creating charts based ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-03-get-a-crash-course-in-microsoft-power-bi-for-less-than-30/index.json",
+      "webUrl": "https://mashable.com/deals/july-3-microsoft-power-bi",
+      "originalUrl": "https://mashable.com/deals/july-3-microsoft-power-bi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/07jTgFqFD9nLEB3XMln2d1F/hero-image.fill.size_1200x675.jpg",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/deals/july-3-microsoft-power-bi?amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/deals/july-3-microsoft-power-bi?amp",
+      "publishedDateTime": "2021-07-03T09:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-announcing-availability-of-virtual-workshops-and-training-to-get-started-with-power-bi.md",
+      "title": "Announcing availability of virtual workshops and training to get started with Power BI",
+      "excerpt": "Learn how using data can help you understand and improve your business. Power BI lets you easily unify data from many sources to create interactive dashboards and reports that provide actionable insights to drive your business. This training covers an overview and demo of Power BI to show how you can",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-01-announcing-availability-of-virtual-workshops-and-training-to-get-started-with-power-bi/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-availability-of-virtual-workshops-and-training-to-get-started-with-power-bi/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-availability-of-virtual-workshops-and-training-to-get-started-with-power-bi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-microsoft-teams-activity-feed-now-integrated-with-power-bi.md",
       "title": "Microsoft Teams' activity feed now integrated with Power BI",
       "excerpt": "The activity feed in Microsoft's Teams service now supports Power BI report sharing and other capabilities directly from within the application, bypassing the need to open emails outside the service.",
@@ -947,312 +1244,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-05-27T16:30:29Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-announcing-now-its-easier-to-find-power-bi-reports-in-microsoft-teams-tabs.md",
-      "title": "Announcing: Now it’s easier to find Power BI reports in Microsoft Teams tabs",
-      "excerpt": "We’ve started to roll-out an update to the home experience in the Power BI app for Microsoft Teams. Users in Teams will see a new “In Teams” pivot on Power BI home that makes it easy to find Power BI tabs you’ve visited previously in Teams channels. Read the blog to learn all about it.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-26-announcing-now-its-easier-to-find-power-bi-reports-in-microsoft-teams-tabs/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-now-its-easier-to-find-power-bi-reports-in-microsoft-teams-tabs/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-now-its-easier-to-find-power-bi-reports-in-microsoft-teams-tabs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2021/05/view-all-the-tabs-you-use-in-microsoft-teams-.png",
-          "width": 1061,
-          "height": 919,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T09:42:27Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-quickly-create-reports-from-sharepoint-lists.md",
-      "title": "Quickly create reports from SharePoint lists",
-      "excerpt": "Back in December, we launched a new create experience within the Power BI service that allowed you to quick explore your data with just a few clicks. Now, we’re excited to announce, as our first integration of this experience, the launch of our Power BI integration within SharePoint lists. This experience",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-26-quickly-create-reports-from-sharepoint-lists/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/quickly-create-reports-from-sharepoint-lists/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/quickly-create-reports-from-sharepoint-lists/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T09:00:41Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-build-2021-microsoft-reveals-enhancements-to-power-bi-cosmos-db.md",
-      "title": "Build 2021: Microsoft reveals enhancements to Power BI, Cosmos DB",
-      "excerpt": "Let's start with Microsoft's Power BI announcements. These include the ability for Power BI dataflows (the cloud-based incarnation of Power Query) to handle streaming data sources, starting with ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-26-build-2021-microsoft-reveals-enhancements-to-power-bi-cosmos-db/index.json",
-      "webUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/25/0611b300-e918-4cfa-a9ef-9ec8e2f10237/power-bi-in-jupyter.png",
-          "width": 1495,
-          "height": 1010,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/",
-      "publishedDateTime": "2021-05-26T04:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-build-2021-microsoft-reveals-enhancements-to-power-bi-cosmos-db.md",
-      "title": "Build 2021: Microsoft reveals enhancements to Power BI, Cosmos DB",
-      "excerpt": "Let's start with Microsoft's Power BI announcements. These include the ability for Power BI dataflows (the cloud-based incarnation of Power Query) to handle streaming data sources, starting with ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-25-build-2021-microsoft-reveals-enhancements-to-power-bi-cosmos-db/index.json",
-      "webUrl": "https://www.zdnet.com/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/25/0611b300-e918-4cfa-a9ef-9ec8e2f10237/power-bi-in-jupyter.png",
-          "width": 1495,
-          "height": 1010,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/",
-      "publishedDateTime": "2021-05-25T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-power-bi-introduces-a-bunch-of-new-additions-and-improvements-at-build-2021.md",
-      "title": "Power BI introduces a bunch of new additions and improvements at Build 2021",
-      "excerpt": "The premium version of Microsoft's data analytics platform is receiving real-time analytics and big data improvements, while Power BI Embedded now offers integration with Jupyter Notebooks.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-25-power-bi-introduces-a-bunch-of-new-additions-and-improvements-at-build-2021/index.json",
-      "webUrl": "https://www.neowin.net/news/power-bi-introduces-a-bunch-of-new-additions-and-improvements-at-build-2021/",
-      "originalUrl": "https://www.neowin.net/news/power-bi-introduces-a-bunch-of-new-additions-and-improvements-at-build-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/05/1621941280_power_bi_at_build_2021_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-enabling-intelligent-experiences-with-power-bi-for-developers-data-scientists-and-data-engineers.md",
-      "title": "Enabling intelligent experiences with Power BI for developers, data scientists, and data engineers",
-      "excerpt": "Since our launch over five years ago, Microsoft Power BI has been enthusiastically adopted by developers across the spectrum. Today we have over three million active developers on Power BI—who harness the power of data, provide actionable insights, and deliver cloud-native intelligent experiences. Today,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-25-enabling-intelligent-experiences-with-power-bi-for-developers-data-scientists-and-data-engineers/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/enabling-intelligent-experiences-with-power-bi-for-developers-data-scientists-and-data-engineers/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/enabling-intelligent-experiences-with-power-bi-for-developers-data-scientists-and-data-engineers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T07:55:56Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

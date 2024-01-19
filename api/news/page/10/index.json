@@ -2,6 +2,304 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-05-06-new-data-source-and-gateway-management-experience.md",
+      "title": "New data source and gateway management experience",
+      "excerpt": "new data source and gateway management experience in Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-06-new-data-source-and-gateway-management-experience/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/new-data-source-and-gateway-management-experience/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/new-data-source-and-gateway-management-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-06T10:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-05-coming-soon-changes-to-the-power-bi-service-simpler-navigation-improvements-to-lists-on-home-and-style-updates.md",
+      "title": "Coming soon: Changes to the Power BI service – simpler navigation, improvements to lists on Home, and style updates",
+      "excerpt": "We continue to iteratively improve experiences that help you find relevant content and return to your work in the Power BI service. Upon hearing your feedback, conducting usability tests, and running successful A/B experiments we’re sharing the following changes coming to all users in early June 2022.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-05-coming-soon-changes-to-the-power-bi-service-simpler-navigation-improvements-to-lists-on-home-and-style-updates/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/coming-soon-changes-to-the-power-bi-service-simpler-navigation-improvements-to-lists-on-home-and-style-updates/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/coming-soon-changes-to-the-power-bi-service-simpler-navigation-improvements-to-lists-on-home-and-style-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T09:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Service"
+      ]
+    },
+    {
+      "path": "_news/2022-05-01-microsoft-announces-limited-preview-of-office-365-adoption-content-pack-for-power-bi.md",
+      "title": "Microsoft announces limited preview of Office 365 adoption content pack for Power BI",
+      "excerpt": "Over the last couple of years, Microsoft has gradually built up the capability and availability of its Power BI product. Back at the start of this year, the company released Power BI for Windows ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-01-microsoft-announces-limited-preview-of-office-365-adoption-content-pack-for-power-bi/index.json",
+      "webUrl": "https://www.neowin.net/news/microsoft-announces-limited-preview-of-office-365-adoption-content-pack-for-power-bi/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-announces-limited-preview-of-office-365-adoption-content-pack-for-power-bi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2016/05/office-365-devices_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-announces-limited-preview-of-office-365-adoption-content-pack-for-power-bi/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-limited-preview-of-office-365-adoption-content-pack-for-power-bi/",
+      "publishedDateTime": "2022-04-30T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-30-become-a-data-guru-with-this-excel-power-bi-and-alteryx-training-on-sale.md",
+      "title": "Become a data guru with this Excel, Power BI, and Alteryx training on sale",
+      "excerpt": "TL;DR: As of April 30, The 2022 Ultimate Microsoft Excel & Power BI Certification Bundle (worth $1,800) is on sale for just $34.99. Dealing with loads of disorganized data can really make your ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-04-30-become-a-data-guru-with-this-excel-power-bi-and-alteryx-training-on-sale/index.json",
+      "webUrl": "https://mashable.com/deals/april-30-microsoft-certification",
+      "originalUrl": "https://mashable.com/deals/april-30-microsoft-certification",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/060nBgdvtOytqryaQteLMEy/hero-image.fill.size_1200x675.v1651075912.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/deals/april-30-microsoft-certification?amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/deals/april-30-microsoft-certification?amp",
+      "publishedDateTime": "2022-04-30T09:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-high-availability-load-balancing-and-troubleshooting-the-vnet-gateway.md",
+      "title": "High availability, load balancing and troubleshooting the Vnet gateway.",
+      "excerpt": "High availability, load balancing and troubleshooting the Vnet gateway.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-04-27-high-availability-load-balancing-and-troubleshooting-the-vnet-gateway/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/high-availability-load-balancing-and-troubleshooting-the-vnet-gateway/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/high-availability-load-balancing-and-troubleshooting-the-vnet-gateway/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T15:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-analyze-in-excel-workbooks-are-now-saved-to-onedrive-for-business.md",
+      "title": "Analyze in Excel Workbooks are now saved to OneDrive for Business",
+      "excerpt": "When users click Analyze in Excel in the Power BI service, the generated Excel workbook is automatically saved to OneDrive for Business and the workbook can be directly opened in a web browser using Excel for the web.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-04-25-analyze-in-excel-workbooks-are-now-saved-to-onedrive-for-business/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/analyze-in-excel-workbooks-are-now-saved-to-onedrive-for-business/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/analyze-in-excel-workbooks-are-now-saved-to-onedrive-for-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-04-23-visualize-portfolio-performance-and-risk-with-microsoft-power-bi.md",
       "title": "Visualize portfolio performance and risk with Microsoft Power BI",
       "excerpt": "You can seamlessly create portfolio report dashboards in Microsoft Power BI that can be shared with your team or clients. Underpinning this new reporting flexibility is Bloomberg Query Language ...",
@@ -954,305 +1252,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-summary-review-of-power-bi-update-march-2022.md",
-      "title": "Summary review of Power BI Update March 2022",
-      "excerpt": "A new month, a new power bi update, this time for March 2022. Lets see what is in this month update!!  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-18-summary-review-of-power-bi-update-march-2022/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2022-03-18-summary-review-of-power-bi-update-march-2022/",
-      "originalUrl": "https://youtube.com/watch?v=E7eKdyEjm6Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E7eKdyEjm6Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T10:32:18Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-power-bi-march-2022-feature-summary.md",
-      "title": "Power BI March 2022 Feature Summary",
-      "excerpt": "Welcome to the March 2022 update. We are happy to announce a couple new features this month! How about error bars for line charts and dynamic format strings support for all chart elements? Also, we have some updates to the Azure Maps visual and Sensitivity labels, datasets hub and Power BI Goals. There",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-17-power-bi-march-2022-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-march-2022-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-march-2022-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T09:06:18Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-power-bi-developer-and-implementation-consultant-east-rand-r650k-per-annum-at-e-merge-it-recruitment.md",
-      "title": "Power BI Developer and Implementation Consultant – East Rand – R650k per annum at e-Merge IT Recruitment",
-      "excerpt": "They are currently looking for a Power BI Developer and Implementation Consultant to join their incredible team. The experienced Power BI Development Consultant will be required to come on board and play a key role in turning data into knowledge for their ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-11-power-bi-developer-and-implementation-consultant-east-rand-r650k-per-annum-at-e-merge-it-recruitment/index.json",
-      "webUrl": "https://it-online.co.za/2022/03/10/power-bi-developer-and-implementation-consultant-east-rand-r650k-per-annum-at-e-merge-it-recruitment-2/",
-      "originalUrl": "https://it-online.co.za/2022/03/10/power-bi-developer-and-implementation-consultant-east-rand-r650k-per-annum-at-e-merge-it-recruitment-2/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6BpiFBCCS5A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T21:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT-Online",
-        "domain": "it-online.co.za",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2022-03-10-looker-vs-power-bi-2022-software-comparison.md",
-      "title": "Looker vs. Power BI: 2022 Software Comparison",
-      "excerpt": "But which is best in terms of function and features for your business? Looker by Google and Microsoft Power BI are both business intelligence (BI) and data analytics platforms with a strong following.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-10-looker-vs-power-bi-2022-software-comparison/index.json",
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/looker-vs-power-bi/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/looker-vs-power-bi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/LogMeIn-alberts_case_study_large-1.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T01:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-dataset-backup-and-restore-performance-just-got-a-lot-better.md",
-      "title": "Dataset backup and restore performance just got a lot better",
-      "excerpt": "Today, we’re happy to announce significant performance improvements to backup and restore operations for datasets in Power BI. Our benchmark tests with 1GB, 5GB, and 10GB datasets show backups can now be completed up to 22 times faster than before, and the time required for restore operations can also",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-07-dataset-backup-and-restore-performance-just-got-a-lot-better/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/dataset-backup-and-restore-performance-just-got-a-lot-better/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/dataset-backup-and-restore-performance-just-got-a-lot-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-07T13:01:29Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-cognos-vs-power-bi-2022-software-comparison.md",
-      "title": "Cognos vs. Power BI: 2022 Software Comparison",
-      "excerpt": "Cognos and Power BI are both top data analytics and business intelligence platforms. We compare features to help you choose which is best for your business. IBM Cognos Analytics and Microsoft ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-04-cognos-vs-power-bi-2022-software-comparison/index.json",
-      "webUrl": "https://www.eweek.com/cloud/cognos-vs-power-bi/",
-      "originalUrl": "https://www.eweek.com/cloud/cognos-vs-power-bi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/Poly.headset-1.jpg",
-          "width": 698,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T22:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/eweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

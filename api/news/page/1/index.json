@@ -2,6 +2,313 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-16-dynamic-subscriptions-for-power-bi-reports-preview.md",
+      "title": "Dynamic subscriptions for Power BI reports (Preview)",
+      "excerpt": "We’re excited to announce that dynamic per recipient subscriptions are now available in Preview for Power BI reports! Similar to dynamic subscriptions for paginated reports, you can now distribute a personalized copy of a Power BI report to each recipient of an email subscription.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2024-01-16-dynamic-subscriptions-for-power-bi-reports-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/dynamic-subscriptions-are-now-available-for-power-bi-reports/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/dynamic-subscriptions-are-now-available-for-power-bi-reports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-save-your-seat-at-the-ultimate-fabric-learning-event.md",
+      "title": "Save your seat at the ultimate Fabric learning event!",
+      "excerpt": "Join us for the inaugural Microsoft Fabric Community Conference on March 26-28, 2024, at the MGM Grand, Las Vegas. With 150+ sessions and workshops on March 24, 25, and 29, it&#8217;s the ultimate learning event for Microsoft Fabric!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2024-01-16-save-your-seat-at-the-ultimate-fabric-learning-event/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/save-your-seat-at-the-ultimate-fabric-learning-event/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/save-your-seat-at-the-ultimate-fabric-learning-event/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-copilot-in-power-bi-preview-is-available-worldwide.md",
+      "title": "Copilot in Power BI (preview) is available worldwide",
+      "excerpt": "We are excited to announce that the Copilot preview is now available to all customers!, Now everyone can get value from copilot through analyzing data or creating beautiful out of the box reports.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2024-01-16-copilot-in-power-bi-preview-is-available-worldwide/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/copilot-in-power-bi-preview-is-available-worldwide/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/copilot-in-power-bi-preview-is-available-worldwide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T08:00:14Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-new-fabric-certification-and-fabric-career-hub.md",
+      "title": "New Fabric certification and Fabric Career Hub",
+      "excerpt": "Last year was a remarkable one for the Power BI community. We launched Microsoft Fabric, an end-to-end analytics platform that brings together data preparation, data warehousing, data engineering, data science, real-time analytics, and business intelligence in one unified SaaS foundation with one copy",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2024-01-15-new-fabric-certification-and-fabric-career-hub/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/new-fabric-certification-and-fabric-career-hub/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/new-fabric-certification-and-fabric-career-hub/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-15T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-model-explorer-with-calculation-group-authoring-is-now-available-in-power-bi-service-including-direct-lake-semantic-models.md",
+      "title": "Model explorer with calculation group authoring is now available in Power BI service including Direct Lake semantic models",
+      "excerpt": "With the model explorer available for editing data models in the Power BI service these semantic models, both Direct Lake and those in import or DirectQuery, not only get visibility of their semantic model in a tree view but also can create calculation groups!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2024-01-11-model-explorer-with-calculation-group-authoring-is-now-available-in-power-bi-service-including-direct-lake-semantic-models/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/model-explorer-and-calculation-groups-authoring-is-now-available-in-power-bi-service-including-direct-lake-semantic-models/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/model-explorer-and-calculation-groups-authoring-is-now-available-in-power-bi-service-including-direct-lake-semantic-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2024/01/My-sematnic-model-with-Model-Explorer.png",
+          "width": 780,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T11:16:19Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Service"
+      ]
+    },
+    {
+      "path": "_news/2024-01-08-update-to-dashboard-web-content-tenant-setting.md",
+      "title": "Update to Dashboard Web Content tenant setting",
+      "excerpt": "We are updating tenant settings for Dashboard Web Content to be more secure by default. Read this blog to learn more.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2024-01-08-update-to-dashboard-web-content-tenant-setting/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/update-to-dashboard-web-content-tenant-setting/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/update-to-dashboard-web-content-tenant-setting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-08T15:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2023-12-21-dax-query-view-introduces-new-info-dax-functions.md",
       "title": "DAX query view introduces new INFO DAX functions",
       "excerpt": "DAX query view, released in public preview last month, in the December 2023 Power BI Desktop release has exciting updates including the new INFO DAX functions and improvements to the Update model CodeLens.",
@@ -953,313 +1260,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-10-16T13:28:29Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-power-bi-october-2023-feature-summary.md",
-      "title": "Power BI October 2023 Feature Summary",
-      "excerpt": "Welcome to the October 2023 update. We’ve got a lot of great features this month including OneDrive and SharePoint integration, updates to On-object Interaction, and deduplication rules for composite models.\r\n\r\nThere is more to explore, please continue to read on.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-10-11-power-bi-october-2023-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-october-2023-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-october-2023-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T08:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-09-troubleshooting-automatic-aggregations-to-optimize-directquery-performance.md",
-      "title": "Troubleshooting automatic aggregations to optimize DirectQuery performance",
-      "excerpt": "We have some very exciting news to share with you today! We are thrilled to announce that we have just launched the public preview of Direct Lake mode for Power BI datasets in Fabric! Fabric is taking a bold bet on open data formats in OneLake. ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-10-09-troubleshooting-automatic-aggregations-to-optimize-directquery-performance/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/troubleshooting-automatic-aggregations-to-optimize-directquery-performance/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/troubleshooting-automatic-aggregations-to-optimize-directquery-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-09T11:18:06Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-power-bi-update-october-2023.md",
-      "title": "Power BI Update - October 2023",
-      "excerpt": "Welcome to the October 2023 update. We’ve got a lot of great features this month including OneDrive and SharePoint integration, updates to On-object Interaction, and deduplication rules for composite models.   Blog: https://powerbi.microsoft.com/en-us/blog/   Reporting    Power BI Desktop OneDrive and",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-10-06-power-bi-update-october-2023/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2023-10-06-power-bi-update-october-2023/",
-      "originalUrl": "https://youtube.com/watch?v=8QSVnwcYzIo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8QSVnwcYzIo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8QSVnwcYzIo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T13:02:57Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-exclusive-dashboard-in-a-day-for-women-led-by-women.md",
-      "title": "Exclusive Dashboard in a Day for Women, led by Women",
-      "excerpt": "Exclusive opportunity for Women interested in Power BI, led by female trainers in select countries. Register for a free, hands-on workshop where you will learn how to build a Dashboard in a Day! Learn more here – https://aka.ms/DIAD4Women",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-10-04-exclusive-dashboard-in-a-day-for-women-led-by-women/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/exclusive-dashboard-in-a-day-for-women-led-by-women/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/exclusive-dashboard-in-a-day-for-women-led-by-women/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T06:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-top-7-power-bi-alternatives-and-competitors-in-2023.md",
-      "title": "Top 7 Power BI Alternatives and Competitors in 2023",
-      "excerpt": "Power BI is a market-leading enterprise BI tool. But should it not suit you, explore the features, pros and cons of these seven tools that may be a better fit. We may be compensated by vendors who ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-10-04-top-7-power-bi-alternatives-and-competitors-in-2023/index.json",
-      "webUrl": "https://www.techrepublic.com/article/power-bi-alternatives/",
-      "originalUrl": "https://www.techrepublic.com/article/power-bi-alternatives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg",
-          "width": 270,
-          "height": 203,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T20:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-power-bi-onedrive-and-sharepoint-on-by-default-rollout-has-started.md",
-      "title": "Power BI OneDrive and SharePoint on by default rollout has started",
-      "excerpt": "Power BI OneDrive and SharePoint integration enabling by default roll out has started",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-10-02-power-bi-onedrive-and-sharepoint-on-by-default-rollout-has-started/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/24762/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/24762/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2023/05/power-bi-onedrive-explore.png",
-          "width": 3373,
-          "height": 2059,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-02T06:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

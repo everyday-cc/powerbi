@@ -2,6 +2,314 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-05-18-lots-of-power-bi-community-posts-roundup-may-18-2020.md",
+      "title": "Lots of Power BI community posts... (Roundup | May 18, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup179 2 Minute Tuesday: https://guyinacu.be/copyquery Patrick's tech video: https://guyinacu.be/datepicker Adam's tech video: https://guyinacu.be/matrixkpis  🔴 Live Replay: https://guyinacu.be/35WURjU",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-05-18-lots-of-power-bi-community-posts-roundup-may-18-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-05-18-lots-of-power-bi-community-posts-roundup-may-18-2020/",
+      "originalUrl": "https://youtube.com/watch?v=qaZkALLm3hE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qaZkALLm3hE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qaZkALLm3hE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Lots of Power BI community posts... (Roundup | May 18, 2020)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-18T15:00:26Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-power-bi-announcements-and-a-new-desktop-release-may-11-2020.md",
+      "title": "Power BI announcements and a new Desktop release... (May 11, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup178  🔴 MBAS Recap Live Stream Replay: https://guyinacu.be/mbas2020recap  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level?",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-05-11-power-bi-announcements-and-a-new-desktop-release-may-11-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-05-11-power-bi-announcements-and-a-new-desktop-release-may-11-2020/",
+      "originalUrl": "https://youtube.com/watch?v=RqUc3d-0WXY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RqUc3d-0WXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RqUc3d-0WXY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI announcements and a new Desktop release... (May 11, 2020)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-11T15:00:15Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-feature-summary-2-unannounced-ones-on-the-power-bi-desktop-update-april-2020.md",
+      "title": "Feature Summary + 2 unannounced ones 😎 on the Power BI Desktop Update April 2020",
+      "excerpt": "In todays power bi desktop update feature summary review for April 2020, we are going to go through the following topics:  Lasso select for visuals Shortcuts for grouping and ungrouping visuals Conditional formatting for totals and subtotals in power bi matrix i icon for properties in power query Personalize",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-05-07-feature-summary-2-unannounced-ones-on-the-power-bi-desktop-update-april-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-05-07-feature-summary-2-unannounced-ones-on-the-power-bi-desktop-update-april-2020/",
+      "originalUrl": "https://youtube.com/watch?v=db00gQgLwMU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/db00gQgLwMU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/db00gQgLwMU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T10:59:33Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-power-bi-desktop-update-april-2020.md",
+      "title": "Power BI Desktop Update - April 2020",
+      "excerpt": "We have a ton of great updates this release! We’re excited to announce a new visual personalization feature to allow your end-users to explore and personalize visuals all within the consumption view of a report! Also this month, if you’re interested in fast refresh scenarios, you will find these new",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-05-06-power-bi-desktop-update-april-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-05-06-power-bi-desktop-update-april-2020/",
+      "originalUrl": "https://youtube.com/watch?v=q2Hfn_Rhb3E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q2Hfn_Rhb3E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q2Hfn_Rhb3E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI Desktop Update - April 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T17:18:39Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-the-power-bi-release-train-has-departed-roundup-may-4-2020.md",
+      "title": "The Power BI release train has departed... (Roundup | May 4, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup177 2 Minute Tuesday: https://guyinacu.be/refreshmultipletables Adam's tech video: https://guyinacu.be/sqldirectquery  🔴 Live replay: https://guyinacu.be/may2020hangout  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-05-04-the-power-bi-release-train-has-departed-roundup-may-4-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-05-04-the-power-bi-release-train-has-departed-roundup-may-4-2020/",
+      "originalUrl": "https://youtube.com/watch?v=pVZ6hJP_gz0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pVZ6hJP_gz0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "The Power BI release train has departed... (Roundup | May 4, 2020)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T15:00:26Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-power-bi-case-studies-ai-for-health-and-more-roundup-april-27-2020.md",
+      "title": "Power BI case studies, AI for Health and more... (Roundup | April 27, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup176 2 Minute Tuesday: https://guyinacu.be/priad Patrick's tech video: https://guyinacu.be/modelviewtips Adam's tech video: https://guyinacu.be/9thingstoknow  🔴 Live replay: https://guyinacu.be/April2020Recap",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-04-27-power-bi-case-studies-ai-for-health-and-more-roundup-april-27-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-04-27-power-bi-case-studies-ai-for-health-and-more-roundup-april-27-2020/",
+      "originalUrl": "https://youtube.com/watch?v=dsi_6Ga5cAo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dsi_6Ga5cAo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI case studies, AI for Health and more... (Roundup | April 27, 2020)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T15:00:18Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-calculation-groups-translate-models-and-perspectives-coming-to-power-bi.md",
       "title": "Calculation groups, translate models and perspectives coming to Power BI...",
       "excerpt": "A lot of cool features are coming to power bi due to the new xmla implementation. In this video we discuss some of them:  Enhanced dataset metadata: https://docs.microsoft.com/en-gb/power-bi/desktop-enhanced-dataset-metadata Calculation groups in power bi: https://docs.microsoft.com/en-us/analysis-services/tabular-models/calculation-groups?view=power-bi-premium-current",
@@ -967,319 +1275,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2019-08-19T09:47:13Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2019-08-15-deep-dive-on-icon-sets-power-bi-desktop-update-july-and-august-2019.md",
-      "title": "Deep dive on icon sets - Power BI desktop update July and August 2019",
-      "excerpt": "In today's video, I will review the icon set feature available in Power BI since July 2019. I will give you my thoughts on what is good and what can be improved.  What do you think?  Here are the links mentioned in the video: KPI with a measure: https://www.youtube.com/watch?v=cboA5AtAPeg 08:22 How to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2019-08-15-deep-dive-on-icon-sets-power-bi-desktop-update-july-and-august-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2019-08-15-deep-dive-on-icon-sets-power-bi-desktop-update-july-and-august-2019/",
-      "originalUrl": "https://youtube.com/watch?v=Xbmhwo-XvBs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Xbmhwo-XvBs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Xbmhwo-XvBs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-08-15T08:19:31Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2019-06-11-conditional-formatting-filters-on-slicers-and-more-power-bi-desktop-update-june-2019.md",
-      "title": "Conditional formatting, filters on slicers and more, -Power BI desktop update June 2019",
-      "excerpt": "In this Power BI desktop Update on June 2019, the Power BI team has released some cool new features, one of them my favourite for this month. Which one is yours? #powerbi #curbal #powerweek  Keynotes: 1. New look and feel, what do you think? 2. Filter slicer data- Be careful with this one! 3. Conditional",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2019-06-11-conditional-formatting-filters-on-slicers-and-more-power-bi-desktop-update-june-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2019-06-11-conditional-formatting-filters-on-slicers-and-more-power-bi-desktop-update-june-2019/",
-      "originalUrl": "https://youtube.com/watch?v=CPN2LgVRla0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CPN2LgVRla0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CPN2LgVRla0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-06-11T10:45:04Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_news/2019-05-27-file-to-analyze-json-file-from-the-performance-analyzer-in-power-bi-part-2.md",
-      "title": "File to analyze json file from the Performance Analyzer in Power BI (part 2)",
-      "excerpt": "In today's video, I am going to share a power bi file that you can use to analyze the json file that you get as an output from the Power BI Performance Analyzer. #curbal #powerbi  To get the file, go to curbal.com - Download center and Membership downloads.  Here you can download all the pbix files:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2019-05-27-file-to-analyze-json-file-from-the-performance-analyzer-in-power-bi-part-2/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2019-05-27-file-to-analyze-json-file-from-the-performance-analyzer-in-power-bi-part-2/",
-      "originalUrl": "https://youtube.com/watch?v=yMKTt4Y5o60",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yMKTt4Y5o60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yMKTt4Y5o60/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-05-27T09:23:58Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2019-05-20-kpi-visuals-line-charts-filter-pane-updates-on-may-2019-power-bi-desktop-update.md",
-      "title": "KPI visuals, line charts, filter pane updates on May 2019 Power BI Desktop Update",
-      "excerpt": "In this video I will review the new reporting features released on the Power BI desktop Update for May, and take the opportunity to explaing in more detail how the KPI visual works. #powerweek #curbal #powerbi  Keynotes: 1. Reorder filter pane in power bi 2. change the position of the legends in the",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2019-05-20-kpi-visuals-line-charts-filter-pane-updates-on-may-2019-power-bi-desktop-update/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2019-05-20-kpi-visuals-line-charts-filter-pane-updates-on-may-2019-power-bi-desktop-update/",
-      "originalUrl": "https://youtube.com/watch?v=_lVjP9lSvd4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_lVjP9lSvd4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_lVjP9lSvd4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-05-20T09:54:59Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2019-04-11-improved-filter-pane-and-dynamic-titles-power-bi-desktop-update-2019.md",
-      "title": "Improved filter pane and dynamic titles -Power BI desktop update 2019",
-      "excerpt": "It is power week folks! , meaning power bi desktop update april 2019 is here, this time with an improved filter pane and dynamic titles as a head number for the reporting features. Here are my thoughts... #powerbi #powerweek #curbal #powerbiapril2019   Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2019-04-11-improved-filter-pane-and-dynamic-titles-power-bi-desktop-update-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2019-04-11-improved-filter-pane-and-dynamic-titles-power-bi-desktop-update-2019/",
-      "originalUrl": "https://youtube.com/watch?v=J7en5Bch4IM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J7en5Bch4IM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/J7en5Bch4IM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-04-11T08:35:50Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2019-03-01-new-reporting-features-power-bi-desktop-update-march-2019.md",
-      "title": "New reporting features - Power BI Desktop Update March 2019",
-      "excerpt": "**You can format the tooltip with JSON, I missed that from the release notes :))  New reporting features - Power BI Desktop Update March 2019 including: 1. Radio buttons in slicers 2. Formatting tooltips pane 3. Heatmaps and more  Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2019-03-01-new-reporting-features-power-bi-desktop-update-march-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2019-03-01-new-reporting-features-power-bi-desktop-update-march-2019/",
-      "originalUrl": "https://youtube.com/watch?v=v2KNfqf1nvg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v2KNfqf1nvg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/v2KNfqf1nvg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-03-01T09:12:07Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Curbal",
