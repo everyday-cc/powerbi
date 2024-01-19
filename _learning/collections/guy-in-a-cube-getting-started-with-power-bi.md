@@ -22,6 +22,7 @@ items:
   - videos/guy-in-a-cube-5-ways-to-get-power-bi-support-pbifamily
   - videos/guy-in-a-cube-the-new-power-bi-app-workspace-experience
   - videos/guy-in-a-cube-power-bi-apps-vs-app-workspace-the-new-viewer-role
+  - videos/guy-in-a-cube-power-bi-tutorial-for-beginners-2024
 
 topics:
   - Power BI
