@@ -249,7 +249,8 @@ items:
   - videos/curbal-dax-fridays-220-selectedmeasure-function
   - videos/curbal-dax-fridays-219-index-function
   - videos/curbal-use-the-dax-query-editor-to-make-working-with-dax-easier
-  - videos/curbal-are-you-using-sameperiodlastyear-in-your-reports-then-you-need-to-know-this-dax-power-bi
+  - videos/curbal-are-you-using-sameperiodlastyear-in-your-reports-then-you-need-to-know-this-dax-power-bi-082
+  - videos/curbal-compare-sales-with-two-random-periods-power-bi-modeling-084
 
 topics:
   - Power BI
