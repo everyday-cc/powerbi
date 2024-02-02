@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Copy Conditional Columns in Power Query or Power BI"
 
-secured: "f/kO9gqkS/C5iu6wATfLW64FvdY5dwniMGTgmC9+1LC506YKWVnDBb8rWC54CIcOpcHBZ517n2yhRivrTs+MiT5Fr44+7+/RdPUM+M/D6H3BVDnFJFS+V4M4ecVciYKVNiT0I0OM287tKUUmCvpkRmR0IuKJYNsQ0zbTe6Ei2FIx5/e+RvcH/67nsrugVN6rHJdcXQoXpZNALG4SWy4HkSdmtyDgGNTD4p79twM35NQHpcv4n3+PptOpvg5cw2QfHbrpM5Tv0YgHUEypF8j7oFaA34ugJQP7MypIosG3R4oo0dJKp0JJnWqt+u0YLa+ETzwL5Gt83Yk3UDRp/qW2RtLgGa4238WyQ727LLLIctBdHjqH5JQq9OOXYkgSywgwmmWZz++KAkV6qLWUx4bP3mIydtP51f6Mc7WFGmdYzGo=;YmGDZejlBeH6rTuovD1ngQ=="
+secured: "Fst/7O/Uucd5faNJP6/bF/ITSS3v4r/BlLFxvmdz6/Hh3j3eb6tb3weZHKJb0afUYh4TqfpwsOx47yKeatwGBZ92wS00oS8H0leElLtlC9oxxRXaeO2vmWzyMIjlIL/AxElRFynfcWC6fgOssmtR+i1WpSGKXGufECKFcz0f4UVZrVEqz7IrPY6vLu0BGlqXZLvElRXyq/hnUHCiJQB6JkfqeYyO0VALp+LACe0g9VliSwx8ktIlYrk5y0ugIOk59owEEr0xT9/bCNeQObTEpYZEakdr7F06hU2pJNIyh03h34fkqj+fjpe5IlBPXmfBRoLni53a/5CwUPpRKHc7+cg5eUiD+rNthLH31SherAdVoigeGpy4wOUr+B2t1VJSFw1vq4IJq9M9NxMd5Si+GyziEvt+YVgG8v7y5CHWJ74=;2lm29Tj+zmOQ4ci3mnVnpw=="
 ---
 
