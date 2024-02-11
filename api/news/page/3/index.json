@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-08-31-how-to-sort-one-column-by-another-column-in-power-bi.md",
+      "title": "How to Sort One Column by Another Column in Power BI",
+      "excerpt": "How to Sort One Column by Another Column in Power BI Your email has been sent If the natural data can't support the sorting and filtering requirements, you might need to add an index column and ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-08-31-how-to-sort-one-column-by-another-column-in-power-bi/index.json",
+      "webUrl": "https://www.techrepublic.com/article/how-to-sort-by-column-power-bi/",
+      "originalUrl": "https://www.techrepublic.com/article/how-to-sort-by-column-power-bi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2022/10/tr-pbi-running-total.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T12:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2023-08-30-new-options-for-bubble-chart-sizes-power-bi-update-august-2023.md",
       "title": "NEW options for bubble chart sizes | Power BI update august 2023",
       "excerpt": "This month the power bi team released 2 new options to decide how to represent the bubble size in Power BI: Data range and magnitude.  In this video I will show you the difference between them.  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join",
@@ -1229,57 +1280,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-power-bi-june-2023-feature-summary.md",
-      "title": "Power BI June 2023 Feature Summary",
-      "excerpt": "Welcome to the June 2023 update! This month, we are please to announce updatest to On-Object interaction, a new demo experience to the Power BI embedded playground which simplifies the process of exploring embedding Power BI in your application, creating Power BI reports instantly with Jupyter Notebooks,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-06-14-power-bi-june-2023-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-june-2023-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-june-2023-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T08:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],
