@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-12-power-bi-monthly-update-february-2024.md",
+      "title": "Power BI Monthly Update - February 2024",
+      "excerpt": "Follow us on Twitter - https://twitter.com/mspowerbi\r \r More questions? Try asking the Power BI Community @ https://community.powerbi.com/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2024-02-12-power-bi-monthly-update-february-2024/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2024-02-12-power-bi-monthly-update-february-2024/",
+      "originalUrl": "https://youtube.com/watch?v=obL3kbbjkpA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/obL3kbbjkpA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/obL3kbbjkpA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T18:25:47Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-power-bi-update-february-2024.md",
       "title": "Power BI Update - February 2024",
       "excerpt": "Follow us on Twitter - https://twitter.com/mspowerbi\r \r More questions? Try asking the Power BI Community @ https://community.powerbi.com/  #microsoft #powerbi",
@@ -1223,58 +1275,6 @@
       "topics": [
         "Power BI",
         "DAX"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-power-bi-update-november-2023.md",
-      "title": "Power BI Update - November 2023",
-      "excerpt": "Welcome to the November 2023 update. We’ve got a lot of great features this month including DAX Query view, Semantic Model Scale-out, and Advanced Filtering for Paginated Reports.  Follow us on Twitter - https://twitter.com/mspowerbi\r \r More questions? Try asking the Power BI Community @ https://community.powerbi.com/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-11-11-power-bi-update-november-2023/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2023-11-11-power-bi-update-november-2023/",
-      "originalUrl": "https://youtube.com/watch?v=HiWiXyZHRsE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HiWiXyZHRsE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HiWiXyZHRsE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T08:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],
