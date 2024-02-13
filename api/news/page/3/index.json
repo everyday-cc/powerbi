@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-01-how-to-sort-one-column-by-another-column-in-power-bi.md",
+      "title": "How to Sort One Column by Another Column in Power BI",
+      "excerpt": "If the natural data can't support the sorting and filtering requirements, you might need to add an index column and sort by it.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-09-01-how-to-sort-one-column-by-another-column-in-power-bi/index.json",
+      "webUrl": "https://www.techrepublic.com/article/how-to-sort-by-column-power-bi/?post_id=4007112",
+      "originalUrl": "https://www.techrepublic.com/article/how-to-sort-by-column-power-bi/?post_id=4007112",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg",
+          "width": 270,
+          "height": 203,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T17:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-best-practices-to-prevent-getgroupsasadmin-api-timeout.md",
       "title": "Best Practices to prevent GetGroupsAsAdmin API timeout",
       "excerpt": "This blog post describes new changes in GetGroupsAsAdmin API to help administrators deal with timeout issues.",
@@ -1203,58 +1254,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-06-20T12:48:28Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-new-power-bi-update-june-2023-released-check-out-the-highlights.md",
-      "title": "New Power Bi Update June 2023 Released - Check Out The Highlights!",
-      "excerpt": "Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-06-15-new-power-bi-update-june-2023-released-check-out-the-highlights/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2023-06-15-new-power-bi-update-june-2023-released-check-out-the-highlights/",
-      "originalUrl": "https://youtube.com/watch?v=EkRVxaCTLyE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EkRVxaCTLyE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EkRVxaCTLyE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T08:51:32Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Curbal",
