@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "What is Power BI Embedded?"
 
-secured: "7khTYIN34vb/pAACYjy5Cyn3OnIVC9vdho/ZA4evx50K/RP/0VY+OS8u+TkRxQLn4Y02Awy8dbVM0NI14qQhEXSYpPfalXqNXyzTXzGlNmLujlzoXkCB/Il3oToOqaOMlvy+TNsbUi0z+6S9u+x3M8kGgQ2ufuLdUDGHaJ4M/CL9i2stv6ujXf5dnjhgmf3Z2gj/qUMGHluxda/8U5oo4eMJ7soFsXp/6cYfmmx+4C+4gheE9H0o+1WIX5EzWqOqmb6Ygqo2n65a9yDxV6PxzyAqGo1EZVrMrM4AlJZjNuBxP+os/7z3+LBANb/Rq5qwSB763cedoPV3d28EVyUpq6bDCWKpztYW9UoqXz9HZvETD4dC52v00w+X3nrPjhyPvTApl+E5fNUYyAwbgH/YgkjRWoulWXUfYKinxD5yxAAYvaPBQvlFV+MjzVkJ+mrX;t29cwyZO7NDg1vZtW4pykg=="
+secured: "jiu7cDYv/9zKr0bDPY7dSQ/i3HYHBvE2q8dKq/hr8595rTvbjzxUV5Qp6Y26ISqV9GJ0e+uWzQpCu+wHjm49nCCXlRk4aWuad++nik//vfgyIl07X43TZAVVu5N0p8n4kXC5z+6OmhVim378QcruVDwQuHdVO96fZdByXtmbA/QQbRDQ1ND9HHVgnj8vfT9/62O4AKleTd5YjjeUmygQPlMHdQ7nbKEvN4pKe+kPgXNajzbBkm/ttLEcDxzsoI2c8jMOC51C5RZ/KZGVDj0WdcTTDTI3gM2Fy2LHPfB6nSe3j8s11XJaujUBlTDSHor7cAkQ8M04SE7P/LIvyQr/4wD0TH+LRp7b7wJK7ekDJtgz0fwXAmiy2ncQ3pzpxw96pclQTlPbwegm2e75DIEAeZWvucHRCCboHKA8igLMPkA7da/QJJhXCYlgIFFGj3pA;1EmxgU386bpbaQol/Rl/UQ=="
 ---
 
