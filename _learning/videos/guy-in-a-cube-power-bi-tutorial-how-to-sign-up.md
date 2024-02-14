@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Tutorial: How to Sign up"
 
-secured: "k8Z82i+RqhnxCJM9oAds/shb/hSVUu0N6C7RJSE+rJ3ZeOej0bSB0rryW2CCSuUclapkS84qKMPE4t2XrIz4ksESbe6IyOfzdcl8YTKFtNcewJWuyntDJPfjEW5OhJp+ZkApFyDhwMZSGoX4mu1UKmD6YNiJHDqlx6y/+fHwXpI4WeMfWoSYJqeD1GpKhBNUpRrLEmAuofxTEO/H+1GdfDJ0qGI2ryMiV57eQIkZi4Hs8KhU+VMHdgTvfxerw6eqMQDygGnUe2MV/0NNA/fKIzJ3A1YFQUOCX1nbaDMf/TMFfzBdfK7Ot6cCN3FRtbnuMi9Ea52xWUwHElf3utPygAIEWnQdlcSGyLy8+M8vRunSOcqJtZwxhhfz26/sx+3N6KDQy6Lgki6dCh0Kvovy9yAifCSY4op0oYpc3ctpQgc=;OWzBkxQTvIMDjifzeJUh+Q=="
+secured: "CcMUT93YlywndoZepLHllq4iTDXqCF35/W+Oqm5aK08/nyHTpydNQpFdNtLdZN97kfkRfUfeR6lyee0rdJfCDaRc98OsZu4DcP2vbeO9yzRroRRQGIQ1wMhSV857t0Swc8A+DRcJIn2AtSfxg+7ll4C0ja762b/rn4p4zGubTEU2V7aIfd37RzwLVA/9RHrAoBCuomS1jc3T0e0MHwEiPVKuM95VTktsUTVQtY1g4wGfcrQf3EU/TGFkudsmhfXgtKf5fMlc4/ChiPcL+GoBoYcZKl0EgvqNoB8jKuD80t/sFZvYM9RVpiI1G6rTCY/BMxqlo7VSIzo+hwzI3LqN+OvQw+1BlZfENsPMcM3vblbkGsJO5Dcq/eHYtg9T59WxUnSyXSmoP9T/UsJjGGzY3CT+sFrUVyNHF2EocR/6vOw=;dTBR4O866YEzaikPYYK9Mg=="
 ---
 
