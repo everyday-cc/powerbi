@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Using Single Sign-on with the Power BI Gateway"
 
-secured: "puJEn9zBelfEWDpPkWn8Z7J2jiw6EN/p8qGm7NQ5RQhQ0YWwPZrW2PCHaB6B1/iGF8c9/ZMJlsMOt9TQ0mEYKj75BgxFNfAG9PtsFdfEm3rDM/BBoxZmFVsteW3ESaLD102Ug7ZaeTV25sE2Rsa8fh/6hI+yg6O8F680++eA/8zr0xyDORTxobwtJPpTSpPXQ55Yts9YZp/Id4hnUAdetdjQ0C6fejDZH+NZwtQHbX8rIh7IOh2NL1senPgXL+S4+XgIHp4qjHntdrN/Vkud6h5I7WEBrhNZOVkl1/posgOqb3lbVgN5ZWCTgO4ykjlEI7B2u2qx49QkgL5aZYDrFdA/IPgSsVyIF5DnWBgSs3N0yU7IMG17gas4TIu8Uvg6b1nsbifN4vEAOLygy4WvPz/lEw/9u2b+cQ1LvOig7Bg=;rye4aWlKAViT5cuDtQzqew=="
+secured: "dlfChyouDCxH7wXDIWfUrQiV9O3NFlfiYfkedyM5C4yBEH/CrDyVhceufQuUR+OREsMB0JNkj5raUNSY1J8GD2V5wEAurw3bZIAHQwOO9vbDWYbxy1nl7o4w3KcPajvLnxeaqlas0lJ6XB3xeeZg9DLThJWyc2Ac8OY5Se6qcoG/t+RlTAzT9y8w3q86zsvIVaKWeeJBjWeqyBRAVt80G9FH0q3Os3Asa9+ASnInv4xXc3Zvu3gxr5+5yxikiihwYLaJ00tvLN+CqrgNmNRvXGw+BsVwVd0m4O6UrIPm+Bz99bHX7Lu8Y8Yf0dW3D389SqQHmG284EtsjQU16aAW6+ep8UunEK3cFZPrLfPRiD789++MCRL/lXah3G002HcCoRv5G3WQRIefvjk/2NfkeGZOr5NHld8Dvkp+/sALHq8=;TjI2H8J4te5jiuY5Pm/jHQ=="
 ---
 
