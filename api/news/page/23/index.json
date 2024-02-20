@@ -2,6 +2,159 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-10-27-power-bi-report-server-october-2020-feature-summary.md",
+      "title": "Power BI Report Server October 2020 Feature Summary",
+      "excerpt": "We are excited to bring you a new version of Power BI Report Server this month! With this update, we’re releasing an awesome set of features including the modern ribbon, slicer improvements, enhanced dataset metadata and more. Read on to get the full details of all the new additions.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-27-power-bi-report-server-october-2020-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-october-2020-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-october-2020-feature-summary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T17:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-priority-access-sign-up-for-power-bi-premium-per-user-public-preview-now-available.md",
+      "title": "Priority Access sign-up for Power BI Premium per user public preview now available",
+      "excerpt": "We are almost ready to launch the public preview of the new Power BI Premium per user SKU in early to mid-November.  We are excited to give users access to these capabilities as soon as possible, while at the same time ensuring that we are prioritizing the users/tenants that are most interested in previewing",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-27-priority-access-sign-up-for-power-bi-premium-per-user-public-preview-now-available/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/priority-access-sign-up-for-power-bi-premium-per-user-public-preview-now-available/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/priority-access-sign-up-for-power-bi-premium-per-user-public-preview-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T08:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-the-enhanced-compute-engine-is-now-enabled-by-default.md",
+      "title": "The enhanced compute engine is now enabled by default",
+      "excerpt": "The enhanced compute engine will be enabled for all new dataflows workloads",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-26-the-enhanced-compute-engine-is-now-enabled-by-default/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/the-enhanced-compute-engine-is-now-enabled-by-default/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/the-enhanced-compute-engine-is-now-enabled-by-default/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-26T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-updates-to-power-bi-publish-to-web-for-better-public-reporting.md",
       "title": "Updates to Power BI Publish to web for better public reporting",
       "excerpt": "Power BI Publish to web helps organizations share data on public websites, enabling communities to stay informed. Learn how you can make your reports load faster for users, and provide improved experiences in the event your report experiences heavy usage. ",
@@ -1094,159 +1247,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-announcing-new-power-bi-experiences-in-microsoft-teams.md",
-      "title": "Announcing: New Power BI experiences in Microsoft Teams",
-      "excerpt": "The way we work is changing dramatically. It’s more connected, collaborative, and often done remotely. Organizations need tools to help everyone infuse data into every decision. We’re excited to announce new Power BI integrations for Microsoft Teams to make it easier to discover and use data within your",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-09-22-announcing-new-power-bi-experiences-in-microsoft-teams/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-new-power-bi-experiences-in-microsoft-teams/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-new-power-bi-experiences-in-microsoft-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T08:31:25Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-driving-a-data-culture-in-a-world-of-remote-everything.md",
-      "title": "Driving a data culture in a world of remote everything",
-      "excerpt": "During this new Microsoft Ignite format, with 48 hours of hours of digital sessions and interactions where thousands of IT professionals will come together, we have several exciting innovations to announce that will help customers drive clarity when they need it most.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-09-22-driving-a-data-culture-in-a-world-of-remote-everything/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/driving-a-data-culture-in-a-world-of-remote-everything/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/driving-a-data-culture-in-a-world-of-remote-everything/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T08:30:43Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-power-bi-september-2020-feature-summary.md",
-      "title": "Power BI September 2020 Feature Summary",
-      "excerpt": "Starting this month, we have merged the Power BI Desktop, Service and Mobile blogs so there is one overview of everything that is new in this month. For now, let us get started because we have exciting updates this month! Amongst others, in the analytics area, we introduce a preview of the Smart narratives",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-09-22-power-bi-september-2020-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-september-2020-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-september-2020-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T08:30:02Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,160 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-20-tmdl-in-power-bi-desktop-developer-mode-preview.md",
+      "title": "TMDL in Power BI Desktop developer mode (Preview)",
+      "excerpt": "We are very excited to announce the adoption of Tabular Model Definition Language (TMDL) as the semantic model file format for the Power BI Project files.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2024-02-20-tmdl-in-power-bi-desktop-developer-mode-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/tmdl-in-power-bi-desktop-developer-mode-preview/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/tmdl-in-power-bi-desktop-developer-mode-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T08:31:47Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-visual-calculations-preview.md",
+      "title": "Visual calculations (preview)",
+      "excerpt": "This is it. The way you write DAX changes today with the preview of visual calculations!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2024-02-20-visual-calculations-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/visual-calculations-preview/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/visual-calculations-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T08:23:28Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-power-bi-february-2024-feature-summary.md",
+      "title": "Power BI February 2024 Feature Summary",
+      "excerpt": "Welcome to the Power BI February 2024 update. We’ve got a lot of great features this month. Here are some key highlights:\r\n\r\nVisual calculations make it easier than ever to do calculations that were very hard or even impossible.\r\nThe Power BI home provides a centralized location for all your Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2024-02-20-power-bi-february-2024-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-february-2024-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-february-2024-feature-summary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T08:00:59Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-generate-measure-descriptions-with-copilot-preview.md",
       "title": "Generate measure descriptions with Copilot (preview)",
       "excerpt": "We are excited to announce the public preview of generating measure descriptions with Fabric Copilot! ",
@@ -1102,160 +1256,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-looker-vs-power-bi-2024-software-comparison.md",
-      "title": "Looker vs. Power BI: 2024 Software Comparison",
-      "excerpt": "We may make money when you click on links to our partners. Learn More. Looker by Google and Microsoft Power BI are both business intelligence (BI) and data analytics platforms that each maintain a ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-12-14-looker-vs-power-bi-2024-software-comparison/index.json",
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/looker-vs-power-bi/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/looker-vs-power-bi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/12/ew_20231214-looker-vs-power-bi.png",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-feature-summary-of-the-power-bi-update-for-december-2023.md",
-      "title": "Feature summary of the Power BI update for December 2023",
-      "excerpt": "Great updates for us data viz enthusiastic :)  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-12-13-feature-summary-of-the-power-bi-update-for-december-2023/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2023-12-13-feature-summary-of-the-power-bi-update-for-december-2023/",
-      "originalUrl": "https://youtube.com/watch?v=Su9KQy77uE0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Su9KQy77uE0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Su9KQy77uE0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T13:21:35Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-power-bi-december-2023-feature-summary.md",
-      "title": "Power BI December 2023 Feature Summary",
-      "excerpt": "Welcome to the Power BI December 2023 update. We’ve got a lot of great features this month. Here are some key highlights:\r\n\r\nLearn how you can skill up and get ready for the upcoming Fabric Analytics Engineer certification with the Cloud Skills Challenge.\r\n\r\nJoin us at the first annual Microsoft Fabric",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-12-08-power-bi-december-2023-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-december-2023-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-december-2023-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T15:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
