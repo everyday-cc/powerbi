@@ -252,6 +252,7 @@ items:
   - videos/curbal-are-you-using-sameperiodlastyear-in-your-reports-then-you-need-to-know-this-dax-power-bi-082
   - videos/curbal-compare-sales-with-two-random-periods-power-bi-modeling-084
   - videos/curbal-dax-fridays-224-columnstatistics-a-quick-overview-of-your-dax-model
+  - videos/curbal-dax-fridays-225-runningsum-visual-calculation-functions
 
 topics:
   - Power BI
