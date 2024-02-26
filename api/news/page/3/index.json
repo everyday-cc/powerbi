@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-20-enhancing-admin-portal-experience-with-keyword-based-filtering.md",
+      "title": "Enhancing Admin Portal Experience with Keyword-Based Filtering",
+      "excerpt": "Keyword based filtering of Fabric tenant settings to enhance admin user experience",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-09-20-enhancing-admin-portal-experience-with-keyword-based-filtering/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/enhancing-admin-portal-experience-with-keyword-based-filtering/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/enhancing-admin-portal-experience-with-keyword-based-filtering/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-20T14:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2023-09-15-get-the-latest-power-bi-update-for-september-2023-in-under-4-minutes.md",
       "title": "Get The Latest Power Bi Update For September 2023 In Under 4 Minutes!",
       "excerpt": "Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
@@ -1210,57 +1261,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-how-to-use-power-bi-in-outlook-and-office-for-data-storytelling.md",
-      "title": "How To Use Power BI in Outlook and Office for Data Storytelling",
-      "excerpt": "How To Use Power BI in Outlook and Office for Data Storytelling Your email has been sent It’s now easier to make decisions with your colleagues by putting Power BI data into PowerPoint slides ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-07-22-how-to-use-power-bi-in-outlook-and-office-for-data-storytelling/index.json",
-      "webUrl": "https://www.techrepublic.com/article/how-to-use-power-bi-in-outlook-and-office/",
-      "originalUrl": "https://www.techrepublic.com/article/how-to-use-power-bi-in-outlook-and-office/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2021/04/power-bi.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T21:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
