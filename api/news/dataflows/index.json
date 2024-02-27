@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-27-announcing-the-deprecation-of-creation-of-machine-learning-models-in-power-bi-using-dataflows-v1.md",
+      "title": "Announcing the deprecation of creation of machine learning models in Power BI using Dataflows V1",
+      "excerpt": "Announcing the deprecation of creation of machine learning models in Power BI using Dataflows V1 ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2024-02-27-announcing-the-deprecation-of-creation-of-machine-learning-models-in-power-bi-using-dataflows-v1/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-deprecation-of-creation-of-machine-learning-models-in-power-bi-using-dataflows-v1/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-deprecation-of-creation-of-machine-learning-models-in-power-bi-using-dataflows-v1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T13:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Dataflows"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-reminder-announcing-the-retirement-of-data-support-for-streaming-dataflows.md",
       "title": "REMINDER: Announcing the retirement of data support for Streaming Dataflows",
       "excerpt": "Streaming Dataflows has now been retired and all data retained from the experience will no longer exist starting mid-June 2023. You can now migrate to Azure Stream Analytics (ASA) No-code editor today! ",
