@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/24762/"
 webUrl: "https://powerbi.microsoft.com/en-us/blog/24762/"
 type: article
 quality: 87
-heat: 89
+heat: 88
 published: true
 
 provider:
