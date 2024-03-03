@@ -17,6 +17,6 @@ provider:
 topics:
   - Power BI
 
-secured: "Uu1bdyP3mzgmpv3JikxBvC64isXynLAO398IP51MQq28P5h+0fzSMufLKS/Tk9pFAPfgxAwmzeNNeRW75aE4eLPcLQ+CA1c1UncIYwJKxJaw2kFqUvDgkpKZVtedTA8r3Nj8VgFpS4t36P+Fs60s47PQ5ukDIa2/ic3vrx/lNbFzsx+NfqXX6CkqOq8ORckEQHBcLu6FVzH6OI2anLw+/rvbGqnyMU+/oKNYjLxrE2r+zxvEwu35RQTKyxT/hK+eZhEF6gbTs6HJ/Aq3W5HpRc9Cr/uh4d4KHnbJIF8X/ut9b+zJcm1o9gUZM0BDR/7rFIgLv4N6J1CVEDcHmD7DtkcbhCgB0PMNZBk4QUPJ5L8DCwzGu1NboAKMElPwCATbhY/AYmMwGLu3ZtTVunMoGg==;NpvJNarOU3stuq5CuSHgdA=="
+secured: "v5Lm24KxeaciAdJvEsHFWWgnCQOU5bs/UR2CNNWmhzE/wm+985aKxdYQc5w6kmoRF4oM6xdHwmIv7rejvZkxjDM662+N7kk0y4y7IyS/5U8twgmRVwQftu82lTv/rN/Vg1+acW/azENw8Ph1/Jt1OkHxrq75dD3aC7E8zTre9hh1ebucK6+rcb/XJU4GZisR/RjUOkjZ0J5hJhkDUbxk/ihchlawerXyUiAW04flepkR7edIlpbDyBwSsutIGaCNXqiZS0Lz7Rfkf5IcpaJL2E5vqFRNHkitqpIdytHCjnI05LQOAgGgrkKobB+OnpGTyhxKu9b8HHwq6QYG3GmgdOFEK/nVQYzDK6vauUtMTQA/3RmJmodeA3+IQj8/Ndgo8IAIEros2t+1IoYt19u/9Q==;Hw+ifcSiSpYfjgCYy2CyMA=="
 ---
 
