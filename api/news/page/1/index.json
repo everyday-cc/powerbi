@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-06-on-premises-data-gateway-february-2024-release.md",
+      "title": "On-premises data gateway February 2024 release",
+      "excerpt": "We are excited to announce the February release of the on-premises data gateway!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2024-03-06-on-premises-data-gateway-february-2024-release/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-february-2024-release/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-february-2024-release/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T15:08:23Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-announcing-the-creation-of-connected-tables-in-excel-online.md",
       "title": "Announcing the creation of connected tables in Excel Online",
       "excerpt": "You can now create tables in Excel online using data from Power BI semantic models.",
@@ -1196,57 +1247,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2024-01-16T08:00:14Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-new-fabric-certification-and-fabric-career-hub.md",
-      "title": "New Fabric certification and Fabric Career Hub",
-      "excerpt": "Last year was a remarkable one for the Power BI community. We launched Microsoft Fabric, an end-to-end analytics platform that brings together data preparation, data warehousing, data engineering, data science, real-time analytics, and business intelligence in one unified SaaS foundation with one copy",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2024-01-15-new-fabric-certification-and-fabric-career-hub/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/new-fabric-certification-and-fabric-career-hub/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/new-fabric-certification-and-fabric-career-hub/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-15T09:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
