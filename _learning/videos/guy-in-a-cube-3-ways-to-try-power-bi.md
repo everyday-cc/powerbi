@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "3 ways to try Power BI"
 
-secured: "+jNTZYu5HJXBl8ePlZ9fxGjapKeBagHi8sJXvPCg1M7p5bz+cyO72pm+Nh7KQMMkYMozMCA3Vg+YoiV9idZPtL5ftd9lIqm+b4pyDxBpn+/myyuT+nlWFXUC3HXj43dIo1dvNndhT2icn6UDTcRyA5bLz1p0innpVVNrNbtYYqeb/+LSNHPyhI/cyfqIjN9fz+/r6uyIV5QbIpgfMFi3FS6vWMD8qvfoVWIA3OZQlTqZx1WjML4o+EA2TsFmR2b1uDKt7wj4NtJTr3pbPtkWjVd7c/wqx2jR3ahFcPSbF4xLGJKcdYOlugbnK1aDq3WSHgUbEzdxvjf425lO9rL231v5dlqy4CH5Hchqg7+cs2F1+sdIWKO8Oal/TTJxWmyKPgpLnjKk9Q1DbT00A4K37QYK7Ir4jrbaeokaQ105tk8=;68LsVyaI4fKPFksl0Ci/jQ=="
+secured: "HJayo4qjb3A/q78OrM4tYrQhfIEt5pUOtzb+T41MJzNnJDkzjc25w2LJktjbYxvbAiUmQ8RMBzikc4E59JuwpfpQYcBOUzoFqCL1a+AhzZ/SzhjbwwiuluGSXxjbxvejTBiD8hOM1kwVBm4e+ExQiy8YgKUCdsFSPhMSrnmjVJJCkCihsb9MlPb8y49/5fT5YE+bt2EvNHu0y+kuySsTWVHYjzZVGA9f3BVjCV1f2Xg4ZYQmIMhc9yW18xX/H3xAtX7nxiGoR0TB5iJIzF66Ikgwid9fy0Kmp2u+YRHVb8Py6egDs8yjF/dyQQGwjkjsuNnDoJV1E1xH3D/M9dyK59BWJXvhg/oRYEq2a6s/SIqQya6IJmiHYN4Q4113PC1stTUqoI+OdYWaQaV0RS/9Xjv5slE2rjZuNs/BrPxvl/4=;CVjkf6VFtbl4Foy+H8sJDA=="
 ---
 
