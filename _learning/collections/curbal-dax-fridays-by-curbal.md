@@ -253,6 +253,7 @@ items:
   - videos/curbal-compare-sales-with-two-random-periods-power-bi-modeling-084
   - videos/curbal-dax-fridays-224-columnstatistics-a-quick-overview-of-your-dax-model
   - videos/curbal-dax-fridays-225-runningsum-visual-calculation-functions
+  - videos/curbal-dax-fridays-226-previous-dax-function-visual-calculations
 
 topics:
   - Power BI
