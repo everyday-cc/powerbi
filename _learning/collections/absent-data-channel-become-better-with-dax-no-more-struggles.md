@@ -20,6 +20,7 @@ items:
   - videos/absent-data-channel-create-dynamic-personal-greetings-in-dax
   - videos/absent-data-channel-sumx-simplified-finally-understand-with-excel-power-bi
   - videos/absent-data-channel-dynamic-outlier-detection-and-visualization-with-dax-in-power-bi
+  - videos/absent-data-channel-highlight-rows-bar-charts-highlow-minmax-with-dax-power-bi
 
 topics:
   - Power BI
