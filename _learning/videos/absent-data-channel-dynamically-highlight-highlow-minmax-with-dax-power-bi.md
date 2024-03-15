@@ -4,7 +4,7 @@ excerpt: "Learn to quickly highlight values, tables, charts, and more with some 
 originalUrl: https://youtube.com/watch?v=v5v7GKBphiU
 type: video
 price: Free
-length: PT11M38S
+length: PT11M24S
 publishedDateTime: 2024-03-13T06:22:38Z
 heat: 
 
@@ -18,6 +18,6 @@ topics:
   - Power BI
   - DAX
 
-secured: "WHwDaDJuoxelO6GNzPXHWXcRvIf2L34zLbGrxHqzLOgJCvPKjllYa/tChCfD25C/N2WoWenkDHoiDnZg8y9ZWIAAKGQSOCHgnE0adpOtsDKctmSSylIFfLbkHy7jfG/Lcd52F/Aghr3wiMDk7XoWFztagP01KOFg40pcze7DVWEFndHnu5k8YDtDmPYb5eillRkHuzQ8ouhLX/wyccb4Yr7nouNTsJVYLGXxPO+q4CieqmijqKBBKOGHbfGLTgywL4sXNBLtn36gttr6goOu6xHWU/aUq4A7UKa4bHtogfnHeKrai9k3DRgBRpnNTqnwiIFF1iANAHiUW0G3aiVkg4RwMV00LcG9UjI+XKIRaH1kkS8scRxqsqzDn0kiqwcbejdyGPPu4jP48znCZOaH/w==;/eORbi8j+bz/lDtDGo4XVQ=="
+secured: "howknCEBYbPYr2wrUJFt75dedazLzUOZdC4PvHyOppGlj+oZemvfMauybInTUQ1z3taE/hvgSoBdTa+C6GpfqYXFnEZtuRy+EUwBZRtRg1dnDDhAKnvIA5zeOwFStjuy0XyrvW/DVK9sg0KZP5WrGNNwbk3yUkaVnNc9nwY57FWTyMTMyLYeeFs3WwS0MX0kSGLLYPD7d2rdScQxcNhVrF15AZQaVL7lyWZ3K6lmsZ0lTI0JsPg9Tnh1rX1O6qPYsxXEld8ArxDaTusfglmp+RYcP8i2jGs8IGgNHW4p7pmsnK2RQovGts40/xvwcIgsFLNeNnvTN3BV8X1svgvZu4L2io8P/JtL2EeQ8ZdnkNiaSvky0nLciGavgCVQBmgYr+mFnkoScJBjgJcWlNxqI21vFuVgjxMYAi5Qnwq3Z5o=;/QqrNH/ApQlRdPsHfRoQpQ=="
 ---
 
