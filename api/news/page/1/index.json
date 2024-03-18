@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-18-copilot-updates-march-2024.md",
+      "title": "Copilot Updates March 2024",
+      "excerpt": "This month, we are excited to announce some new and exciting updates to Copilot;\r\n\r\nCopilot for consumers now includes support for Apps. Updates to Copilot geography support, usage and billing updates and abuse monitoring changes.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2024-03-18-copilot-updates-march-2024/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/copilot-updates-march-2024/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/copilot-updates-march-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-18T07:00:38Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-important-update-coming-to-power-bi-premium-licensing.md",
       "title": "Important update coming to Power BI Premium licensing",
       "excerpt": "With the exciting release of Microsoft Fabric and the Fabric capacity SKUs last year, we are consolidating purchase options and retiring the Power BI Premium per capacity SKU after January 1, 2025.",
@@ -1210,57 +1261,6 @@
         "name": "Mashable",
         "domain": "mashable.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-dynamic-subscriptions-for-power-bi-reports-preview.md",
-      "title": "Dynamic subscriptions for Power BI reports (Preview)",
-      "excerpt": "We’re excited to announce that dynamic per recipient subscriptions are now available in Preview for Power BI reports! Similar to dynamic subscriptions for paginated reports, you can now distribute a personalized copy of a Power BI report to each recipient of an email subscription.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2024-01-16-dynamic-subscriptions-for-power-bi-reports-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/dynamic-subscriptions-are-now-available-for-power-bi-reports/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/dynamic-subscriptions-are-now-available-for-power-bi-reports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
