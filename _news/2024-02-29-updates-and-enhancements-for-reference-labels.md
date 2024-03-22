@@ -6,9 +6,11 @@ publishedDateTime: 2024-02-29T17:34:07Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/updates-and-enhancements-for-reference-labels/"
 webUrl: "https://powerbi.microsoft.com/en-us/blog/updates-and-enhancements-for-reference-labels/"
 type: article
-quality: 72
-heat: 72
+quality: 174
+heat: 174
 published: true
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HmU8BNfyyuM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Microsoft
@@ -20,6 +22,7 @@ provider:
 
 topics:
   - Power BI
+  - Power BI Desktop
 
 images:
   - url: "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png"
@@ -27,6 +30,6 @@ images:
     height: 630
     isCached: true
 
-secured: "Xp3g0+AC+IWyZsvrpVL1V1vXUOrNEDnm1vV4sDY303md9VrbWA3KUxRRE1BlcGWq9RagTLm3kxUvu95wDqlX0+AUO2p9lnZuSi7KlB5Qc26/PKhV6DyFKTJPXqMyc/wd3fDZ+VgaHBQwiYOrTx/nuhwB88cTwHy1c6vfcq5qYjsCGjWWrHmQ8BC096C90gRuVFT8Q0MPycQN2ZlhhmYIYCrdpbKHaP/v47D6dLObk2Viu5c7gBL/8TfvYRs5/lgFAUWEYa80bwJ9HN12HEWHxT6dEGDtaiEPOMiw7HJEfOV58YMSh2g18yDU8pIoxP64TyJLF5ypZxnb0PH5mqoRr8pmU+a1LId+3RUCnWc3urg=;tVolNCOzfOQUSw4b5jhYFg=="
+secured: "gF1u31t/N4gQJTVcEilJh4a/GZ7z8ZyAzK1pySgcYPD530xxgRUy0fBTHBQKZmaGOCo03aNgarCSSY9a76lYj2JapxaaouNVcWnIZD9e+gm/tTvpkewPKeGUKG0nPUg8RH49EzuvD87cHzY+gopMVugqjEtuwqTxZz1myW1XCRtZ5Hox62jto02MquBmi4OctN3zOM1y7RcgU5NiE69YxnKpu2H/YswaL4D7+NePCeBJjrfFrFIJk7JGFqaZPp51w4ZqjXtHZf0RVWOMXdAbXCNeaPhl2N1VAbCcZ3IHXV4EoOCkpWc1HTarL8ILEJJek6lZ9lXaHYnO+BfDIPF+EygapQpCX8CrtOzE2QPkjEINTZvWI47iIxogHZwcSoyW/Te0VVKieviKmJ4MtZulumN/c8NHLxPxH9uiTNi/IBs=;JgWG3eCezCzvPaT8n3WAyQ=="
 ---
 

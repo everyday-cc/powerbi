@@ -314,9 +314,9 @@
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2024-02-29-updates-and-enhancements-for-reference-labels/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/updates-and-enhancements-for-reference-labels/",
       "originalUrl": "https://powerbi.microsoft.com/en-us/blog/updates-and-enhancements-for-reference-labels/",
-      "featuredContent": null,
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HmU8BNfyyuM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "highlight": null,
-      "heat": 72,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -355,7 +355,8 @@
         "news"
       ],
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power BI Desktop"
       ]
     },
     {
