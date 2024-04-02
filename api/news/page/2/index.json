@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-06-power-bi-update-february-2024.md",
+      "title": "Power BI Update - February 2024",
+      "excerpt": "Follow us on Twitter - https://twitter.com/mspowerbi\r \r More questions? Try asking the Power BI Community @ https://community.powerbi.com/  #microsoft #powerbi",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2024-02-06-power-bi-update-february-2024/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2024-02-06-power-bi-update-february-2024/",
+      "originalUrl": "https://youtube.com/watch?v=OsVmmTBzWqQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OsVmmTBzWqQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OsVmmTBzWqQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T21:11:49Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-vnet-data-gateway-for-fabric-and-power-bi-is-now-generally-available.md",
       "title": "VNet Data Gateway for Fabric and Power BI is now Generally Available",
       "excerpt": "We are excited to announce that the VNet Data Gateway is now GA! Read the blog to find out more and get started using the VNet Data Gateway to secure your production workloads.",
@@ -1223,57 +1275,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-datasets-renamed-to-semantic-models.md",
-      "title": "Datasets renamed to semantic models",
-      "excerpt": "Datasets are being renamed to semantic models in Power BI and Fabric. This will make the product clearer and more usable and reflects the immense progress that Power BI datasets have made in becoming an enterprise-grade semantic modeling technology. The semantic model name will help drive awareness of",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-11-10-datasets-renamed-to-semantic-models/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/datasets-renamed-to-semantic-models/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/datasets-renamed-to-semantic-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T12:32:50Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],
