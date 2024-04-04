@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "What the HECK is a Power BI Gateway Cluster?"
 
-secured: "4Zq5Qzf/7bJ7MCaCCSWB37pIqogXLHmUHdVMhyrjE+a7BXsZEyJrUAnT23sk1HUqTQD1OSi7msRTjyr4GfYphErAhfOaxS61gDXI/OsrMs2FnFoMDdrZIgixGiHNm/GwaVIThYZRCs0P+hK+w4qHiuoASzLAsRg2/fd8dTngxjlu3x1iuncPP+H1CMnAvMD16H/EiJPGqIjfnkC1blQliNg+osGputZ/mZOE5Nv5tmtbaJ/blzMyxNFcuvlpclITGZTp/MOhledQP3Irftic7bc3OcNezTOZCEKdf6IrGV8GFNnOXTxPflKKIXdGIYYtFeEVFHA7TAt4r2BVKtcEu2ePVPgK1W1Nka4m3VcC6bq9BJMAORueeq20I/IWBBscI2WQgLG11qAva65iaIWHPQB+2K5+OVC+hPLUwhIXVBA=;sZW199IBBl/yxOV1jJu0HA=="
+secured: "jSzmBKllQbJD9wUFuZClW6kTcC4WDiPR4GDhbYdaJUpIT7VKuNiJoscyHU3md+lwGS1XXWlqmTOLj+5EXRr5gXS4AqpSlXmNF+5v/jEx7f+H6bNtR+n/9Mk5uNhjOE5kudMtm1IO+VRzvgVF6YjHbGPQ/anRzpZObcn90uWgpHS6rPXcKq5pWuf78j+3unwjo7/NH5v575TGHAfe4B8yjyJdbBtEjj5kI9ioUBQw3fCKgJFnVj+tTsg3kuFhf02ubnUIzUDLgnQH1LqoF/JHbtlYWQWyT1UTDzbKjwuorz1RZdyzhTFuf47k8jTlIAVdmw/LwgjVeRF2tMKLRRgjGkC4n2DrE+wBjwAtXsceZ+uxCWtxJpS+ZTzx049uKWwKazFu/bN+xS1yOdcOxZ9QSP8oqaZZn81e5+PJE/3LmC4=;Np6CelvvT1zy6Afm4IDnAg=="
 ---
 
