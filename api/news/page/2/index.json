@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-13-improvements-for-creating-new-direct-lake-semantic-models.md",
+      "title": "Improvements for creating new Direct Lake semantic models",
+      "excerpt": "As part of our continued tooling improvements, we have enhanced the experience for creating Direct Lake semantic models in Microsoft Fabric. This applies to semantic models created by clicking the New semantic model button from the Lakehouse.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2024-02-13-improvements-for-creating-new-direct-lake-semantic-models/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/improvements-for-creating-new-direct-lake-semantic-models/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/improvements-for-creating-new-direct-lake-semantic-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2024/02/New-semantic-model-from-Lakehouse-improvements.png",
+          "width": 618,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T11:06:47Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-power-bi-monthly-update-february-2024.md",
       "title": "Power BI Monthly Update - February 2024",
       "excerpt": "Follow us on Twitter - https://twitter.com/mspowerbi\r \r More questions? Try asking the Power BI Community @ https://community.powerbi.com/",
@@ -1222,58 +1273,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-deep-dive-into-dax-query-view-and-writing-dax-queries.md",
-      "title": "Deep dive into DAX query view and writing DAX queries",
-      "excerpt": "In November 2023 release we added a new fourth view in public preview to Power BI Desktop, the DAX query view! The DAX query view gives you the ability to write, edit, and see the results of Data Analysis Expressions or DAX queries on your semantic model. Finally, you can now take advantage of the existing",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-11-30-deep-dive-into-dax-query-view-and-writing-dax-queries/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/deep-dive-into-dax-query-view-and-writing-dax-queries/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/deep-dive-into-dax-query-view-and-writing-dax-queries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-30T16:01:33Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
         "DAX"
       ]
     }

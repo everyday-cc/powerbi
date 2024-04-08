@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-04-08-introducing-copilot-pane-in-power-bi-desktop-preview.md",
+      "title": "Introducing Copilot Pane in Power BI Desktop (preview)",
+      "excerpt": "Earlier this year, we announced Copilot preview for all customers with Premium/Fabric capacity in Power BI web. We&#8217;re thrilled to share that the same Copilot experience for report creation is now available for preview in Power BI Desktop.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2024-04-08-introducing-copilot-pane-in-power-bi-desktop-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/introducing-copilot-pane-in-power-bi-desktop-preview/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/introducing-copilot-pane-in-power-bi-desktop-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-04-08T12:45:09Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2024-04-08-supporting-continuous-slide-shows-in-power-bi-storytelling-add-in.md",
       "title": "Supporting continuous Slide Shows in Power BI Storytelling add-in",
       "excerpt": "PowerPoint lets you play a presentation continuously. This is handy when you want to show information on public screens without anyone having to control it. In this update, we added a new configuration to Storytelling add-in that ensures that you get the latest data from Power BI when running in a continuous",
@@ -1208,57 +1260,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2024-02-19T08:00:13Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-improvements-for-creating-new-direct-lake-semantic-models.md",
-      "title": "Improvements for creating new Direct Lake semantic models",
-      "excerpt": "As part of our continued tooling improvements, we have enhanced the experience for creating Direct Lake semantic models in Microsoft Fabric. This applies to semantic models created by clicking the New semantic model button from the Lakehouse.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2024-02-13-improvements-for-creating-new-direct-lake-semantic-models/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/improvements-for-creating-new-direct-lake-semantic-models/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/improvements-for-creating-new-direct-lake-semantic-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2024/02/New-semantic-model-from-Lakehouse-improvements.png",
-          "width": 618,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T11:06:47Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
