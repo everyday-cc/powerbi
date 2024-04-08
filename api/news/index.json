@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-04-08-supporting-continuous-slide-shows-in-power-bi-storytelling-add-in.md",
+      "title": "Supporting continuous Slide Shows in Power BI Storytelling add-in",
+      "excerpt": "PowerPoint lets you play a presentation continuously. This is handy when you want to show information on public screens without anyone having to control it. In this update, we added a new configuration to Storytelling add-in that ensures that you get the latest data from Power BI when running in a continuous",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2024-04-08-supporting-continuous-slide-shows-in-power-bi-storytelling-add-in/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/supporting-continuous-slide-shows-in-power-bi-storytelling-add-in/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/supporting-continuous-slide-shows-in-power-bi-storytelling-add-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-04-08T00:21:01Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2024-04-02-deep-dive-into-dax-query-view-with-copilot.md",
       "title": "Deep dive into DAX query view with Copilot",
       "excerpt": "Boost your productivity in DAX query view with Copilot to write and explain DAX queries. ",
@@ -1231,58 +1282,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-power-bi-monthly-update-february-2024.md",
-      "title": "Power BI Monthly Update - February 2024",
-      "excerpt": "Follow us on Twitter - https://twitter.com/mspowerbi\r \r More questions? Try asking the Power BI Community @ https://community.powerbi.com/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2024-02-12-power-bi-monthly-update-february-2024/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2024-02-12-power-bi-monthly-update-february-2024/",
-      "originalUrl": "https://youtube.com/watch?v=obL3kbbjkpA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/obL3kbbjkpA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/obL3kbbjkpA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T18:25:47Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],
