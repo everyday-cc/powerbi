@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports in a Day - 11: Working with Parameters - Part 1"
 
-secured: "GSybTXwYlmJgn2/xmrtzbDKu5J/COH7o3Ux4DytzbclmqqZiIeRY5IzuNL//DpebZI+AiJ5TBN5+Qbu56GPCbAHme0TZY9pDkalWC/32BYYcHisOkuwroZ0ZstY8AZtA0DSy2lF+AGkur4f/aDUyjU7Fee7Ae6eaZg8RaaLAaII3AsgSzSwsTW5ej2dwW5eTETQZPQaPVW1f5Fcl73E2ME3+A/F7k0FRucP4r6B3vsSDDQRum2ktvC7fte1w8NASa+mXjX/gmAo28kCC9vB+I6hhCHLC4F+ldEv9r1k2qeSDM2JgJiOP44QRY38m3MZ2KpCIFjn1IBJ7uRNecF3Iue42YqGOtC8Sj6ClxZh+ZuqYjq/Rde93f+Y+lOTAwZdWg1U0n5gczqiN/IsWwbBxMjW+wudY/bJYj7WvdLsKBm4=;WlKk9CLDWe2dpIb5kw++Zg=="
+secured: "Lt8OiXcg1L33AOKDkFhkJpTT6mTzVEJJegfCYsjk7/1qGEWsDaAK3xax8rTldXz03p30p+lX/c0GKIwJbU/Q7TLCbSyRlNRd8m/3JeywZpirjrkgfGhzdI8ld4p2ECnzlXWn1Nn4TZROuT+zVN82BBwsHlN8zeUvTvntfWR5pkd2luM4szIjwy+yEifW5nQtxrVNNXfkY3XKNGrjHLhB91lNXEe0zBa+Mfgz0z9JEpEONIvIwt173oZ+YR4Hhe5uXlJ3ou0l7OvdEip2Fg73rzqH9xLlX/Nw76fljaMsKWZVs1OaqyrADiMpNe60K5bn22jHAPRGQe6/5J6qIuQBbkhUjP5eaHA9frwcVL1VkmS9pl7O0fhAIgqyZc7MYd9pWQ0CovVb3MV2M16Sz+h4qb4DCrXE3LG2V4LOrQMhqgg=;kAHXckjOr3D5U/ueCNuyxQ=="
 ---
 
