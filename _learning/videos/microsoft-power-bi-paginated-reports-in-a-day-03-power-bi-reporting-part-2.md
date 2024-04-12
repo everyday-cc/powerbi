@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports in a Day - 03: Power BI Reporting - Part 2"
 
-secured: "SECNLFmY9QhbxM3ZrEx50jBSNGhP+4/nP0mFF+Dijpp39+xkMmmI2/LjtmqgHFG2yaWKTr085uGlkugxB74F8eKffVZzDf+JQ3qr8Rjyvly5T3VoXGpetdysFBAGKUpfTQwgrZBPgR/Jen0G6G1D9cEJnGqX9sO6dLSjaHLVpgx/+l+FWnC/GT9kNjbvIk9flfbhw5y31GA9PmNU4LuhAyy61sIwVFdKO1asJl2EAJwL3VW3ONhj6B5VJk8mXGICg3ytJWP+zpqFQoJsUyh+EjVmYZdgqL9nbJjQZ6kvIT7gsunsVbFzmjlPy1kLx/KO8+WBMUgRw/apv/VTNv0gnx3q2lSPJvwkRA2b+/fyU0And5tKQ1V6/ABw1pPmdVkdPxJRq9I1EQ+6FO+G6tbwC4h549WuecMiaPGuPcRSO7Y=;WgcYP6U4q/jZv7t/YLHMHQ=="
+secured: "mcUw2XxmCWfXdr3Z2VQ4XeW5tZnFj5nCQQ7aCdSjGxV3f6zVneCK8yEJMIZjvA3hkvzWfL3tz33wNJD1W4I42nm1b/BqGUNgOQGezcz/sqUgHAlJGlXni5TXXiNxFi8M4Q7Oq61h2BeUNKjqiHmuFdwUQUXZFypXYcm2S1dsvkNKl+YtTarLHhULi74GaeqYNBWn/5JspAnuUkUvUJ9CAE6EfDJRZDRacCTIvCaf8dxqnfqjdTRLWUgw/6r0ie4VjpMTYcYPWdqhjoY9uxdkukWNLkxwNgUQ531FhejRNIM/zb29AOYAl40ZwEimmthntLcQo+NPgXShuTweW89kWsuehHJpJOYWy7CwZgw/DxcdZzP+V9xrVZ3WGJsujia/CR6oBQH92UFchFnWKSnss4QbRtOEhjwf8G0NC0yKmjFMOPcVV5j1Tv+M2gnWFYk3;Skb2qPQSYvVX7p5BOlhDNQ=="
 ---
 
