@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "The How and Why of Power BI Aggregations"
 
-secured: "iFtQLxzI3WS9ZamYkVmAMhiDejttMUPRQ/CktEhZ/nwZGCU3YCo6+vR4yrEyKeZVp7Ln8+QySV1G2z2Yu9ORHDz5wC8QcmVwMqoWfQE9/HyvHgk52Su4yj6Z3Tcc9CB6NtIdDGSDmAfxUpzDJ9j3IT76WbOBGxAQTCY4sN/Wz+qAWErkeSszo5o3a20JosmiTDO+/hdQHRzdhAvFbJYSyXYnh9z5OixmCalv7Mke09KiK/WMT+q6ylQiKJM1oR7uvRmXqKJF0Q6+bHAvqjJNzWZEEvlTyR8UM/T4A2L/AuC2qo/XOmpIpJHrkfrVgWHfiM4EAEGNy88gn6NnsFTlICFr/3Qa6bte403o9JNqnSF5ZOYuUwxrYreq/8/A2LUMsrNn+rRke2ijsPS0XFhOenv37CoQjCjvyelPrPkb6xE=;l0PXtBYen8JNezGmDN/3Yw=="
+secured: "n+5fGmeCcz0AfnHa8LrrChRHvr8Hn/UF0iwe6RX0ndcBvjT3tVFxXUwEG8pDwQ9TMg6WK7c0Q5psBgq0zbxHm/ST8BC4BHCVVCIErhLIt9MCRORi+4M/f/UnwcXS07jiF/ERvJVvt4cD+w+n4sDkbvqxJgSDokGTkl6splopvbuP5llxy87UMMBRjNBSgHZ92CrFe4P93yEAgF+XoK73dl4AgpFN2qniJo97JVE5OIW90ChYvOfIWMYI8nb937r5Jijr++kXt3SVoaCa8uZHJIwLim35miVU7maYRxE4zl3b4wIFH/FT2joV3Valsof+atmS7sJAr4Ro0iUa2G+FF+r1PvC/1LbzbRjvHh+aA6RO36Y53RT5QknOUtfu8+gKBzF3hTgHl5StHfKuC7/mVjzda03JXe6glzaBvb/Tjzo=;bL4SUmEjsTCDJxWLT79ODQ=="
 ---
 
